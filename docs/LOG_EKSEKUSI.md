@@ -95,3 +95,10 @@ File diubah: `lib/features/kaiwa/presentation/screens/kaiwa_screen.dart`, `docs/
 flutter analyze: 0 error, 0 warning (4 info)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T16 — Tata Bahasa & Kata Referensi — 2026-11-15 14:24
+Status: SELESAI
+File diubah: `lib/features/bunpou/presentation/screens/bunpou_screen.dart`, `lib/features/kosakata/presentation/screens/sankou_screen.dart`, `docs/LOG_EKSEKUSI.md`
+flutter analyze: 0 error, 0 warning
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
