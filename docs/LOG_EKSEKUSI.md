@@ -123,3 +123,10 @@ File diubah: `lib/features/renshuu/presentation/screens/renshuu_c_screen.dart`, 
 flutter analyze: 0 error, 0 warning
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T20 — Mondai — 2026-11-15 14:28
+Status: SELESAI
+File diubah: `lib/features/mondai/presentation/screens/mondai_screen.dart`, `docs/LOG_EKSEKUSI.md`
+flutter analyze: 0 error, 0 warning (6 info)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: Siap untuk **Titik cek 2** (Bab 1 dari Kosa Kata sampai Mondai; catatan: Onboarding masih stub sampai T32, jadi `onboardingDone` di `user_data.json` atau tombol lewati baru ada di T32 — untuk menguji Beranda langsung bisa pakai `flutter run` atau cek setelah T32).
