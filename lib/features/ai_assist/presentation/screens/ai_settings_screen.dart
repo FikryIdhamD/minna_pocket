@@ -94,6 +94,12 @@ class _AiSettingsScreenState extends ConsumerState<AiSettingsScreen> {
           SnackBar(content: Text(e.message)),
         );
       }
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Gagal menguji koneksi: $e')),
+        );
+      }
     } finally {
       if (mounted) setState(() => _testing = false);
     }

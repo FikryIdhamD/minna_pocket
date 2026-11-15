@@ -476,24 +476,40 @@ class _MondaishuuExerciseScreenState
       if (hadInput != nowHasInput || hadResult) setState(() {});
     }
 
+    Widget kanaField(double width) {
+      final focusColor = switch (state) {
+        FieldState.correct => p.success,
+        FieldState.wrong => p.danger,
+        FieldState.normal => p.inkMuted,
+      };
+      return Theme(
+        data: Theme.of(context).copyWith(
+          inputDecorationTheme: Theme.of(context).inputDecorationTheme.copyWith(
+                focusedBorder: OutlineInputBorder(
+                  borderRadius: Radii.smAll,
+                  borderSide: BorderSide(
+                    color: focusColor,
+                    width: state == FieldState.normal ? 1.5 : 1.8,
+                  ),
+                ),
+              ),
+        ),
+        child: KanaTextField(
+          key: ValueKey('ms_blank_$key'),
+          width: width,
+          initial: _input[key] ?? '',
+          state: state,
+          onChanged: onTextChanged,
+        ),
+      );
+    }
+
     switch (b.type) {
       case BlankType.text:
-        return KanaTextField(
-          key: ValueKey('ms_blank_$key'),
-          width: 110,
-          initial: _input[key] ?? '',
-          state: state,
-          onChanged: onTextChanged,
-        );
+        return kanaField(110);
       case BlankType.sentence:
       case BlankType.free:
-        return KanaTextField(
-          key: ValueKey('ms_blank_$key'),
-          width: 200,
-          initial: _input[key] ?? '',
-          state: state,
-          onChanged: onTextChanged,
-        );
+        return kanaField(200);
       case BlankType.choice:
         return Wrap(
           key: ValueKey('ms_blank_$key'),
