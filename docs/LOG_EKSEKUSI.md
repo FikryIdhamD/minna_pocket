@@ -32,3 +32,10 @@ File diubah: `.metadata`, `analysis_options.yaml`, `android/app/src/main/kotlin/
 flutter analyze: 67 issues (64 error `uri_does_not_exist`/`undefined_function` di `lib/routes/app_route.dart` karena stub layar baru dibuat di T04; 3 info di `user_data.dart` & `text_theme.dart`)
 flutter test: 11/11 lulus (`test/shared/models_test.dart`, `test/shared/utils_test.dart`)
 Catatan / pertanyaan untuk pemilik: Tidak ada perubahan di `lib/` (selain hapus `lib/main.dart`), `assets/`, `test/shared/`.
+
+## T03 — Konfigurasi Android — 2026-11-15 13:52
+Status: SELESAI
+File diubah: `android/app/build.gradle.kts`, `android/app/src/main/AndroidManifest.xml`, `android/app/src/book1/res/**` (12 file), `android/app/src/book2/res/**` (12 file), `docs/LOG_EKSEKUSI.md`
+flutter analyze: belum bersih (masih 64 error layar stub di `app_route.dart`, baru dibuat di T04)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: `flutter pub get` sukses (`Got dependencies!`).
