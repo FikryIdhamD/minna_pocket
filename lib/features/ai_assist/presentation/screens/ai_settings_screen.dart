@@ -16,7 +16,7 @@ class AiSettingsScreen extends ConsumerStatefulWidget {
 }
 
 class _AiSettingsScreenState extends ConsumerState<AiSettingsScreen> {
-  late AiProvider _provider;
+  static const AiProvider _provider = AiProvider.gemini;
   late final TextEditingController _modelCtl;
   final TextEditingController _keyCtl = TextEditingController();
   bool _obscure = true;
@@ -26,9 +26,8 @@ class _AiSettingsScreenState extends ConsumerState<AiSettingsScreen> {
   void initState() {
     super.initState();
     final s = ref.read(settingsProvider);
-    _provider = s.aiProvider;
     _modelCtl = TextEditingController(text: s.aiModel);
-    _loadKey(_provider);
+    _loadKey();
   }
 
   @override
@@ -38,9 +37,9 @@ class _AiSettingsScreenState extends ConsumerState<AiSettingsScreen> {
     super.dispose();
   }
 
-  Future<void> _loadKey(AiProvider p) async {
-    final k = await ref.read(aiKeyStoreProvider).read(p);
-    if (!mounted || _provider != p) return;
+  Future<void> _loadKey() async {
+    final k = await ref.read(aiKeyStoreProvider).read(_provider);
+    if (!mounted) return;
     _keyCtl.text = k ?? '';
   }
 
@@ -130,25 +129,7 @@ class _AiSettingsScreenState extends ConsumerState<AiSettingsScreen> {
             child: ListView(
               padding: const EdgeInsets.all(Sp.screen),
               children: [
-                Text('Penyedia', style: AppText.bodyStrong),
-                const SizedBox(height: Sp.x2),
-                SegmentedButton<AiProvider>(
-                  segments: const [
-                    ButtonSegment(
-                        value: AiProvider.anthropic, label: Text('Claude')),
-                    ButtonSegment(
-                        value: AiProvider.gemini, label: Text('Gemini')),
-                    ButtonSegment(
-                        value: AiProvider.openai, label: Text('OpenAI')),
-                  ],
-                  selected: {_provider},
-                  onSelectionChanged: (v) {
-                    setState(() => _provider = v.first);
-                    _loadKey(v.first);
-                  },
-                ),
-                const SizedBox(height: Sp.x4),
-                Text('Model', style: AppText.bodyStrong),
+                Text('Model (Gemini)', style: AppText.bodyStrong),
                 const SizedBox(height: Sp.x2),
                 TextField(
                   controller: _modelCtl,
