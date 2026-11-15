@@ -109,3 +109,17 @@ File diubah: `lib/features/renshuu/presentation/screens/renshuu_a_screen.dart`, 
 flutter analyze: 0 error, 0 warning
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T18 — Renshuu B — 2026-11-15 14:27
+Status: SELESAI
+File diubah: `lib/features/renshuu/presentation/screens/renshuu_b_screen.dart`, `docs/LOG_EKSEKUSI.md`
+flutter analyze: 0 error, 0 warning
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
+
+## T19 — Renshuu C — 2026-11-15 14:27
+Status: SELESAI
+File diubah: `lib/features/renshuu/presentation/screens/renshuu_c_screen.dart`, `docs/LOG_EKSEKUSI.md`
+flutter analyze: 0 error, 0 warning
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
