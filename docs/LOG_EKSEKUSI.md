@@ -256,3 +256,10 @@ File diubah: -
 flutter analyze: 0 error, 0 warning (8 info)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: android/key.properties belum tersedia. Sesuai docs/02_Rencana_Eksekusi.md (T41 #1) dan AGENTS.md §5, keystore rilis dibuat oleh pemilik terlebih dahulu (docs/08 §3) sebelum build APK rilis dan tag v1.0.0 agar APK tidak ditandatangani dengan debug key.
+
+## T40 (lanjutan) — Perbaikan error kompilasi build release — 2026-11-15 17:58
+Status: SELESAI
+File diubah: lib/features/hafalan/presentation/screens/hafalan_hub_screen.dart, lib/features/hafalan/presentation/screens/quiz_screen.dart, README.md
+flutter analyze: 0 error, 0 warning (8 info)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: Menghapus argumen `loading:` duplikat di hafalan_hub_screen.dart dan memperbaiki `S.retryWrong` menjadi `S.repeatWrong` di quiz_screen.dart. README.md diperbarui. Berhenti di T41 menunggu pemilik menyiapkan keystore/build rilis.

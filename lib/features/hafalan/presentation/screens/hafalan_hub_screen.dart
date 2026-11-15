@@ -92,8 +92,7 @@ class HafalanHubScreen extends ConsumerWidget {
                         children: [
                           for (var i = 0; i < lessons.length; i++) ...[
                             if (i > 0)
-                              Divider(
-                                  height: 1, thickness: 1, color: p.border),
+                              Divider(height: 1, thickness: 1, color: p.border),
                             _kanjiRow(
                               context,
                               lessons[i],

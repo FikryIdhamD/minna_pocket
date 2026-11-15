@@ -256,7 +256,7 @@ class _QuizScreenState extends ConsumerState<QuizScreen> {
           const SizedBox(height: Sp.x2),
           OutlinedButton(
             onPressed: _retryWrong,
-            child: const Text('Ulangi yang salah'),
+            child: const Text(S.repeatWrong),
           ),
         ],
         const SizedBox(height: Sp.x2),
