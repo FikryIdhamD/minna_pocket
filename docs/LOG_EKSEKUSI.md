@@ -74,3 +74,10 @@ File diubah: `lib/features/lesson/presentation/screens/number_picker_screen.dart
 flutter analyze: 0 error, 0 warning (3 info bawaan)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: Sekaligus perbaikan `MondaishuuMeta` di `lesson_screen.dart`.
+
+## T13 — Kosa Kata — 2026-11-15 14:21
+Status: SELESAI
+File diubah: `lib/features/kosakata/presentation/screens/kosakata_screen.dart`, `docs/LOG_EKSEKUSI.md`
+flutter analyze: 0 error, 0 warning (3 info bawaan)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
