@@ -151,3 +151,17 @@ File diubah: `lib/features/mondaishuu/presentation/screens/mondaishuu_set_screen
 flutter analyze: 0 error, 0 warning
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T23 — Latihan Mondaishuu — 2026-11-15 15:09
+Status: SELESAI
+File diubah: lib/features/mondaishuu/presentation/screens/mondaishuu_exercise_screen.dart
+flutter analyze: 0 error, 0 warning (6 info)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
+
+## T24 — Ringkasan Mondaishuu — 2026-11-15 15:09
+Status: SELESAI
+File diubah: lib/features/mondaishuu/presentation/screens/mondaishuu_result_screen.dart
+flutter analyze: 0 error, 0 warning (6 info)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
