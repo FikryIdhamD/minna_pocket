@@ -60,3 +60,10 @@ File diubah: `lib/features/home/presentation/screens/home_screen.dart`, `docs/LO
 flutter analyze: 0 error, 0 warning (3 info bawaan)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T11 — Bab (daftar bagian) — 2026-11-15 14:19
+Status: SELESAI
+File diubah: `lib/features/lesson/presentation/screens/lesson_screen.dart`, `docs/LOG_EKSEKUSI.md`
+flutter analyze: 0 error, 0 warning (3 info bawaan)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
