@@ -137,3 +137,17 @@ File diubah: `lib/features/onboarding/presentation/screens/onboarding_screen.dar
 flutter analyze: 0 error, 0 warning (6 info)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: Dikerjakan lebih awal atas permintaan pemilik agar bisa masuk Beranda untuk menguji Titik cek 2.
+
+## T21 — Tab Latihan — 2026-11-15 15:08
+Status: SELESAI
+File diubah: `lib/features/practice_mix/presentation/screens/practice_hub_screen.dart`, `docs/LOG_EKSEKUSI.md`
+flutter analyze: 0 error, 0 warning
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
+
+## T22 — Set Mondaishuu — 2026-11-15 15:08
+Status: SELESAI
+File diubah: `lib/features/mondaishuu/presentation/screens/mondaishuu_set_screen.dart`, `docs/LOG_EKSEKUSI.md`
+flutter analyze: 0 error, 0 warning
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
