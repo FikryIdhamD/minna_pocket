@@ -179,3 +179,10 @@ File diubah: lib/features/hafalan/presentation/widgets/kana_grid.dart, lib/featu
 flutter analyze: 0 error, 0 warning (6 info)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T27 — Kartu, Kuis, Ulasan — 2026-11-15 15:45
+Status: SELESAI
+File diubah: lib/features/hafalan/presentation/screens/flashcard_screen.dart, lib/features/hafalan/presentation/screens/quiz_screen.dart, lib/features/hafalan/presentation/screens/review_screen.dart
+flutter analyze: 0 error, 0 warning (6 info)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
