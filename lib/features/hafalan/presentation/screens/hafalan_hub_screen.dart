@@ -68,7 +68,10 @@ class HafalanHubScreen extends ConsumerWidget {
                 ),
                 const SizedBox(height: Sp.x2),
                 kanjiAsync.when(
-                  loading: () => const SkeletonList(),
+                  loading: () => const SizedBox(
+                    height: 240,
+                    child: SkeletonList(),
+                  ),
                   error: (e, _) => ErrorView(
                     message: S.loadError,
                     onRetry: () => ref.invalidate(kanjiIndexProvider),
