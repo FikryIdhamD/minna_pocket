@@ -132,10 +132,10 @@ class HomeScreen extends ConsumerWidget {
                           padding: const EdgeInsets.symmetric(
                               horizontal: Sp.x4, vertical: Sp.x3),
                           child: Row(children: [
-                            _BookTile(text: 'あ', primary: true),
+                            _BookTile(text: '本', primary: false),
                             const SizedBox(width: Sp.x3),
                             Expanded(
-                              child: Text('はじめに · Huruf & pelafalan',
+                              child: Text('はじめに · Panduan',
                                   style: AppText.bodyStrong),
                             ),
                             AppIcon(AppIcons.chevronRight, color: p.inkSubtle),
@@ -143,6 +143,8 @@ class HomeScreen extends ConsumerWidget {
                         ),
                       ),
                     ),
+                    const SizedBox(height: Sp.x2),
+                    const _KanaExpandableCard(),
                     const SizedBox(height: Sp.x6),
                     Row(children: [
                       Text('Bab', style: AppText.headline),
@@ -357,6 +359,75 @@ class _CardBox extends StatelessWidget {
       ),
       clipBehavior: Clip.antiAlias,
       child: child,
+    );
+  }
+}
+
+class _KanaExpandableCard extends StatefulWidget {
+  const _KanaExpandableCard();
+
+  @override
+  State<_KanaExpandableCard> createState() => _KanaExpandableCardState();
+}
+
+class _KanaExpandableCardState extends State<_KanaExpandableCard> {
+  bool _open = false;
+
+  @override
+  Widget build(BuildContext context) {
+    final p = context.palette;
+    return _CardBox(
+      child: Column(
+        children: [
+          InkWell(
+            onTap: () => setState(() => _open = !_open),
+            child: Padding(
+              padding: const EdgeInsets.symmetric(
+                  horizontal: Sp.x4, vertical: Sp.x3),
+              child: Row(children: [
+                const _BookTile(text: 'あ', primary: true),
+                const SizedBox(width: Sp.x3),
+                Expanded(
+                  child: Text('はじめに · Huruf & pelafalan',
+                      style: AppText.bodyStrong),
+                ),
+                AppIcon(
+                  _open ? AppIcons.chevronDown : AppIcons.chevronRight,
+                  color: p.inkSubtle,
+                ),
+              ]),
+            ),
+          ),
+          if (_open) ...[
+            Divider(height: 1, thickness: 1, color: p.border),
+            _subRow(context, 'あ', 'Hiragana', '/kana/hira', p),
+            Divider(height: 1, thickness: 1, color: p.border),
+            _subRow(context, 'ア', 'Katakana', '/kana/kata', p),
+          ],
+        ],
+      ),
+    );
+  }
+
+  Widget _subRow(BuildContext context, String glyph, String label, String route,
+      AppPalette p) {
+    return InkWell(
+      onTap: () => context.push(route),
+      child: Padding(
+        padding: const EdgeInsets.symmetric(horizontal: Sp.x4, vertical: Sp.x3),
+        child: Row(children: [
+          const SizedBox(width: Sp.x2),
+          SizedBox(
+            width: 32,
+            child: Text(glyph,
+                textAlign: TextAlign.center,
+                style: AppText.brushTile.copyWith(color: p.primary)),
+          ),
+          const SizedBox(width: Sp.x3),
+          Expanded(child: Text(label, style: AppText.body)),
+          AppIcon(AppIcons.chevronRight, color: p.inkSubtle),
+        ]),
+      ),
     );
   }
 }
