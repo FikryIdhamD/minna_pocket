@@ -28,171 +28,180 @@ class LessonScreen extends ConsumerWidget {
     final done = ref.watch(userDataProvider.select((u) => u.done));
     final lp = ref.watch(lessonProgressProvider(lesson));
 
-    return Scaffold(
-      appBar: AppBar(
-        leading: IconButton(
-          tooltip: 'Kembali',
-          onPressed: () => context.canPop() ? context.pop() : context.go('/'),
-          icon: AppIcon(AppIcons.arrowLeft, color: p.ink),
-        ),
-        actions: [
-          IconButton(
-            tooltip: 'Cari',
-            onPressed: () => context.push('/search'),
-            icon: AppIcon(AppIcons.search, color: p.ink),
+    return PopScope(
+      canPop: context.canPop(),
+      onPopInvokedWithResult: (didPop, _) {
+        if (!didPop) context.go('/');
+      },
+      child: Scaffold(
+        appBar: AppBar(
+          leading: IconButton(
+            tooltip: 'Kembali',
+            onPressed: () => context.canPop() ? context.pop() : context.go('/'),
+            icon: AppIcon(AppIcons.arrowLeft, color: p.ink),
           ),
-          const SizedBox(width: Sp.x1),
-        ],
-      ),
-      body: SafeArea(
-        top: false,
-        child: AsyncView<BookManifest>(
-          value: manifestAsync,
-          onRetry: () => ref.invalidate(manifestProvider),
-          data: (manifest) {
-            final meta = manifest.lesson(lesson);
-            if (meta == null) return const ErrorView(message: S.loadError);
-            final msSet = _mondaishuuForLesson(manifest.mondaishuu, lesson);
-            final sectionsDone = lp?.sectionsDone ?? 0;
-            final sectionsTotal = lp?.sectionsTotal ?? meta.sections.length;
+          actions: [
+            IconButton(
+              tooltip: 'Cari',
+              onPressed: () => context.push('/search'),
+              icon: AppIcon(AppIcons.search, color: p.ink),
+            ),
+            const SizedBox(width: Sp.x1),
+          ],
+        ),
+        body: SafeArea(
+          top: false,
+          child: AsyncView<BookManifest>(
+            value: manifestAsync,
+            onRetry: () => ref.invalidate(manifestProvider),
+            data: (manifest) {
+              final meta = manifest.lesson(lesson);
+              if (meta == null) return const ErrorView(message: S.loadError);
+              final msSet = _mondaishuuForLesson(manifest.mondaishuu, lesson);
+              final sectionsDone = lp?.sectionsDone ?? 0;
+              final sectionsTotal = lp?.sectionsTotal ?? meta.sections.length;
 
-            return Center(
-              child: ConstrainedBox(
-                constraints:
-                    const BoxConstraints(maxWidth: Sizes.maxContentWidth),
-                child: ListView(
-                  padding: const EdgeInsets.only(bottom: Sp.x8),
-                  children: [
-                    Padding(
-                      padding: const EdgeInsets.symmetric(
-                          horizontal: Sp.x5, vertical: Sp.x2),
-                      child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.stretch,
-                          children: [
-                            Row(
-                                crossAxisAlignment: CrossAxisAlignment.center,
-                                children: [
-                                  Text(
-                                    '第$lesson課',
-                                    style: AppText.brushHero
-                                        .copyWith(color: p.primary),
-                                  ),
-                                  const SizedBox(width: Sp.x4),
-                                  Expanded(
-                                    child: Column(
-                                        crossAxisAlignment:
-                                            CrossAxisAlignment.start,
-                                        children: [
-                                          JpTextView(meta.titleJp,
-                                              size: JpSize.title),
-                                          const SizedBox(height: 2),
-                                          Text(meta.titleTr,
-                                              style: AppText.bodySm.copyWith(
-                                                  color: p.secondary)),
-                                        ]),
-                                  ),
-                                ]),
-                            const SizedBox(height: Sp.x4),
-                            Row(children: [
-                              Expanded(
-                                child: ClipRRect(
-                                  borderRadius: Radii.fullAll,
-                                  child: LinearProgressIndicator(
-                                    value: lp?.fraction ?? 0,
-                                    minHeight: 6,
-                                    color: p.primary,
-                                    backgroundColor: p.surfaceAlt,
+              return Center(
+                child: ConstrainedBox(
+                  constraints:
+                      const BoxConstraints(maxWidth: Sizes.maxContentWidth),
+                  child: ListView(
+                    padding: const EdgeInsets.only(bottom: Sp.x8),
+                    children: [
+                      Padding(
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: Sp.x5, vertical: Sp.x2),
+                        child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.stretch,
+                            children: [
+                              Row(
+                                  crossAxisAlignment: CrossAxisAlignment.center,
+                                  children: [
+                                    Text(
+                                      '第$lesson課',
+                                      style: AppText.brushHero
+                                          .copyWith(color: p.primary),
+                                    ),
+                                    const SizedBox(width: Sp.x4),
+                                    Expanded(
+                                      child: Column(
+                                          crossAxisAlignment:
+                                              CrossAxisAlignment.start,
+                                          children: [
+                                            JpTextView(meta.titleJp,
+                                                size: JpSize.title),
+                                            const SizedBox(height: 2),
+                                            Text(meta.titleTr,
+                                                style: AppText.bodySm.copyWith(
+                                                    color: p.secondary)),
+                                          ]),
+                                    ),
+                                  ]),
+                              const SizedBox(height: Sp.x4),
+                              Row(children: [
+                                Expanded(
+                                  child: ClipRRect(
+                                    borderRadius: Radii.fullAll,
+                                    child: LinearProgressIndicator(
+                                      value: lp?.fraction ?? 0,
+                                      minHeight: 6,
+                                      color: p.primary,
+                                      backgroundColor: p.surfaceAlt,
+                                    ),
                                   ),
                                 ),
-                              ),
-                              const SizedBox(width: Sp.x3),
-                              Text(
-                                '$sectionsDone / $sectionsTotal selesai',
-                                style:
-                                    AppText.caption.copyWith(color: p.inkMuted),
-                              ),
+                                const SizedBox(width: Sp.x3),
+                                Text(
+                                  '$sectionsDone / $sectionsTotal selesai',
+                                  style: AppText.caption
+                                      .copyWith(color: p.inkMuted),
+                                ),
+                              ]),
                             ]),
-                          ]),
-                    ),
-                    for (final group in kSectionGroups.entries) ...[
-                      if (_sectionsInGroup(meta, group.value).isNotEmpty) ...[
-                        Padding(
-                          padding: const EdgeInsets.fromLTRB(
-                              Sp.screen, Sp.x6, Sp.screen, Sp.x2),
-                          child: Text(
-                            (S.groupNames[group.key] ?? group.key)
-                                .toUpperCase(),
-                            style: AppText.overline.copyWith(color: p.inkMuted),
+                      ),
+                      for (final group in kSectionGroups.entries) ...[
+                        if (_sectionsInGroup(meta, group.value).isNotEmpty) ...[
+                          Padding(
+                            padding: const EdgeInsets.fromLTRB(
+                                Sp.screen, Sp.x6, Sp.screen, Sp.x2),
+                            child: Text(
+                              (S.groupNames[group.key] ?? group.key)
+                                  .toUpperCase(),
+                              style:
+                                  AppText.overline.copyWith(color: p.inkMuted),
+                            ),
                           ),
-                        ),
+                          Padding(
+                            padding: const EdgeInsets.symmetric(
+                                horizontal: Sp.screen),
+                            child: Container(
+                              decoration: BoxDecoration(
+                                color: p.surface,
+                                borderRadius: Radii.lgAll,
+                                border: Border.all(color: p.border),
+                              ),
+                              clipBehavior: Clip.antiAlias,
+                              child: Column(children: [
+                                for (var i = 0;
+                                    i <
+                                        _sectionsInGroup(meta, group.value)
+                                            .length;
+                                    i++) ...[
+                                  if (i > 0)
+                                    Divider(
+                                        height: 1,
+                                        thickness: 1,
+                                        color: p.border),
+                                  _SectionRow(
+                                    lessonMeta: meta,
+                                    section:
+                                        _sectionsInGroup(meta, group.value)[i],
+                                    done: done,
+                                  ),
+                                ],
+                              ]),
+                            ),
+                          ),
+                        ],
+                      ],
+                      if (msSet != null) ...[
+                        const SizedBox(height: Sp.x6),
                         Padding(
                           padding:
                               const EdgeInsets.symmetric(horizontal: Sp.screen),
-                          child: Container(
-                            decoration: BoxDecoration(
-                              color: p.surface,
-                              borderRadius: Radii.lgAll,
-                              border: Border.all(color: p.border),
-                            ),
-                            clipBehavior: Clip.antiAlias,
-                            child: Column(children: [
-                              for (var i = 0;
-                                  i <
-                                      _sectionsInGroup(meta, group.value)
-                                          .length;
-                                  i++) ...[
-                                if (i > 0)
-                                  Divider(
-                                      height: 1, thickness: 1, color: p.border),
-                                _SectionRow(
-                                  lessonMeta: meta,
-                                  section:
-                                      _sectionsInGroup(meta, group.value)[i],
-                                  done: done,
+                          child: Material(
+                            color: p.surface,
+                            borderRadius: Radii.mdAll,
+                            child: InkWell(
+                              borderRadius: Radii.mdAll,
+                              onTap: () => context.push('/ms/${msSet.id}'),
+                              child: Container(
+                                padding: const EdgeInsets.symmetric(
+                                    horizontal: Sp.x4, vertical: Sp.x3),
+                                decoration: BoxDecoration(
+                                  borderRadius: Radii.mdAll,
+                                  border: Border.all(color: p.border),
                                 ),
-                              ],
-                            ]),
+                                child: Row(children: [
+                                  AppIcon(AppIcons.practice, color: p.primary),
+                                  const SizedBox(width: Sp.x3),
+                                  Expanded(
+                                      child: Text(S.goMondaishuu,
+                                          style: AppText.bodyStrong)),
+                                  AppIcon(AppIcons.chevronRight,
+                                      color: p.inkSubtle),
+                                ]),
+                              ),
+                            ),
                           ),
                         ),
                       ],
                     ],
-                    if (msSet != null) ...[
-                      const SizedBox(height: Sp.x6),
-                      Padding(
-                        padding:
-                            const EdgeInsets.symmetric(horizontal: Sp.screen),
-                        child: Material(
-                          color: p.surface,
-                          borderRadius: Radii.mdAll,
-                          child: InkWell(
-                            borderRadius: Radii.mdAll,
-                            onTap: () => context.push('/ms/${msSet.id}'),
-                            child: Container(
-                              padding: const EdgeInsets.symmetric(
-                                  horizontal: Sp.x4, vertical: Sp.x3),
-                              decoration: BoxDecoration(
-                                borderRadius: Radii.mdAll,
-                                border: Border.all(color: p.border),
-                              ),
-                              child: Row(children: [
-                                AppIcon(AppIcons.practice, color: p.primary),
-                                const SizedBox(width: Sp.x3),
-                                Expanded(
-                                    child: Text(S.goMondaishuu,
-                                        style: AppText.bodyStrong)),
-                                AppIcon(AppIcons.chevronRight,
-                                    color: p.inkSubtle),
-                              ]),
-                            ),
-                          ),
-                        ),
-                      ),
-                    ],
-                  ],
+                  ),
                 ),
-              ),
-            );
-          },
+              );
+            },
+          ),
         ),
       ),
     );
@@ -329,8 +338,7 @@ String? _audioBadgeText(SectionMeta s) {
   return null;
 }
 
-MondaishuuMeta? _mondaishuuForLesson(
-    List<MondaishuuMeta> list, int lesson) {
+MondaishuuMeta? _mondaishuuForLesson(List<MondaishuuMeta> list, int lesson) {
   for (final m in list) {
     if (m.lessons.contains(lesson)) return m;
   }

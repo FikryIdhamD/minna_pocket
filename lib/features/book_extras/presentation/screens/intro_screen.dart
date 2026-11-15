@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../../../services/content_service/domain/providers/content_providers.dart';
+import '../../../../shared/domain/models/models.dart';
 import '../../../../shared/theme/app_colors.dart';
 import '../../../../shared/theme/app_spacing.dart';
 import '../../../../shared/theme/text_theme.dart';
@@ -53,39 +54,7 @@ class IntroScreen extends ConsumerWidget {
         message: S.loadError,
         onRetry: () => ref.invalidate(kanaChartProvider),
       ),
-      data: (chart) => Center(
-        child: ConstrainedBox(
-          constraints: const BoxConstraints(maxWidth: Sizes.maxContentWidth),
-          child: ListView(
-            padding: const EdgeInsets.all(Sp.screen),
-            children: [
-              Text('Hiragana', style: AppText.title),
-              const SizedBox(height: Sp.x3),
-              for (final t in chart.hiragana) ...[
-                Text(
-                  t.title,
-                  style: AppText.bodyStrong.copyWith(color: p.inkMuted),
-                ),
-                const SizedBox(height: Sp.x2),
-                KanaGrid(table: t),
-                const SizedBox(height: Sp.x4),
-              ],
-              const SizedBox(height: Sp.x2),
-              Text('Katakana', style: AppText.title),
-              const SizedBox(height: Sp.x3),
-              for (final t in chart.katakana) ...[
-                Text(
-                  t.title,
-                  style: AppText.bodyStrong.copyWith(color: p.inkMuted),
-                ),
-                const SizedBox(height: Sp.x2),
-                KanaGrid(table: t),
-                const SizedBox(height: Sp.x4),
-              ],
-            ],
-          ),
-        ),
-      ),
+      data: (chart) => _IntroKanaView(chart: chart),
     );
   }
 
@@ -109,6 +78,76 @@ class IntroScreen extends ConsumerWidget {
             ],
           ),
         ),
+      ),
+    );
+  }
+}
+
+class _IntroKanaView extends StatefulWidget {
+  const _IntroKanaView({required this.chart});
+  final KanaChart chart;
+
+  @override
+  State<_IntroKanaView> createState() => _IntroKanaViewState();
+}
+
+class _IntroKanaViewState extends State<_IntroKanaView> {
+  String _script = 'hira';
+
+  @override
+  Widget build(BuildContext context) {
+    final p = context.palette;
+    final tables =
+        _script == 'kata' ? widget.chart.katakana : widget.chart.hiragana;
+
+    return DefaultTabController(
+      key: ValueKey(_script),
+      length: tables.length,
+      child: Column(
+        children: [
+          Padding(
+            padding: const EdgeInsets.fromLTRB(Sp.screen, Sp.x3, Sp.screen, 0),
+            child: ConstrainedBox(
+              constraints:
+                  const BoxConstraints(maxWidth: Sizes.maxContentWidth),
+              child: SizedBox(
+                width: double.infinity,
+                child: SegmentedButton<String>(
+                  segments: const [
+                    ButtonSegment(value: 'hira', label: Text('Hiragana')),
+                    ButtonSegment(value: 'kata', label: Text('Katakana')),
+                  ],
+                  selected: {_script},
+                  onSelectionChanged: (v) => setState(() => _script = v.first),
+                ),
+              ),
+            ),
+          ),
+          TabBar(
+            isScrollable: tables.length > 3,
+            labelColor: p.primary,
+            unselectedLabelColor: p.inkMuted,
+            indicatorColor: p.primary,
+            tabs: [for (final t in tables) Tab(text: t.title)],
+          ),
+          Expanded(
+            child: TabBarView(
+              children: [
+                for (final t in tables)
+                  SingleChildScrollView(
+                    padding: const EdgeInsets.all(Sp.screen),
+                    child: Center(
+                      child: ConstrainedBox(
+                        constraints: const BoxConstraints(
+                            maxWidth: Sizes.maxContentWidth),
+                        child: KanaGrid(table: t, script: _script),
+                      ),
+                    ),
+                  ),
+              ],
+            ),
+          ),
+        ],
       ),
     );
   }

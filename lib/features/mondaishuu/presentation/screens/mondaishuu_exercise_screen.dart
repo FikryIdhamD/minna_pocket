@@ -151,8 +151,14 @@ class _MondaishuuExerciseScreenState
       data: (set) {
         final ex = set.exercises.where((e) => e.no == widget.exNo).firstOrNull;
         if (ex == null) {
-          return Scaffold(
-              appBar: AppBar(), body: const ErrorView(message: S.loadError));
+          return PopScope(
+            canPop: context.canPop(),
+            onPopInvokedWithResult: (didPop, _) {
+              if (!didPop) context.go('/ms/${widget.setId}');
+            },
+            child: Scaffold(
+                appBar: AppBar(), body: const ErrorView(message: S.loadError)),
+          );
         }
         _initFromExercise(ex);
 
@@ -176,83 +182,92 @@ class _MondaishuuExerciseScreenState
           }
         }
 
-        return Scaffold(
-          appBar: AppBar(
-            leading: IconButton(
-              tooltip: 'Kembali',
-              onPressed: () => context.canPop()
-                  ? context.pop()
-                  : context.go('/ms/${widget.setId}'),
-              icon: AppIcon(AppIcons.arrowLeft, color: p.ink),
-            ),
-            titleSpacing: 0,
-            title:
-                Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              JpLabel(set.titleJp, style: AppText.headline),
-              Text('Latihan ${widget.exNo}',
-                  style: AppText.caption.copyWith(color: p.inkMuted)),
-            ]),
-            actions: [
-              const Padding(
-                  padding: EdgeInsets.only(right: Sp.x1), child: ModeToggle()),
-              if (set.lessons.isNotEmpty)
-                IconButton(
-                  tooltip: S.grammarPanel,
-                  onPressed: () => showGrammarSheet(context, set.lessons.first),
-                  icon: AppIcon(AppIcons.book, color: p.ink),
-                ),
-              PopupMenuButton<String>(
-                onSelected: (v) {
-                  if (v == 'shuffle') _toggleShuffle(ex);
-                  if (v == 'reset') _resetAll(ex);
-                },
-                itemBuilder: (_) => [
-                  PopupMenuItem(
-                    value: 'shuffle',
-                    child: Text(_shuffled ? 'Urutan asli' : S.shuffle),
-                  ),
-                  const PopupMenuItem(
-                      value: 'reset', child: Text(S.resetNumber)),
-                ],
+        return PopScope(
+          canPop: context.canPop(),
+          onPopInvokedWithResult: (didPop, _) {
+            if (!didPop) context.go('/ms/${widget.setId}');
+          },
+          child: Scaffold(
+            appBar: AppBar(
+              leading: IconButton(
+                tooltip: 'Kembali',
+                onPressed: () => context.canPop()
+                    ? context.pop()
+                    : context.go('/ms/${widget.setId}'),
+                icon: AppIcon(AppIcons.arrowLeft, color: p.ink),
               ),
-            ],
-          ),
-          bottomNavigationBar: _bottomBar(
-              context, ex, hasInput, correctCount, gradedTotal, nextEx, p),
-          body: SafeArea(
-            top: false,
-            bottom: false,
-            child: Center(
-              child: ConstrainedBox(
-                constraints:
-                    const BoxConstraints(maxWidth: Sizes.maxContentWidth),
-                child: SingleChildScrollView(
-                  padding: const EdgeInsets.all(Sp.screen),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.stretch,
-                    children: [
-                      if (ex.instructionJp != null) ...[
-                        JpTextView(ex.instructionJp!),
-                        const SizedBox(height: Sp.x3),
+              titleSpacing: 0,
+              title: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    JpLabel(set.titleJp, style: AppText.headline),
+                    Text('Latihan ${widget.exNo}',
+                        style: AppText.caption.copyWith(color: p.inkMuted)),
+                  ]),
+              actions: [
+                const Padding(
+                    padding: EdgeInsets.only(right: Sp.x1),
+                    child: ModeToggle()),
+                if (set.lessons.isNotEmpty)
+                  IconButton(
+                    tooltip: S.grammarPanel,
+                    onPressed: () =>
+                        showGrammarSheet(context, set.lessons.first),
+                    icon: AppIcon(AppIcons.book, color: p.ink),
+                  ),
+                PopupMenuButton<String>(
+                  onSelected: (v) {
+                    if (v == 'shuffle') _toggleShuffle(ex);
+                    if (v == 'reset') _resetAll(ex);
+                  },
+                  itemBuilder: (_) => [
+                    PopupMenuItem(
+                      value: 'shuffle',
+                      child: Text(_shuffled ? 'Urutan asli' : S.shuffle),
+                    ),
+                    const PopupMenuItem(
+                        value: 'reset', child: Text(S.resetNumber)),
+                  ],
+                ),
+              ],
+            ),
+            bottomNavigationBar: _bottomBar(
+                context, ex, hasInput, correctCount, gradedTotal, nextEx, p),
+            body: SafeArea(
+              top: false,
+              bottom: false,
+              child: Center(
+                child: ConstrainedBox(
+                  constraints:
+                      const BoxConstraints(maxWidth: Sizes.maxContentWidth),
+                  child: SingleChildScrollView(
+                    padding: const EdgeInsets.all(Sp.screen),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.stretch,
+                      children: [
+                        if (ex.instructionJp != null) ...[
+                          JpTextView(ex.instructionJp!),
+                          const SizedBox(height: Sp.x3),
+                        ],
+                        if (ex.image != null) ...[
+                          BookImage(ex.image!),
+                          const SizedBox(height: Sp.x4),
+                        ],
+                        if (ex.options.isNotEmpty) ...[
+                          _optionsCard(ex.options, p),
+                          const SizedBox(height: Sp.x4),
+                        ],
+                        if (ex.example != null) ...[
+                          _exampleCard(ex.example!, p),
+                          const SizedBox(height: Sp.x4),
+                        ],
+                        for (var i = 0; i < _items.length; i++) ...[
+                          if (i > 0) const SizedBox(height: Sp.x3),
+                          _itemCard(context, set, ex, _items[i], aiOn, p),
+                        ],
+                        const SizedBox(height: Sp.x6),
                       ],
-                      if (ex.image != null) ...[
-                        BookImage(ex.image!),
-                        const SizedBox(height: Sp.x4),
-                      ],
-                      if (ex.options.isNotEmpty) ...[
-                        _optionsCard(ex.options, p),
-                        const SizedBox(height: Sp.x4),
-                      ],
-                      if (ex.example != null) ...[
-                        _exampleCard(ex.example!, p),
-                        const SizedBox(height: Sp.x4),
-                      ],
-                      for (var i = 0; i < _items.length; i++) ...[
-                        if (i > 0) const SizedBox(height: Sp.x3),
-                        _itemCard(context, set, ex, _items[i], aiOn, p),
-                      ],
-                      const SizedBox(height: Sp.x6),
-                    ],
+                    ),
                   ),
                 ),
               ),

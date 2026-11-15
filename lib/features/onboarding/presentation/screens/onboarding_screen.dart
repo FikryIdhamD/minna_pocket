@@ -202,7 +202,6 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
             onTap: () {
               ref.read(userDataProvider.notifier).setOnboardingDone();
               context.go('/');
-              context.push('/kana/hira');
             },
             child: Container(
               padding: const EdgeInsets.all(Sp.x4),

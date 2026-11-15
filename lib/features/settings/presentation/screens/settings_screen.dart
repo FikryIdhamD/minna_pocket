@@ -322,7 +322,7 @@ class SettingsScreen extends ConsumerWidget {
                       title: const Text('Tampilkan panduan awal'),
                       trailing:
                           AppIcon(AppIcons.chevronRight, color: p.inkMuted),
-                      onTap: () => context.go('/onboarding'),
+                      onTap: () => context.push('/onboarding'),
                     ),
                   ],
                 ),

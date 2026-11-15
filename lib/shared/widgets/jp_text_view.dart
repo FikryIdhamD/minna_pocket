@@ -69,7 +69,8 @@ class _JpTextViewState extends ConsumerState<JpTextView> {
     super.dispose();
   }
 
-  void _toggle(int i) => setState(() => _on.contains(i) ? _on.remove(i) : _on.add(i));
+  void _toggle(int i) =>
+      setState(() => _on.contains(i) ? _on.remove(i) : _on.add(i));
 
   TapGestureRecognizer? _tap(int i) {
     if (!widget.interactive) return null;
@@ -95,7 +96,8 @@ class _JpTextViewState extends ConsumerState<JpTextView> {
     final scale = settings.textScale;
     final p = context.palette;
     final color = widget.color ?? p.ink;
-    if (mode == DisplayMode.romaji) return _buildRomaji(context, scale, color, p);
+    if (mode == DisplayMode.romaji)
+      return _buildRomaji(context, scale, color, p);
     return _buildKana(context, scale, color, p);
   }
 
@@ -106,12 +108,47 @@ class _JpTextViewState extends ConsumerState<JpTextView> {
       width: 64 * scale,
       height: 24 * scale,
       margin: const EdgeInsets.symmetric(horizontal: 2),
-      decoration: BoxDecoration(border: Border(bottom: BorderSide(color: p.inkSubtle, width: 1.5))),
+      decoration: BoxDecoration(
+          border: Border(bottom: BorderSide(color: p.inkSubtle, width: 1.5))),
     );
   }
 
+  static const _subs = {'₁': '1', '₂': '2', '₃': '3'};
+
+  List<InlineSpan> _textWithSubscripts(String text, TextStyle style) {
+    if (!text.contains('₁') && !text.contains('₂') && !text.contains('₃')) {
+      return [TextSpan(text: text, style: style)];
+    }
+    final out = <InlineSpan>[];
+    final buf = StringBuffer();
+    final subSize = (style.fontSize ?? 16) * 0.72;
+    for (final rune in text.runes) {
+      final ch = String.fromCharCode(rune);
+      final mapped = _subs[ch];
+      if (mapped != null) {
+        if (buf.isNotEmpty) {
+          out.add(TextSpan(text: buf.toString(), style: style));
+          buf.clear();
+        }
+        out.add(WidgetSpan(
+          alignment: PlaceholderAlignment.baseline,
+          baseline: TextBaseline.alphabetic,
+          child: Transform.translate(
+            offset: const Offset(0, 3),
+            child: Text(mapped, style: style.copyWith(fontSize: subSize)),
+          ),
+        ));
+      } else {
+        buf.write(ch);
+      }
+    }
+    if (buf.isNotEmpty) out.add(TextSpan(text: buf.toString(), style: style));
+    return out;
+  }
+
   // ------------------------------------------------------------------ mode あ
-  Widget _buildKana(BuildContext context, double scale, Color color, AppPalette p) {
+  Widget _buildKana(
+      BuildContext context, double scale, Color color, AppPalette p) {
     final base = _baseStyle(scale).copyWith(color: color);
     final furi = AppText.furigana(scale).copyWith(color: p.primaryStrong);
     final spans = <InlineSpan>[];
@@ -121,7 +158,9 @@ class _JpTextViewState extends ConsumerState<JpTextView> {
       final deco = t.u ? TextDecoration.underline : TextDecoration.none;
       if (t.blank) {
         final idx = blankIdx++;
-        spans.add(WidgetSpan(alignment: PlaceholderAlignment.middle, child: _blank(context, idx, p, scale)));
+        spans.add(WidgetSpan(
+            alignment: PlaceholderAlignment.middle,
+            child: _blank(context, idx, p, scale)));
       } else if (t.k) {
         final on = _on.contains(i);
         spans.add(WidgetSpan(
@@ -143,14 +182,16 @@ class _JpTextViewState extends ConsumerState<JpTextView> {
           ),
         ));
       } else {
-        spans.add(TextSpan(text: t.s, style: base.copyWith(decoration: deco)));
+        spans.addAll(_textWithSubscripts(t.s, base.copyWith(decoration: deco)));
       }
     }
-    return Text.rich(TextSpan(children: spans, style: base), textAlign: widget.textAlign);
+    return Text.rich(TextSpan(children: spans, style: base),
+        textAlign: widget.textAlign);
   }
 
   // ------------------------------------------------------------------ mode Ro
-  Widget _buildRomaji(BuildContext context, double scale, Color color, AppPalette p) {
+  Widget _buildRomaji(
+      BuildContext context, double scale, Color color, AppPalette p) {
     final roStyle = AppText.romaji(scale).copyWith(color: color);
     final jpStyle = AppText.jpUnderRomaji(scale).copyWith(color: p.inkSubtle);
     final dotted = TextDecoration.underline;
@@ -162,7 +203,9 @@ class _JpTextViewState extends ConsumerState<JpTextView> {
       final t = widget.text.tokens[i];
       if (t.blank) {
         final idx = blankIdx++;
-        roSpans.add(WidgetSpan(alignment: PlaceholderAlignment.middle, child: _blank(context, idx, p, scale)));
+        roSpans.add(WidgetSpan(
+            alignment: PlaceholderAlignment.middle,
+            child: _blank(context, idx, p, scale)));
         jpSpans.add(TextSpan(text: '＿', style: jpStyle));
         continue;
       }
@@ -174,7 +217,8 @@ class _JpTextViewState extends ConsumerState<JpTextView> {
       if (t.k) {
         final on = _on.contains(i);
         final lead = ro.length - ro.trimLeft().length;
-        if (lead > 0) roSpans.add(TextSpan(text: ro.substring(0, lead), style: roStyle));
+        if (lead > 0)
+          roSpans.add(TextSpan(text: ro.substring(0, lead), style: roStyle));
         roSpans.add(TextSpan(
           text: ro.substring(lead),
           recognizer: _tap(i),
@@ -200,12 +244,15 @@ class _JpTextViewState extends ConsumerState<JpTextView> {
       } else {
         roSpans.add(TextSpan(
           text: ro,
-          style: roStyle.copyWith(decoration: t.u ? TextDecoration.underline : TextDecoration.none),
+          style: roStyle.copyWith(
+              decoration: t.u ? TextDecoration.underline : TextDecoration.none),
         ));
-        jpSpans.add(TextSpan(text: t.s, style: jpStyle));
+        jpSpans.addAll(_textWithSubscripts(t.s, jpStyle));
       }
     }
-    final cross = widget.textAlign == TextAlign.center ? CrossAxisAlignment.center : CrossAxisAlignment.start;
+    final cross = widget.textAlign == TextAlign.center
+        ? CrossAxisAlignment.center
+        : CrossAxisAlignment.start;
     return Column(
       mainAxisSize: MainAxisSize.min,
       crossAxisAlignment: cross,
@@ -225,19 +272,24 @@ class _FuriganaPainter extends CustomPainter {
 
   @override
   void paint(Canvas canvas, Size size) {
-    final tp = TextPainter(text: TextSpan(text: text, style: style), textDirection: TextDirection.ltr)..layout();
+    final tp = TextPainter(
+        text: TextSpan(text: text, style: style),
+        textDirection: TextDirection.ltr)
+      ..layout();
     final dx = (size.width - tp.width) / 2;
     final dy = -tp.height + 2;
     tp.paint(canvas, Offset(dx, dy));
   }
 
   @override
-  bool shouldRepaint(covariant _FuriganaPainter old) => old.text != text || old.style != style;
+  bool shouldRepaint(covariant _FuriganaPainter old) =>
+      old.text != text || old.style != style;
 }
 
 /// Label Jepang statis tanpa interaksi & selalu mode あ (untuk daftar, judul kartu, chip).
 class JpLabel extends StatelessWidget {
-  const JpLabel(this.text, {super.key, this.style, this.maxLines, this.overflow});
+  const JpLabel(this.text,
+      {super.key, this.style, this.maxLines, this.overflow});
   final JpText text;
   final TextStyle? style;
   final int? maxLines;

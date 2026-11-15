@@ -32,53 +32,60 @@ class MondaishuuSetScreen extends ConsumerWidget {
             onRetry: () => ref.invalidate(mondaishuuProvider(setId))),
       ),
       data: (set) {
-        return Scaffold(
-          appBar: AppBar(
-            leading: IconButton(
-              tooltip: 'Kembali',
-              onPressed: () =>
-                  context.canPop() ? context.pop() : context.go('/practice'),
-              icon: AppIcon(AppIcons.arrowLeft, color: p.ink),
-            ),
-            titleSpacing: 0,
-            title:
-                Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              JpLabel(set.titleJp, style: AppText.headline),
-              Text('Mondaishuu',
-                  style: AppText.caption.copyWith(color: p.inkMuted)),
-            ]),
-          ),
-          body: SafeArea(
-            top: false,
-            child: Center(
-              child: ConstrainedBox(
-                constraints:
-                    const BoxConstraints(maxWidth: Sizes.maxContentWidth),
-                child: ListView(
-                  padding: const EdgeInsets.all(Sp.screen),
+        return PopScope(
+          canPop: context.canPop(),
+          onPopInvokedWithResult: (didPop, _) {
+            if (!didPop) context.go('/practice');
+          },
+          child: Scaffold(
+            appBar: AppBar(
+              leading: IconButton(
+                tooltip: 'Kembali',
+                onPressed: () =>
+                    context.canPop() ? context.pop() : context.go('/practice'),
+                icon: AppIcon(AppIcons.arrowLeft, color: p.ink),
+              ),
+              titleSpacing: 0,
+              title: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Container(
-                      decoration: BoxDecoration(
-                        color: p.surface,
-                        borderRadius: Radii.lgAll,
-                        border: Border.all(color: p.border),
+                    JpLabel(set.titleJp, style: AppText.headline),
+                    Text('Mondaishuu',
+                        style: AppText.caption.copyWith(color: p.inkMuted)),
+                  ]),
+            ),
+            body: SafeArea(
+              top: false,
+              child: Center(
+                child: ConstrainedBox(
+                  constraints:
+                      const BoxConstraints(maxWidth: Sizes.maxContentWidth),
+                  child: ListView(
+                    padding: const EdgeInsets.all(Sp.screen),
+                    children: [
+                      Container(
+                        decoration: BoxDecoration(
+                          color: p.surface,
+                          borderRadius: Radii.lgAll,
+                          border: Border.all(color: p.border),
+                        ),
+                        clipBehavior: Clip.antiAlias,
+                        child: Column(children: [
+                          for (var i = 0; i < set.exercises.length; i++) ...[
+                            if (i > 0)
+                              Divider(height: 1, thickness: 1, color: p.border),
+                            _exRow(context, set.exercises[i],
+                                msScores[set.exercises[i].id], p),
+                          ],
+                        ]),
                       ),
-                      clipBehavior: Clip.antiAlias,
-                      child: Column(children: [
-                        for (var i = 0; i < set.exercises.length; i++) ...[
-                          if (i > 0)
-                            Divider(height: 1, thickness: 1, color: p.border),
-                          _exRow(context, set.exercises[i],
-                              msScores[set.exercises[i].id], p),
-                        ],
-                      ]),
-                    ),
-                    const SizedBox(height: Sp.x5),
-                    OutlinedButton(
-                      onPressed: () => context.push('/ms/$setId/result'),
-                      child: const Text('Lihat ringkasan'),
-                    ),
-                  ],
+                      const SizedBox(height: Sp.x5),
+                      OutlinedButton(
+                        onPressed: () => context.push('/ms/$setId/result'),
+                        child: const Text('Lihat ringkasan'),
+                      ),
+                    ],
+                  ),
                 ),
               ),
             ),

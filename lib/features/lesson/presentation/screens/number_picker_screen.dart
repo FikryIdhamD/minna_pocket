@@ -32,148 +32,159 @@ class NumberPickerScreen extends ConsumerWidget {
     final title =
         section == 'bunpou' ? name : (jp != null ? '$jp $name' : name);
 
-    return Scaffold(
-      appBar: AppBar(
-        leading: IconButton(
-          tooltip: 'Kembali',
-          onPressed: () =>
-              context.canPop() ? context.pop() : context.go('/lesson/$lesson'),
-          icon: AppIcon(AppIcons.arrowLeft, color: p.ink),
+    return PopScope(
+      canPop: context.canPop(),
+      onPopInvokedWithResult: (didPop, _) {
+        if (!didPop) context.go('/lesson/$lesson');
+      },
+      child: Scaffold(
+        appBar: AppBar(
+          leading: IconButton(
+            tooltip: 'Kembali',
+            onPressed: () => context.canPop()
+                ? context.pop()
+                : context.go('/lesson/$lesson'),
+            icon: AppIcon(AppIcons.arrowLeft, color: p.ink),
+          ),
+          titleSpacing: 0,
+          title:
+              Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Text(title,
+                style: AppText.headline
+                    .copyWith(fontFamilyFallback: const [AppFonts.jp])),
+            Text('${S.lesson} $lesson · pilih nomor',
+                style: AppText.caption.copyWith(color: p.inkMuted)),
+          ]),
         ),
-        titleSpacing: 0,
-        title: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-          Text(title,
-              style: AppText.headline
-                  .copyWith(fontFamilyFallback: const [AppFonts.jp])),
-          Text('${S.lesson} $lesson · pilih nomor',
-              style: AppText.caption.copyWith(color: p.inkMuted)),
-        ]),
-      ),
-      body: SafeArea(
-        top: false,
-        child: AsyncView<BookManifest>(
-          value: manifestAsync,
-          onRetry: () => ref.invalidate(manifestProvider),
-          data: (manifest) {
-            final meta = manifest.lesson(lesson);
-            final secMeta = meta?.section(section);
-            if (meta == null || secMeta == null) {
-              return const ErrorView(message: S.loadError);
-            }
+        body: SafeArea(
+          top: false,
+          child: AsyncView<BookManifest>(
+            value: manifestAsync,
+            onRetry: () => ref.invalidate(manifestProvider),
+            data: (manifest) {
+              final meta = manifest.lesson(lesson);
+              final secMeta = meta?.section(section);
+              if (meta == null || secMeta == null) {
+                return const ErrorView(message: S.loadError);
+              }
 
-            if (section == 'bunpou') {
-              return AsyncView<Lesson>(
-                value: ref.watch(lessonProvider(lesson)),
-                onRetry: () => ref.invalidate(lessonProvider(lesson)),
-                data: (lessonData) {
-                  final list = lessonData.sections.bunpou;
-                  return Center(
-                    child: ConstrainedBox(
-                      constraints:
-                          const BoxConstraints(maxWidth: Sizes.maxContentWidth),
-                      child: ListView(
-                        padding: const EdgeInsets.all(Sp.screen),
-                        children: [
-                          Container(
-                            decoration: BoxDecoration(
-                              color: p.surface,
-                              borderRadius: Radii.lgAll,
-                              border: Border.all(color: p.border),
-                            ),
-                            clipBehavior: Clip.antiAlias,
-                            child: Column(children: [
-                              for (var i = 0; i < list.length; i++) ...[
-                                if (i > 0)
-                                  Divider(
-                                      height: 1, thickness: 1, color: p.border),
-                                _BunpouRow(
-                                  point: list[i],
-                                  isDone: done.contains(
-                                      '${meta.id}.bunpou.${list[i].no}'),
-                                  onTap: () => context.push(sectionRoute(
-                                      lesson, section,
-                                      no: list[i].no)),
-                                ),
-                              ],
-                            ]),
-                          ),
-                        ],
-                      ),
-                    ),
-                  );
-                },
-              );
-            }
-
-            final numbers = secMeta.numbers;
-            return Center(
-              child: ConstrainedBox(
-                constraints:
-                    const BoxConstraints(maxWidth: Sizes.maxContentWidth),
-                child: GridView.builder(
-                  padding: const EdgeInsets.all(Sp.screen),
-                  gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                    crossAxisCount: 3,
-                    mainAxisSpacing: Sp.x3,
-                    crossAxisSpacing: Sp.x3,
-                  ),
-                  itemCount: numbers.length,
-                  itemBuilder: (context, i) {
-                    final x = numbers[i];
-                    final hasAudio = secMeta.audioNumbers.contains(x);
-                    final isDone = done.contains('${meta.id}.$section.$x');
-                    return Material(
-                      color: p.surface,
-                      borderRadius: Radii.lgAll,
-                      child: InkWell(
-                        borderRadius: Radii.lgAll,
-                        onTap: () =>
-                            context.push(sectionRoute(lesson, section, no: x)),
-                        child: Container(
-                          decoration: BoxDecoration(
-                            borderRadius: Radii.lgAll,
-                            border: Border.all(color: p.border),
-                          ),
-                          child: Stack(children: [
-                            Center(
-                              child: Column(
-                                  mainAxisSize: MainAxisSize.min,
-                                  children: [
-                                    Text('$x',
-                                        style: AppText.brushNo
-                                            .copyWith(color: p.primary)),
-                                    const SizedBox(height: Sp.x1),
-                                    Text('${S.number} $x',
-                                        style: AppText.caption
-                                            .copyWith(color: p.inkMuted)),
-                                  ]),
-                            ),
-                            if (hasAudio || isDone)
-                              Positioned(
-                                top: Sp.x2,
-                                right: Sp.x2,
-                                child: Row(
-                                    mainAxisSize: MainAxisSize.min,
-                                    children: [
-                                      if (hasAudio)
-                                        AppIcon(AppIcons.headphones,
-                                            size: 16, color: p.inkMuted),
-                                      if (hasAudio && isDone)
-                                        const SizedBox(width: Sp.x1),
-                                      if (isDone)
-                                        AppIcon(AppIcons.checkCircle,
-                                            size: 16, color: p.success),
-                                    ]),
+              if (section == 'bunpou') {
+                return AsyncView<Lesson>(
+                  value: ref.watch(lessonProvider(lesson)),
+                  onRetry: () => ref.invalidate(lessonProvider(lesson)),
+                  data: (lessonData) {
+                    final list = lessonData.sections.bunpou;
+                    return Center(
+                      child: ConstrainedBox(
+                        constraints: const BoxConstraints(
+                            maxWidth: Sizes.maxContentWidth),
+                        child: ListView(
+                          padding: const EdgeInsets.all(Sp.screen),
+                          children: [
+                            Container(
+                              decoration: BoxDecoration(
+                                color: p.surface,
+                                borderRadius: Radii.lgAll,
+                                border: Border.all(color: p.border),
                               ),
-                          ]),
+                              clipBehavior: Clip.antiAlias,
+                              child: Column(children: [
+                                for (var i = 0; i < list.length; i++) ...[
+                                  if (i > 0)
+                                    Divider(
+                                        height: 1,
+                                        thickness: 1,
+                                        color: p.border),
+                                  _BunpouRow(
+                                    point: list[i],
+                                    isDone: done.contains(
+                                        '${meta.id}.bunpou.${list[i].no}'),
+                                    onTap: () => context.push(sectionRoute(
+                                        lesson, section,
+                                        no: list[i].no)),
+                                  ),
+                                ],
+                              ]),
+                            ),
+                          ],
                         ),
                       ),
                     );
                   },
+                );
+              }
+
+              final numbers = secMeta.numbers;
+              return Center(
+                child: ConstrainedBox(
+                  constraints:
+                      const BoxConstraints(maxWidth: Sizes.maxContentWidth),
+                  child: GridView.builder(
+                    padding: const EdgeInsets.all(Sp.screen),
+                    gridDelegate:
+                        const SliverGridDelegateWithFixedCrossAxisCount(
+                      crossAxisCount: 3,
+                      mainAxisSpacing: Sp.x3,
+                      crossAxisSpacing: Sp.x3,
+                    ),
+                    itemCount: numbers.length,
+                    itemBuilder: (context, i) {
+                      final x = numbers[i];
+                      final hasAudio = secMeta.audioNumbers.contains(x);
+                      final isDone = done.contains('${meta.id}.$section.$x');
+                      return Material(
+                        color: p.surface,
+                        borderRadius: Radii.lgAll,
+                        child: InkWell(
+                          borderRadius: Radii.lgAll,
+                          onTap: () => context
+                              .push(sectionRoute(lesson, section, no: x)),
+                          child: Container(
+                            decoration: BoxDecoration(
+                              borderRadius: Radii.lgAll,
+                              border: Border.all(color: p.border),
+                            ),
+                            child: Stack(children: [
+                              Center(
+                                child: Column(
+                                    mainAxisSize: MainAxisSize.min,
+                                    children: [
+                                      Text('$x',
+                                          style: AppText.brushNo
+                                              .copyWith(color: p.primary)),
+                                      const SizedBox(height: Sp.x1),
+                                      Text('${S.number} $x',
+                                          style: AppText.caption
+                                              .copyWith(color: p.inkMuted)),
+                                    ]),
+                              ),
+                              if (hasAudio || isDone)
+                                Positioned(
+                                  top: Sp.x2,
+                                  right: Sp.x2,
+                                  child: Row(
+                                      mainAxisSize: MainAxisSize.min,
+                                      children: [
+                                        if (hasAudio)
+                                          AppIcon(AppIcons.headphones,
+                                              size: 16, color: p.inkMuted),
+                                        if (hasAudio && isDone)
+                                          const SizedBox(width: Sp.x1),
+                                        if (isDone)
+                                          AppIcon(AppIcons.checkCircle,
+                                              size: 16, color: p.success),
+                                      ]),
+                                ),
+                            ]),
+                          ),
+                        ),
+                      );
+                    },
+                  ),
                 ),
-              ),
-            );
-          },
+              );
+            },
+          ),
         ),
       ),
     );

@@ -52,96 +52,104 @@ class MondaishuuResultScreen extends ConsumerWidget {
           }
         }
 
-        return Scaffold(
-          appBar: AppBar(
-            leading: IconButton(
-              tooltip: 'Kembali',
-              onPressed: () =>
-                  context.canPop() ? context.pop() : context.go('/ms/$setId'),
-              icon: AppIcon(AppIcons.arrowLeft, color: p.ink),
-            ),
-            titleSpacing: 0,
-            title:
-                Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              JpLabel(set.titleJp, style: AppText.headline),
-              Text('Ringkasan',
-                  style: AppText.caption.copyWith(color: p.inkMuted)),
-            ]),
-          ),
-          body: SafeArea(
-            top: false,
-            child: Center(
-              child: ConstrainedBox(
-                constraints:
-                    const BoxConstraints(maxWidth: Sizes.maxContentWidth),
-                child: ListView(
-                  padding: const EdgeInsets.all(Sp.screen),
+        return PopScope(
+          canPop: context.canPop(),
+          onPopInvokedWithResult: (didPop, _) {
+            if (!didPop) context.go('/ms/$setId');
+          },
+          child: Scaffold(
+            appBar: AppBar(
+              leading: IconButton(
+                tooltip: 'Kembali',
+                onPressed: () =>
+                    context.canPop() ? context.pop() : context.go('/ms/$setId'),
+                icon: AppIcon(AppIcons.arrowLeft, color: p.ink),
+              ),
+              titleSpacing: 0,
+              title: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Center(
-                      child: Column(children: [
-                        Text('$totalLast / $totalGraded',
-                            style:
-                                AppText.brushHero.copyWith(color: p.primary)),
-                        const SizedBox(height: Sp.x1),
-                        Text('Skor terbaik: $totalBest / $totalGraded',
-                            style: AppText.bodySm.copyWith(color: p.inkMuted)),
-                      ]),
-                    ),
-                    const SizedBox(height: Sp.x6),
-                    Container(
-                      decoration: BoxDecoration(
-                        color: p.surface,
-                        borderRadius: Radii.lgAll,
-                        border: Border.all(color: p.border),
+                    JpLabel(set.titleJp, style: AppText.headline),
+                    Text('Ringkasan',
+                        style: AppText.caption.copyWith(color: p.inkMuted)),
+                  ]),
+            ),
+            body: SafeArea(
+              top: false,
+              child: Center(
+                child: ConstrainedBox(
+                  constraints:
+                      const BoxConstraints(maxWidth: Sizes.maxContentWidth),
+                  child: ListView(
+                    padding: const EdgeInsets.all(Sp.screen),
+                    children: [
+                      Center(
+                        child: Column(children: [
+                          Text('$totalLast / $totalGraded',
+                              style:
+                                  AppText.brushHero.copyWith(color: p.primary)),
+                          const SizedBox(height: Sp.x1),
+                          Text('Skor terbaik: $totalBest / $totalGraded',
+                              style:
+                                  AppText.bodySm.copyWith(color: p.inkMuted)),
+                        ]),
                       ),
-                      clipBehavior: Clip.antiAlias,
-                      child: Column(children: [
-                        for (var i = 0; i < set.exercises.length; i++) ...[
-                          if (i > 0)
-                            Divider(height: 1, thickness: 1, color: p.border),
-                          Builder(builder: (_) {
-                            final ex = set.exercises[i];
-                            final t =
-                                ex.items.where((it) => it.autoGraded).length;
-                            final s = msScores[ex.id];
-                            return Padding(
-                              padding: const EdgeInsets.symmetric(
-                                  horizontal: Sp.x4, vertical: Sp.x3),
-                              child: Row(children: [
-                                Expanded(
-                                    child: Text('Latihan ${ex.no}',
-                                        style: AppText.bodyStrong)),
-                                Text(
-                                  'terakhir ${s?.last ?? 0}/$t · terbaik ${s?.best ?? 0}/$t',
-                                  style: AppText.bodySm
-                                      .copyWith(color: p.inkMuted),
-                                ),
-                              ]),
-                            );
-                          }),
-                        ],
-                      ]),
-                    ),
-                    const SizedBox(height: Sp.x6),
-                    FilledButton(
-                      onPressed: () {
-                        final ud = ref.read(userDataProvider.notifier);
-                        for (final ex in set.exercises) {
-                          ud.clearAnswers('${ex.id}.');
-                        }
-                        context.pushReplacement('/ms/$setId/ex/1');
-                      },
-                      child: const Text(S.repeatAll),
-                    ),
-                    if (firstWrongExNo != null) ...[
-                      const SizedBox(height: Sp.x3),
-                      OutlinedButton(
-                        onPressed: () => context.pushReplacement(
-                            '/ms/$setId/ex/$firstWrongExNo?only=wrong'),
-                        child: const Text(S.repeatWrong),
+                      const SizedBox(height: Sp.x6),
+                      Container(
+                        decoration: BoxDecoration(
+                          color: p.surface,
+                          borderRadius: Radii.lgAll,
+                          border: Border.all(color: p.border),
+                        ),
+                        clipBehavior: Clip.antiAlias,
+                        child: Column(children: [
+                          for (var i = 0; i < set.exercises.length; i++) ...[
+                            if (i > 0)
+                              Divider(height: 1, thickness: 1, color: p.border),
+                            Builder(builder: (_) {
+                              final ex = set.exercises[i];
+                              final t =
+                                  ex.items.where((it) => it.autoGraded).length;
+                              final s = msScores[ex.id];
+                              return Padding(
+                                padding: const EdgeInsets.symmetric(
+                                    horizontal: Sp.x4, vertical: Sp.x3),
+                                child: Row(children: [
+                                  Expanded(
+                                      child: Text('Latihan ${ex.no}',
+                                          style: AppText.bodyStrong)),
+                                  Text(
+                                    'terakhir ${s?.last ?? 0}/$t · terbaik ${s?.best ?? 0}/$t',
+                                    style: AppText.bodySm
+                                        .copyWith(color: p.inkMuted),
+                                  ),
+                                ]),
+                              );
+                            }),
+                          ],
+                        ]),
                       ),
+                      const SizedBox(height: Sp.x6),
+                      FilledButton(
+                        onPressed: () {
+                          final ud = ref.read(userDataProvider.notifier);
+                          for (final ex in set.exercises) {
+                            ud.clearAnswers('${ex.id}.');
+                          }
+                          context.pushReplacement('/ms/$setId/ex/1');
+                        },
+                        child: const Text(S.repeatAll),
+                      ),
+                      if (firstWrongExNo != null) ...[
+                        const SizedBox(height: Sp.x3),
+                        OutlinedButton(
+                          onPressed: () => context.pushReplacement(
+                              '/ms/$setId/ex/$firstWrongExNo?only=wrong'),
+                          child: const Text(S.repeatWrong),
+                        ),
+                      ],
                     ],
-                  ],
+                  ),
                 ),
               ),
             ),
