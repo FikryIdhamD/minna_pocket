@@ -214,3 +214,10 @@ File diubah: lib/features/settings/presentation/screens/settings_screen.dart, li
 flutter analyze: 0 error, 0 warning (6 info)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T32 — Pengaturan AI — 2026-11-15 15:50
+Status: SELESAI
+File diubah: lib/features/ai_assist/presentation/screens/ai_settings_screen.dart
+flutter analyze: 0 error, 0 warning (6 info)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
