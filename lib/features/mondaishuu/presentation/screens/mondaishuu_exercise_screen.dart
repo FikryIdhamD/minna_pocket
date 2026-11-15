@@ -226,31 +226,34 @@ class _MondaishuuExerciseScreenState
               child: ConstrainedBox(
                 constraints:
                     const BoxConstraints(maxWidth: Sizes.maxContentWidth),
-                child: ListView(
+                child: SingleChildScrollView(
                   padding: const EdgeInsets.all(Sp.screen),
-                  children: [
-                    if (ex.instructionJp != null) ...[
-                      JpTextView(ex.instructionJp!),
-                      const SizedBox(height: Sp.x3),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.stretch,
+                    children: [
+                      if (ex.instructionJp != null) ...[
+                        JpTextView(ex.instructionJp!),
+                        const SizedBox(height: Sp.x3),
+                      ],
+                      if (ex.image != null) ...[
+                        BookImage(ex.image!),
+                        const SizedBox(height: Sp.x4),
+                      ],
+                      if (ex.options.isNotEmpty) ...[
+                        _optionsCard(ex.options, p),
+                        const SizedBox(height: Sp.x4),
+                      ],
+                      if (ex.example != null) ...[
+                        _exampleCard(ex.example!, p),
+                        const SizedBox(height: Sp.x4),
+                      ],
+                      for (var i = 0; i < _items.length; i++) ...[
+                        if (i > 0) const SizedBox(height: Sp.x3),
+                        _itemCard(context, set, ex, _items[i], aiOn, p),
+                      ],
+                      const SizedBox(height: Sp.x6),
                     ],
-                    if (ex.image != null) ...[
-                      BookImage(ex.image!),
-                      const SizedBox(height: Sp.x4),
-                    ],
-                    if (ex.options.isNotEmpty) ...[
-                      _optionsCard(ex.options, p),
-                      const SizedBox(height: Sp.x4),
-                    ],
-                    if (ex.example != null) ...[
-                      _exampleCard(ex.example!, p),
-                      const SizedBox(height: Sp.x4),
-                    ],
-                    for (var i = 0; i < _items.length; i++) ...[
-                      if (i > 0) const SizedBox(height: Sp.x3),
-                      _itemCard(context, set, ex, _items[i], aiOn, p),
-                    ],
-                    const SizedBox(height: Sp.x6),
-                  ],
+                  ),
                 ),
               ),
             ),
@@ -466,9 +469,11 @@ class _MondaishuuExerciseScreenState
 
     void onTextChanged(String v) {
       final hadInput = _input.values.any((s) => s.trim().isNotEmpty);
+      final hadResult = _result.containsKey(key);
       _input[key] = v;
+      if (hadResult) _result.remove(key);
       final nowHasInput = _input.values.any((s) => s.trim().isNotEmpty);
-      if (hadInput != nowHasInput) setState(() {});
+      if (hadInput != nowHasInput || hadResult) setState(() {});
     }
 
     switch (b.type) {
