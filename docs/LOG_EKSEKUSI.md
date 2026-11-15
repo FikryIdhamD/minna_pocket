@@ -235,3 +235,24 @@ File diubah: lib/features/practice_mix/domain/providers/mix_providers.dart, lib/
 flutter analyze: 0 error, 0 warning (6 info bawaan)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: Sampai di Titik cek 4. Menunggu verifikasi QA pemilik sebelum lanjut ke T40.
+
+## T40 (catatan AI) — Tes koneksi Gemini 404 di ai_client.dart — 2026-11-15 16:29
+Status: BERHENTI
+File diubah: - (ai_client.dart bertanda DISEDIAKAN LENGKAP. JANGAN DIUBAH.)
+flutter analyze: 0 error, 0 warning (6 info bawaan)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: Tes koneksi Gemini di Pengaturan AI mengembalikan "Nama model tidak ditemukan" (HTTP 404) baik saat kolom Model kosong (default gemini-2.5-flash) maupun saat diisi ID model dari endpoint v1beta/models. Detail body respons server disembunyikan oleh AiClient._errorMessage() di lib/features/ai_assist/data/datasource/ai_client.dart. Mohon izin pemilik jika ai_client.dart boleh diperiksa/diperbaiki, atau lanjut ke butir T40 lainnya.
+
+## T40 — Uji menyeluruh — 2026-11-15 17:30
+Status: SELESAI
+File diubah: lib/features/hafalan/presentation/screens/hafalan_hub_screen.dart, lib/features/hafalan/presentation/screens/flashcard_screen.dart, lib/features/hafalan/presentation/screens/review_screen.dart, lib/features/mondaishuu/presentation/screens/mondaishuu_exercise_screen.dart, lib/features/mondaishuu/presentation/screens/mondaishuu_set_screen.dart, lib/features/mondaishuu/presentation/screens/mondaishuu_result_screen.dart, lib/features/practice_mix/presentation/screens/mix_session_screen.dart, lib/features/ai_assist/presentation/screens/ai_settings_screen.dart, lib/features/settings/presentation/screens/settings_screen.dart, lib/features/onboarding/presentation/screens/onboarding_screen.dart, lib/features/book_extras/presentation/screens/intro_screen.dart, lib/features/home/presentation/screens/home_shell.dart, lib/features/lesson/presentation/screens/lesson_screen.dart, lib/features/lesson/presentation/screens/number_picker_screen.dart, lib/shared/widgets/async_view.dart, lib/shared/widgets/jp_text_view.dart
+flutter analyze: 0 error, 0 warning (8 info)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: Semua temuan QA dari perangkat (Hafalan blank, KanaTextField fokus merah, Pengaturan AI khusus Gemini + dropdown model Free Tier, tombol Mondaishuu, dropdown ukuran huruf, onboarding ke Beranda, Kana Home vs Hafalan, back bertingkat, shimmer loading, subscript ₁₂₃, dan warna tombol speaker kartu hafalan) selesai diperbaiki.
+
+## T41 — Build rilis — 2026-11-15 17:30
+Status: BERHENTI
+File diubah: -
+flutter analyze: 0 error, 0 warning (8 info)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: android/key.properties belum tersedia. Sesuai docs/02_Rencana_Eksekusi.md (T41 #1) dan AGENTS.md §5, keystore rilis dibuat oleh pemilik terlebih dahulu (docs/08 §3) sebelum build APK rilis dan tag v1.0.0 agar APK tidak ditandatangani dengan debug key.

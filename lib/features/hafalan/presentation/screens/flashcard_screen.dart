@@ -246,6 +246,7 @@ class _FlashcardScreenState extends ConsumerState<FlashcardScreen> {
           const SizedBox(height: Sp.x3),
           IconButton.filledTonal(
             tooltip: S.speak,
+            style: IconButton.styleFrom(backgroundColor: p.primarySubtle),
             onPressed: () => ref.read(ttsServiceProvider).speak(ttsText),
             icon: AppIcon(AppIcons.speaker, color: p.primary),
           ),
@@ -277,6 +278,7 @@ class _FlashcardScreenState extends ConsumerState<FlashcardScreen> {
           const SizedBox(height: Sp.x3),
           IconButton.filledTonal(
             tooltip: S.speak,
+            style: IconButton.styleFrom(backgroundColor: p.primarySubtle),
             onPressed: () => ref.read(ttsServiceProvider).speak(ttsText),
             icon: AppIcon(AppIcons.speaker, color: p.primary),
           ),
