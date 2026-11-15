@@ -329,8 +329,8 @@ String? _audioBadgeText(SectionMeta s) {
   return null;
 }
 
-MondaishuuSetMeta? _mondaishuuForLesson(
-    List<MondaishuuSetMeta> list, int lesson) {
+MondaishuuMeta? _mondaishuuForLesson(
+    List<MondaishuuMeta> list, int lesson) {
   for (final m in list) {
     if (m.lessons.contains(lesson)) return m;
   }

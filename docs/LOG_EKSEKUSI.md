@@ -67,3 +67,10 @@ File diubah: `lib/features/lesson/presentation/screens/lesson_screen.dart`, `doc
 flutter analyze: 0 error, 0 warning (3 info bawaan)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T12 — Pilih nomor — 2026-11-15 14:20
+Status: SELESAI
+File diubah: `lib/features/lesson/presentation/screens/number_picker_screen.dart`, `docs/LOG_EKSEKUSI.md`
+flutter analyze: 0 error, 0 warning (3 info bawaan)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: Sekaligus perbaikan `MondaishuuMeta` di `lesson_screen.dart`.
