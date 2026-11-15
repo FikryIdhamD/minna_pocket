@@ -46,3 +46,10 @@ File diubah: 32 file stub layar di `lib/features/**/presentation/screens/*_scree
 flutter analyze: 0 error, 0 warning (3 info bawaan di `user_data.dart` & `text_theme.dart`)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: Siap untuk Titik cek 1 — jalankan `flutter run --flavor book1 -t lib/main/main_book1.dart` dan cek teks `OnboardingScreen`, ikon の, serta nama "Minna Pocket".
+
+## Perbaikan T03 — Rapikan namespace Android — 2026-11-15 14:15
+Status: SELESAI
+File diubah: `android/app/build.gradle.kts`, `docs/LOG_EKSEKUSI.md` (`android/app/src/main/kotlin/com/` dihapus)
+flutter analyze: 0 error, 0 warning (3 info bawaan)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: `namespace` dan `defaultConfig.applicationId` di `build.gradle.kts` diubah dari `com.example.minna_pocket` ke `id.minnapocket.minna_pocket`.

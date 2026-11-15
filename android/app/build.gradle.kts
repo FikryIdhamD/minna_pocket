@@ -15,9 +15,9 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.example.minna_pocket"
-    compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    namespace = "id.minnapocket.minna_pocket"
+    compileSdk = 36
+    ndkVersion = "27.0.12077973"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
@@ -55,7 +55,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.example.minna_pocket"
+        applicationId = "id.minnapocket.minna_pocket"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = 24
