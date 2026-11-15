@@ -39,3 +39,10 @@ File diubah: `android/app/build.gradle.kts`, `android/app/src/main/AndroidManife
 flutter analyze: belum bersih (masih 64 error layar stub di `app_route.dart`, baru dibuat di T04)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: `flutter pub get` sukses (`Got dependencies!`).
+
+## T04 — Stub semua layar — 2026-11-15 13:57
+Status: SELESAI
+File diubah: 32 file stub layar di `lib/features/**/presentation/screens/*_screen.dart` (`.gitkeep` di folder `screens/` terkait dihapus), `docs/LOG_EKSEKUSI.md`
+flutter analyze: 0 error, 0 warning (3 info bawaan di `user_data.dart` & `text_theme.dart`)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: Siap untuk Titik cek 1 — jalankan `flutter run --flavor book1 -t lib/main/main_book1.dart` dan cek teks `OnboardingScreen`, ikon の, serta nama "Minna Pocket".
