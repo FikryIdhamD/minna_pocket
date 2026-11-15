@@ -131,13 +131,13 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
       (AppIcons.translate, 'あ | Ro', 'Ganti tampilan ke romaji kapan saja.'),
       (
         AppIcons.speaker,
-        '🔊 Ucapkan',
+        'Ucapkan',
         'Tekan lama teks untuk mendengar pengucapan (suara sintetis).'
       ),
       (
         AppIcons.sparkles,
-        '✨ AI (opsional)',
-        'Isi API key di Pengaturan untuk penjelasan AI.'
+        'AI Tutor (opsional)',
+        'Isi API key Gemini di Pengaturan untuk penjelasan AI.'
       ),
     ];
     return Padding(
@@ -192,40 +192,21 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: Sp.screen),
       child: ListView(children: [
-        Text('Sudah pernah belajar?', style: AppText.display),
-        const SizedBox(height: Sp.x6),
-        Material(
-          color: p.surface,
-          borderRadius: Radii.lgAll,
-          child: InkWell(
-            borderRadius: Radii.lgAll,
-            onTap: () {
-              ref.read(userDataProvider.notifier).setOnboardingDone();
-              context.go('/');
-            },
-            child: Container(
-              padding: const EdgeInsets.all(Sp.x4),
-              decoration: BoxDecoration(
-                borderRadius: Radii.lgAll,
-                border: Border.all(color: p.border),
-              ),
-              child: Row(children: [
-                Expanded(
-                  child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text('Belum, mulai dari nol', style: AppText.headline),
-                        const SizedBox(height: 2),
-                        Text('Mulai dari tabel Hiragana.',
-                            style: AppText.bodySm.copyWith(color: p.inkMuted)),
-                      ]),
-                ),
-                AppIcon(AppIcons.chevronRight, color: p.inkSubtle),
-              ]),
-            ),
-          ),
+        Text('Siap mulai belajar?', style: AppText.display),
+        const SizedBox(height: Sp.x2),
+        Text(
+          'Pilih titik awalmu sebelum masuk ke Beranda.',
+          style: AppText.bodySm.copyWith(color: p.inkMuted),
         ),
-        const SizedBox(height: Sp.x4),
+        const SizedBox(height: Sp.x5),
+        FilledButton(
+          onPressed: () {
+            ref.read(userDataProvider.notifier).setOnboardingDone();
+            context.go('/');
+          },
+          child: const Text('Mulai dari awal di Beranda'),
+        ),
+        const SizedBox(height: Sp.x5),
         Container(
           padding: const EdgeInsets.all(Sp.x4),
           decoration: BoxDecoration(
@@ -235,7 +216,12 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
           ),
           child:
               Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-            Text('Sudah, sampai bab …', style: AppText.headline),
+            Text('Atau sudah belajar sampai bab …', style: AppText.headline),
+            const SizedBox(height: 2),
+            Text(
+              'Tandai Bab 1–$_doneLesson selesai, lalu lanjut ke Beranda.',
+              style: AppText.bodySm.copyWith(color: p.inkMuted),
+            ),
             const SizedBox(height: Sp.x4),
             Row(mainAxisAlignment: MainAxisAlignment.center, children: [
               IconButton(
@@ -262,7 +248,7 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
               ),
             ]),
             const SizedBox(height: Sp.x4),
-            FilledButton(
+            OutlinedButton(
               onPressed: () {
                 final ud = ref.read(userDataProvider.notifier);
                 if (manifest != null) {
@@ -276,7 +262,8 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
                 ud.setOnboardingDone();
                 context.go('/');
               },
-              child: Text('Mulai dari Bab ${_doneLesson + 1}'),
+              child:
+                  Text('Tandai selesai & ke Beranda (Bab ${_doneLesson + 1})'),
             ),
           ]),
         ),
