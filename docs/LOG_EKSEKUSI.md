@@ -18,3 +18,17 @@ flutter test: - (belum dijalankan di T00)
 Catatan / pertanyaan untuk pemilik:
 - `flutter --version`: Flutter 3.32.8 (stable), Dart 3.8.1, DevTools 2.45.1.
 - `flutter doctor`: Flutter [√], Windows [√], Android toolchain [√] (Android SDK 35.0.0), Chrome [√], Android Studio 2024.1 [√], Connected device (4 available), Network resources [√], Visual Studio [X] (tidak dipakai untuk Android).
+
+## T01 — Git lokal — 2026-11-15 13:42
+Status: SELESAI
+File diubah: - (commit `822132f`)
+flutter analyze: -
+flutter test: -
+Catatan / pertanyaan untuk pemilik: Commit `822132f chore: dokumen, data, dan kode fondasi dari perencana` tercatat di `git log`.
+
+## T02 — Buat proyek Flutter di folder ini — 2026-11-15 13:44
+Status: SELESAI
+File diubah: `.metadata`, `analysis_options.yaml`, `android/app/src/main/kotlin/id/minnapocket/minna_pocket/MainActivity.kt`, `docs/LOG_EKSEKUSI.md` (`lib/main.dart` dan `test/widget_test.dart` dihapus)
+flutter analyze: 67 issues (64 error `uri_does_not_exist`/`undefined_function` di `lib/routes/app_route.dart` karena stub layar baru dibuat di T04; 3 info di `user_data.dart` & `text_theme.dart`)
+flutter test: 11/11 lulus (`test/shared/models_test.dart`, `test/shared/utils_test.dart`)
+Catatan / pertanyaan untuk pemilik: Tidak ada perubahan di `lib/` (selain hapus `lib/main.dart`), `assets/`, `test/shared/`.
