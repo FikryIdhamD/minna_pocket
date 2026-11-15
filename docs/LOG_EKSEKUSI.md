@@ -193,3 +193,17 @@ File diubah: lib/features/search/domain/providers/route_for_ref.dart, lib/featur
 flutter analyze: 0 error, 0 warning (6 info)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T29 — Tersimpan — 2026-11-15 15:47
+Status: SELESAI
+File diubah: lib/features/bookmarks/presentation/screens/bookmarks_screen.dart
+flutter analyze: 0 error, 0 warning (6 info)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
+
+## T30 — Lainnya — 2026-11-15 15:47
+Status: SELESAI
+File diubah: lib/features/home/presentation/screens/more_screen.dart
+flutter analyze: 0 error, 0 warning (6 info)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
