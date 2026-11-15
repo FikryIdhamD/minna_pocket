@@ -172,3 +172,10 @@ File diubah: lib/features/hafalan/domain/providers/deck_providers.dart, lib/feat
 flutter analyze: 0 error, 0 warning (6 info)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T26 — Tab Hafalan + tabel kana — 2026-11-15 15:43
+Status: SELESAI
+File diubah: lib/features/hafalan/presentation/widgets/kana_grid.dart, lib/features/hafalan/presentation/screens/kana_table_screen.dart, lib/features/hafalan/presentation/screens/hafalan_hub_screen.dart
+flutter analyze: 0 error, 0 warning (6 info)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
