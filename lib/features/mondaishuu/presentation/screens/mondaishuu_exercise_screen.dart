@@ -309,7 +309,7 @@ class _MondaishuuExerciseScreenState
         ]),
         const SizedBox(height: Sp.x2),
         for (final ln in ex.linesJp) ...[
-          Builder(builder: (c) {
+          () {
             final lineOffset = offset;
             offset += ln.tokens.where((t) => t.blank).length;
             return JpTextView(
@@ -333,7 +333,7 @@ class _MondaishuuExerciseScreenState
                 );
               },
             );
-          }),
+          }(),
         ],
       ]),
     );
@@ -361,6 +361,7 @@ class _MondaishuuExerciseScreenState
 
     var offset = 0;
     return Container(
+      key: ValueKey('ms_item_${item.id}'),
       padding: const EdgeInsets.all(Sp.x3),
       decoration: BoxDecoration(
         color: p.surface,
@@ -383,7 +384,7 @@ class _MondaishuuExerciseScreenState
           const SizedBox(height: Sp.x2),
         ],
         for (final ln in item.linesJp) ...[
-          Builder(builder: (c) {
+          () {
             final lineOffset = offset;
             offset += ln.tokens.where((t) => t.blank).length;
             return JpTextView(
@@ -392,7 +393,7 @@ class _MondaishuuExerciseScreenState
               blankBuilder: (ctx, idx) =>
                   _buildBlank(ctx, ex, item, idx, isMarked, p),
             );
-          }),
+          }(),
         ],
         if (itemWrong) ...[
           const SizedBox(height: Sp.x2),
@@ -463,24 +464,34 @@ class _MondaishuuExerciseScreenState
             ? FieldState.correct
             : FieldState.wrong);
 
+    void onTextChanged(String v) {
+      final hadInput = _input.values.any((s) => s.trim().isNotEmpty);
+      _input[key] = v;
+      final nowHasInput = _input.values.any((s) => s.trim().isNotEmpty);
+      if (hadInput != nowHasInput) setState(() {});
+    }
+
     switch (b.type) {
       case BlankType.text:
         return KanaTextField(
+          key: ValueKey('ms_blank_$key'),
           width: 110,
           initial: _input[key] ?? '',
           state: state,
-          onChanged: (v) => setState(() => _input[key] = v),
+          onChanged: onTextChanged,
         );
       case BlankType.sentence:
       case BlankType.free:
         return KanaTextField(
+          key: ValueKey('ms_blank_$key'),
           width: 200,
           initial: _input[key] ?? '',
           state: state,
-          onChanged: (v) => setState(() => _input[key] = v),
+          onChanged: onTextChanged,
         );
       case BlankType.choice:
         return Wrap(
+          key: ValueKey('ms_blank_$key'),
           spacing: Sp.x2,
           runSpacing: Sp.x1,
           children: [
@@ -495,6 +506,7 @@ class _MondaishuuExerciseScreenState
       case BlankType.option:
         final val = _input[key] ?? '';
         return ActionChip(
+          key: ValueKey('ms_blank_$key'),
           label: Text(val.isEmpty ? '?' : val),
           backgroundColor: state == FieldState.correct
               ? p.successSubtle
@@ -584,7 +596,15 @@ class _MondaishuuExerciseScreenState
                   children: [
                       Text('Skor $correctCount / $gradedTotal',
                           style: AppText.headline),
-                      const SizedBox(height: Sp.x3),
+                      const SizedBox(height: Sp.x2),
+                      SizedBox(
+                        width: double.infinity,
+                        child: FilledButton.tonal(
+                          onPressed: hasInput ? () => _check(ex) : null,
+                          child: const Text('Periksa lagi'),
+                        ),
+                      ),
+                      const SizedBox(height: Sp.x2),
                       Row(children: [
                         Expanded(
                           child: OutlinedButton(

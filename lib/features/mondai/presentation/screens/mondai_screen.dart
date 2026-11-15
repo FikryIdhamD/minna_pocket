@@ -37,9 +37,14 @@ class MondaiScreen extends ConsumerStatefulWidget {
 }
 
 class _MondaiScreenState extends ConsumerState<MondaiScreen> {
-  late final AudioController _audio =
-      ref.read(audioControllerProvider.notifier);
+  late final AudioController _audio;
   String? _openedAudio;
+
+  @override
+  void initState() {
+    super.initState();
+    _audio = ref.read(audioControllerProvider.notifier);
+  }
 
   @override
   void dispose() {
@@ -421,6 +426,7 @@ class _MondaiScreenState extends ConsumerState<MondaiScreen> {
       case MondaiKind.listenWrite:
         final key = '${q.id}#0';
         return KanaTextField(
+          key: ValueKey('md_listen_$key'),
           initial: ud.answer(key) ?? '',
           onChanged: (v) => ud.setAnswer(key, v),
           hint: S.typeAnswer,
@@ -487,6 +493,7 @@ class _MondaiScreenState extends ConsumerState<MondaiScreen> {
             blankBuilder: (c, idx) {
               final k = '${q.id}#$idx';
               return KanaTextField(
+                key: ValueKey('md_blank_$k'),
                 width: w,
                 initial: ud.answer(k) ?? '',
                 onChanged: (v) => ud.setAnswer(k, v),
