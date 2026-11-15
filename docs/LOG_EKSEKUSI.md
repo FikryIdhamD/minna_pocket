@@ -81,3 +81,10 @@ File diubah: `lib/features/kosakata/presentation/screens/kosakata_screen.dart`, 
 flutter analyze: 0 error, 0 warning (3 info bawaan)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T14 — Bunkei & Reibun — 2026-11-15 14:22
+Status: SELESAI
+File diubah: `lib/features/bunkei_reibun/presentation/screens/bunkei_screen.dart`, `lib/features/bunkei_reibun/presentation/screens/reibun_screen.dart`, `docs/LOG_EKSEKUSI.md`
+flutter analyze: 0 error, 0 warning (3 info bawaan)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
