@@ -228,3 +228,10 @@ File diubah: lib/features/book_extras/presentation/screens/intro_screen.dart
 flutter analyze: 0 error, 0 warning (6 info)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T35 — Latihan campuran (mix_providers, mix_setup_screen, mix_session_screen) — 2026-11-15 15:53
+Status: SELESAI
+File diubah: lib/features/practice_mix/domain/providers/mix_providers.dart, lib/features/practice_mix/presentation/screens/mix_setup_screen.dart, lib/features/practice_mix/presentation/screens/mix_session_screen.dart
+flutter analyze: 0 error, 0 warning (6 info bawaan)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: Sampai di Titik cek 4. Menunggu verifikasi QA pemilik sebelum lanjut ke T40.
