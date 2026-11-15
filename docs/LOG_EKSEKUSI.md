@@ -165,3 +165,10 @@ File diubah: lib/features/mondaishuu/presentation/screens/mondaishuu_result_scre
 flutter analyze: 0 error, 0 warning (6 info)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T25 — Deck, antrian ulasan, kuis (provider) — 2026-11-15 15:40
+Status: SELESAI
+File diubah: lib/features/hafalan/domain/providers/deck_providers.dart, lib/features/hafalan/domain/providers/review_queue.dart, lib/features/hafalan/domain/providers/quiz_builder.dart
+flutter analyze: 0 error, 0 warning (6 info)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
