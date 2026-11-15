@@ -207,3 +207,10 @@ File diubah: lib/features/home/presentation/screens/more_screen.dart
 flutter analyze: 0 error, 0 warning (6 info)
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T31 — Pengaturan + Tandaan — 2026-11-15 15:49
+Status: SELESAI
+File diubah: lib/features/settings/presentation/screens/settings_screen.dart, lib/features/settings/presentation/screens/flags_screen.dart
+flutter analyze: 0 error, 0 warning (6 info)
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
