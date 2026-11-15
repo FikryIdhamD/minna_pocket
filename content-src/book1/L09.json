@@ -1,0 +1,2052 @@
+{
+ "book": 1,
+ "lesson": 9,
+ "title_jp": "{残念|ざんねん}ですが",
+ "title_tr": "Sayang...",
+ "source_pages": {
+  "main_pdf": [
+   97,
+   104
+  ],
+  "translation_pdf": [
+   78,
+   83
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "わかります",
+       "kanji_jp": null,
+       "tr": "mengerti"
+      },
+      {
+       "kana_jp": "あります",
+       "kanji_jp": null,
+       "tr": "ada, mempunyai"
+      },
+      {
+       "kana_jp": "すき［な］",
+       "kanji_jp": "{好|す}き［な］",
+       "tr": "suka, gemar"
+      },
+      {
+       "kana_jp": "きらい［な］",
+       "kanji_jp": "{嫌|きら}い［な］",
+       "tr": "tidak suka"
+      },
+      {
+       "kana_jp": "じょうず［な］",
+       "kanji_jp": "{上手|じょうず}［な］",
+       "tr": "pandai, pintar"
+      },
+      {
+       "kana_jp": "へた［な］",
+       "kanji_jp": "{下手|へた}［な］",
+       "tr": "tidak pandai, tidak pintar"
+      },
+      {
+       "kana_jp": "のみもの",
+       "kanji_jp": "{飲|の}み{物|もの}",
+       "tr": "minuman"
+      },
+      {
+       "kana_jp": "りょうり",
+       "kanji_jp": "{料理|りょうり}",
+       "tr": "masakan (～を　します: memasak)"
+      },
+      {
+       "kana_jp": "スポーツ",
+       "kanji_jp": null,
+       "tr": "olahraga (～を　します: berolahraga)"
+      },
+      {
+       "kana_jp": "やきゅう",
+       "kanji_jp": "{野球|やきゅう}",
+       "tr": "baseball (～を　します: bermain baseball)"
+      },
+      {
+       "kana_jp": "ダンス",
+       "kanji_jp": null,
+       "tr": "dansa (～を　します: berdansa)"
+      },
+      {
+       "kana_jp": "りょこう",
+       "kanji_jp": "{旅行|りょこう}",
+       "tr": "tamasya (～を　します: melalukan perjalanan)"
+      },
+      {
+       "kana_jp": "おんがく",
+       "kanji_jp": "{音楽|おんがく}",
+       "tr": "musik"
+      },
+      {
+       "kana_jp": "うた",
+       "kanji_jp": "{歌|うた}",
+       "tr": "lagu"
+      },
+      {
+       "kana_jp": "クラシック",
+       "kanji_jp": null,
+       "tr": "klasik"
+      },
+      {
+       "kana_jp": "ジャズ",
+       "kanji_jp": null,
+       "tr": "jaz"
+      },
+      {
+       "kana_jp": "コンサート",
+       "kanji_jp": null,
+       "tr": "konser"
+      },
+      {
+       "kana_jp": "カラオケ",
+       "kanji_jp": null,
+       "tr": "karaoke"
+      },
+      {
+       "kana_jp": "かぶき",
+       "kanji_jp": "{歌舞伎|かぶき}",
+       "tr": "Kabuki (salah satu drama tradisional Jepang)"
+      },
+      {
+       "kana_jp": "え",
+       "kanji_jp": "{絵|え}",
+       "tr": "gambar"
+      },
+      {
+       "kana_jp": "じ*",
+       "kanji_jp": "{字|じ}",
+       "tr": "huruf"
+      },
+      {
+       "kana_jp": "かんじ",
+       "kanji_jp": "{漢字|かんじ}",
+       "tr": "Kanji"
+      },
+      {
+       "kana_jp": "ひらがな",
+       "kanji_jp": null,
+       "tr": "Hiragana"
+      },
+      {
+       "kana_jp": "かたかな",
+       "kanji_jp": null,
+       "tr": "Katakana"
+      },
+      {
+       "kana_jp": "ローマじ*",
+       "kanji_jp": "ローマ{字|じ}",
+       "tr": "huruf latin"
+      },
+      {
+       "kana_jp": "こまかい　おかね",
+       "kanji_jp": "{細|こま}かい　お{金|かね}",
+       "tr": "uang kecil, receh"
+      },
+      {
+       "kana_jp": "チケット",
+       "kanji_jp": null,
+       "tr": "tiket"
+      },
+      {
+       "kana_jp": "じかん",
+       "kanji_jp": "{時間|じかん}",
+       "tr": "jam, waktu"
+      },
+      {
+       "kana_jp": "ようじ",
+       "kanji_jp": "{用事|ようじ}",
+       "tr": "urusan"
+      },
+      {
+       "kana_jp": "やくそく",
+       "kanji_jp": "{約束|やくそく}",
+       "tr": "janji (～［を］　します: membuat janji)"
+      },
+      {
+       "kana_jp": "アルバイト",
+       "kanji_jp": null,
+       "tr": "kerja paruh waktu (～を　します: bekerja paruh waktu)"
+      },
+      {
+       "kana_jp": "ごしゅじん",
+       "kanji_jp": "ご{主人|しゅじん}",
+       "tr": "suami (digunakan untuk menyebutkan suami orang lain)"
+      },
+      {
+       "kana_jp": "おっと／しゅじん",
+       "kanji_jp": "{夫|おっと}／{主人|しゅじん}",
+       "tr": "suami"
+      },
+      {
+       "kana_jp": "おくさん",
+       "kanji_jp": "{奥|おく}さん",
+       "tr": "istri (digunakan untuk menyebutkan istri orang lain)"
+      },
+      {
+       "kana_jp": "つま／かない",
+       "kanji_jp": "{妻|つま}／{家内|かない}",
+       "tr": "istri"
+      },
+      {
+       "kana_jp": "こども",
+       "kanji_jp": "{子|こ}ども",
+       "tr": "anak"
+      },
+      {
+       "kana_jp": "よく",
+       "kanji_jp": null,
+       "tr": "dengan baik"
+      },
+      {
+       "kana_jp": "だいたい",
+       "kanji_jp": null,
+       "tr": "kira-kira"
+      },
+      {
+       "kana_jp": "たくさん",
+       "kanji_jp": null,
+       "tr": "banyak"
+      },
+      {
+       "kana_jp": "すこし",
+       "kanji_jp": "{少|すこ}し",
+       "tr": "sedikit"
+      },
+      {
+       "kana_jp": "ぜんぜん",
+       "kanji_jp": "{全然|ぜんぜん}",
+       "tr": "sama sekali (diikuti kalimat negatif)"
+      },
+      {
+       "kana_jp": "はやく",
+       "kanji_jp": "{早|はや}く、{速|はや}く",
+       "tr": "dengat cepat"
+      },
+      {
+       "kana_jp": "～から",
+       "kanji_jp": null,
+       "tr": "karena ～, sebab ～"
+      },
+      {
+       "kana_jp": "どうして",
+       "kanji_jp": null,
+       "tr": "kenapa"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{練習|れんしゅう}C〉",
+     "items": [
+      {
+       "kana_jp": "{貸|か}して　ください。",
+       "kanji_jp": null,
+       "tr": "Tolong pinjamkan."
+      },
+      {
+       "kana_jp": "いいですよ。",
+       "kanji_jp": null,
+       "tr": "Boleh."
+      },
+      {
+       "kana_jp": "{残念|ざんねん}です［が］",
+       "kanji_jp": null,
+       "tr": "sayang sekali"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "ああ",
+       "kanji_jp": null,
+       "tr": "ah, oh"
+      },
+      {
+       "kana_jp": "いっしょに　いかがですか。",
+       "kanji_jp": null,
+       "tr": "Bagaimana kalau bersama-sama?"
+      },
+      {
+       "kana_jp": "［～は］　ちょっと……。",
+       "kanji_jp": null,
+       "tr": "Maaf ya, saya tidak bisa [～]. (ungkapan untuk menolak ajakan orang secara tidak langsung)"
+      },
+      {
+       "kana_jp": "だめですか。",
+       "kanji_jp": null,
+       "tr": "Tidak bisa ya?/Tidak boleh ya?"
+      },
+      {
+       "kana_jp": "また　{今度|こんど}　お{願|ねが}いします。",
+       "kanji_jp": null,
+       "tr": "Maaf, lain kali saja. (ungkapan untuk menolak ajakan orang secara tidak langsung dengan menjaga perasaan lawan bicara)"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "わたしは　イタリア{料理|りょうり}が　{好|す}きです。",
+    "tr": "Saya suka masakan Italia."
+   },
+   {
+    "no": 2,
+    "jp": "わたしは　{日本語|にほんご}が　{少|すこ}し　わかります。",
+    "tr": "Saya dapat mengerti bahasa Jepang sedikit."
+   },
+   {
+    "no": 3,
+    "jp": "きょうは　{子|こ}どもの　{誕生日|たんじょうび}ですから、{早|はや}く　{帰|かえ}ります。",
+    "tr": "Saya cepat pulang karena hari ini hari ulang tahun anak saya."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "お{酒|さけ}が　{好|す}きですか。",
+      "tr": "Suka minuman keras?"
+     },
+     {
+      "jp": "……いいえ、{好|す}きじゃ　ありません。",
+      "tr": "……Tidak, tidak suka."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "どんな　スポーツが　{好|す}きですか。",
+      "tr": "Suka olahraga apa?"
+     },
+     {
+      "jp": "……サッカーが　{好|す}きです。",
+      "tr": "……Suka sepak bola."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "カリナさんは　{絵|え}が　{上手|じょうず}ですか。",
+      "tr": "Apakah Sdr. Karina pandai melukis?"
+     },
+     {
+      "jp": "……はい、［カリナさんは］　とても　{上手|じょうず}です。",
+      "tr": "……Ya, [Sdr. Karina] sangat pandai."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "{田中|たなか}さんは　インドネシア{語|ご}が　わかりますか。",
+      "tr": "Apakah Sdr. Tanaka mengerti bahasa Indonesia?"
+     },
+     {
+      "jp": "……いいえ、{全然|ぜんぜん}　わかりません。",
+      "tr": "……Tidak, sama sekali tidak mengerti."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "{細|こま}かい　お{金|かね}が　ありますか。",
+      "tr": "Apakah punya uang receh?"
+     },
+     {
+      "jp": "……いいえ、ありません。",
+      "tr": "……Tidak, tidak punya."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "{毎朝|まいあさ}　{新聞|しんぶん}を　{読|よ}みますか。",
+      "tr": "Apakah setiap pagi membaca surat kabar?"
+     },
+     {
+      "jp": "……いいえ、{時間|じかん}が　ありませんから、{読|よ}みません。",
+      "tr": "……Tidak, tidak membaca karena tidak ada waktu."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "どうして　きのう　{早|はや}く　{帰|かえ}りましたか。",
+      "tr": "Mengapa kemarin Anda cepat pulang?"
+     },
+     {
+      "jp": "……{用事|ようじ}が　ありましたから。",
+      "tr": "……Karena ada urusan."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "{残念|ざんねん}ですが",
+   "title_tr": "Sayang...",
+   "image": "img/L09/kaiwa.webp",
+   "audio": "audio/L09_kaiwa.m4a",
+   "cd_track": "CD32",
+   "lines": [
+    {
+     "speaker_jp": "{木村|きむら}",
+     "speaker_tr": "Kimura",
+     "jp": "はい。",
+     "tr": "Ya?"
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "{木村|きむら}さんですか。　ミラーです。",
+     "tr": "Sdr. Kimura? Miller di sini."
+    },
+    {
+     "speaker_jp": "{木村|きむら}",
+     "speaker_tr": "Kimura",
+     "jp": "ああ、ミラーさん、こんばんは。　お{元気|げんき}ですか。",
+     "tr": "O, Sdr. Miller, selamat malam. Apa kabar?"
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "ええ、{元気|げんき}です。",
+     "tr": "Ya, baik-baik saja."
+    },
+    {
+     "jp": "あのう、{木村|きむら}さん、クラシックの　コンサート、いっしょに　いかがですか。",
+     "tr": "Sdr. Kimura, bagaimana kalau kita pergi ke konser musik klasik bersama-sama?"
+    },
+    {
+     "speaker_jp": "{木村|きむら}",
+     "speaker_tr": "Kimura",
+     "jp": "いいですね。　いつですか。",
+     "tr": "Bagus, ya. Kapan?"
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "{来週|らいしゅう}の　{金曜日|きんようび}の　{晩|ばん}です。",
+     "tr": "Hari Jumat malam minggu depan."
+    },
+    {
+     "speaker_jp": "{木村|きむら}",
+     "speaker_tr": "Kimura",
+     "jp": "{金曜日|きんようび}ですか。",
+     "tr": "Hari Jumat, ya?"
+    },
+    {
+     "jp": "{金曜日|きんようび}の　{晩|ばん}は　ちょっと……。",
+     "tr": "Kalau hari Jumat malam, saya..."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "だめですか。",
+     "tr": "Tidak bisa?"
+    },
+    {
+     "speaker_jp": "{木村|きむら}",
+     "speaker_tr": "Kimura",
+     "jp": "ええ、{残念|ざんねん}ですが、{友達|ともだち}と　{約束|やくそく}が　ありますから、……。",
+     "tr": "Ya, sayang, tetapi karena ada janji dengan teman."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "そうですか。",
+     "tr": "O, ya?"
+    },
+    {
+     "speaker_jp": "{木村|きむら}",
+     "speaker_tr": "Kimura",
+     "jp": "ええ。　また　{今度|こんど}　お{願|ねが}いします。",
+     "tr": "Ya. Lain kali saja, ya."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "えいが",
+          "スポーツ",
+          "かんこくりょうり"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "が　{好|す}きです。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "text_jp": "サントスさんは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "サッカー",
+          "りょうり",
+          "にほんご"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "が　{上手|じょうず}です。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ひらがな",
+          "かんじ",
+          "にほんご"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "が　わかります。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おかね",
+          "くるま"
+         ]
+        },
+        {
+         "opts_jp": [
+          "やくそく",
+          "ようじ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "が　あります。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いそがしいです",
+          "にほんごが　わかりません",
+          "じかんが　ありません"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "から、テレビを　{見|み}ません。"
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "どうして"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "…………………………か。"
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig2",
+     "image": "img/L09/rb_fig2.webp"
+    },
+    {
+     "id": "fig3",
+     "image": "img/L09/rb_fig3.webp"
+    },
+    {
+     "id": "fig6",
+     "image": "img/L09/rb_fig6.webp"
+    },
+    {
+     "id": "fig7",
+     "image": "img/L09/rb_fig7.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "examples": [
+      {
+       "prompt_jp": "ダンス（いいえ）",
+       "answer_jp": [
+        "ダンスが　{好|す}きですか。",
+        "……いいえ、{好|す}きじゃ　ありません。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{日本料理|にほんりょうり}（はい）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "カラオケ（いいえ、あまり）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{旅行|りょこう}（はい、とても）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{魚|さかな}（いいえ、あまり）"
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "figure": "fig2",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "どんな　スポーツが　{好|す}きですか。",
+        "……{野球|やきゅう}が　{好|す}きです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "figure": "fig3",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "{佐藤|さとう}さんは　{歌|うた}が　{上手|じょうず}です。"
+       ]
+      },
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "ミラーさんは　{歌|うた}が　{上手|じょうず}じゃ　ありません。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "マリアさん・かたかな（はい、{少|すこ}し）",
+       "answer_jp": [
+        "マリアさんは　かたかなが　わかりますか。",
+        "……はい、{少|すこ}し　わかります。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "シュミットさん・{英語|えいご}（はい、よく）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "テレーザちゃん・{漢字|かんじ}（いいえ、あまり）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "サントスさん・{日本語|にほんご}（はい、だいたい）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{山田|やまだ}さんの　{奥|おく}さん・フランス{語|ご}（いいえ、{全然|ぜんぜん}）"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "examples": [
+      {
+       "prompt_jp": "{消|け}しゴム（はい）",
+       "answer_jp": [
+        "{消|け}しゴムが　ありますか。",
+        "……はい、あります。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{辞書|じしょ}（はい）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{名刺|めいし}（いいえ）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{傘|かさ}（いいえ）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{細|こま}かい　お{金|かね}（はい）"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "figure": "fig6",
+     "examples": [
+      {
+       "prompt_jp": "{月曜日|げつようび}・{約束|やくそく}",
+       "answer_jp": [
+        "わたしは　{月曜日|げつようび}　{約束|やくそく}が　あります。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{日曜日|にちようび}・{試験|しけん}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{火曜日|かようび}・{用事|ようじ}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{水曜日|すいようび}・アルバイト"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{金曜日|きんようび}・{時間|じかん}"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "figure": "fig7",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "{時間|じかん}が　ありませんから、タクシーで　{行|い}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 8,
+     "examples": [
+      {
+       "prompt_jp": "{京都|きょうと}へ　{行|い}きません（{約束|やくそく}が　あります）",
+       "answer_jp": [
+        "どうして　{京都|きょうと}へ　{行|い}きませんか。",
+        "……{約束|やくそく}が　ありますから。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{料理|りょうり}を　{習|なら}います（{料理|りょうり}が　{下手|へた}です）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "ご{主人|しゅじん}は　テニスを　しません（{夫|おっと}は　スポーツが　{嫌|きら}いです）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "タイ{語|ご}の　{本|ほん}を　{買|か}いました（{来月|らいげつ}　タイへ　{行|い}きます）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "きのう　{神戸|こうべ}へ　{行|い}きませんでした（{仕事|しごと}が　たくさん　ありました）"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L09/rc1.webp",
+    "dialog": [
+     {
+      "jp": "[[イタリア{料理|りょうり}]]が　{好|す}きですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ええ、{好|す}きです。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "じゃ、{日曜日|にちようび}　いっしょに　[[{食|た}べ]]ませんか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "いいですね。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L09/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L09/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L09/rc2.webp",
+    "dialog": [
+     {
+      "jp": "すみません。　[[{消|け}しゴム]]、ありますか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ええ、ありますよ。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[ちょっと]]　{貸|か}して　ください。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "いいですよ。　どうぞ。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L09/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L09/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L09/rc3.webp",
+    "dialog": [
+     {
+      "jp": "[[コンサート]]の　チケットを　もらいました。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "いっしょに　{行|い}きませんか。"
+     },
+     {
+      "jp": "いつですか。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "{来週|らいしゅう}の　{土曜日|どようび}です。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "{土曜日|どようび}ですか。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "{残念|ざんねん}ですが、[[{仕事|しごと}]]が　ありますから。"
+     },
+     {
+      "jp": "そうですか。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L09/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L09/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L09_mondai1.m4a",
+    "cd_track": "CD33",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_truefalse",
+    "audio": "audio/L09_mondai2.m4a",
+    "cd_track": "CD34",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "choice",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{日曜日|にちようび}　（[[いつも]]）　テニスを　します。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "マリアさんは　{漢字|かんじ}が　（　　　）　わかりません。"
+      ],
+      "choices_jp": [
+       "{全然|ぜんぜん}",
+       "とても",
+       "たくさん",
+       "よく"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "あの　{人|ひと}は　お{金|かね}が　（　　　）　あります。"
+      ],
+      "choices_jp": [
+       "{全然|ぜんぜん}",
+       "とても",
+       "たくさん",
+       "よく"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "この　パンは　（　　　）　おいしいです。"
+      ],
+      "choices_jp": [
+       "{全然|ぜんぜん}",
+       "とても",
+       "たくさん",
+       "よく"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "ワンさんは　{英語|えいご}が　（　　　）　わかります。"
+      ],
+      "choices_jp": [
+       "{全然|ぜんぜん}",
+       "とても",
+       "たくさん",
+       "よく"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "あの　{方|かた}は　（どなた）　ですか。",
+       "……{松本|まつもと}さんの　{奥|おく}さんです。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{松本|まつもと}さんの　{奥|おく}さんは　（＿）　{人|ひと}ですか。",
+       "……{親切|しんせつ}な　{人|ひと}です。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "（＿）　あの　{店|みせ}で　ワインを　{買|か}いますか。",
+       "……{安|やす}いですから。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "カリナさんは　（＿）　{料理|りょうり}が　{好|す}きですか。",
+       "……{韓国料理|かんこくりょうり}が　{好|す}きです。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{勉強|べんきょう}は　（＿）　ですか。",
+       "……おもしろいです。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{国|くに}で　（＿）に　{日本語|にほんご}を　{習|なら}いましたか。",
+       "……{日本人|にほんじん}の　{先生|せんせい}に　{習|なら}いました。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "choice",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{時間|じかん}が　ありませんから、[[{本|ほん}を　{読|よ}みません]]。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "テニスが　{好|す}きですから、……。"
+      ],
+      "choices_jp": [
+       "{銀行|ぎんこう}は　{休|やす}みです",
+       "{毎週|まいしゅう}　します",
+       "{何|なに}も　{買|か}いません",
+       "{熱|あつ}い　コーヒーを　{飲|の}みます"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{寒|さむ}いですから、……。"
+      ],
+      "choices_jp": [
+       "{銀行|ぎんこう}は　{休|やす}みです",
+       "{毎週|まいしゅう}　します",
+       "{何|なに}も　{買|か}いません",
+       "{熱|あつ}い　コーヒーを　{飲|の}みます"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "お{金|かね}が　ありませんから、……。"
+      ],
+      "choices_jp": [
+       "{銀行|ぎんこう}は　{休|やす}みです",
+       "{毎週|まいしゅう}　します",
+       "{何|なに}も　{買|か}いません",
+       "{熱|あつ}い　コーヒーを　{飲|の}みます"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{日曜日|にちようび}ですから、……。"
+      ],
+      "choices_jp": [
+       "{銀行|ぎんこう}は　{休|やす}みです",
+       "{毎週|まいしゅう}　します",
+       "{何|なに}も　{買|か}いません",
+       "{熱|あつ}い　コーヒーを　{飲|の}みます"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "ビール（を）　{飲|の}みます。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "マリアさんは　ダンス（＿）　{上手|じょうず}です。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "わたしは　タイ{語|ご}（＿）　わかりません。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{日曜日|にちようび}　{友達|ともだち}と　{約束|やくそく}（＿）　あります。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "あした　{忙|いそが}しいです（＿）、どこも　{行|い}きません。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "どんな　{映画|えいが}（＿）　{好|す}きですか。"
+      ]
+     },
+     {
+      "no": 6,
+      "lines_jp": [
+       "{歌|うた}（＿）　{下手|へた}です（＿）、カラオケが　{嫌|きら}いです。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "kind": "truefalse",
+    "passage_title_jp": "{山田|やまだ}さんと　ダンス",
+    "passage_jp": [
+     "{山田|やまだ}さんは　ダンスが　{好|す}きです。　{毎晩|まいばん}　ダンスの　{学校|がっこう}へ　{行|い}きます。　ダンスの　{先生|せんせい}は　きれいな　{人|ひと}です。　{山田|やまだ}さんは　{上手|じょうず}では　ありませんが、きれいな　{先生|せんせい}に　{習|なら}いますから、{毎日|まいにち}　{楽|たの}しいです。　{先生|せんせい}の　{誕生日|たんじょうび}に　コンサートの　チケットを　あげました。　{先生|せんせい}は　{友達|ともだち}と　{行|い}きました。　{山田|やまだ}さんは　とても　{残念|ざんねん}です。"
+    ],
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{山田|やまだ}さんは　{毎日|まいにち}　ダンスの　{学校|がっこう}へ　{行|い}きますから、ダンスが　{上手|じょうず}です。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{山田|やまだ}さんは　きれいな　{先生|せんせい}に　ダンスを　{習|なら}います。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{先生|せんせい}は　{山田|やまだ}さんに　コンサートの　チケットを　もらいました。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{山田|やまだ}さんは　{先生|せんせい}と　いっしょに　{音楽|おんがく}を　{聞|き}きました。"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Kata Benda が　あります／わかります／Kata Benda が　{好|す}きです／{嫌|きら}いです／{上手|じょうず}です／{下手|へた}です",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Sebagian Kata Kerja atau Kata Sifat menunjukkan objek dengan partikel が."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "わたしは　イタリア{料理|りょうり}が　{好|す}きです。",
+        "tr": "Saya suka masakan Italia."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "わたしは　{日本語|にほんご}が　わかります。",
+        "tr": "Saya mengerti bahasa Jepang."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "わたしは　{車|くるま}が　あります。",
+        "tr": "Saya mempunyai mobil."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "どんな　Kata Benda",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Cara menjawab untuk kalimat tanya dengan menggunakan どんな, selain cara menjawab yang telah dipelajari pada Pelajaran 8, dapat dijawab juga dengan memberikan nama secara kongkret."
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "どんな　スポーツが　{好|す}きですか。",
+        "tr": "Suka olahraga apa?"
+       },
+       {
+        "jp": "……サッカーが　{好|す}きです。",
+        "tr": "……Suka sepak bola."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "よく／だいたい／たくさん／{少|すこ}し／あまり／{全然|ぜんぜん}",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Kata Keterangan tersebut di atas diletakkan di depan Kata Kerja yang diterangkannya."
+     },
+     {
+      "type": "table",
+      "header": [
+       [
+        {
+         "tr": ""
+        }
+       ],
+       [
+        {
+         "tr": "Kata Keterangan tingkat"
+        }
+       ],
+       [
+        {
+         "tr": "Kata Keterangan kuantitas"
+        }
+       ]
+      ],
+      "rows": [
+       [
+        [
+         {
+          "tr": "digunakan dengan kalimat positif"
+         }
+        ],
+        [
+         {
+          "jp": "よく　わかります"
+         },
+         {
+          "jp": "だいたい　わかります"
+         },
+         {
+          "jp": "すこし　わかります"
+         }
+        ],
+        [
+         {
+          "jp": "たくさん　あります"
+         },
+         {
+          "jp": "すこし　あります"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "tr": "digunakan dengan kalimat negatif"
+         }
+        ],
+        [
+         {
+          "jp": "あまり　わかりません"
+         },
+         {
+          "jp": "ぜんぜん　わかりません"
+         }
+        ],
+        [
+         {
+          "jp": "あまり　ありません"
+         },
+         {
+          "jp": "ぜんぜん　ありません"
+         }
+        ]
+       ]
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "{英語|えいご}が　よく　わかります。",
+        "tr": "Mengerti bahasa Inggris dengan baik."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "{英語|えいご}が　{少|すこ}し　わかります。",
+        "tr": "Mengerti bahasa Inggris sedikit."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "{英語|えいご}が　あまり　わかりません。",
+        "tr": "Tidak begitu mengerti bahasa Inggris."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "お{金|かね}が　たくさん　あります。",
+        "tr": "Uang ada banyak."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "お{金|かね}が　{全然|ぜんぜん}　ありません。",
+        "tr": "Uang tidak ada sama sekali."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] すこし, ぜんぜん dan あまり juga dapat menerangkan Kata Sifat."
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "ここは　{少|すこ}し　{寒|さむ}いです。",
+        "tr": "Di sini sedikit dingin."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "あの　{映画|えいが}は　{全然|ぜんぜん}　おもしろくないです。",
+        "tr": "Film itu tidak menarik sama sekali."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "～から、～",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Hal yang dinyatakan di depan から merupakan alasan dari kalimat yang dinyatakan di belakangnya."
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "{時間|じかん}が　ありませんから、{新聞|しんぶん}を　{読|よ}みません。",
+        "tr": "Karena tidak ada waktu, tidak membaca surat kabar."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Digunakan juga untuk menyatakan suatu hal dan alasan dengan memasukkan ～から."
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "{毎朝|まいあさ}　{新聞|しんぶん}を　{読|よ}みますか。",
+        "tr": "Apakah membaca surat kabar setiap pagi?"
+       },
+       {
+        "jp": "……いいえ、{読|よ}みません。　{時間|じかん}が　ありませんから。",
+        "tr": "……Tidak, tidak membaca. Karena tidak ada waktu."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "どうして",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "どうして adalah Kata Tanya untuk menanyakan alasan. Pada akhir kalimat dibubuhkan から untuk menyatakan alasannya."
+     },
+     {
+      "type": "ex",
+      "mark": "⑭",
+      "lines": [
+       {
+        "jp": "どうして　{朝|あさ}　{新聞|しんぶん}を　{読|よ}みませんか。",
+        "tr": "Mengapa pada pagi hari tidak membaca surat kabar?"
+       },
+       {
+        "jp": "……{時間|じかん}が　ありませんから。",
+        "tr": "……Sebab tidak ada waktu."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Jika menanyakan alasan yang dikatakan oleh lawan bicara, dapat mengatakan どうしてですか untuk tidak menanyakan kata-kata yang dikatakan oleh lawan bicara."
+     },
+     {
+      "type": "ex",
+      "mark": "⑮",
+      "lines": [
+       {
+        "jp": "きょうは　{早|はや}く　{帰|かえ}ります。",
+        "tr": "Hari ini cepat pulang."
+       },
+       {
+        "jp": "……どうしてですか。",
+        "tr": "……Mengapa?"
+       },
+       {
+        "jp": "{子|こ}どもの　{誕生日|たんじょうび}ですから。",
+        "tr": "Sebab hari ulang tahun anak."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{音楽|おんがく}・スポーツ・{映画|えいが}",
+   "title_tr": "Musik, Olahraga, Film",
+   "blocks": [
+    {
+     "type": "h",
+     "text_rich": "{音楽|おんがく}　Musik"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "ポップス"
+        }
+       ],
+       [
+        {
+         "tr": "pop"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ロック"
+        }
+       ],
+       [
+        {
+         "tr": "rock"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ジャズ"
+        }
+       ],
+       [
+        {
+         "tr": "jaz"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ラテン"
+        }
+       ],
+       [
+        {
+         "tr": "musik Latin"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "クラシック"
+        }
+       ],
+       [
+        {
+         "tr": "musik klasik"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{民謡|みんよう}"
+        }
+       ],
+       [
+        {
+         "tr": "musik rakyat/nyanyian daerah"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{演歌|えんか}"
+        }
+       ],
+       [
+        {
+         "tr": "lagu tradisional Jepang populer"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ミュージカル"
+        }
+       ],
+       [
+        {
+         "tr": "drama musikal"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "オペラ"
+        }
+       ],
+       [
+        {
+         "tr": "opera"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "{映画|えいが}　Film"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "SF"
+        }
+       ],
+       [
+        {
+         "tr": "film fiksi ilmiah"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ホラー"
+        }
+       ],
+       [
+        {
+         "tr": "film horor"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "アニメ"
+        }
+       ],
+       [
+        {
+         "tr": "film kartun, animasi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ドキュメンタリー"
+        }
+       ],
+       [
+        {
+         "tr": "film dokumentasi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{恋愛|れんあい}"
+        }
+       ],
+       [
+        {
+         "tr": "film percintaan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ミステリー"
+        }
+       ],
+       [
+        {
+         "tr": "film misteri"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{文芸|ぶんげい}"
+        }
+       ],
+       [
+        {
+         "tr": "film kesusastraan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{戦争|せんそう}"
+        }
+       ],
+       [
+        {
+         "tr": "film peperangan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "アクション"
+        }
+       ],
+       [
+        {
+         "tr": "film action"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{喜劇|きげき}"
+        }
+       ],
+       [
+        {
+         "tr": "film komedi"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "スポーツ　Olahraga"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "ソフトボール"
+        }
+       ],
+       [
+        {
+         "tr": "softball"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "サッカー"
+        }
+       ],
+       [
+        {
+         "tr": "sepak bola"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ラグビー"
+        }
+       ],
+       [
+        {
+         "tr": "rugby"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "バレーボール"
+        }
+       ],
+       [
+        {
+         "tr": "voli"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "バスケットボール"
+        }
+       ],
+       [
+        {
+         "tr": "basket"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "テニス"
+        }
+       ],
+       [
+        {
+         "tr": "tenis"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ボウリング"
+        }
+       ],
+       [
+        {
+         "tr": "bowling"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "スキー"
+        }
+       ],
+       [
+        {
+         "tr": "ski"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "スケート"
+        }
+       ],
+       [
+        {
+         "tr": "skate"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{野球|やきゅう}"
+        }
+       ],
+       [
+        {
+         "tr": "baseball"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{卓球|たっきゅう}／ピンポン"
+        }
+       ],
+       [
+        {
+         "tr": "ping-pong"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{相撲|すもう}"
+        }
+       ],
+       [
+        {
+         "tr": "Sumo (gulat tradisional Jepang)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{柔道|じゅうどう}"
+        }
+       ],
+       [
+        {
+         "tr": "Judo (olahraga trasional Jepang)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{剣道|けんどう}"
+        }
+       ],
+       [
+        {
+         "tr": "Kendo (olahraga tradisional Jepang)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{水泳|すいえい}"
+        }
+       ],
+       [
+        {
+         "tr": "renang"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ }
+}

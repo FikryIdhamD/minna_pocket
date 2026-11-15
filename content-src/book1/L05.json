@@ -1,0 +1,1775 @@
+{
+ "book": 1,
+ "lesson": 5,
+ "title_jp": "この　{電車|でんしゃ}は　{甲子園|こうしえん}へ　{行|い}きますか",
+ "title_tr": "Apakah Kereta Rel Listrik Ini Menuju Koshien?",
+ "source_pages": {
+  "main_pdf": [
+   63,
+   70
+  ],
+  "translation_pdf": [
+   54,
+   59
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "いきます",
+       "kanji_jp": "{行|い}きます",
+       "tr": "pergi"
+      },
+      {
+       "kana_jp": "きます",
+       "kanji_jp": "{来|き}ます",
+       "tr": "datang"
+      },
+      {
+       "kana_jp": "かえります",
+       "kanji_jp": "{帰|かえ}ります",
+       "tr": "pulang"
+      },
+      {
+       "kana_jp": "がっこう",
+       "kanji_jp": "{学校|がっこう}",
+       "tr": "sekolah"
+      },
+      {
+       "kana_jp": "スーパー",
+       "kanji_jp": null,
+       "tr": "pasar swalayan"
+      },
+      {
+       "kana_jp": "えき",
+       "kanji_jp": "{駅|えき}",
+       "tr": "stasiun"
+      },
+      {
+       "kana_jp": "ひこうき",
+       "kanji_jp": "{飛行機|ひこうき}",
+       "tr": "pesawat terbang"
+      },
+      {
+       "kana_jp": "ふね",
+       "kanji_jp": "{船|ふね}",
+       "tr": "kapal laut"
+      },
+      {
+       "kana_jp": "でんしゃ",
+       "kanji_jp": "{電車|でんしゃ}",
+       "tr": "kereta rel listrik"
+      },
+      {
+       "kana_jp": "ちかてつ",
+       "kanji_jp": "{地下鉄|ちかてつ}",
+       "tr": "kereta bawah tanah"
+      },
+      {
+       "kana_jp": "しんかんせん",
+       "kanji_jp": "{新幹線|しんかんせん}",
+       "tr": "Shinkansen"
+      },
+      {
+       "kana_jp": "バス",
+       "kanji_jp": null,
+       "tr": "bus"
+      },
+      {
+       "kana_jp": "タクシー",
+       "kanji_jp": null,
+       "tr": "taksi"
+      },
+      {
+       "kana_jp": "じてんしゃ",
+       "kanji_jp": "{自転車|じてんしゃ}",
+       "tr": "sepeda"
+      },
+      {
+       "kana_jp": "あるいて",
+       "kanji_jp": "{歩|ある}いて",
+       "tr": "dengan berjalan kaki"
+      },
+      {
+       "kana_jp": "ひと",
+       "kanji_jp": "{人|ひと}",
+       "tr": "orang"
+      },
+      {
+       "kana_jp": "ともだち",
+       "kanji_jp": "{友達|ともだち}",
+       "tr": "teman"
+      },
+      {
+       "kana_jp": "かれ*",
+       "kanji_jp": "{彼|かれ}",
+       "tr": "dia, ia (laki-laki)"
+      },
+      {
+       "kana_jp": "かのじょ",
+       "kanji_jp": "{彼女|かのじょ}",
+       "tr": "dia, ia (perempuan)"
+      },
+      {
+       "kana_jp": "かぞく",
+       "kanji_jp": "{家族|かぞく}",
+       "tr": "keluarga"
+      },
+      {
+       "kana_jp": "ひとりで",
+       "kanji_jp": "{一人|ひとり}で",
+       "tr": "sendirian, dengan sendiri"
+      },
+      {
+       "kana_jp": "せんしゅう",
+       "kanji_jp": "{先週|せんしゅう}",
+       "tr": "minggu lalu"
+      },
+      {
+       "kana_jp": "こんしゅう",
+       "kanji_jp": "{今週|こんしゅう}",
+       "tr": "minggu ini"
+      },
+      {
+       "kana_jp": "らいしゅう",
+       "kanji_jp": "{来週|らいしゅう}",
+       "tr": "minggu depan"
+      },
+      {
+       "kana_jp": "せんげつ",
+       "kanji_jp": "{先月|せんげつ}",
+       "tr": "bulan lalu"
+      },
+      {
+       "kana_jp": "こんげつ*",
+       "kanji_jp": "{今月|こんげつ}",
+       "tr": "bulan ini"
+      },
+      {
+       "kana_jp": "らいげつ",
+       "kanji_jp": "{来月|らいげつ}",
+       "tr": "bulan depan"
+      },
+      {
+       "kana_jp": "きょねん",
+       "kanji_jp": "{去年|きょねん}",
+       "tr": "tahun lalu"
+      },
+      {
+       "kana_jp": "ことし*",
+       "kanji_jp": null,
+       "tr": "tahun ini"
+      },
+      {
+       "kana_jp": "らいねん",
+       "kanji_jp": "{来年|らいねん}",
+       "tr": "tahun depan"
+      },
+      {
+       "kana_jp": "―ねん*",
+       "kanji_jp": "―{年|ねん}",
+       "tr": "tahun ―"
+      },
+      {
+       "kana_jp": "なんねん*",
+       "kanji_jp": "{何年|なんねん}",
+       "tr": "tahun berapa"
+      },
+      {
+       "kana_jp": "―がつ",
+       "kanji_jp": "―{月|がつ}",
+       "tr": "bulan ―"
+      },
+      {
+       "kana_jp": "なんがつ*",
+       "kanji_jp": "{何月|なんがつ}",
+       "tr": "bulan apa"
+      },
+      {
+       "kana_jp": "ついたち",
+       "kanji_jp": "{1日|ついたち}",
+       "tr": "tanggal satu"
+      },
+      {
+       "kana_jp": "ふつか*",
+       "kanji_jp": "{2日|ふつか}",
+       "tr": "tanggal dua, dua hari"
+      },
+      {
+       "kana_jp": "みっか",
+       "kanji_jp": "{3日|みっか}",
+       "tr": "tanggal tiga, tiga hari"
+      },
+      {
+       "kana_jp": "よっか*",
+       "kanji_jp": "{4日|よっか}",
+       "tr": "tanggal empat, empat hari"
+      },
+      {
+       "kana_jp": "いつか*",
+       "kanji_jp": "{5日|いつか}",
+       "tr": "tanggal lima, lima hari"
+      },
+      {
+       "kana_jp": "むいか",
+       "kanji_jp": "{6日|むいか}",
+       "tr": "tanggal enam, enam hari"
+      },
+      {
+       "kana_jp": "なのか*",
+       "kanji_jp": "{7日|なのか}",
+       "tr": "tanggal tujuh, tujuh hari"
+      },
+      {
+       "kana_jp": "ようか*",
+       "kanji_jp": "{8日|ようか}",
+       "tr": "tanggal delapan, delapan hari"
+      },
+      {
+       "kana_jp": "ここのか",
+       "kanji_jp": "{9日|ここのか}",
+       "tr": "tanggal sembilan, sembilan hari"
+      },
+      {
+       "kana_jp": "とおか",
+       "kanji_jp": "{10日|とおか}",
+       "tr": "tanggal sepuluh, sepuluh hari"
+      },
+      {
+       "kana_jp": "じゅうよっか",
+       "kanji_jp": "{14日|じゅうよっか}",
+       "tr": "tanggal empat belas, empat belas hari"
+      },
+      {
+       "kana_jp": "はつか*",
+       "kanji_jp": "{20日|はつか}",
+       "tr": "tanggal dua puluh, dua puluh hari"
+      },
+      {
+       "kana_jp": "にじゅうよっか*",
+       "kanji_jp": "{24日|にじゅうよっか}",
+       "tr": "tanggal dua puluh empat, dua puluh empat hari"
+      },
+      {
+       "kana_jp": "―にち",
+       "kanji_jp": "―{日|にち}",
+       "tr": "tanggal ―, ― hari"
+      },
+      {
+       "kana_jp": "なんにち*",
+       "kanji_jp": "{何日|なんにち}",
+       "tr": "tanggal berapa, berapa hari"
+      },
+      {
+       "kana_jp": "いつ",
+       "kanji_jp": null,
+       "tr": "kapan"
+      },
+      {
+       "kana_jp": "たんじょうび",
+       "kanji_jp": "{誕生日|たんじょうび}",
+       "tr": "hari ulang tahun"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{練習|れんしゅう}C〉",
+     "items": [
+      {
+       "kana_jp": "そうですね。",
+       "kanji_jp": null,
+       "tr": "Ya, betul./Ya, begitulah."
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "［どうも］　ありがとう　ございました。",
+       "kanji_jp": null,
+       "tr": "Terima kasih [banyak]."
+      },
+      {
+       "kana_jp": "どう　いたしまして。",
+       "kanji_jp": null,
+       "tr": "Sama-sama."
+      },
+      {
+       "kana_jp": "―{番線|ばんせん}",
+       "kanji_jp": null,
+       "tr": "peron nomor ―"
+      },
+      {
+       "kana_jp": "{次|つぎ}の",
+       "kanji_jp": null,
+       "tr": "yang berikutnya"
+      },
+      {
+       "kana_jp": "{普通|ふつう}",
+       "kanji_jp": null,
+       "tr": "biasa"
+      },
+      {
+       "kana_jp": "{急行|きゅうこう}*",
+       "kanji_jp": null,
+       "tr": "ekspres"
+      },
+      {
+       "kana_jp": "{特急|とっきゅう}*",
+       "kanji_jp": null,
+       "tr": "super ekspres"
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "{甲子園|こうしえん}",
+       "kanji_jp": null,
+       "tr": "nama kota yang terletak di dekat Osaka"
+      },
+      {
+       "kana_jp": "{大阪城|おおさかじょう}",
+       "kanji_jp": null,
+       "tr": "nama benteng kuno terkenal di Osaka"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "わたしは　{京都|きょうと}へ　{行|い}きます。",
+    "tr": "Saya pergi ke Kyoto."
+   },
+   {
+    "no": 2,
+    "jp": "わたしは　タクシーで　うちへ　{帰|かえ}ります。",
+    "tr": "Saya pulang ke rumah dengan taksi."
+   },
+   {
+    "no": 3,
+    "jp": "わたしは　{家族|かぞく}と　{日本|にほん}へ　{来|き}ました。",
+    "tr": "Saya datang ke Jepang bersama dengan keluarga."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "あした　どこへ　{行|い}きますか。",
+      "tr": "Besok pergi ke mana?"
+     },
+     {
+      "jp": "……{奈良|なら}へ　{行|い}きます。",
+      "tr": "……Pergi ke Nara."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "{日曜日|にちようび}　どこへ　{行|い}きましたか。",
+      "tr": "Hari Minggu pergi ke mana?"
+     },
+     {
+      "jp": "……どこ［へ］も　{行|い}きませんでした。",
+      "tr": "……Tidak pergi ke mana-mana."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "{何|なん}で　{東京|とうきょう}へ　{行|い}きますか。",
+      "tr": "Dengan apa pergi ke Tokyo?"
+     },
+     {
+      "jp": "……{新幹線|しんかんせん}で　{行|い}きます。",
+      "tr": "……Pergi dengan Shinkansen."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "だれと　{東京|とうきょう}へ　{行|い}きますか。",
+      "tr": "Dengan siapa pergi ke Tokyo?"
+     },
+     {
+      "jp": "……{山田|やまだ}さんと　{行|い}きます。",
+      "tr": "……Pergi dengan Sdr. Yamada."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "いつ　{日本|にほん}へ　{来|き}ましたか。",
+      "tr": "Kapan datang di Jepang?"
+     },
+     {
+      "jp": "……3{月|がつ}25{日|にち}に　{来|き}ました。",
+      "tr": "……Datang pada tanggal 25 Maret."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "{誕生日|たんじょうび}は　いつですか。",
+      "tr": "Kapan hari ulang tahun?"
+     },
+     {
+      "jp": "……6{月|がつ}13{日|にち}です。",
+      "tr": "……Tanggal 13 Juni."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "この　{電車|でんしゃ}は　{甲子園|こうしえん}へ　{行|い}きますか",
+   "title_tr": "Apakah Kereta Rel Listrik Ini Menuju Koshien?",
+   "image": "img/L05/kaiwa.webp",
+   "audio": "audio/L05_kaiwa.m4a",
+   "cd_track": "CD17",
+   "lines": [
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "jp": "すみません。　{甲子園|こうしえん}まで　いくらですか。",
+     "tr": "Maaf. Sampai dengan Koshien berapa?"
+    },
+    {
+     "speaker_jp": "{女|おんな}の　{人|ひと}",
+     "speaker_tr": "Wanita",
+     "jp": "350{円|えん}です。",
+     "tr": "¥350."
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "jp": "350{円|えん}ですね。　ありがとう　ございました。",
+     "tr": "¥350, ya? Terima kasih."
+    },
+    {
+     "speaker_jp": "{女|おんな}の　{人|ひと}",
+     "speaker_tr": "Wanita",
+     "jp": "どう　いたしまして。",
+     "tr": "Sama-sama."
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "break_before": true,
+     "jp": "すみません。　{甲子園|こうしえん}は　{何番線|なんばんせん}ですか。",
+     "tr": "Maaf. Jurusan Koshien di peron berapa?"
+    },
+    {
+     "speaker_jp": "{駅員|えきいん}",
+     "speaker_tr": "Petugas stasiun",
+     "jp": "5{番線|ばんせん}です。",
+     "tr": "Peron nomor lima."
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "jp": "どうも。",
+     "tr": "Terima kasih."
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "break_before": true,
+     "jp": "あのう、この　{電車|でんしゃ}は　{甲子園|こうしえん}へ　{行|い}きますか。",
+     "tr": "Permisi, kereta rel listrik ini menuju Koshien?"
+    },
+    {
+     "speaker_jp": "{男|おとこ}の　{人|ひと}",
+     "speaker_tr": "Pria",
+     "jp": "いいえ。　{次|つぎ}の　「{普通|ふつう}」ですよ。",
+     "tr": "Tidak. Yang “Biasa” berikutnya."
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "jp": "そうですか。　どうも。",
+     "tr": "O, begitu. Terima kasih."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "スーパー",
+          "かいしゃ",
+          "とうきょう"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "へ　{行|い}きます。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "どこ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "………………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "バス",
+          "ちかてつ",
+          "じてんしゃ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "で　{会社|かいしゃ}へ　{行|い}きます。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "なん"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "……………………………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ミラーさん",
+          "ともだち",
+          "かぞく"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "と　{日本|にほん}へ　{来|き}ました。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "だれ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "…………………………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "7がつ15にちに",
+          "にちようび［に］",
+          "らいしゅう"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "{国|くに}へ　{帰|かえ}ります。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いつ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "………………………か。"
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig1",
+     "image": "img/L05/rb_fig1.webp"
+    },
+    {
+     "id": "fig2",
+     "image": "img/L05/rb_fig2.webp"
+    },
+    {
+     "id": "fig3",
+     "image": "img/L05/rb_fig3.webp"
+    },
+    {
+     "id": "fig6",
+     "image": "img/L05/rb_fig6.webp"
+    },
+    {
+     "id": "fig7",
+     "image": "img/L05/rb_fig7.webp"
+    },
+    {
+     "id": "fig8",
+     "image": "img/L05/rb_fig8.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "figure": "fig1",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "スーパーへ　{行|い}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "figure": "fig2",
+     "examples": [
+      {
+       "prompt_jp": "けさ",
+       "answer_jp": [
+        "けさ　どこへ　{行|い}きましたか。",
+        "……スーパーへ　{行|い}きました。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{先月|せんげつ}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "きのうの　{午後|ごご}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{来週|らいしゅう}の　{月曜日|げつようび}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{先週|せんしゅう}の　{日曜日|にちようび}"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "figure": "fig3",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "{何|なん}で　{京都|きょうと}へ　{行|い}きますか。",
+        "……{電車|でんしゃ}で　{行|い}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "{京都|きょうと}（{友達|ともだち}）",
+       "answer_jp": [
+        "だれと　{京都|きょうと}へ　{行|い}きますか。",
+        "……{友達|ともだち}と　{行|い}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{美術館|びじゅつかん}（{彼女|かのじょ}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{広島|ひろしま}（{会社|かいしゃ}の　{人|ひと}）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{北海道|ほっかいどう}（{家族|かぞく}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "フランス（{一人|ひとり}で）"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "examples": [
+      {
+       "prompt_jp": "{京都|きょうと}（3{月|がつ}{3日|みっか}）",
+       "answer_jp": [
+        "いつ　{京都|きょうと}へ　{行|い}きますか。",
+        "……3{月|がつ}{3日|みっか}に　{行|い}きます。"
+       ]
+      },
+      {
+       "prompt_jp": "{東京|とうきょう}（{来週|らいしゅう}）",
+       "answer_jp": [
+        "いつ　{東京|とうきょう}へ　{行|い}きますか。",
+        "……{来週|らいしゅう}　{行|い}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "さくら{大学|だいがく}（9{月|がつ}{14日|じゅうよっか}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "アメリカ（{来年|らいねん}の　3{月|がつ}）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{広島|ひろしま}（{来月|らいげつ}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{病院|びょういん}（{今週|こんしゅう}の　{水曜日|すいようび}）"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "figure": "fig6",
+     "examples": [
+      {
+       "prompt_jp": "いつ　{日本|にほん}へ　{来|き}ましたか。",
+       "answer_jp": [
+        "{去年|きょねん}の　9{月|がつ}に　{来|き}ました。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "だれと　{日本|にほん}へ　{来|き}ましたか。"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{先月|せんげつ}　どこへ　{行|い}きましたか。"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{何|なん}で　{韓国|かんこく}へ　{行|い}きましたか。"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "いつ　{国|くに}へ　{帰|かえ}りますか。"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "figure": "fig7",
+     "examples": [
+      {
+       "prompt_jp": "{毎朝|まいあさ}　{何時|なんじ}に　{会社|かいしゃ}へ　{行|い}きますか。",
+       "answer_jp": [
+        "7{時|じ}{半|はん}に　{行|い}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{毎朝|まいあさ}　{何|なん}で　{会社|かいしゃ}へ　{行|い}きますか。"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{毎晩|まいばん}　{何時|なんじ}に　うちへ　{帰|かえ}りますか。"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "おととい　だれと　{大阪城|おおさかじょう}へ　{行|い}きましたか。"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{土曜日|どようび}　どこへ　{行|い}きますか。"
+      }
+     ]
+    },
+    {
+     "no": 8,
+     "figure": "fig8",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "ミラーさんの　{誕生日|たんじょうび}は　いつですか。",
+        "……10{月|がつ}{6日|むいか}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L05/rc1.webp",
+    "dialog": [
+     {
+      "jp": "あしたは　{日曜日|にちようび}ですね。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "あ、そうですね。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "わたしは　[[{大阪城|おおさかじょう}]]へ　{行|い}きます。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "タワポンさんは？"
+     },
+     {
+      "jp": "どこも　{行|い}きません。　[[{勉強|べんきょう}します]]。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L05/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L05/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L05/rc2.webp",
+    "dialog": [
+     {
+      "jp": "{先週|せんしゅう}　{東京|とうきょう}へ　{行|い}きました。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "これ、お{土産|みやげ}です。　どうぞ。"
+     },
+     {
+      "jp": "ありがとう　ございます。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "{一人|ひとり}で　{行|い}きましたか。"
+     },
+     {
+      "jp": "いいえ、[[{友達|ともだち}]]と　{行|い}きました。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "{何|なん}で　{行|い}きましたか。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[バス]]で　{行|い}きました。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L05/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L05/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L05/rc3.webp",
+    "dialog": [
+     {
+      "jp": "お{国|くに}は　どちらですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[アメリカ]]です。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "そうですか。　いつ　{日本|にほん}へ　{来|き}ましたか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[{去年|きょねん}の　9{月|がつ}]]に　{来|き}ました。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L05/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L05/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L05_mondai1.m4a",
+    "cd_track": "CD18",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_choice_image",
+    "audio": "audio/L05_mondai2.m4a",
+    "cd_track": "CD19",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "image": "img/L05/m2_1.webp",
+      "options": 3
+     },
+     {
+      "no": 2,
+      "image": "img/L05/m2_2.webp",
+      "options": 3
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "listen_truefalse",
+    "audio": "audio/L05_mondai3.m4a",
+    "cd_track": "CD20",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "これは　（だれ）の　ノートですか。",
+       "……カリナさんの　ノートです。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "（＿）　{日本|にほん}へ　{来|き}ましたか。",
+       "……8{月|がつ}17{日|にち}に　{来|き}ました。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "（＿）と　{日本|にほん}へ　{来|き}ましたか。",
+       "……{家族|かぞく}と　{来|き}ました。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "あした　（＿）へ　{行|い}きますか。",
+       "……どこも　{行|い}きません。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "すみません。　{京都|きょうと}まで　（＿）ですか。",
+       "……390{円|えん}です。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "（＿）で　{京都|きょうと}へ　{行|い}きますか。",
+       "……{電車|でんしゃ}で　{行|い}きます。"
+      ]
+     },
+     {
+      "no": 6,
+      "lines_jp": [
+       "（＿）に　うちへ　{帰|かえ}りますか。",
+       "……7{時|じ}に　{帰|かえ}ります。"
+      ]
+     },
+     {
+      "no": 7,
+      "lines_jp": [
+       "{誕生日|たんじょうび}は　（＿）（＿）ですか。",
+       "……9{月|がつ}{1日|ついたち}です。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "これ（は）　{本|ほん}です。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "わたしは　ミラーです。",
+       "ことし（＿）　4{月|がつ}（＿）　アメリカ（＿）　{来|き}ました。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{毎日|まいにち}　{電車|でんしゃ}（＿）　{会社|かいしゃ}（＿）　{行|い}きます。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "きのう　9{時|じ}{半|はん}（＿）　うち（＿）　{帰|かえ}りました。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "けさ　わたしは　{松本|まつもと}さん（＿）　ここ（＿）　{来|き}ました。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "おととい　どこ（＿）　{行|い}きませんでした。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "write",
+    "image": "img/L05/m6.webp",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "サントスさんは　おととい　[[{新幹線|しんかんせん}で　{東京|とうきょう}へ　{行|い}きました]]。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "サントスさんは　きのう　＿。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "サントスさんは　きょう　＿。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "サントスさんは　あしたの　{午後|ごご}　＿。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "サントスさんは　あさって　＿。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "サントスさんは　{日曜日|にちようび}　＿。"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Kata Benda (tempat) へ　{行|い}きます／{来|き}ます／{帰|かえ}ります",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Jika menunjukkan pindah, arah pindahnya dinyatakan dengan membubuhkan partikel へ."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "{京都|きょうと}へ　{行|い}きます。",
+        "tr": "Pergi ke Kyoto."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "{日本|にほん}へ　{来|き}ました。",
+        "tr": "Datang ke Jepang."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "うちへ　{帰|かえ}ります。",
+        "tr": "Pulang ke rumah."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Partikel へ diucapkan え."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "どこ［へ］も　{行|い}きません／{行|い}きませんでした",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Apabila ingin menyangkal hal yang ditanyakan oleh Kata Tanya secara total, pembentukkan Kata Kerja negatif dengan membubuhkan partikel も pada Kata Tanya."
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "どこ［へ］も　{行|い}きません。",
+        "tr": "Tidak pergi ke mana-mana."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "{何|なに}も　{食|た}べません。",
+        "tr": "Tidak makan apa-apa."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "だれも　{来|き}ませんでした。",
+        "tr": "Tidak datang siapa-siapa."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Benda (kendaraan) で　{行|い}きます／{来|き}ます／{帰|かえ}ります",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Partikel で menunjukkan sarana dan cara. Yang dimaksud di bagian ini yang diikuti Kata Benda yang menunjukkan kendaraan adalah menunjukkan sarana transportasi."
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "{電車|でんしゃ}で　{行|い}きます。",
+        "tr": "Pergi dengan kereta rel listrik."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "タクシーで　{来|き}ました。",
+        "tr": "Datang dengan taksi."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Jika pergi dengan jalan kaki digunakan あるいて, tetapi tidak dibubuhkan partikel で."
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "{駅|えき}から　{歩|ある}いて　{帰|かえ}りました。",
+        "tr": "Pulang dengan jalan kaki dari stasiun."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "Kata Benda (orang/hewan) と Kata Kerja",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Jika melakukan sesuatu bersama orang (hewan) maka ditunjukkan dengan membubuhkan partikel と."
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "{家族|かぞく}と　{日本|にほん}へ　{来|き}ました。",
+        "tr": "Datang ke Jepang bersama dengan keluarga."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Jika melakukan suatu aksi sendiri digunakan ひとりで. Dalam hal ini tidak menggunakan partikel と."
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "{一人|ひとり}で　{東京|とうきょう}へ　{行|い}きます。",
+        "tr": "Pergi ke Tokyo sendirian."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "いつ",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Untuk menanyakan waktu, selain digunakan Kata Tanya なん digunakan Kata Tanya いつ sebagaimana halnya seperti なんじ, なんようび, なんがつ, なんにち. Kata いつ tidak dapat dibubuhkan partikel に."
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "いつ　{日本|にほん}へ　{来|き}ましたか。",
+        "tr": "Kapan datang ke Jepang?"
+       },
+       {
+        "jp": "……3{月|がつ}25{日|にち}に　{来|き}ました。",
+        "tr": "……Datang pada tanggal 25 Maret."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "いつ　{広島|ひろしま}へ　{行|い}きますか。",
+        "tr": "Kapan pergi ke Hiroshima?"
+       },
+       {
+        "jp": "……{来週|らいしゅう}　{行|い}きます。",
+        "tr": "……Pergi minggu depan."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_rich": "～よ",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Partikel よ dibubuhkan pada akhir kalimat dan digunakan untuk memberitahukan suatu hal yang belum diketahui oleh lawan bicara, atau menyampaikan tanggapan dan pendapat si pembicara kepada lawan bicaranya."
+     },
+     {
+      "type": "ex",
+      "mark": "⑭",
+      "lines": [
+       {
+        "jp": "この　{電車|でんしゃ}は　{甲子園|こうしえん}へ　{行|い}きますか。",
+        "tr": "Apakah kereta rel listrik ini menuju Koshien?"
+       },
+       {
+        "jp": "……いいえ、{行|い}きません。　{次|つぎ}の　「{普通|ふつう}」ですよ。",
+        "tr": "……Tidak, tidak pergi. Yang “Biasa” berikutnya."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑮",
+      "lines": [
+       {
+        "jp": "{北海道|ほっかいどう}に　{馬|うま}が　たくさん　いますよ。",
+        "tr": "Di Hokkaido ada banyak kuda. (Pel.18)"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑯",
+      "lines": [
+       {
+        "jp": "マリアさん、この　アイスクリーム、おいしいですよ。",
+        "tr": "Ibu Maria, es krim ini enak. (Pel.19)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "title_rich": "そうですね",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "そうですね digunakan jika menyetujui atau sependapat dengan hal yang dikatakan oleh lawan bicara. Adapun ungkapan mirip (Lihat Pel.2-8) yaitu そうですか, tetapi そうですか adalah ekspresi ketika mendapat informasi baru yang belum diketahui si pembicara kemudian memahaminya sedangkan そうですね digunakan untuk menunjukkan bahwa si pembicara berpikir hal yang sama, menyetujui hal yang telah dikenal, atau sependapat."
+     },
+     {
+      "type": "ex",
+      "mark": "⑰",
+      "lines": [
+       {
+        "jp": "あしたは　{日曜日|にちようび}ですね。",
+        "tr": "Besok hari Minggu, ya."
+       },
+       {
+        "jp": "……あ、そうですね。",
+        "tr": "……O, ya betul."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{祝祭日|しゅくさいじつ}",
+   "title_tr": "Hari Libur Nasional",
+   "blocks": [
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "1{月|がつ}{1日|ついたち}"
+        }
+       ],
+       [
+        {
+         "jp": "{元日|がんじつ}",
+         "tr": "Tahun Baru"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "1{月|がつ}{第|だい}2{月曜日|げつようび}**"
+        }
+       ],
+       [
+        {
+         "jp": "{成人|せいじん}の{日|ひ}",
+         "tr": "Hari Perayaan Menjadi Dewasa (20 tahun)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "2{月|がつ}11{日|にち}"
+        }
+       ],
+       [
+        {
+         "jp": "{建国記念|けんこくきねん}の{日|ひ}",
+         "tr": "Hari Pembangunan Nasional"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "3{月|がつ}{20日|はつか}*"
+        }
+       ],
+       [
+        {
+         "jp": "{春分|しゅんぶん}の{日|ひ}",
+         "tr": "Hari Equinox pada Musim Semi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "4{月|がつ}29{日|にち}"
+        }
+       ],
+       [
+        {
+         "jp": "{昭和|しょうわ}の{日|ひ}",
+         "tr": "Hari Showa"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "5{月|がつ}{3日|みっか}"
+        }
+       ],
+       [
+        {
+         "jp": "{憲法記念日|けんぽうきねんび}",
+         "tr": "Hari Peringatan Konstitusi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "5{月|がつ}{4日|よっか}"
+        }
+       ],
+       [
+        {
+         "jp": "みどりの{日|ひ}",
+         "tr": "Hari Penghijauan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "5{月|がつ}{5日|いつか}"
+        }
+       ],
+       [
+        {
+         "jp": "こどもの{日|ひ}",
+         "tr": "Hari Anak"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "7{月|がつ}{第|だい}3{月曜日|げつようび}***"
+        }
+       ],
+       [
+        {
+         "jp": "{海|うみ}の{日|ひ}",
+         "tr": "Hari Bahari"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "9{月|がつ}{第|だい}3{月曜日|げつようび}***"
+        }
+       ],
+       [
+        {
+         "jp": "{敬老|けいろう}の{日|ひ}",
+         "tr": "Hari Hormat Kepada Orang Tua"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "9{月|がつ}23{日|にち}*"
+        }
+       ],
+       [
+        {
+         "jp": "{秋分|しゅうぶん}の{日|ひ}",
+         "tr": "Hari Equinox pada Musim Gugur"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "10{月|がつ}{第|だい}2{月曜日|げつようび}**"
+        }
+       ],
+       [
+        {
+         "jp": "{体育|たいいく}の{日|ひ}",
+         "tr": "Hari Kesehatan dan Olahraga"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "11{月|がつ}{3日|みっか}"
+        }
+       ],
+       [
+        {
+         "jp": "{文化|ぶんか}の{日|ひ}",
+         "tr": "Hari Kebudayaan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "11{月|がつ}23{日|にち}"
+        }
+       ],
+       [
+        {
+         "jp": "{勤労感謝|きんろうかんしゃ}の{日|ひ}",
+         "tr": "Hari Bersyukur untuk Pekerjaan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "12{月|がつ}23{日|にち}"
+        }
+       ],
+       [
+        {
+         "jp": "{天皇誕生日|てんのうたんじょうび}",
+         "tr": "Hari Ulang Tahun Kaisar"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text_rich": "* Perubahan setiap tahun"
+    },
+    {
+     "type": "p",
+     "text_rich": "** Hari Senin minggu kedua"
+    },
+    {
+     "type": "p",
+     "text_rich": "*** Hari Senin minggu ketiga"
+    },
+    {
+     "type": "note",
+     "text_rich": "Jika hari libur nasional jatuh pada hari Minggu, maka akan diganti dengan hari Senin. Dari tanggal 29 April sampai 5 Mei merupakan hari libur yang disebut dengan ゴールデンウィーク (Minggu Emas). Perusahan-perusahaan akan memberikan libur seminggu penuh bagi para karyawan."
+    }
+   ]
+  }
+ }
+}

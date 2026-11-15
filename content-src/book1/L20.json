@@ -1,0 +1,1896 @@
+{
+ "book": 1,
+ "lesson": 20,
+ "title_jp": "いっしょに　{行|い}かない？",
+ "title_tr": "Bagaimana Kalau Pergi Bersama-sama?",
+ "source_pages": {
+  "main_pdf": [
+   193,
+   200
+  ],
+  "translation_pdf": [
+   144,
+   149
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "いります［ビザが～］",
+       "kanji_jp": "{要|い}ります",
+       "tr": "[Ⅰ] memerlukan [VISA]"
+      },
+      {
+       "kana_jp": "しらべます",
+       "kanji_jp": "{調|しら}べます",
+       "tr": "[Ⅱ] memeriksa, meneliti, mengecek"
+      },
+      {
+       "kana_jp": "しゅうりします",
+       "kanji_jp": "{修理|しゅうり}します",
+       "tr": "[Ⅲ] memperbaiki"
+      },
+      {
+       "kana_jp": "ぼく",
+       "kanji_jp": "{僕|ぼく}",
+       "tr": "aku (dipakai oleh laki-laki, kata ganti informal dari わたし)"
+      },
+      {
+       "kana_jp": "きみ*",
+       "kanji_jp": "{君|きみ}",
+       "tr": "kamu (bentuk informal untuk あなた, digunakan terhadap orang yang setaraf atau di bawah si pembicara)"
+      },
+      {
+       "kana_jp": "～くん",
+       "kanji_jp": "～{君|くん}",
+       "tr": "Sdr. ～ (bentuk informal untuk さん, digunakan terhadap orang yang setaraf atau di bawah si pembicara, sering digunakan untuk nama anak laki-laki)"
+      },
+      {
+       "kana_jp": "うん",
+       "kanji_jp": null,
+       "tr": "ya (bentuk informal dari はい)"
+      },
+      {
+       "kana_jp": "ううん",
+       "kanji_jp": null,
+       "tr": "tidak, bukan (bentuk informal dari いいえ)"
+      },
+      {
+       "kana_jp": "ことば",
+       "kanji_jp": null,
+       "tr": "kata, bahasa"
+      },
+      {
+       "kana_jp": "きもの",
+       "kanji_jp": "{着物|きもの}",
+       "tr": "kimono (pakaian tradisional Jepang)"
+      },
+      {
+       "kana_jp": "ビザ",
+       "kanji_jp": null,
+       "tr": "VISA"
+      },
+      {
+       "kana_jp": "はじめ",
+       "kanji_jp": "{初|はじ}め",
+       "tr": "awal, mula-mula"
+      },
+      {
+       "kana_jp": "おわり",
+       "kanji_jp": "{終|お}わり",
+       "tr": "akhir"
+      },
+      {
+       "kana_jp": "こっち*",
+       "kanji_jp": null,
+       "tr": "sini (ungkapan informal dari kata こちら)"
+      },
+      {
+       "kana_jp": "そっち",
+       "kanji_jp": null,
+       "tr": "situ (ungkapan informal dari kata そちら)"
+      },
+      {
+       "kana_jp": "あっち*",
+       "kanji_jp": null,
+       "tr": "sana (ungkapan informal dari kata あちら)"
+      },
+      {
+       "kana_jp": "どっち",
+       "kanji_jp": null,
+       "tr": "mana (ungkapan informal untuk kata どちら)"
+      },
+      {
+       "kana_jp": "みんなで",
+       "kanji_jp": null,
+       "tr": "kita semua, kita sama-sama"
+      },
+      {
+       "kana_jp": "～けど",
+       "kanji_jp": null,
+       "tr": "～ tetapi (ungkapan informal dari が)"
+      },
+      {
+       "kana_jp": "おなかが　いっぱいです",
+       "kanji_jp": null,
+       "tr": "sudah kenyang"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "よかったら",
+       "kanji_jp": null,
+       "tr": "kalau mau, kalau suka"
+      },
+      {
+       "kana_jp": "いろいろ",
+       "kanji_jp": null,
+       "tr": "macam-macam"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "サントスさんは　パーティーに　{来|こ}なかった。",
+    "tr": "Sdr. Santos tidak datang ke pesta."
+   },
+   {
+    "no": 2,
+    "jp": "{東京|とうきょう}は　{人|ひと}が　{多|おお}い。",
+    "tr": "Di Tokyo banyak orang."
+   },
+   {
+    "no": 3,
+    "jp": "{沖縄|おきなわ}の　{海|うみ}は　きれいだった。",
+    "tr": "Laut Okinawa indah."
+   },
+   {
+    "no": 4,
+    "jp": "きょうは　{僕|ぼく}の　{誕生日|たんじょうび}だ。",
+    "tr": "Hari ini hari ulang tahunku."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "アイスクリーム［を］　{食|た}べる？",
+      "tr": "Mau makan es krim?"
+     },
+     {
+      "jp": "……うん、{食|た}べる。",
+      "tr": "……Ya, mau makan."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "そこに　はさみ［が］　ある？",
+      "tr": "Di situ ada gunting?"
+     },
+     {
+      "jp": "……ううん、ない。",
+      "tr": "……Tidak, tidak ada."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "きのう　{木村|きむら}さんに　{会|あ}った？",
+      "tr": "Kemarin bertemu dengan Sdr. Kimura?"
+     },
+     {
+      "jp": "……ううん、{会|あ}わなかった。",
+      "tr": "……Tidak, tidak bertemu."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "その　カレー［は］　おいしい？",
+      "tr": "Kare itu enak?"
+     },
+     {
+      "jp": "……うん、{辛|から}いけど、おいしい。",
+      "tr": "……Ya, pedas, tetapi enak."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "あした　みんなで　{京都|きょうと}［へ］　{行|い}かない？",
+      "tr": "Bagaimana kalau besok kita pergi ke Kyoto bersama-sama?"
+     },
+     {
+      "jp": "……うん、いいね。",
+      "tr": "……Ya, bagus, ya."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "{何|なに}［を］　{食|た}べたい？",
+      "tr": "Mau makan apa?"
+     },
+     {
+      "jp": "……{今|いま}　おなか［が］　いっぱいだから、{何|なに}も　{食|た}べたくない。",
+      "tr": "……Tidak mau makan apa-apa karena sekarang masih kenyang."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "{今|いま}　{暇|ひま}？",
+      "tr": "Sekarang luang?"
+     },
+     {
+      "jp": "……うん、{暇|ひま}。　{何|なに}？",
+      "tr": "……Ya, luang. Kenapa?"
+     },
+     {
+      "jp": "ちょっと　{手伝|てつだ}って。",
+      "tr": "Tolong sebentar!"
+     }
+    ]
+   },
+   {
+    "no": 8,
+    "lines": [
+     {
+      "jp": "{辞書|じしょ}［を］　{持|も}って　［い］る？",
+      "tr": "Punya kamus?"
+     },
+     {
+      "jp": "……ううん、{持|も}って　［い］ない。",
+      "tr": "……Tidak, tidak punya."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "いっしょに　{行|い}かない？",
+   "title_tr": "Bagaimana Kalau Pergi Bersama-sama?",
+   "image": "img/L20/kaiwa.webp",
+   "audio": "audio/L20_kaiwa.m4a",
+   "cd_track": "CD69",
+   "lines": [
+    {
+     "speaker_jp": "{小林|こばやし}",
+     "speaker_tr": "Kobayashi",
+     "jp": "{夏休|なつやす}みは　{国|くに}へ　{帰|かえ}る？",
+     "tr": "Pada liburan musim panas pulang kampung?"
+    },
+    {
+     "speaker_jp": "タワポン",
+     "speaker_tr": "Thawaphon",
+     "jp": "ううん。　{帰|かえ}りたいけど、……。",
+     "tr": "Tidak. Sebenarnya ingin..."
+    },
+    {
+     "speaker_jp": "{小林|こばやし}",
+     "speaker_tr": "Kobayashi",
+     "jp": "そう。",
+     "tr": "O, begitu."
+    },
+    {
+     "jp": "タワポン{君|くん}、{富士山|ふじさん}に　{登|のぼ}った　こと　ある？",
+     "tr": "Sdr. Thawaphon, pernah mendaki gunung Fuji?"
+    },
+    {
+     "speaker_jp": "タワポン",
+     "speaker_tr": "Thawaphon",
+     "jp": "ううん、ない。",
+     "tr": "Belum, belum pernah."
+    },
+    {
+     "speaker_jp": "{小林|こばやし}",
+     "speaker_tr": "Kobayashi",
+     "jp": "じゃ、よかったら、いっしょに　{行|い}かない？",
+     "tr": "O, ya, kalau mau, bagaimana kalau kita pergi bersama-sama?"
+    },
+    {
+     "speaker_jp": "タワポン",
+     "speaker_tr": "Thawaphon",
+     "jp": "うん。　いつごろ？",
+     "tr": "Mau. Kira-kira kapan?"
+    },
+    {
+     "speaker_jp": "{小林|こばやし}",
+     "speaker_tr": "Kobayashi",
+     "jp": "8{月|がつ}の　{初|はじ}めごろは　どう？",
+     "tr": "Bagaimana kalau awal bulan Agustus?"
+    },
+    {
+     "speaker_jp": "タワポン",
+     "speaker_tr": "Thawaphon",
+     "jp": "いいよ。",
+     "tr": "Boleh!"
+    },
+    {
+     "speaker_jp": "{小林|こばやし}",
+     "speaker_tr": "Kobayashi",
+     "jp": "じゃ、いろいろ　{調|しら}べて、また　{電話|でんわ}するよ。",
+     "tr": "Kalau begitu, saya mencari berbagai informasi, dan menelepon lagi."
+    },
+    {
+     "speaker_jp": "タワポン",
+     "speaker_tr": "Thawaphon",
+     "jp": "ありがとう。　{待|ま}ってるよ。",
+     "tr": "Terima kasih. Saya tunggu."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "{丁寧形|ていねいけい}　→　{普通形|ふつうけい}"
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かきます"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かく"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かきません"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かかない"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かきました"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かいた"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かきませんでした"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かかなかった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あります"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ある"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ありません"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "＊ない"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ありました"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ありませんでした"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "＊なかった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おおきいです"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おおきい"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おおきくないです"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おおきくない"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おおきかったです"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おおきかった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おおきくなかったです"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おおきくなかった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "きれいです"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "きれいだ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "きれいじゃ（では）　ありません"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "きれいじゃ（では）　ない"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "きれいでした"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "きれいだった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "きれいじゃ（では）　ありませんでした"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "きれいじゃ（では）　なかった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あめです"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あめだ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あめじゃ（では）　ありません"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あめじゃ（では）　ない"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あめでした"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あめだった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あめじゃ（では）　ありませんでした"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あめじゃ（では）　なかった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{来週|らいしゅう}　{東京|とうきょう}へ",
+          "{毎日|まいにち}",
+          "あした",
+          "IMCの",
+          "{富士山|ふじさん}に",
+          "{大阪|おおさか}に",
+          "{市役所|しやくしょ}へ",
+          "きょう",
+          "ドイツ{語|ご}を",
+          "ドイツへ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いく。",
+          "いそがしい。",
+          "ひまだ。",
+          "しゃいんだ。",
+          "のぼりたい。",
+          "すんで　いる。",
+          "いかなければ　ならない。",
+          "ざんぎょうしなくても　いい。",
+          "はなす　ことが　できる。",
+          "いった　ことが　ある。"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [],
+   "items": [
+    {
+     "no": 1,
+     "examples": [
+      {
+       "prompt_jp": "{毎日|まいにち}　{彼|かれ}に　{電話|でんわ}します。",
+       "answer_jp": [
+        "{毎日|まいにち}　{彼|かれ}に　{電話|でんわ}する。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "あした　また　{来|き}ます。"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "きょうは　{何|なに}も　{買|か}いません。"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{少|すこ}し　{疲|つか}れました。"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "きのう　{日記|にっき}を　{書|か}きませんでした。"
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "examples": [
+      {
+       "prompt_jp": "{着物|きもの}は　{高|たか}いです。",
+       "answer_jp": [
+        "{着物|きもの}は　{高|たか}い。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{日本語|にほんご}の　{勉強|べんきょう}は　おもしろいです。"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "この　{辞書|じしょ}は　よくないです。"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "けさは　{頭|あたま}が　{痛|いた}かったです。"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "きのうの　パーティーは　{楽|たの}しくなかったです。"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "examples": [
+      {
+       "prompt_jp": "コンビニは　{便利|べんり}です。",
+       "answer_jp": [
+        "コンビニは　{便利|べんり}だ。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "カリナさんは　{絵|え}が　{上手|じょうず}です。"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "きょうは　{休|やす}みじゃ　ありません。"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "きのうは　{雨|あめ}でした。"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{先週|せんしゅう}の　{土曜日|どようび}は　{暇|ひま}じゃ　ありませんでした。"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "そちらへ　{行|い}っては　いけません。",
+       "answer_jp": [
+        "そっちへ　{行|い}っては　いけない。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "もう　{一度|いちど}　{歌舞伎|かぶき}を　{見|み}たいです。"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{電話番号|でんわばんごう}を　{調|しら}べなければ　なりません。"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "きのうは　{映画|えいが}を　{見|み}たり、{音楽|おんがく}を　{聞|き}いたり　しました。"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "この　{電話|でんわ}を　{使|つか}っても　いいです。"
+      },
+      {
+       "no": 5,
+       "prompt_jp": "ワンさんは　{神戸病院|こうべびょういん}で　{働|はたら}いて　います。"
+      },
+      {
+       "no": 6,
+       "prompt_jp": "{漢字|かんじ}を　{読|よ}む　ことが　できません。"
+      },
+      {
+       "no": 7,
+       "prompt_jp": "あしたまでに　レポートを　{出|だ}さなくても　いいです。"
+      },
+      {
+       "no": 8,
+       "prompt_jp": "{富士山|ふじさん}を　{見|み}た　ことが　ありません。"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "examples": [
+      {
+       "prompt_jp": "あした　うちに　いますか。（うん）",
+       "answer_jp": [
+        "あした　うちに　いる？",
+        "……うん、いる。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "ビザが　{要|い}りますか。（ううん）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "けさ　{新聞|しんぶん}を　{読|よ}みましたか。（うん）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{日曜日|にちようび}　どこか　{行|い}きましたか。（ううん、どこも）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "いつ　{木村|きむら}さんに　{会|あ}いますか。（{今月|こんげつ}の　{終|お}わりごろ）"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "examples": [
+      {
+       "prompt_jp": "ビールと　ワインと　どちらが　いいですか。（ワイン）",
+       "answer_jp": [
+        "ビールと　ワインと　どっちが　いい？",
+        "……ワインの　ほうが　いい。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{東京|とうきょう}は　{大阪|おおさか}より　{人|ひと}が　{多|おお}いですか。（うん、ずっと）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "あの　{店|みせ}は　サービスが　いいですか。（ううん、あまり）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{映画|えいが}は　おもしろかったですか。（ううん、{全然|ぜんぜん}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{旅行|りょこう}で　どこが　いちばん　{楽|たの}しかったですか。（イタリア）"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "examples": [
+      {
+       "prompt_jp": "{元気|げんき}ですか。（うん）",
+       "answer_jp": [
+        "{元気|げんき}？",
+        "……うん、{元気|げんき}。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{今|いま}　{何時|なんじ}ですか。（5{時|じ}40{分|ぷん}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "きょう　デパートは　{休|やす}みですか。（ううん）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{犬|いぬ}と　{猫|ねこ}と　どちらが　{好|す}きですか。（{猫|ねこ}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{富士山|ふじさん}は　どうでしたか。（きれい）"
+      }
+     ]
+    },
+    {
+     "no": 8,
+     "examples": [
+      {
+       "prompt_jp": "{辞書|じしょ}を　{持|も}って　いますか。（ううん）",
+       "answer_jp": [
+        "{辞書|じしょ}を　{持|も}って　いる？",
+        "……ううん、{持|も}って　いない。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{今|いま}　{雨|あめ}が　{降|ふ}って　いますか。（うん）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{佐藤|さとう}さんの　{住所|じゅうしょ}を　{知|し}って　いますか。（ううん）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{九州|きゅうしゅう}へ　{行|い}った　ことが　ありますか。（ううん）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{自転車|じてんしゃ}を　{修理|しゅうり}する　ことが　できますか。（うん）"
+      },
+      {
+       "no": 5,
+       "prompt_jp": "あしたも　{来|こ}なければ　なりませんか。（ううん）"
+      },
+      {
+       "no": 6,
+       "prompt_jp": "{何|なに}を　{食|た}べに　{行|い}きましたか。（タイ{料理|りょうり}）"
+      },
+      {
+       "no": 7,
+       "prompt_jp": "どこに　{住|す}んで　いますか。（{京都|きょうと}）"
+      },
+      {
+       "no": 8,
+       "prompt_jp": "いつまでに　{本|ほん}を　{返|かえ}さなければ　なりませんか。（{来週|らいしゅう}の　{木曜日|もくようび}）"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L20/rc1.webp",
+    "dialog": [
+     {
+      "jp": "きのう　{初|はじ}めて　[[すき{焼|や}き［を］　{食|た}べた]]よ。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "へえ、どこで？",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "{田中|たなか}さんの　うちで。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "どうだった？",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[{甘|あま}かった]]けど、[[おいしかった]]。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L20/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L20/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L20/rc2.webp",
+    "dialog": [
+     {
+      "jp": "[[コーヒー［が］　{好|す}き]]？",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "うん。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[ブラジルの　コーヒー［が］]]　あるけど、",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[{飲|の}ま]]ない？"
+     },
+     {
+      "jp": "いいね。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L20/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L20/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L20/rc3.webp",
+    "dialog": [
+     {
+      "jp": "[[{田中君|たなかくん}の　{住所|じゅうしょ}［を］　{知|し}って　［い］る]]？",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "うん。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "じゃ、ちょっと　[[{教|おし}えて]]。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "いいよ。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L20/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L20/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L20_mondai1.m4a",
+    "cd_track": "CD70",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_truefalse",
+    "audio": "audio/L20_mondai2.m4a",
+    "cd_track": "CD71",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{行|い}きます　｜　{行|い}く　｜　{行|い}かない　｜　{行|い}った　｜　{行|い}かなかった"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{泳|およ}ぎます　｜　（＿）　｜　（＿）　｜　{泳|およ}いだ　｜　（＿）"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{貸|か}します　｜　{貸|か}す　｜　（＿）　｜　（＿）　｜　（＿）"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{待|ま}ちます　｜　（＿）　｜　{待|ま}たない　｜　（＿）　｜　（＿）"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{遊|あそ}びます　｜　（＿）　｜　（＿）　｜　（＿）　｜　{遊|あそ}ばなかった"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{飲|の}みます　｜　（＿）　｜　{飲|の}まない　｜　（＿）　｜　（＿）"
+      ]
+     },
+     {
+      "no": 6,
+      "lines_jp": [
+       "あります　｜　ある　｜　（＿）　｜　（＿）　｜　（＿）"
+      ]
+     },
+     {
+      "no": 7,
+      "lines_jp": [
+       "{買|か}います　｜　（＿）　｜　（＿）　｜　（＿）　｜　{買|か}わなかった"
+      ]
+     },
+     {
+      "no": 8,
+      "lines_jp": [
+       "{寝|ね}ます　｜　（＿）　｜　（＿）　｜　{寝|ね}た　｜　（＿）"
+      ]
+     },
+     {
+      "no": 9,
+      "lines_jp": [
+       "{借|か}ります　｜　{借|か}りる　｜　（＿）　｜　（＿）　｜　（＿）"
+      ]
+     },
+     {
+      "no": 10,
+      "lines_jp": [
+       "します　｜　（＿）　｜　（＿）　｜　した　｜　（＿）"
+      ]
+     },
+     {
+      "no": 11,
+      "lines_jp": [
+       "{来|き}ます　｜　（＿）　｜　{来|こ}ない　｜　（＿）　｜　（＿）"
+      ]
+     },
+     {
+      "no": 12,
+      "lines_jp": [
+       "{寒|さむ}いです　｜　{寒|さむ}い　｜　（＿）　｜　（＿）　｜　（＿）"
+      ]
+     },
+     {
+      "no": 13,
+      "lines_jp": [
+       "いいです　｜　（＿）　｜　（＿）　｜　よかった　｜　（＿）"
+      ]
+     },
+     {
+      "no": 14,
+      "lines_jp": [
+       "{暇|ひま}です　｜　（＿）　｜　（＿）　｜　（＿）　｜　{暇|ひま}じゃ　なかった"
+      ]
+     },
+     {
+      "no": 15,
+      "lines_jp": [
+       "いい　{天気|てんき}です　｜　（＿）　｜　（＿）　｜　いい　{天気|てんき}だった　｜　（＿）"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{図書館|としょかん}で　{本|ほん}を　[[{借|か}ります]]。　（{借|か}りる）"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "きのう　{家族|かぞく}に　{電話|でんわ}を　[[かけましたか]]。　（＿）"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "わたしは　{大阪|おおさか}に　[[{住|す}んで　います]]。　（＿）"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "もう　[[{帰|かえ}っても　いいですか]]。　（＿）"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{東京|とうきょう}へ　[[{遊|あそ}びに　{行|い}きます]]。　（＿）"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "ビザを　[[もらわなければ　なりません]]。　（＿）"
+      ]
+     },
+     {
+      "no": 6,
+      "lines_jp": [
+       "ここで　たばこを　[[{吸|す}っては　いけません]]。　（＿）"
+      ]
+     },
+     {
+      "no": 7,
+      "lines_jp": [
+       "{漢字|かんじ}を　[[{読|よ}む　ことが　できません]]。　（＿）"
+      ]
+     },
+     {
+      "no": 8,
+      "lines_jp": [
+       "{刺身|さしみ}を　[[{食|た}べた　ことが　ありません]]。　（＿）"
+      ]
+     },
+     {
+      "no": 9,
+      "lines_jp": [
+       "{時間|じかん}と　お{金|かね}が　[[{欲|ほ}しいです]]。　（＿）"
+      ]
+     },
+     {
+      "no": 10,
+      "lines_jp": [
+       "ここは　きれいな　[[{海|うみ}でした]]。　（＿）"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "あれは　[[{何|なに}？]]　（{何|なん}ですか）"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "あの　{人|ひと}は　[[{結婚|けっこん}して　いる？]]　（＿）",
+       "……[[ううん、{独身|どくしん}だ。]]　（＿）"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "きのう　[[パーティーに　{行|い}った？]]　（＿）",
+       "……[[ううん、{行|い}かなかった。]]　（＿）",
+       "[[{頭|あたま}が　{痛|いた}かったから。]]　（＿）"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "ミラーさん、いつも　[[{元気|げんき}ね。]]　（＿）",
+       "……[[うん、{若|わか}いから。]]　（＿）"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "fill",
+    "passage_title_jp": "{日記|にっき}",
+    "passage_jp": [
+     "1{月|がつ}{1日|ついたち}　{金曜日|きんようび}　{曇|くも}り",
+     "{田中君|たなかくん}、{高橋君|たかはしくん}と　いっしょに　{京都|きょうと}の　{神社|じんじゃ}へ　{行|い}った。　{古|ふる}くて、{大|おお}きい　{神社|じんじゃ}だった。　{人|ひと}が　{多|おお}くて、にぎやかだった。　{着物|きもの}の　{女|おんな}の　{人|ひと}が　たくさん　いた。　とても　きれいだった。　{田中君|たなかくん}と　{高橋君|たかはしくん}は　{神社|じんじゃ}の　{前|まえ}の　{箱|はこ}に　お{金|かね}を　{入|い}れた。　それから　みんなで　{写真|しゃしん}を　{撮|と}ったり、お{土産|みやげ}を　{買|か}ったり　した。　{天気|てんき}は　あまり　よくなかったが、{暖|あたた}かかった。　うちへ　{帰|かえ}ってから、アメリカの　{家族|かぞく}に　{電話|でんわ}を　かけた。　みんな　{元気|げんき}だった。"
+    ],
+    "instruction_jp": "ミラーさんは　{木村|きむら}さんに　メールを　{送|おく}りました。",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{木村|きむら}さん",
+       "{毎日|まいにち}　{寒|さむ}いですね。　お{正月|しょうがつ}は　どうでしたか。",
+       "わたしは　1{月|がつ}{1日|ついたち}に　{友達|ともだち}と　（{京都|きょうと}の　{神社|じんじゃ}へ　{行|い}きました）。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{天気|てんき}は　あまり　よくなかったですが、（＿）。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{神社|じんじゃ}は　{人|ひと}が　{多|おお}くて、（＿）。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{着物|きもの}の　{女|おんな}の　{人|ひと}を　たくさん　{見|み}ました。　とても　（＿）。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{神社|じんじゃ}で　{写真|しゃしん}を　（＿）から、{送|おく}ります。　ミラー"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "kind": "compose",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "きのうの　{日記|にっき}を　{書|か}いて　ください。"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Bentuk Halus dan Bentuk Biasa",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Dalam bentuk kalimat bahasa Jepang terdapat dua jenis bentuk kalimat, yaitu bentuk halus dan bentuk biasa."
+     },
+     {
+      "type": "table",
+      "header": [
+       [
+        {
+         "tr": "Bentuk Halus"
+        }
+       ],
+       [
+        {
+         "tr": "Bentuk Biasa"
+        }
+       ]
+      ],
+      "rows": [
+       [
+        [
+         {
+          "jp": "あした　{東京|とうきょう}へ　{行|い}きます。",
+          "tr": "Besok pergi ke Tokyo."
+         }
+        ],
+        [
+         {
+          "jp": "あした　{東京|とうきょう}へ　{行|い}く。",
+          "tr": "Besok pergi ke Tokyo."
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "{毎日|まいにち}　{忙|いそが}しいです。",
+          "tr": "Setiap hari sibuk."
+         }
+        ],
+        [
+         {
+          "jp": "{毎日|まいにち}　{忙|いそが}しい。",
+          "tr": "Setiap hari sibuk."
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "{相撲|すもう}が　{好|す}きです。",
+          "tr": "Suka sumo."
+         }
+        ],
+        [
+         {
+          "jp": "{相撲|すもう}が　{好|す}きだ。",
+          "tr": "Suka sumo."
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "{富士山|ふじさん}に　{登|のぼ}りたいです。",
+          "tr": "Ingin mendaki gunung Fuji."
+         }
+        ],
+        [
+         {
+          "jp": "{富士山|ふじさん}に　{登|のぼ}りたい。",
+          "tr": "Ingin mendaki gunung Fuji."
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "ドイツへ　{行|い}った　ことが　ありません。",
+          "tr": "Belum pernah pergi ke Jerman."
+         }
+        ],
+        [
+         {
+          "jp": "ドイツへ　{行|い}った　ことが　ない。",
+          "tr": "Belum pernah pergi ke Jerman."
+         }
+        ]
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Bentuk yang diikuti です, ます disebut bentuk halus, dan bentuk yang dipakai pada kalimat biasa disebut bentuk biasa (Lihat Buku Induk Pel.20 Latihan A1)."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Pembagian cara pemakaian Bentuk Halus dan Bentuk Biasa",
+    "blocks": [
+     {
+      "type": "h",
+      "text_rich": "1) Percakapan"
+     },
+     {
+      "type": "p",
+      "text_rich": "Bentuk halus dipakai untuk orang yang baru saja dikenal, atasan, atau orang yang tidak begitu akrab walaupun orang itu gerenasi yang sama. Sedangkan bentuk biasa dipakai untuk teman akrab, rekan, atau percakapan antara keluarga."
+     },
+     {
+      "type": "p",
+      "text_rich": "Jika memakai bentuk biasa kepada lawan bicara yang tidak tepat maka dianggap tidak sopan, karena itu perlu hati-hati kepada lawan bicara yang boleh atau tidak untuk memakai bentuk biasa."
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Ketika menulis"
+     },
+     {
+      "type": "p",
+      "text_rich": "Pada umumnya, surat tertulis dalam bentuk halus. Untuk makalah, laporan, catatan harian dan lain-lainnya dipakai bentuk biasa."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Percakapan dalam Bentuk Biasa",
+    "blocks": [
+     {
+      "type": "h",
+      "text_rich": "1) Dalam kalimat tanya dengan bentuk biasa, pada umumnya partikel か tidak dibubuhkan pada akhir kalimat, tetapi diungkapkan dengan nada yang naik seperti のむ（↗） atau のんだ（↗）."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "コーヒーを　{飲|の}む？（↗）",
+        "tr": "Mau minum kopi?"
+       },
+       {
+        "jp": "……うん、{飲|の}む。（↘）",
+        "tr": "……Ya, mau minum."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Dalam kalimat tanya dari Kata Benda atau Kata Sifat Bentuk な, bentuk biasa だ dari です dihilangkan. Untuk jawaban positif, kalau dijawab dengan bentuk だ memberi kesan yang kasar dan keras maka だ dihilangkan atau membubuhkan partikel penutup demi menghaluskan nada ungkapan."
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "{今晩|こんばん}　{暇|ひま}？",
+        "tr": "Nanti malam luang?"
+       },
+       {
+        "jp": "……うん、{暇|ひま}／{暇|ひま}だ／{暇|ひま}だよ。",
+        "tr": "……Ya, luang. (digunakan oleh pria)"
+       },
+       {
+        "jp": "……うん、{暇|ひま}／{暇|ひま}よ／{暇|ひま}だよ。",
+        "tr": "……Ya, luang. (digunakan oleh wanita)"
+       },
+       {
+        "jp": "……ううん、{暇|ひま}じゃ　ない。",
+        "tr": "……Tidak, tidak luang."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "3) Dalam kalimat bentuk biasa, jika sudah dapat mengerti hubungan dari konteks kalimat sebelum dan sesudahnya, maka adakalanya partikel dihilangkan."
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "ごはん［を］　{食|た}べる？",
+        "tr": "Mau makan?"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "あした　{京都|きょうと}［へ］　{行|い}かない？",
+        "tr": "Bagaimana kalau besok ke Kyoto?"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "この　りんご［は］　おいしいね。",
+        "tr": "Apel ini enak ya."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "そこに　はさみ［が］　ある？",
+        "tr": "Di situ ada gunting?"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Akan tetapi, partikel で, に, から, まで, と, dan sebagainya tidak dihilangkan sebab konteksnya menjadi tidak jelas."
+     },
+     {
+      "type": "h",
+      "text_rich": "4) Dalam kalimat bentuk biasa, い dari Kata Kerja Bentuk て　いる juga sering dihilangkan."
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "{辞書|じしょ}、{持|も}って　［い］る？",
+        "tr": "Punya kamus?"
+       },
+       {
+        "jp": "……うん、{持|も}って　［い］る。",
+        "tr": "……Ya, punya."
+       },
+       {
+        "jp": "……ううん、{持|も}って　［い］ない。",
+        "tr": "……Tidak, tidak punya."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "5) けど"
+     },
+     {
+      "type": "p",
+      "text_rich": "けど mempunyai fungsi yang sama dengan が, dan sering digunakan dalam percakapan."
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "その　カレー［は］　おいしい？",
+        "tr": "Kare itu enak?"
+       },
+       {
+        "jp": "……うん、{辛|から}いけど、おいしい。",
+        "tr": "Ya, pedas, tetapi enak."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "{相撲|すもう}の　チケット［が］　あるけど、いっしょに　{行|い}かない？",
+        "tr": "Punya tiket sumo, bagaimana kalau kita pergi sama-sama?"
+       },
+       {
+        "jp": "……いいね。",
+        "tr": "……Bagus ya."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{人|ひと}の　{呼|よ}び{方|かた}",
+   "title_tr": "Cara Memanggil Orang",
+   "blocks": [
+    {
+     "type": "image",
+     "image": "img/L20/sankou_yobikata1.webp",
+     "caption": "“Taro, Hanako!!”　“Ayah, hari ini hari ulang tahun Taro.”"
+    },
+    {
+     "type": "p",
+     "text_rich": "Dalam keluarga, orang Jepang cenderung memanggil satu sama lain dari sudut pandang anak terkecil dari keluarga itu. Misalnya, orang tua memanggil anak lakil-laki atau anak perempuan tertuanya dengan sebutan おにいちゃん (kakak laki-laki) dan おねえちゃん (kakak perempuan), sebagai ganti panggilan oleh dari adik laki-laki atau adik perempuannya. Ketika orang tua berbicara di depan anak-anak mereka, suami memanggil istri dengan おかあさん atau ママ (ibu), dan istri memanggil suam, dengan おとうさん atau パパ (ayah). Tetapi sekarang hal ini jarang dilakukan. Akhir-akhir ini banyak pasangan suami-istri memanggil dengan menggunakan nama."
+    },
+    {
+     "type": "image",
+     "image": "img/L20/sankou_yobikata2.webp",
+     "caption": "“Bapak kepala bagian, tolong tanda tangani.”　“Bapak, cocok sekali.”　“Dok, perut saya sakit.”"
+    },
+    {
+     "type": "p",
+     "text_rich": "Di masyarakat, orang-orang memanggil satu dengan yang lainnya dengan sebutan status mereka dalam kelompok mereka masing-masing. Contohnya, di tempat kerja bawahan akan memanggil atasannya dengan status atasan dalam pekerjaan. Di toko-toko pelayan toko akan memanggil pelanggan mereka dengan おきゃくさま (tuan/nyonya langganan). Dokter dipanggil dengan せんせい oleh pasien."
+    }
+   ]
+  }
+ }
+}

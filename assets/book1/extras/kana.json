@@ -1,0 +1,1013 @@
+{
+ "source_pdf_page": 21,
+ "hiragana": [
+  {
+   "id": "seion",
+   "title": "Huruf dasar",
+   "rows": [
+    [
+     {
+      "kana": "あ",
+      "ro": "a"
+     },
+     {
+      "kana": "い",
+      "ro": "i"
+     },
+     {
+      "kana": "う",
+      "ro": "u"
+     },
+     {
+      "kana": "え",
+      "ro": "e"
+     },
+     {
+      "kana": "お",
+      "ro": "o"
+     }
+    ],
+    [
+     {
+      "kana": "か",
+      "ro": "ka"
+     },
+     {
+      "kana": "き",
+      "ro": "ki"
+     },
+     {
+      "kana": "く",
+      "ro": "ku"
+     },
+     {
+      "kana": "け",
+      "ro": "ke"
+     },
+     {
+      "kana": "こ",
+      "ro": "ko"
+     }
+    ],
+    [
+     {
+      "kana": "さ",
+      "ro": "sa"
+     },
+     {
+      "kana": "し",
+      "ro": "shi"
+     },
+     {
+      "kana": "す",
+      "ro": "su"
+     },
+     {
+      "kana": "せ",
+      "ro": "se"
+     },
+     {
+      "kana": "そ",
+      "ro": "so"
+     }
+    ],
+    [
+     {
+      "kana": "た",
+      "ro": "ta"
+     },
+     {
+      "kana": "ち",
+      "ro": "chi"
+     },
+     {
+      "kana": "つ",
+      "ro": "tsu"
+     },
+     {
+      "kana": "て",
+      "ro": "te"
+     },
+     {
+      "kana": "と",
+      "ro": "to"
+     }
+    ],
+    [
+     {
+      "kana": "な",
+      "ro": "na"
+     },
+     {
+      "kana": "に",
+      "ro": "ni"
+     },
+     {
+      "kana": "ぬ",
+      "ro": "nu"
+     },
+     {
+      "kana": "ね",
+      "ro": "ne"
+     },
+     {
+      "kana": "の",
+      "ro": "no"
+     }
+    ],
+    [
+     {
+      "kana": "は",
+      "ro": "ha"
+     },
+     {
+      "kana": "ひ",
+      "ro": "hi"
+     },
+     {
+      "kana": "ふ",
+      "ro": "fu"
+     },
+     {
+      "kana": "へ",
+      "ro": "he"
+     },
+     {
+      "kana": "ほ",
+      "ro": "ho"
+     }
+    ],
+    [
+     {
+      "kana": "ま",
+      "ro": "ma"
+     },
+     {
+      "kana": "み",
+      "ro": "mi"
+     },
+     {
+      "kana": "む",
+      "ro": "mu"
+     },
+     {
+      "kana": "め",
+      "ro": "me"
+     },
+     {
+      "kana": "も",
+      "ro": "mo"
+     }
+    ],
+    [
+     {
+      "kana": "や",
+      "ro": "ya"
+     },
+     null,
+     {
+      "kana": "ゆ",
+      "ro": "yu"
+     },
+     null,
+     {
+      "kana": "よ",
+      "ro": "yo"
+     }
+    ],
+    [
+     {
+      "kana": "ら",
+      "ro": "ra"
+     },
+     {
+      "kana": "り",
+      "ro": "ri"
+     },
+     {
+      "kana": "る",
+      "ro": "ru"
+     },
+     {
+      "kana": "れ",
+      "ro": "re"
+     },
+     {
+      "kana": "ろ",
+      "ro": "ro"
+     }
+    ],
+    [
+     {
+      "kana": "わ",
+      "ro": "wa"
+     },
+     null,
+     null,
+     null,
+     {
+      "kana": "を",
+      "ro": "o"
+     }
+    ],
+    [
+     {
+      "kana": "ん",
+      "ro": "n"
+     },
+     null,
+     null,
+     null,
+     null
+    ]
+   ]
+  },
+  {
+   "id": "dakuon",
+   "title": "Huruf bertitik (dakuon/handakuon)",
+   "rows": [
+    [
+     {
+      "kana": "が",
+      "ro": "ga"
+     },
+     {
+      "kana": "ぎ",
+      "ro": "gi"
+     },
+     {
+      "kana": "ぐ",
+      "ro": "gu"
+     },
+     {
+      "kana": "げ",
+      "ro": "ge"
+     },
+     {
+      "kana": "ご",
+      "ro": "go"
+     }
+    ],
+    [
+     {
+      "kana": "ざ",
+      "ro": "za"
+     },
+     {
+      "kana": "じ",
+      "ro": "ji"
+     },
+     {
+      "kana": "ず",
+      "ro": "zu"
+     },
+     {
+      "kana": "ぜ",
+      "ro": "ze"
+     },
+     {
+      "kana": "ぞ",
+      "ro": "zo"
+     }
+    ],
+    [
+     {
+      "kana": "だ",
+      "ro": "da"
+     },
+     {
+      "kana": "ぢ",
+      "ro": "ji"
+     },
+     {
+      "kana": "づ",
+      "ro": "zu"
+     },
+     {
+      "kana": "で",
+      "ro": "de"
+     },
+     {
+      "kana": "ど",
+      "ro": "do"
+     }
+    ],
+    [
+     {
+      "kana": "ば",
+      "ro": "ba"
+     },
+     {
+      "kana": "び",
+      "ro": "bi"
+     },
+     {
+      "kana": "ぶ",
+      "ro": "bu"
+     },
+     {
+      "kana": "べ",
+      "ro": "be"
+     },
+     {
+      "kana": "ぼ",
+      "ro": "bo"
+     }
+    ],
+    [
+     {
+      "kana": "ぱ",
+      "ro": "pa"
+     },
+     {
+      "kana": "ぴ",
+      "ro": "pi"
+     },
+     {
+      "kana": "ぷ",
+      "ro": "pu"
+     },
+     {
+      "kana": "ぺ",
+      "ro": "pe"
+     },
+     {
+      "kana": "ぽ",
+      "ro": "po"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "youon",
+   "title": "Bunyi gabungan (youon)",
+   "rows": [
+    [
+     {
+      "kana": "きゃ",
+      "ro": "kya"
+     },
+     {
+      "kana": "きゅ",
+      "ro": "kyu"
+     },
+     {
+      "kana": "きょ",
+      "ro": "kyo"
+     }
+    ],
+    [
+     {
+      "kana": "しゃ",
+      "ro": "sha"
+     },
+     {
+      "kana": "しゅ",
+      "ro": "shu"
+     },
+     {
+      "kana": "しょ",
+      "ro": "sho"
+     }
+    ],
+    [
+     {
+      "kana": "ちゃ",
+      "ro": "cha"
+     },
+     {
+      "kana": "ちゅ",
+      "ro": "chu"
+     },
+     {
+      "kana": "ちょ",
+      "ro": "cho"
+     }
+    ],
+    [
+     {
+      "kana": "にゃ",
+      "ro": "nya"
+     },
+     {
+      "kana": "にゅ",
+      "ro": "nyu"
+     },
+     {
+      "kana": "にょ",
+      "ro": "nyo"
+     }
+    ],
+    [
+     {
+      "kana": "ひゃ",
+      "ro": "hya"
+     },
+     {
+      "kana": "ひゅ",
+      "ro": "hyu"
+     },
+     {
+      "kana": "ひょ",
+      "ro": "hyo"
+     }
+    ],
+    [
+     {
+      "kana": "みゃ",
+      "ro": "mya"
+     },
+     {
+      "kana": "みゅ",
+      "ro": "myu"
+     },
+     {
+      "kana": "みょ",
+      "ro": "myo"
+     }
+    ],
+    [
+     {
+      "kana": "りゃ",
+      "ro": "rya"
+     },
+     {
+      "kana": "りゅ",
+      "ro": "ryu"
+     },
+     {
+      "kana": "りょ",
+      "ro": "ryo"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "youon_dakuon",
+   "title": "Bunyi gabungan bertitik",
+   "rows": [
+    [
+     {
+      "kana": "ぎゃ",
+      "ro": "gya"
+     },
+     {
+      "kana": "ぎゅ",
+      "ro": "gyu"
+     },
+     {
+      "kana": "ぎょ",
+      "ro": "gyo"
+     }
+    ],
+    [
+     {
+      "kana": "じゃ",
+      "ro": "ja"
+     },
+     {
+      "kana": "じゅ",
+      "ro": "ju"
+     },
+     {
+      "kana": "じょ",
+      "ro": "jo"
+     }
+    ],
+    [
+     {
+      "kana": "びゃ",
+      "ro": "bya"
+     },
+     {
+      "kana": "びゅ",
+      "ro": "byu"
+     },
+     {
+      "kana": "びょ",
+      "ro": "byo"
+     }
+    ],
+    [
+     {
+      "kana": "ぴゃ",
+      "ro": "pya"
+     },
+     {
+      "kana": "ぴゅ",
+      "ro": "pyu"
+     },
+     {
+      "kana": "ぴょ",
+      "ro": "pyo"
+     }
+    ]
+   ]
+  }
+ ],
+ "katakana": [
+  {
+   "id": "seion",
+   "title": "Huruf dasar",
+   "rows": [
+    [
+     {
+      "kana": "ア",
+      "ro": "a"
+     },
+     {
+      "kana": "イ",
+      "ro": "i"
+     },
+     {
+      "kana": "ウ",
+      "ro": "u"
+     },
+     {
+      "kana": "エ",
+      "ro": "e"
+     },
+     {
+      "kana": "オ",
+      "ro": "o"
+     }
+    ],
+    [
+     {
+      "kana": "カ",
+      "ro": "ka"
+     },
+     {
+      "kana": "キ",
+      "ro": "ki"
+     },
+     {
+      "kana": "ク",
+      "ro": "ku"
+     },
+     {
+      "kana": "ケ",
+      "ro": "ke"
+     },
+     {
+      "kana": "コ",
+      "ro": "ko"
+     }
+    ],
+    [
+     {
+      "kana": "サ",
+      "ro": "sa"
+     },
+     {
+      "kana": "シ",
+      "ro": "shi"
+     },
+     {
+      "kana": "ス",
+      "ro": "su"
+     },
+     {
+      "kana": "セ",
+      "ro": "se"
+     },
+     {
+      "kana": "ソ",
+      "ro": "so"
+     }
+    ],
+    [
+     {
+      "kana": "タ",
+      "ro": "ta"
+     },
+     {
+      "kana": "チ",
+      "ro": "chi"
+     },
+     {
+      "kana": "ツ",
+      "ro": "tsu"
+     },
+     {
+      "kana": "テ",
+      "ro": "te"
+     },
+     {
+      "kana": "ト",
+      "ro": "to"
+     }
+    ],
+    [
+     {
+      "kana": "ナ",
+      "ro": "na"
+     },
+     {
+      "kana": "ニ",
+      "ro": "ni"
+     },
+     {
+      "kana": "ヌ",
+      "ro": "nu"
+     },
+     {
+      "kana": "ネ",
+      "ro": "ne"
+     },
+     {
+      "kana": "ノ",
+      "ro": "no"
+     }
+    ],
+    [
+     {
+      "kana": "ハ",
+      "ro": "ha"
+     },
+     {
+      "kana": "ヒ",
+      "ro": "hi"
+     },
+     {
+      "kana": "フ",
+      "ro": "fu"
+     },
+     {
+      "kana": "ヘ",
+      "ro": "he"
+     },
+     {
+      "kana": "ホ",
+      "ro": "ho"
+     }
+    ],
+    [
+     {
+      "kana": "マ",
+      "ro": "ma"
+     },
+     {
+      "kana": "ミ",
+      "ro": "mi"
+     },
+     {
+      "kana": "ム",
+      "ro": "mu"
+     },
+     {
+      "kana": "メ",
+      "ro": "me"
+     },
+     {
+      "kana": "モ",
+      "ro": "mo"
+     }
+    ],
+    [
+     {
+      "kana": "ヤ",
+      "ro": "ya"
+     },
+     null,
+     {
+      "kana": "ユ",
+      "ro": "yu"
+     },
+     null,
+     {
+      "kana": "ヨ",
+      "ro": "yo"
+     }
+    ],
+    [
+     {
+      "kana": "ラ",
+      "ro": "ra"
+     },
+     {
+      "kana": "リ",
+      "ro": "ri"
+     },
+     {
+      "kana": "ル",
+      "ro": "ru"
+     },
+     {
+      "kana": "レ",
+      "ro": "re"
+     },
+     {
+      "kana": "ロ",
+      "ro": "ro"
+     }
+    ],
+    [
+     {
+      "kana": "ワ",
+      "ro": "wa"
+     },
+     null,
+     null,
+     null,
+     {
+      "kana": "ヲ",
+      "ro": "o"
+     }
+    ],
+    [
+     {
+      "kana": "ン",
+      "ro": "n"
+     },
+     null,
+     null,
+     null,
+     null
+    ]
+   ]
+  },
+  {
+   "id": "dakuon",
+   "title": "Huruf bertitik (dakuon/handakuon)",
+   "rows": [
+    [
+     {
+      "kana": "ガ",
+      "ro": "ga"
+     },
+     {
+      "kana": "ギ",
+      "ro": "gi"
+     },
+     {
+      "kana": "グ",
+      "ro": "gu"
+     },
+     {
+      "kana": "ゲ",
+      "ro": "ge"
+     },
+     {
+      "kana": "ゴ",
+      "ro": "go"
+     }
+    ],
+    [
+     {
+      "kana": "ザ",
+      "ro": "za"
+     },
+     {
+      "kana": "ジ",
+      "ro": "ji"
+     },
+     {
+      "kana": "ズ",
+      "ro": "zu"
+     },
+     {
+      "kana": "ゼ",
+      "ro": "ze"
+     },
+     {
+      "kana": "ゾ",
+      "ro": "zo"
+     }
+    ],
+    [
+     {
+      "kana": "ダ",
+      "ro": "da"
+     },
+     {
+      "kana": "ヂ",
+      "ro": "ji"
+     },
+     {
+      "kana": "ヅ",
+      "ro": "zu"
+     },
+     {
+      "kana": "デ",
+      "ro": "de"
+     },
+     {
+      "kana": "ド",
+      "ro": "do"
+     }
+    ],
+    [
+     {
+      "kana": "バ",
+      "ro": "ba"
+     },
+     {
+      "kana": "ビ",
+      "ro": "bi"
+     },
+     {
+      "kana": "ブ",
+      "ro": "bu"
+     },
+     {
+      "kana": "ベ",
+      "ro": "be"
+     },
+     {
+      "kana": "ボ",
+      "ro": "bo"
+     }
+    ],
+    [
+     {
+      "kana": "パ",
+      "ro": "pa"
+     },
+     {
+      "kana": "ピ",
+      "ro": "pi"
+     },
+     {
+      "kana": "プ",
+      "ro": "pu"
+     },
+     {
+      "kana": "ペ",
+      "ro": "pe"
+     },
+     {
+      "kana": "ポ",
+      "ro": "po"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "youon",
+   "title": "Bunyi gabungan (youon)",
+   "rows": [
+    [
+     {
+      "kana": "キャ",
+      "ro": "kya"
+     },
+     {
+      "kana": "キュ",
+      "ro": "kyu"
+     },
+     {
+      "kana": "キョ",
+      "ro": "kyo"
+     }
+    ],
+    [
+     {
+      "kana": "シャ",
+      "ro": "sha"
+     },
+     {
+      "kana": "シュ",
+      "ro": "shu"
+     },
+     {
+      "kana": "ショ",
+      "ro": "sho"
+     }
+    ],
+    [
+     {
+      "kana": "チャ",
+      "ro": "cha"
+     },
+     {
+      "kana": "チュ",
+      "ro": "chu"
+     },
+     {
+      "kana": "チョ",
+      "ro": "cho"
+     }
+    ],
+    [
+     {
+      "kana": "ニャ",
+      "ro": "nya"
+     },
+     {
+      "kana": "ニュ",
+      "ro": "nyu"
+     },
+     {
+      "kana": "ニョ",
+      "ro": "nyo"
+     }
+    ],
+    [
+     {
+      "kana": "ヒャ",
+      "ro": "hya"
+     },
+     {
+      "kana": "ヒュ",
+      "ro": "hyu"
+     },
+     {
+      "kana": "ヒョ",
+      "ro": "hyo"
+     }
+    ],
+    [
+     {
+      "kana": "ミャ",
+      "ro": "mya"
+     },
+     {
+      "kana": "ミュ",
+      "ro": "myu"
+     },
+     {
+      "kana": "ミョ",
+      "ro": "myo"
+     }
+    ],
+    [
+     {
+      "kana": "リャ",
+      "ro": "rya"
+     },
+     {
+      "kana": "リュ",
+      "ro": "ryu"
+     },
+     {
+      "kana": "リョ",
+      "ro": "ryo"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "youon_dakuon",
+   "title": "Bunyi gabungan bertitik",
+   "rows": [
+    [
+     {
+      "kana": "ギャ",
+      "ro": "gya"
+     },
+     {
+      "kana": "ギュ",
+      "ro": "gyu"
+     },
+     {
+      "kana": "ギョ",
+      "ro": "gyo"
+     }
+    ],
+    [
+     {
+      "kana": "ジャ",
+      "ro": "ja"
+     },
+     {
+      "kana": "ジュ",
+      "ro": "ju"
+     },
+     {
+      "kana": "ジョ",
+      "ro": "jo"
+     }
+    ],
+    [
+     {
+      "kana": "ビャ",
+      "ro": "bya"
+     },
+     {
+      "kana": "ビュ",
+      "ro": "byu"
+     },
+     {
+      "kana": "ビョ",
+      "ro": "byo"
+     }
+    ],
+    [
+     {
+      "kana": "ピャ",
+      "ro": "pya"
+     },
+     {
+      "kana": "ピュ",
+      "ro": "pyu"
+     },
+     {
+      "kana": "ピョ",
+      "ro": "pyo"
+     }
+    ]
+   ]
+  }
+ ]
+}

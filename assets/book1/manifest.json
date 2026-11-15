@@ -1,0 +1,5940 @@
+{
+ "book": 1,
+ "data_version": "2026.11.14",
+ "title": "Minna no Nihongo Shokyu I",
+ "lessons": [
+  {
+   "lesson": 1,
+   "id": "L01",
+   "file": "lessons/L01.json",
+   "title_jp": {
+    "jp": "初めまして",
+    "tokens": [
+     {
+      "s": "初",
+      "r": "はじ",
+      "ro": "Haji",
+      "k": true
+     },
+     {
+      "s": "めまして",
+      "ro": "memashite"
+     }
+    ]
+   },
+   "title_tr": "Salam Kenal!",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 41
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L01_kaiwa.m4a",
+     "duration": 23.952,
+     "title_jp": {
+      "jp": "初めまして",
+      "tokens": [
+       {
+        "s": "初",
+        "r": "はじ",
+        "ro": "Haji",
+        "k": true
+       },
+       {
+        "s": "めまして",
+        "ro": "memashite"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "audio_numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "国・人・ことば",
+      "tokens": [
+       {
+        "s": "国",
+        "r": "くに",
+        "ro": "Kuni",
+        "k": true
+       },
+       {
+        "s": "・",
+        "ro": " "
+       },
+       {
+        "s": "人",
+        "r": "ひと",
+        "ro": "hito",
+        "k": true
+       },
+       {
+        "s": "・ことば",
+        "ro": " kotoba"
+       }
+      ]
+     },
+     "title_tr": "Negara, Orang, Bahasa"
+    }
+   ]
+  },
+  {
+   "lesson": 2,
+   "id": "L02",
+   "file": "lessons/L02.json",
+   "title_jp": {
+    "jp": "これから　お世話に　なります",
+    "tokens": [
+     {
+      "s": "これから　お",
+      "ro": "Kore kara o"
+     },
+     {
+      "s": "世話",
+      "r": "せわ",
+      "ro": "sewa",
+      "k": true
+     },
+     {
+      "s": "に　なります",
+      "ro": " ni narimasu"
+     }
+    ]
+   },
+   "title_tr": "Mohon Bantuan Anda.",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 46
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L02_kaiwa.m4a",
+     "duration": 36.84,
+     "title_jp": {
+      "jp": "これから　お世話に　なります",
+      "tokens": [
+       {
+        "s": "これから　お",
+        "ro": "Kore kara o"
+       },
+       {
+        "s": "世話",
+        "r": "せわ",
+        "ro": "sewa",
+        "k": true
+       },
+       {
+        "s": "に　なります",
+        "ro": " ni narimasu"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     "audio_numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "名前",
+      "tokens": [
+       {
+        "s": "名前",
+        "r": "なまえ",
+        "ro": "Namae",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Nama Keluarga"
+    }
+   ]
+  },
+  {
+   "lesson": 3,
+   "id": "L03",
+   "file": "lessons/L03.json",
+   "title_jp": {
+    "jp": "これを　ください",
+    "tokens": [
+     {
+      "s": "これを　ください",
+      "ro": "Kore o kudasai"
+     }
+    ]
+   },
+   "title_tr": "Minta ini!",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 49
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 2,
+     "numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L03_kaiwa.m4a",
+     "duration": 37.656,
+     "title_jp": {
+      "jp": "これを　ください",
+      "tokens": [
+       {
+        "s": "これを　ください",
+        "ro": "Kore o kudasai"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "デパート",
+      "tokens": [
+       {
+        "s": "デパート",
+        "ro": "Depaato"
+       }
+      ]
+     },
+     "title_tr": "Toserba"
+    }
+   ]
+  },
+  {
+   "lesson": 4,
+   "id": "L04",
+   "file": "lessons/L04.json",
+   "title_jp": {
+    "jp": "そちらは　何時までですか",
+    "tokens": [
+     {
+      "s": "そちらは　",
+      "ro": "Sochira wa "
+     },
+     {
+      "s": "何時",
+      "r": "なんじ",
+      "ro": "nanji",
+      "k": true
+     },
+     {
+      "s": "までですか",
+      "ro": " made desu ka"
+     }
+    ]
+   },
+   "title_tr": "Di Situ Sampai Pukul Berapa?",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 60
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L04_kaiwa.m4a",
+     "duration": 39.624,
+     "title_jp": {
+      "jp": "そちらは　何時までですか",
+      "tokens": [
+       {
+        "s": "そちらは　",
+        "ro": "Sochira wa "
+       },
+       {
+        "s": "何時",
+        "r": "なんじ",
+        "ro": "nanji",
+        "k": true
+       },
+       {
+        "s": "までですか",
+        "ro": " made desu ka"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 9,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     "audio_numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "電話・手紙",
+      "tokens": [
+       {
+        "s": "電話",
+        "r": "でんわ",
+        "ro": "Denwa",
+        "k": true
+       },
+       {
+        "s": "・",
+        "ro": " "
+       },
+       {
+        "s": "手紙",
+        "r": "てがみ",
+        "ro": "tegami",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Telepon, Surat"
+    }
+   ]
+  },
+  {
+   "lesson": 5,
+   "id": "L05",
+   "file": "lessons/L05.json",
+   "title_jp": {
+    "jp": "この　電車は　甲子園へ　行きますか",
+    "tokens": [
+     {
+      "s": "この　",
+      "ro": "Kono "
+     },
+     {
+      "s": "電車",
+      "r": "でんしゃ",
+      "ro": "densha",
+      "k": true
+     },
+     {
+      "s": "は　",
+      "ro": " wa "
+     },
+     {
+      "s": "甲子園",
+      "r": "こうしえん",
+      "ro": "koushien",
+      "k": true
+     },
+     {
+      "s": "へ　",
+      "ro": " e "
+     },
+     {
+      "s": "行",
+      "r": "い",
+      "ro": "i",
+      "k": true
+     },
+     {
+      "s": "きますか",
+      "ro": "kimasu ka"
+     }
+    ]
+   },
+   "title_tr": "Apakah Kereta Rel Listrik Ini Menuju Koshien?",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 61
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L05_kaiwa.m4a",
+     "duration": 49.56,
+     "title_jp": {
+      "jp": "この　電車は　甲子園へ　行きますか",
+      "tokens": [
+       {
+        "s": "この　",
+        "ro": "Kono "
+       },
+       {
+        "s": "電車",
+        "r": "でんしゃ",
+        "ro": "densha",
+        "k": true
+       },
+       {
+        "s": "は　",
+        "ro": " wa "
+       },
+       {
+        "s": "甲子園",
+        "r": "こうしえん",
+        "ro": "koushien",
+        "k": true
+       },
+       {
+        "s": "へ　",
+        "ro": " e "
+       },
+       {
+        "s": "行",
+        "r": "い",
+        "ro": "i",
+        "k": true
+       },
+       {
+        "s": "きますか",
+        "ro": "kimasu ka"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "audio_numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "祝祭日",
+      "tokens": [
+       {
+        "s": "祝祭日",
+        "r": "しゅくさいじつ",
+        "ro": "Shukusaijitsu",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Hari Libur Nasional"
+    }
+   ]
+  },
+  {
+   "lesson": 6,
+   "id": "L06",
+   "file": "lessons/L06.json",
+   "title_jp": {
+    "jp": "いっしょに　行きませんか",
+    "tokens": [
+     {
+      "s": "いっしょに　",
+      "ro": "Issho ni "
+     },
+     {
+      "s": "行",
+      "r": "い",
+      "ro": "i",
+      "k": true
+     },
+     {
+      "s": "きませんか",
+      "ro": "kimasen ka"
+     }
+    ]
+   },
+   "title_tr": "Bagaimana Kalau Kita Pergi Bersama-sama?",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 55
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L06_kaiwa.m4a",
+     "duration": 27.816,
+     "title_jp": {
+      "jp": "いっしょに　行きませんか",
+      "tokens": [
+       {
+        "s": "いっしょに　",
+        "ro": "Issho ni "
+       },
+       {
+        "s": "行",
+        "r": "い",
+        "ro": "i",
+        "k": true
+       },
+       {
+        "s": "きませんか",
+        "ro": "kimasen ka"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "食べ物",
+      "tokens": [
+       {
+        "s": "食",
+        "r": "た",
+        "ro": "Ta",
+        "k": true
+       },
+       {
+        "s": "べ",
+        "ro": "be"
+       },
+       {
+        "s": "物",
+        "r": "もの",
+        "ro": "mono",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Makanan"
+    }
+   ]
+  },
+  {
+   "lesson": 7,
+   "id": "L07",
+   "file": "lessons/L07.json",
+   "title_jp": {
+    "jp": "いらっしゃい",
+    "tokens": [
+     {
+      "s": "いらっしゃい",
+      "ro": "Irasshai"
+     }
+    ]
+   },
+   "title_tr": "Selamat Datang!",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 46
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L07_kaiwa.m4a",
+     "duration": 45.84,
+     "title_jp": {
+      "jp": "いらっしゃい",
+      "tokens": [
+       {
+        "s": "いらっしゃい",
+        "ro": "Irasshai"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "audio_numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "家族",
+      "tokens": [
+       {
+        "s": "家族",
+        "r": "かぞく",
+        "ro": "Kazoku",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Keluarga"
+    }
+   ]
+  },
+  {
+   "lesson": 8,
+   "id": "L08",
+   "file": "lessons/L08.json",
+   "title_jp": {
+    "jp": "そろそろ　失礼します",
+    "tokens": [
+     {
+      "s": "そろそろ　",
+      "ro": "Sorosoro "
+     },
+     {
+      "s": "失礼",
+      "r": "しつれい",
+      "ro": "shitsurei",
+      "k": true
+     },
+     {
+      "s": "します",
+      "ro": " shimasu"
+     }
+    ]
+   },
+   "title_tr": "Saya Mau Pamit.",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 60
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L08_kaiwa.m4a",
+     "duration": 42.12,
+     "title_jp": {
+      "jp": "そろそろ　失礼します",
+      "tokens": [
+       {
+        "s": "そろそろ　",
+        "ro": "Sorosoro "
+       },
+       {
+        "s": "失礼",
+        "r": "しつれい",
+        "ro": "shitsurei",
+        "k": true
+       },
+       {
+        "s": "します",
+        "ro": " shimasu"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "audio_numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "色・味",
+      "tokens": [
+       {
+        "s": "色",
+        "r": "いろ",
+        "ro": "Iro",
+        "k": true
+       },
+       {
+        "s": "・",
+        "ro": " "
+       },
+       {
+        "s": "味",
+        "r": "あじ",
+        "ro": "aji",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Warna, Rasa"
+    }
+   ]
+  },
+  {
+   "lesson": 9,
+   "id": "L09",
+   "file": "lessons/L09.json",
+   "title_jp": {
+    "jp": "残念ですが",
+    "tokens": [
+     {
+      "s": "残念",
+      "r": "ざんねん",
+      "ro": "Zannen",
+      "k": true
+     },
+     {
+      "s": "ですが",
+      "ro": " desu ga"
+     }
+    ]
+   },
+   "title_tr": "Sayang...",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 52
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L09_kaiwa.m4a",
+     "duration": 47.784,
+     "title_jp": {
+      "jp": "残念ですが",
+      "tokens": [
+       {
+        "s": "残念",
+        "r": "ざんねん",
+        "ro": "Zannen",
+        "k": true
+       },
+       {
+        "s": "ですが",
+        "ro": " desu ga"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "音楽・スポーツ・映画",
+      "tokens": [
+       {
+        "s": "音楽",
+        "r": "おんがく",
+        "ro": "Ongaku",
+        "k": true
+       },
+       {
+        "s": "・スポーツ・",
+        "ro": " supootsu "
+       },
+       {
+        "s": "映画",
+        "r": "えいが",
+        "ro": "eiga",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Musik, Olahraga, Film"
+    }
+   ]
+  },
+  {
+   "lesson": 10,
+   "id": "L10",
+   "file": "lessons/L10.json",
+   "title_jp": {
+    "jp": "ナンプラー、ありますか",
+    "tokens": [
+     {
+      "s": "ナンプラー、ありますか",
+      "ro": "Nanpuraa, arimasu ka"
+     }
+    ]
+   },
+   "title_tr": "Ada Kecap Ikan?",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 49
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L10_kaiwa.m4a",
+     "duration": 38.856,
+     "title_jp": {
+      "jp": "ナンプラー、ありますか",
+      "tokens": [
+       {
+        "s": "ナンプラー、ありますか",
+        "ro": "Nanpuraa, arimasu ka"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "audio_numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "うちの　中",
+      "tokens": [
+       {
+        "s": "うちの　",
+        "ro": "Uchi no "
+       },
+       {
+        "s": "中",
+        "r": "なか",
+        "ro": "naka",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Di Dalam Rumah"
+    }
+   ]
+  },
+  {
+   "lesson": 11,
+   "id": "L11",
+   "file": "lessons/L11.json",
+   "title_jp": {
+    "jp": "これ、お願いします",
+    "tokens": [
+     {
+      "s": "これ、お",
+      "ro": "Kore, o"
+     },
+     {
+      "s": "願",
+      "r": "ねが",
+      "ro": "nega",
+      "k": true
+     },
+     {
+      "s": "いします",
+      "ro": "ishimasu"
+     }
+    ]
+   },
+   "title_tr": "Tolong Ini.",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 61
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 2,
+     "numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L11_kaiwa.m4a",
+     "duration": 45.6,
+     "title_jp": {
+      "jp": "これ、お願いします",
+      "tokens": [
+       {
+        "s": "これ、お",
+        "ro": "Kore, o"
+       },
+       {
+        "s": "願",
+        "r": "ねが",
+        "ro": "nega",
+        "k": true
+       },
+       {
+        "s": "いします",
+        "ro": "ishimasu"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "audio_numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "メニュー",
+      "tokens": [
+       {
+        "s": "メニュー",
+        "ro": "Menyuu"
+       }
+      ]
+     },
+     "title_tr": "Menu"
+    }
+   ]
+  },
+  {
+   "lesson": 12,
+   "id": "L12",
+   "file": "lessons/L12.json",
+   "title_jp": {
+    "jp": "祇園祭は　どうでしたか",
+    "tokens": [
+     {
+      "s": "祇園祭",
+      "r": "ぎおんまつり",
+      "ro": "Gionmatsuri",
+      "k": true
+     },
+     {
+      "s": "は　どうでしたか",
+      "ro": " wa dou deshita ka"
+     }
+    ]
+   },
+   "title_tr": "Bagaimana Perayaan Gion?",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 53
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L12_kaiwa.m4a",
+     "duration": 35.592,
+     "title_jp": {
+      "jp": "祇園祭は　どうでしたか",
+      "tokens": [
+       {
+        "s": "祇園祭",
+        "r": "ぎおんまつり",
+        "ro": "Gionmatsuri",
+        "k": true
+       },
+       {
+        "s": "は　どうでしたか",
+        "ro": " wa dou deshita ka"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "祭りと　名所",
+      "tokens": [
+       {
+        "s": "祭",
+        "r": "まつ",
+        "ro": "Matsu",
+        "k": true
+       },
+       {
+        "s": "りと　",
+        "ro": "ri to "
+       },
+       {
+        "s": "名所",
+        "r": "めいしょ",
+        "ro": "meisho",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Perayaan, Tempat Terkenal"
+    }
+   ]
+  },
+  {
+   "lesson": 13,
+   "id": "L13",
+   "file": "lessons/L13.json",
+   "title_jp": {
+    "jp": "別々に　お願いします",
+    "tokens": [
+     {
+      "s": "別々",
+      "r": "べつべつ",
+      "ro": "Betsubetsu",
+      "k": true
+     },
+     {
+      "s": "に　お",
+      "ro": " ni o"
+     },
+     {
+      "s": "願",
+      "r": "ねが",
+      "ro": "nega",
+      "k": true
+     },
+     {
+      "s": "いします",
+      "ro": "ishimasu"
+     }
+    ]
+   },
+   "title_tr": "Tolong Sendiri-sendiri!",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 33
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L13_kaiwa.m4a",
+     "duration": 58.2,
+     "title_jp": {
+      "jp": "別々に　お願いします",
+      "tokens": [
+       {
+        "s": "別々",
+        "r": "べつべつ",
+        "ro": "Betsubetsu",
+        "k": true
+       },
+       {
+        "s": "に　お",
+        "ro": " ni o"
+       },
+       {
+        "s": "願",
+        "r": "ねが",
+        "ro": "nega",
+        "k": true
+       },
+       {
+        "s": "いします",
+        "ro": "ishimasu"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "町の　中",
+      "tokens": [
+       {
+        "s": "町",
+        "r": "まち",
+        "ro": "Machi",
+        "k": true
+       },
+       {
+        "s": "の　",
+        "ro": " no "
+       },
+       {
+        "s": "中",
+        "r": "なか",
+        "ro": "naka",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Di Kota"
+    }
+   ]
+  },
+  {
+   "lesson": 14,
+   "id": "L14",
+   "file": "lessons/L14.json",
+   "title_jp": {
+    "jp": "みどり町まで　お願いします",
+    "tokens": [
+     {
+      "s": "みどり",
+      "ro": "Midori"
+     },
+     {
+      "s": "町",
+      "r": "ちょう",
+      "ro": " chou",
+      "k": true
+     },
+     {
+      "s": "まで　お",
+      "ro": " made o"
+     },
+     {
+      "s": "願",
+      "r": "ねが",
+      "ro": "nega",
+      "k": true
+     },
+     {
+      "s": "いします",
+      "ro": "ishimasu"
+     }
+    ]
+   },
+   "title_tr": "Tolong Sampai ke Midoricho!",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 46
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L14_kaiwa.m4a",
+     "duration": 52.8,
+     "title_jp": {
+      "jp": "みどり町まで　お願いします",
+      "tokens": [
+       {
+        "s": "みどり",
+        "ro": "Midori"
+       },
+       {
+        "s": "町",
+        "r": "ちょう",
+        "ro": " chou",
+        "k": true
+       },
+       {
+        "s": "まで　お",
+        "ro": " made o"
+       },
+       {
+        "s": "願",
+        "r": "ねが",
+        "ro": "nega",
+        "k": true
+       },
+       {
+        "s": "いします",
+        "ro": "ishimasu"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "audio_numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "駅",
+      "tokens": [
+       {
+        "s": "駅",
+        "r": "えき",
+        "ro": "Eki",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Stasiun"
+    }
+   ]
+  },
+  {
+   "lesson": 15,
+   "id": "L15",
+   "file": "lessons/L15.json",
+   "title_jp": {
+    "jp": "ご家族は？",
+    "tokens": [
+     {
+      "s": "ご",
+      "ro": "Go"
+     },
+     {
+      "s": "家族",
+      "r": "かぞく",
+      "ro": "kazoku",
+      "k": true
+     },
+     {
+      "s": "は？",
+      "ro": " wa?"
+     }
+    ]
+   },
+   "title_tr": "Keluarganya?",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 24
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 2,
+     "numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L15_kaiwa.m4a",
+     "duration": 36.36,
+     "title_jp": {
+      "jp": "ご家族は？",
+      "tokens": [
+       {
+        "s": "ご",
+        "ro": "Go"
+       },
+       {
+        "s": "家族",
+        "r": "かぞく",
+        "ro": "kazoku",
+        "k": true
+       },
+       {
+        "s": "は？",
+        "ro": " wa?"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "職業",
+      "tokens": [
+       {
+        "s": "職業",
+        "r": "しょくぎょう",
+        "ro": "Shokugyou",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Pekerjaan"
+    }
+   ]
+  },
+  {
+   "lesson": 16,
+   "id": "L16",
+   "file": "lessons/L16.json",
+   "title_jp": {
+    "jp": "使い方を　教えて　ください",
+    "tokens": [
+     {
+      "s": "使",
+      "r": "つか",
+      "ro": "Tsuka",
+      "k": true
+     },
+     {
+      "s": "い",
+      "ro": "i"
+     },
+     {
+      "s": "方",
+      "r": "かた",
+      "ro": "kata",
+      "k": true
+     },
+     {
+      "s": "を　",
+      "ro": " o "
+     },
+     {
+      "s": "教",
+      "r": "おし",
+      "ro": "oshi",
+      "k": true
+     },
+     {
+      "s": "えて　ください",
+      "ro": "ete kudasai"
+     }
+    ]
+   },
+   "title_tr": "Tolong Ajarkan Cara Pemakaiannya!",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 58
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L16_kaiwa.m4a",
+     "duration": 42.024,
+     "title_jp": {
+      "jp": "使い方を　教えて　ください",
+      "tokens": [
+       {
+        "s": "使",
+        "r": "つか",
+        "ro": "Tsuka",
+        "k": true
+       },
+       {
+        "s": "い",
+        "ro": "i"
+       },
+       {
+        "s": "方",
+        "r": "かた",
+        "ro": "kata",
+        "k": true
+       },
+       {
+        "s": "を　",
+        "ro": " o "
+       },
+       {
+        "s": "教",
+        "r": "おし",
+        "ro": "oshi",
+        "k": true
+       },
+       {
+        "s": "えて　ください",
+        "ro": "ete kudasai"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "audio_numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "ATMの　使い方",
+      "tokens": [
+       {
+        "s": "ATMの　",
+        "ro": "ATM no "
+       },
+       {
+        "s": "使",
+        "r": "つか",
+        "ro": "tsuka",
+        "k": true
+       },
+       {
+        "s": "い",
+        "ro": "i"
+       },
+       {
+        "s": "方",
+        "r": "かた",
+        "ro": "kata",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Cara Menggunakan ATM"
+    }
+   ]
+  },
+  {
+   "lesson": 17,
+   "id": "L17",
+   "file": "lessons/L17.json",
+   "title_jp": {
+    "jp": "どう　しましたか",
+    "tokens": [
+     {
+      "s": "どう　しましたか",
+      "ro": "Dou shimashita ka"
+     }
+    ]
+   },
+   "title_tr": "Kenapa?",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 35
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L17_kaiwa.m4a",
+     "duration": 41.376,
+     "title_jp": {
+      "jp": "どう　しましたか",
+      "tokens": [
+       {
+        "s": "どう　しましたか",
+        "ro": "Dou shimashita ka"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "体・病気",
+      "tokens": [
+       {
+        "s": "体",
+        "r": "からだ",
+        "ro": "Karada",
+        "k": true
+       },
+       {
+        "s": "・",
+        "ro": " "
+       },
+       {
+        "s": "病気",
+        "r": "びょうき",
+        "ro": "byouki",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Badan, Penyakit"
+    }
+   ]
+  },
+  {
+   "lesson": 18,
+   "id": "L18",
+   "file": "lessons/L18.json",
+   "title_jp": {
+    "jp": "趣味は　何ですか",
+    "tokens": [
+     {
+      "s": "趣味",
+      "r": "しゅみ",
+      "ro": "Shumi",
+      "k": true
+     },
+     {
+      "s": "は　",
+      "ro": " wa "
+     },
+     {
+      "s": "何",
+      "r": "なん",
+      "ro": "nan",
+      "k": true
+     },
+     {
+      "s": "ですか",
+      "ro": " desu ka"
+     }
+    ]
+   },
+   "title_tr": "Apa Hobinya?",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 30
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L18_kaiwa.m4a",
+     "duration": 36.24,
+     "title_jp": {
+      "jp": "趣味は　何ですか",
+      "tokens": [
+       {
+        "s": "趣味",
+        "r": "しゅみ",
+        "ro": "Shumi",
+        "k": true
+       },
+       {
+        "s": "は　",
+        "ro": " wa "
+       },
+       {
+        "s": "何",
+        "r": "なん",
+        "ro": "nan",
+        "k": true
+       },
+       {
+        "s": "ですか",
+        "ro": " desu ka"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "動き",
+      "tokens": [
+       {
+        "s": "動",
+        "r": "うご",
+        "ro": "Ugo",
+        "k": true
+       },
+       {
+        "s": "き",
+        "ro": "ki"
+       }
+      ]
+     },
+     "title_tr": "Gerakan"
+    }
+   ]
+  },
+  {
+   "lesson": 19,
+   "id": "L19",
+   "file": "lessons/L19.json",
+   "title_jp": {
+    "jp": "ダイエットは　あしたから　します",
+    "tokens": [
+     {
+      "s": "ダイエットは　あしたから　します",
+      "ro": "Daietto wa ashita kara shimasu"
+     }
+    ]
+   },
+   "title_tr": "Dietnya Mulai Besok.",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 26
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L19_kaiwa.m4a",
+     "duration": 46.8,
+     "title_jp": {
+      "jp": "ダイエットは　あしたから　します",
+      "tokens": [
+       {
+        "s": "ダイエットは　あしたから　します",
+        "ro": "Daietto wa ashita kara shimasu"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "伝統文化・娯楽",
+      "tokens": [
+       {
+        "s": "伝統文化",
+        "r": "でんとうぶんか",
+        "ro": "Dentoubunka",
+        "k": true
+       },
+       {
+        "s": "・",
+        "ro": " "
+       },
+       {
+        "s": "娯楽",
+        "r": "ごらく",
+        "ro": "goraku",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Kebudayaan Tradisional, Hiburan"
+    }
+   ]
+  },
+  {
+   "lesson": 20,
+   "id": "L20",
+   "file": "lessons/L20.json",
+   "title_jp": {
+    "jp": "いっしょに　行かない？",
+    "tokens": [
+     {
+      "s": "いっしょに　",
+      "ro": "Issho ni "
+     },
+     {
+      "s": "行",
+      "r": "い",
+      "ro": "i",
+      "k": true
+     },
+     {
+      "s": "かない？",
+      "ro": "kanai?"
+     }
+    ]
+   },
+   "title_tr": "Bagaimana Kalau Pergi Bersama-sama?",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 22
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L20_kaiwa.m4a",
+     "duration": 32.064,
+     "title_jp": {
+      "jp": "いっしょに　行かない？",
+      "tokens": [
+       {
+        "s": "いっしょに　",
+        "ro": "Issho ni "
+       },
+       {
+        "s": "行",
+        "r": "い",
+        "ro": "i",
+        "k": true
+       },
+       {
+        "s": "かない？",
+        "ro": "kanai?"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 2,
+     "numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "人の　呼び方",
+      "tokens": [
+       {
+        "s": "人",
+        "r": "ひと",
+        "ro": "Hito",
+        "k": true
+       },
+       {
+        "s": "の　",
+        "ro": " no "
+       },
+       {
+        "s": "呼",
+        "r": "よ",
+        "ro": "yo",
+        "k": true
+       },
+       {
+        "s": "び",
+        "ro": "bi"
+       },
+       {
+        "s": "方",
+        "r": "かた",
+        "ro": "kata",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Cara Memanggil Orang"
+    }
+   ]
+  },
+  {
+   "lesson": 21,
+   "id": "L21",
+   "file": "lessons/L21.json",
+   "title_jp": {
+    "jp": "わたしも　そう　思います",
+    "tokens": [
+     {
+      "s": "わたしも　そう　",
+      "ro": "Watashi mo sou "
+     },
+     {
+      "s": "思",
+      "r": "おも",
+      "ro": "omo",
+      "k": true
+     },
+     {
+      "s": "います",
+      "ro": "imasu"
+     }
+    ]
+   },
+   "title_tr": "Saya Kira Juga Begitu.",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 51
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L21_kaiwa.m4a",
+     "duration": 50.16,
+     "title_jp": {
+      "jp": "わたしも　そう　思います",
+      "tokens": [
+       {
+        "s": "わたしも　そう　",
+        "ro": "Watashi mo sou "
+       },
+       {
+        "s": "思",
+        "r": "おも",
+        "ro": "omo",
+        "k": true
+       },
+       {
+        "s": "います",
+        "ro": "imasu"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "役職名",
+      "tokens": [
+       {
+        "s": "役職名",
+        "r": "やくしょくめい",
+        "ro": "Yakushokumei",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Nama-Nama Jabatan"
+    }
+   ]
+  },
+  {
+   "lesson": 22,
+   "id": "L22",
+   "file": "lessons/L22.json",
+   "title_jp": {
+    "jp": "どんな　部屋を　お探しですか",
+    "tokens": [
+     {
+      "s": "どんな　",
+      "ro": "Donna "
+     },
+     {
+      "s": "部屋",
+      "r": "へや",
+      "ro": "heya",
+      "k": true
+     },
+     {
+      "s": "を　お",
+      "ro": " o o"
+     },
+     {
+      "s": "探",
+      "r": "さが",
+      "ro": "saga",
+      "k": true
+     },
+     {
+      "s": "しですか",
+      "ro": "shi desu ka"
+     }
+    ]
+   },
+   "title_tr": "Cari Kamar Yang Bagaimana?",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 31
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L22_kaiwa.m4a",
+     "duration": 43.2,
+     "title_jp": {
+      "jp": "どんな　部屋を　お探しですか",
+      "tokens": [
+       {
+        "s": "どんな　",
+        "ro": "Donna "
+       },
+       {
+        "s": "部屋",
+        "r": "へや",
+        "ro": "heya",
+        "k": true
+       },
+       {
+        "s": "を　お",
+        "ro": " o o"
+       },
+       {
+        "s": "探",
+        "r": "さが",
+        "ro": "saga",
+        "k": true
+       },
+       {
+        "s": "しですか",
+        "ro": "shi desu ka"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "衣服",
+      "tokens": [
+       {
+        "s": "衣服",
+        "r": "いふく",
+        "ro": "Ifuku",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Pakaian"
+    }
+   ]
+  },
+  {
+   "lesson": 23,
+   "id": "L23",
+   "file": "lessons/L23.json",
+   "title_jp": {
+    "jp": "どうやって　行きますか",
+    "tokens": [
+     {
+      "s": "どうやって　",
+      "ro": "Dou yatte "
+     },
+     {
+      "s": "行",
+      "r": "い",
+      "ro": "i",
+      "k": true
+     },
+     {
+      "s": "きますか",
+      "ro": "kimasu ka"
+     }
+    ]
+   },
+   "title_tr": "Bagaimana Caranya Pergi?",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 28
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 2,
+     "numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 9,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L23_kaiwa.m4a",
+     "duration": 47.64,
+     "title_jp": {
+      "jp": "どうやって　行きますか",
+      "tokens": [
+       {
+        "s": "どうやって　",
+        "ro": "Dou yatte "
+       },
+       {
+        "s": "行",
+        "r": "い",
+        "ro": "i",
+        "k": true
+       },
+       {
+        "s": "きますか",
+        "ro": "kimasu ka"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 9,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     "audio_numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "道路・交通",
+      "tokens": [
+       {
+        "s": "道路",
+        "r": "どうろ",
+        "ro": "Douro",
+        "k": true
+       },
+       {
+        "s": "・",
+        "ro": " "
+       },
+       {
+        "s": "交通",
+        "r": "こうつう",
+        "ro": "koutsuu",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Jalan, Lalu Lintas"
+    }
+   ]
+  },
+  {
+   "lesson": 24,
+   "id": "L24",
+   "file": "lessons/L24.json",
+   "title_jp": {
+    "jp": "手伝いに　行きましょうか",
+    "tokens": [
+     {
+      "s": "手伝",
+      "r": "てつだ",
+      "ro": "Tetsuda",
+      "k": true
+     },
+     {
+      "s": "いに　",
+      "ro": "i ni "
+     },
+     {
+      "s": "行",
+      "r": "い",
+      "ro": "i",
+      "k": true
+     },
+     {
+      "s": "きましょうか",
+      "ro": "kimashou ka"
+     }
+    ]
+   },
+   "title_tr": "Bagaimana Kalau Saya Pergi Untuk Membantu Anda?",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 18
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L24_kaiwa.m4a",
+     "duration": 38.28,
+     "title_jp": {
+      "jp": "手伝いに　行きましょうか",
+      "tokens": [
+       {
+        "s": "手伝",
+        "r": "てつだ",
+        "ro": "Tetsuda",
+        "k": true
+       },
+       {
+        "s": "いに　",
+        "ro": "i ni "
+       },
+       {
+        "s": "行",
+        "r": "い",
+        "ro": "i",
+        "k": true
+       },
+       {
+        "s": "きましょうか",
+        "ro": "kimashou ka"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 5,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "贈答の　習慣",
+      "tokens": [
+       {
+        "s": "贈答",
+        "r": "ぞうとう",
+        "ro": "Zoutou",
+        "k": true
+       },
+       {
+        "s": "の　",
+        "ro": " no "
+       },
+       {
+        "s": "習慣",
+        "r": "しゅうかん",
+        "ro": "shuukan",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Tukar-Menukar Hadiah"
+    }
+   ]
+  },
+  {
+   "lesson": 25,
+   "id": "L25",
+   "file": "lessons/L25.json",
+   "title_jp": {
+    "jp": "いろいろ　お世話に　なりました",
+    "tokens": [
+     {
+      "s": "いろいろ　お",
+      "ro": "Iroiro o"
+     },
+     {
+      "s": "世話",
+      "r": "せわ",
+      "ro": "sewa",
+      "k": true
+     },
+     {
+      "s": "に　なりました",
+      "ro": " ni narimashita"
+     }
+    ]
+   },
+   "title_tr": "Telah Mendapatkan Banyak Bantuannya.",
+   "sections": [
+    {
+     "key": "kosakata",
+     "source": "translation",
+     "count": 17
+    },
+    {
+     "key": "bunkei",
+     "source": "main",
+     "count": 2,
+     "numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "reibun",
+     "source": "main",
+     "count": 8,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "key": "kaiwa",
+     "source": "main",
+     "audio": "audio/L25_kaiwa.m4a",
+     "duration": 42.504,
+     "title_jp": {
+      "jp": "いろいろ　お世話に　なりました",
+      "tokens": [
+       {
+        "s": "いろいろ　お",
+        "ro": "Iroiro o"
+       },
+       {
+        "s": "世話",
+        "r": "せわ",
+        "ro": "sewa",
+        "k": true
+       },
+       {
+        "s": "に　なりました",
+        "ro": " ni narimashita"
+       }
+      ]
+     }
+    },
+    {
+     "key": "renshuu_a",
+     "source": "main",
+     "count": 4,
+     "numbers": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "key": "renshuu_b",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "key": "renshuu_c",
+     "source": "main",
+     "count": 3,
+     "numbers": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "key": "mondai",
+     "source": "main",
+     "count": 7,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "audio_numbers": [
+      1,
+      2
+     ]
+    },
+    {
+     "key": "bunpou",
+     "source": "translation",
+     "count": 6,
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "key": "sankou",
+     "source": "translation",
+     "title_jp": {
+      "jp": "人の　一生",
+      "tokens": [
+       {
+        "s": "人",
+        "r": "ひと",
+        "ro": "Hito",
+        "k": true
+       },
+       {
+        "s": "の　",
+        "ro": " no "
+       },
+       {
+        "s": "一生",
+        "r": "いっしょう",
+        "ro": "isshou",
+        "k": true
+       }
+      ]
+     },
+     "title_tr": "Seumur Hidup Manusia"
+    }
+   ]
+  }
+ ],
+ "mondaishuu": [
+  {
+   "id": "MS01",
+   "file": "mondaishuu/MS01.json",
+   "lessons": [
+    1,
+    2
+   ],
+   "title_jp": {
+    "jp": "第1・2課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "1・2",
+      "ro": "1 2"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 8,
+   "item_count": 37
+  },
+  {
+   "id": "MS02",
+   "file": "mondaishuu/MS02.json",
+   "lessons": [
+    3
+   ],
+   "title_jp": {
+    "jp": "第3課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "3",
+      "ro": "3"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 6,
+   "item_count": 28
+  },
+  {
+   "id": "MS03",
+   "file": "mondaishuu/MS03.json",
+   "lessons": [
+    4
+   ],
+   "title_jp": {
+    "jp": "第4課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "4",
+      "ro": "4"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 7,
+   "item_count": 39
+  },
+  {
+   "id": "MS04",
+   "file": "mondaishuu/MS04.json",
+   "lessons": [
+    5
+   ],
+   "title_jp": {
+    "jp": "第5課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "5",
+      "ro": "5"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 7,
+   "item_count": 44
+  },
+  {
+   "id": "MS05",
+   "file": "mondaishuu/MS05.json",
+   "lessons": [
+    6
+   ],
+   "title_jp": {
+    "jp": "第6課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "6",
+      "ro": "6"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 6,
+   "item_count": 33
+  },
+  {
+   "id": "MS06",
+   "file": "mondaishuu/MS06.json",
+   "lessons": [
+    7
+   ],
+   "title_jp": {
+    "jp": "第7課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "7",
+      "ro": "7"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 6,
+   "item_count": 29
+  },
+  {
+   "id": "MS07",
+   "file": "mondaishuu/MS07.json",
+   "lessons": [
+    8
+   ],
+   "title_jp": {
+    "jp": "第8課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "8",
+      "ro": "8"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 6,
+   "item_count": 36
+  },
+  {
+   "id": "MS08",
+   "file": "mondaishuu/MS08.json",
+   "lessons": [
+    9
+   ],
+   "title_jp": {
+    "jp": "第9課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "9",
+      "ro": "9"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 7,
+   "item_count": 34
+  },
+  {
+   "id": "MS09",
+   "file": "mondaishuu/MS09.json",
+   "lessons": [
+    10
+   ],
+   "title_jp": {
+    "jp": "第10課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "10",
+      "ro": "10"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 6,
+   "item_count": 30
+  },
+  {
+   "id": "MS10",
+   "file": "mondaishuu/MS10.json",
+   "lessons": [
+    11
+   ],
+   "title_jp": {
+    "jp": "第11課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "11",
+      "ro": "11"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 6,
+   "item_count": 35
+  },
+  {
+   "id": "MS11",
+   "file": "mondaishuu/MS11.json",
+   "lessons": [
+    12
+   ],
+   "title_jp": {
+    "jp": "第12課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "12",
+      "ro": "12"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 7,
+   "item_count": 32
+  },
+  {
+   "id": "MS12",
+   "file": "mondaishuu/MS12.json",
+   "lessons": [
+    13
+   ],
+   "title_jp": {
+    "jp": "第13課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "13",
+      "ro": "13"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 8,
+   "item_count": 36
+  },
+  {
+   "id": "MS13",
+   "file": "mondaishuu/MS13.json",
+   "lessons": [
+    14
+   ],
+   "title_jp": {
+    "jp": "第14課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "14",
+      "ro": "14"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 7,
+   "item_count": 37
+  },
+  {
+   "id": "MS14",
+   "file": "mondaishuu/MS14.json",
+   "lessons": [
+    15
+   ],
+   "title_jp": {
+    "jp": "第15課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "15",
+      "ro": "15"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 5,
+   "item_count": 28
+  },
+  {
+   "id": "MS15",
+   "file": "mondaishuu/MS15.json",
+   "lessons": [
+    16
+   ],
+   "title_jp": {
+    "jp": "第16課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "16",
+      "ro": "16"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 6,
+   "item_count": 40
+  },
+  {
+   "id": "MS16",
+   "file": "mondaishuu/MS16.json",
+   "lessons": [
+    17
+   ],
+   "title_jp": {
+    "jp": "第17課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "17",
+      "ro": "17"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 8,
+   "item_count": 40
+  },
+  {
+   "id": "MS17",
+   "file": "mondaishuu/MS17.json",
+   "lessons": [
+    18
+   ],
+   "title_jp": {
+    "jp": "第18課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "18",
+      "ro": "18"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 8,
+   "item_count": 40
+  },
+  {
+   "id": "MS18",
+   "file": "mondaishuu/MS18.json",
+   "lessons": [
+    19
+   ],
+   "title_jp": {
+    "jp": "第19課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "19",
+      "ro": "19"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 5,
+   "item_count": 24
+  },
+  {
+   "id": "MS19",
+   "file": "mondaishuu/MS19.json",
+   "lessons": [
+    20
+   ],
+   "title_jp": {
+    "jp": "第20課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "20",
+      "ro": "20"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 4,
+   "item_count": 46
+  },
+  {
+   "id": "MS20",
+   "file": "mondaishuu/MS20.json",
+   "lessons": [
+    21
+   ],
+   "title_jp": {
+    "jp": "第21課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "21",
+      "ro": "21"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 7,
+   "item_count": 40
+  },
+  {
+   "id": "MS21",
+   "file": "mondaishuu/MS21.json",
+   "lessons": [
+    22
+   ],
+   "title_jp": {
+    "jp": "第22課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "22",
+      "ro": "22"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 6,
+   "item_count": 29
+  },
+  {
+   "id": "MS22",
+   "file": "mondaishuu/MS22.json",
+   "lessons": [
+    23
+   ],
+   "title_jp": {
+    "jp": "第23課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "23",
+      "ro": "23"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 7,
+   "item_count": 30
+  },
+  {
+   "id": "MS23",
+   "file": "mondaishuu/MS23.json",
+   "lessons": [
+    24
+   ],
+   "title_jp": {
+    "jp": "第24課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "24",
+      "ro": "24"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 5,
+   "item_count": 17
+  },
+  {
+   "id": "MS24",
+   "file": "mondaishuu/MS24.json",
+   "lessons": [
+    25
+   ],
+   "title_jp": {
+    "jp": "第25課",
+    "tokens": [
+     {
+      "s": "第",
+      "r": "だい",
+      "ro": "Dai",
+      "k": true
+     },
+     {
+      "s": "25",
+      "ro": "25"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     }
+    ]
+   },
+   "kind": "lesson",
+   "exercise_count": 6,
+   "item_count": 28
+  },
+  {
+   "id": "MSR1",
+   "file": "mondaishuu/MSR1.json",
+   "lessons": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "title_jp": {
+    "jp": "復習（1〜8課）",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": "（1〜8",
+      "ro": "(1~8"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     },
+     {
+      "s": "）",
+      "ro": ")"
+     }
+    ]
+   },
+   "kind": "review",
+   "exercise_count": 9,
+   "item_count": 84
+  },
+  {
+   "id": "MSR2",
+   "file": "mondaishuu/MSR2.json",
+   "lessons": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+   ],
+   "title_jp": {
+    "jp": "復習（9〜17課）",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": "（9〜17",
+      "ro": "(9~17"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     },
+     {
+      "s": "）",
+      "ro": ")"
+     }
+    ]
+   },
+   "kind": "review",
+   "exercise_count": 10,
+   "item_count": 66
+  },
+  {
+   "id": "MSR3",
+   "file": "mondaishuu/MSR3.json",
+   "lessons": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "title_jp": {
+    "jp": "復習（18〜25課）",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": "（18〜25",
+      "ro": "(18~25"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     },
+     {
+      "s": "）",
+      "ro": ")"
+     }
+    ]
+   },
+   "kind": "review",
+   "exercise_count": 8,
+   "item_count": 66
+  },
+  {
+   "id": "MSR4",
+   "file": "mondaishuu/MSR4.json",
+   "lessons": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "title_jp": {
+    "jp": "復習（1〜25課）",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": "（1〜25",
+      "ro": "(1~25"
+     },
+     {
+      "s": "課",
+      "r": "か",
+      "ro": " ka",
+      "k": true
+     },
+     {
+      "s": "）",
+      "ro": ")"
+     }
+    ]
+   },
+   "kind": "review",
+   "exercise_count": 7,
+   "item_count": 66
+  }
+ ],
+ "fukushuu": [
+  {
+   "id": "FA",
+   "file": "fukushuu/FA.json",
+   "lessons": [
+    1,
+    2,
+    3
+   ],
+   "title_jp": {
+    "jp": "復習 A",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " A",
+      "ro": " A"
+     }
+    ]
+   },
+   "kind": "fukushuu",
+   "exercise_count": 4,
+   "item_count": 25
+  },
+  {
+   "id": "FB",
+   "file": "fukushuu/FB.json",
+   "lessons": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "title_jp": {
+    "jp": "復習 B",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " B",
+      "ro": " B"
+     }
+    ]
+   },
+   "kind": "fukushuu",
+   "exercise_count": 5,
+   "item_count": 27
+  },
+  {
+   "id": "FC",
+   "file": "fukushuu/FC.json",
+   "lessons": [
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "title_jp": {
+    "jp": "復習 C",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " C",
+      "ro": " C"
+     }
+    ]
+   },
+   "kind": "fukushuu",
+   "exercise_count": 6,
+   "item_count": 22
+  },
+  {
+   "id": "FD",
+   "file": "fukushuu/FD.json",
+   "lessons": [
+    13,
+    14,
+    15,
+    16
+   ],
+   "title_jp": {
+    "jp": "復習 D",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " D",
+      "ro": " D"
+     }
+    ]
+   },
+   "kind": "fukushuu",
+   "exercise_count": 4,
+   "item_count": 35
+  },
+  {
+   "id": "FE",
+   "file": "fukushuu/FE.json",
+   "lessons": [
+    17,
+    18,
+    19
+   ],
+   "title_jp": {
+    "jp": "復習 E",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " E",
+      "ro": " E"
+     }
+    ]
+   },
+   "kind": "fukushuu",
+   "exercise_count": 4,
+   "item_count": 29
+  },
+  {
+   "id": "FF",
+   "file": "fukushuu/FF.json",
+   "lessons": [
+    20,
+    21,
+    22
+   ],
+   "title_jp": {
+    "jp": "復習 F",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " F",
+      "ro": " F"
+     }
+    ]
+   },
+   "kind": "fukushuu",
+   "exercise_count": 3,
+   "item_count": 7
+  },
+  {
+   "id": "FG",
+   "file": "fukushuu/FG.json",
+   "lessons": [
+    23,
+    24,
+    25
+   ],
+   "title_jp": {
+    "jp": "復習 G",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " G",
+      "ro": " G"
+     }
+    ]
+   },
+   "kind": "fukushuu",
+   "exercise_count": 3,
+   "item_count": 16
+  },
+  {
+   "id": "FS",
+   "file": "fukushuu/FS.json",
+   "lessons": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "title_jp": {
+    "jp": "総復習",
+    "tokens": [
+     {
+      "s": "総復習",
+      "r": "そうふくしゅう",
+      "ro": "Soufukushuu",
+      "k": true
+     }
+    ]
+   },
+   "kind": "fukushuu",
+   "exercise_count": 6,
+   "item_count": 38
+  },
+  {
+   "id": "M1",
+   "file": "fukushuu/M1.json",
+   "lessons": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "title_jp": {
+    "jp": "副詞・接続詞・会話表現の まとめ I",
+    "tokens": [
+     {
+      "s": "副詞",
+      "r": "ふくし",
+      "ro": "Fukushi",
+      "k": true
+     },
+     {
+      "s": "・",
+      "ro": " "
+     },
+     {
+      "s": "接続詞",
+      "r": "せつぞくし",
+      "ro": "setsuzokushi",
+      "k": true
+     },
+     {
+      "s": "・",
+      "ro": " "
+     },
+     {
+      "s": "会話表現",
+      "r": "かいわひょうげん",
+      "ro": "kaiwahyougen",
+      "k": true
+     },
+     {
+      "s": "の まとめ I",
+      "ro": " no matome I"
+     }
+    ]
+   },
+   "kind": "matome",
+   "exercise_count": 3,
+   "item_count": 15
+  },
+  {
+   "id": "M2",
+   "file": "fukushuu/M2.json",
+   "lessons": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "title_jp": {
+    "jp": "副詞・接続詞・会話表現の まとめ II",
+    "tokens": [
+     {
+      "s": "副詞",
+      "r": "ふくし",
+      "ro": "Fukushi",
+      "k": true
+     },
+     {
+      "s": "・",
+      "ro": " "
+     },
+     {
+      "s": "接続詞",
+      "r": "せつぞくし",
+      "ro": "setsuzokushi",
+      "k": true
+     },
+     {
+      "s": "・",
+      "ro": " "
+     },
+     {
+      "s": "会話表現",
+      "r": "かいわひょうげん",
+      "ro": "kaiwahyougen",
+      "k": true
+     },
+     {
+      "s": "の まとめ II",
+      "ro": " no matome II"
+     }
+    ]
+   },
+   "kind": "matome",
+   "exercise_count": 3,
+   "item_count": 22
+  }
+ ],
+ "sequence": [
+  {
+   "type": "lesson",
+   "lesson": 1
+  },
+  {
+   "type": "lesson",
+   "lesson": 2
+  },
+  {
+   "type": "lesson",
+   "lesson": 3
+  },
+  {
+   "type": "fukushuu",
+   "id": "FA",
+   "title_jp": {
+    "jp": "復習 A",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " A",
+      "ro": " A"
+     }
+    ]
+   },
+   "subtitle": "Bab 1–3 · 25 soal"
+  },
+  {
+   "type": "lesson",
+   "lesson": 4
+  },
+  {
+   "type": "lesson",
+   "lesson": 5
+  },
+  {
+   "type": "lesson",
+   "lesson": 6
+  },
+  {
+   "type": "lesson",
+   "lesson": 7
+  },
+  {
+   "type": "fukushuu",
+   "id": "FB",
+   "title_jp": {
+    "jp": "復習 B",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " B",
+      "ro": " B"
+     }
+    ]
+   },
+   "subtitle": "Bab 4–7 · 27 soal"
+  },
+  {
+   "type": "lesson",
+   "lesson": 8
+  },
+  {
+   "type": "lesson",
+   "lesson": 9
+  },
+  {
+   "type": "lesson",
+   "lesson": 10
+  },
+  {
+   "type": "lesson",
+   "lesson": 11
+  },
+  {
+   "type": "lesson",
+   "lesson": 12
+  },
+  {
+   "type": "fukushuu",
+   "id": "FC",
+   "title_jp": {
+    "jp": "復習 C",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " C",
+      "ro": " C"
+     }
+    ]
+   },
+   "subtitle": "Bab 8–12 · 22 soal"
+  },
+  {
+   "type": "matome",
+   "id": "M1",
+   "title_jp": {
+    "jp": "副詞・接続詞・会話表現の まとめ I",
+    "tokens": [
+     {
+      "s": "副詞",
+      "r": "ふくし",
+      "ro": "Fukushi",
+      "k": true
+     },
+     {
+      "s": "・",
+      "ro": " "
+     },
+     {
+      "s": "接続詞",
+      "r": "せつぞくし",
+      "ro": "setsuzokushi",
+      "k": true
+     },
+     {
+      "s": "・",
+      "ro": " "
+     },
+     {
+      "s": "会話表現",
+      "r": "かいわひょうげん",
+      "ro": "kaiwahyougen",
+      "k": true
+     },
+     {
+      "s": "の まとめ I",
+      "ro": " no matome I"
+     }
+    ]
+   },
+   "subtitle": "Bab 1–14 · 15 soal"
+  },
+  {
+   "type": "lesson",
+   "lesson": 13
+  },
+  {
+   "type": "lesson",
+   "lesson": 14
+  },
+  {
+   "type": "lesson",
+   "lesson": 15
+  },
+  {
+   "type": "lesson",
+   "lesson": 16
+  },
+  {
+   "type": "fukushuu",
+   "id": "FD",
+   "title_jp": {
+    "jp": "復習 D",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " D",
+      "ro": " D"
+     }
+    ]
+   },
+   "subtitle": "Bab 13–16 · 35 soal"
+  },
+  {
+   "type": "lesson",
+   "lesson": 17
+  },
+  {
+   "type": "lesson",
+   "lesson": 18
+  },
+  {
+   "type": "lesson",
+   "lesson": 19
+  },
+  {
+   "type": "fukushuu",
+   "id": "FE",
+   "title_jp": {
+    "jp": "復習 E",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " E",
+      "ro": " E"
+     }
+    ]
+   },
+   "subtitle": "Bab 17–19 · 29 soal"
+  },
+  {
+   "type": "lesson",
+   "lesson": 20
+  },
+  {
+   "type": "lesson",
+   "lesson": 21
+  },
+  {
+   "type": "lesson",
+   "lesson": 22
+  },
+  {
+   "type": "fukushuu",
+   "id": "FF",
+   "title_jp": {
+    "jp": "復習 F",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " F",
+      "ro": " F"
+     }
+    ]
+   },
+   "subtitle": "Bab 20–22 · 7 soal"
+  },
+  {
+   "type": "lesson",
+   "lesson": 23
+  },
+  {
+   "type": "lesson",
+   "lesson": 24
+  },
+  {
+   "type": "lesson",
+   "lesson": 25
+  },
+  {
+   "type": "fukushuu",
+   "id": "FG",
+   "title_jp": {
+    "jp": "復習 G",
+    "tokens": [
+     {
+      "s": "復習",
+      "r": "ふくしゅう",
+      "ro": "Fukushuu",
+      "k": true
+     },
+     {
+      "s": " G",
+      "ro": " G"
+     }
+    ]
+   },
+   "subtitle": "Bab 23–25 · 16 soal"
+  },
+  {
+   "type": "matome",
+   "id": "M2",
+   "title_jp": {
+    "jp": "副詞・接続詞・会話表現の まとめ II",
+    "tokens": [
+     {
+      "s": "副詞",
+      "r": "ふくし",
+      "ro": "Fukushi",
+      "k": true
+     },
+     {
+      "s": "・",
+      "ro": " "
+     },
+     {
+      "s": "接続詞",
+      "r": "せつぞくし",
+      "ro": "setsuzokushi",
+      "k": true
+     },
+     {
+      "s": "・",
+      "ro": " "
+     },
+     {
+      "s": "会話表現",
+      "r": "かいわひょうげん",
+      "ro": "kaiwahyougen",
+      "k": true
+     },
+     {
+      "s": "の まとめ II",
+      "ro": " no matome II"
+     }
+    ]
+   },
+   "subtitle": "Bab 1–25 · 22 soal"
+  },
+  {
+   "type": "fukushuu",
+   "id": "FS",
+   "title_jp": {
+    "jp": "総復習",
+    "tokens": [
+     {
+      "s": "総復習",
+      "r": "そうふくしゅう",
+      "ro": "Soufukushuu",
+      "k": true
+     }
+    ]
+   },
+   "subtitle": "Bab 1–25 · 38 soal"
+  }
+ ]
+}

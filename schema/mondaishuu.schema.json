@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "minna-pocket/mondaishuu.schema.json",
+  "title": "Set Mondaishuu (hasil build) — assets/<book>/mondaishuu/MSxx.json",
+  "type": "object",
+  "required": ["id", "lessons", "title_jp", "exercises"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^(MS[0-9A-Z]+|F[A-G]|FS|M[0-9])$" },
+    "kind": { "enum": ["lesson", "review", "fukushuu", "matome"] },
+    "lessons": { "type": "array", "items": { "type": "integer" }, "minItems": 1 },
+    "title_jp": { "$ref": "lesson.schema.json#/$defs/JpText" },
+    "source_pages": { "type": "object" },
+    "exercises": { "type": "array", "items": { "$ref": "#/$defs/Exercise" }, "minItems": 1 }
+  },
+  "$defs": {
+    "Blank": {
+      "type": "object", "required": ["type"], "additionalProperties": false,
+      "properties": {
+        "type": { "enum": ["text", "sentence", "choice", "option", "free"] },
+        "answers_jp": { "$ref": "lesson.schema.json#/$defs/JpList" },
+        "choices_jp": { "$ref": "lesson.schema.json#/$defs/JpList" },
+        "answer": { "type": "string" }
+      }
+    },
+    "Lines": {
+      "type": "object", "additionalProperties": false,
+      "properties": {
+        "lines_jp": { "$ref": "lesson.schema.json#/$defs/JpList" },
+        "blanks": { "type": "array", "items": { "$ref": "#/$defs/Blank" } }
+      }
+    },
+    "Exercise": {
+      "type": "object", "required": ["id", "no", "items"], "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "no": { "type": "integer" },
+        "points": { "type": "integer" },
+        "instruction_jp": { "$ref": "lesson.schema.json#/$defs/JpText" },
+        "image": { "type": "string" },
+        "options": { "type": "array", "items": { "type": "object", "required": ["key", "jp"], "additionalProperties": false,
+          "properties": { "key": { "type": "string" }, "jp": { "$ref": "lesson.schema.json#/$defs/JpText" },
+                          "used_by_example": { "type": "boolean" } } } },
+        "example": { "$ref": "#/$defs/Lines" },
+        "items": { "type": "array", "minItems": 1, "items": {
+          "type": "object", "required": ["id", "no", "lines_jp", "blanks"], "additionalProperties": false,
+          "properties": {
+            "id": { "type": "string" }, "no": { "type": "integer" }, "image": { "type": "string" },
+            "lines_jp": { "$ref": "lesson.schema.json#/$defs/JpList" },
+            "blanks": { "type": "array", "items": { "$ref": "#/$defs/Blank" }, "minItems": 1 } } } }
+      }
+    }
+  }
+}

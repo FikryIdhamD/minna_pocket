@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Minna Pocket — Mondai</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Klee+One:wght@400;600&family=Noto+Sans+JP:wght@400;500;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    /* Palet dari buku */
+    --color-canvas: #E6E1D6;
+    --color-bg: #FBF8EE;            /* krem kertas */
+    --color-surface: #FFFFFF;
+    --color-surface-alt: #F4EFE2;
+    --color-border: #E7E1D2;
+    --color-text: #2A272B;          /* hitam tinta */
+    --color-text-muted: #6B655F;
+    --color-text-subtle: #8A8580;
+    --color-primary: #D82830;       /* merah sampul */
+    --color-primary-strong: #B51F27;
+    --color-primary-subtle: #FBE6E4;
+    --color-on-primary: #FFFFFF;
+    --color-highlight: #F0B8A8;     /* salem Renshuu A */
+    --color-highlight-bg: #FBE3DA;
+    --color-secondary: #866A49;     /* cokelat emas buku terjemahan */
+    --color-secondary-subtle: #F1E8D8;
+    --color-audio: #F2E25C;         /* kuning CD付 */
+    --color-success: #3E7D4F;
+
+    --font-jp: "Noto Sans JP", sans-serif;
+    --font-brush: "Klee One", "Noto Sans JP", serif;
+    --font-ui: "Plus Jakarta Sans", system-ui, sans-serif;
+
+    --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px;
+    --space-5: 20px; --space-6: 24px; --space-8: 32px; --space-10: 40px;
+    --radius-sm: 8px; --radius-md: 12px; --radius-lg: 16px; --radius-full: 999px;
+    --shadow-float: 0 1px 2px rgba(42,39,43,.06), 0 6px 18px rgba(42,39,43,.08);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--color-canvas);
+    font-family: var(--font-ui); color: var(--color-text);
+    -webkit-font-smoothing: antialiased;
+  }
+  .canvas { display: flex; gap: 64px; align-items: flex-start; padding: 64px; flex-wrap: wrap; justify-content: center; }
+  .screen-wrap { display: flex; flex-direction: column; gap: var(--space-3); }
+  .screen-label { font: 600 13px/16px var(--font-ui); color: var(--color-text-muted); letter-spacing: .04em; text-transform: uppercase; }
+
+  .screen {
+    width: 412px; height: 915px; position: relative; overflow: hidden;
+    display: flex; flex-direction: column;
+    background: var(--color-bg); border-radius: 28px;
+    box-shadow: 0 30px 60px rgba(42,39,43,.18);
+  }
+  button { font-family: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
+  .jp { font-family: var(--font-jp); }
+  .num { font-variant-numeric: tabular-nums; }
+  svg.ic { width: 24px; height: 24px; flex: none; }
+
+  /* Status bar Android */
+  .status-bar { height: 32px; padding: 0 var(--space-6); display: flex; align-items: center; justify-content: space-between; font: 500 14px/1 var(--font-ui); }
+  .status-icons { display: flex; gap: 6px; align-items: center; }
+  .status-icons svg { width: 16px; height: 16px; }
+
+  /* Top app bar */
+  .app-bar { height: 64px; padding: 0 var(--space-1); display: flex; align-items: center; gap: var(--space-1); }
+  .icon-btn { width: 48px; height: 48px; display: flex; align-items: center; justify-content: center; border-radius: var(--radius-full); }
+  .app-bar-title { flex: 1; display: flex; flex-direction: column; gap: 2px; padding-left: var(--space-1); }
+  .app-bar-title strong { font: 600 18px/24px var(--font-jp); }
+  .app-bar-title span { font: 500 12px/16px var(--font-ui); color: var(--color-text-muted); }
+
+  /* Bottom navigation (Material 3) */
+  .bottom-nav { height: 80px; display: flex; background: var(--color-surface-alt); border-top: 1px solid var(--color-border); }
+  .nav-item { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; font: 600 12px/16px var(--font-ui); color: var(--color-text-muted); }
+  .nav-pill { width: 64px; height: 32px; border-radius: var(--radius-full); display: flex; align-items: center; justify-content: center; }
+  .nav-item.is-active { color: var(--color-text); }
+  .nav-item.is-active .nav-pill { background: var(--color-primary-subtle); color: var(--color-primary-strong); }
+  .gesture { height: 20px; display: flex; align-items: center; justify-content: center; background: var(--color-surface-alt); }
+  .gesture span { width: 108px; height: 4px; border-radius: 2px; background: var(--color-text); opacity: .35; }
+
+  .scroll { flex: 1; overflow: hidden; display: flex; flex-direction: column; }
+
+  /* ============ SCREEN 1: BERANDA ============ */
+  .home-head { display: flex; align-items: center; justify-content: space-between; padding: var(--space-2) var(--space-4) var(--space-2) var(--space-5); }
+  .brand { display: flex; align-items: center; gap: var(--space-3); }
+  .brand-logo { width: 36px; height: 36px; border-radius: 10px; background: var(--color-surface); border: 1px solid var(--color-border); display: flex; align-items: center; justify-content: center; position: relative; }
+  .brand-logo .no { font: 600 24px/1 var(--font-brush); color: var(--color-primary); margin-top: -2px; }
+  .brand-logo .dot { position: absolute; top: 4px; right: 4px; width: 6px; height: 6px; border-radius: 50%; background: var(--color-audio); }
+  .brand-logo .bar { position: absolute; bottom: 5px; width: 16px; height: 2px; border-radius: 1px; background: var(--color-text); }
+  .brand-name { font: 700 19px/24px var(--font-ui); letter-spacing: -0.01em; }
+
+  .home-body { display: flex; flex-direction: column; gap: var(--space-6); padding: var(--space-3) var(--space-4) var(--space-6); }
+
+  .continue-card { background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-lg); padding: var(--space-4); display: flex; flex-direction: column; gap: var(--space-4); }
+  .continue-top { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .continue-kanji { width: 64px; height: 64px; border-radius: var(--radius-md); background: var(--color-primary-subtle); display: flex; align-items: center; justify-content: center; font: 600 34px/1 var(--font-brush); color: var(--color-primary-strong); flex: none; }
+  .continue-info { flex: 1; display: flex; flex-direction: column; gap: 2px; }
+  .eyebrow { font: 600 12px/16px var(--font-ui); color: var(--color-text-muted); letter-spacing: .04em; text-transform: uppercase; }
+  .continue-title { font: 700 20px/28px var(--font-jp); }
+  .continue-meta { font: 500 14px/20px var(--font-ui); color: var(--color-text-muted); }
+  .bar-track { height: 6px; border-radius: 3px; background: var(--color-surface-alt); overflow: hidden; display: flex; }
+  .bar-fill { height: 6px; background: var(--color-primary); border-radius: 3px; }
+  .btn-primary { height: 48px; width: 100%; border-radius: var(--radius-md); background: var(--color-primary); color: var(--color-on-primary); display: flex; align-items: center; justify-content: center; gap: var(--space-2); font: 600 15px/1 var(--font-ui); }
+
+  .review-row { display: flex; align-items: center; gap: var(--space-3); padding: var(--space-3) var(--space-4); background: var(--color-secondary-subtle); border-radius: var(--radius-md); min-height: 56px; }
+  .review-row .ic-wrap { color: var(--color-secondary); display: flex; }
+  .review-text { flex: 1; display: flex; flex-direction: column; }
+  .review-text strong { font: 600 15px/20px var(--font-ui); }
+  .review-text span { font: 500 13px/18px var(--font-ui); color: var(--color-text-muted); }
+
+  .section-head { display: flex; align-items: baseline; justify-content: space-between; padding: 0 var(--space-1); }
+  .section-head h2 { margin: 0; font: 700 17px/24px var(--font-ui); }
+  .section-head span { font: 500 13px/18px var(--font-ui); color: var(--color-text-muted); }
+
+  .lesson-list { display: flex; flex-direction: column; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-lg); overflow: hidden; }
+  .lesson-row { display: flex; align-items: center; gap: var(--space-4); padding: var(--space-3) var(--space-4); min-height: 68px; border-top: 1px solid var(--color-border); }
+  .lesson-row:first-child { border-top: 0; }
+  .lesson-no { width: 32px; font: 600 26px/1 var(--font-brush); color: var(--color-text); text-align: center; flex: none; }
+  .lesson-info { flex: 1; display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+  .lesson-info strong { font: 500 16px/24px var(--font-jp); }
+  .lesson-info span { font: 500 13px/18px var(--font-ui); color: var(--color-text-muted); }
+  .ring { width: 36px; height: 36px; flex: none; }
+  .lesson-row.is-review { background: var(--color-surface-alt); }
+  .lesson-row.is-review .lesson-no { font-size: 18px; color: var(--color-secondary); }
+  .tag { font: 600 11px/16px var(--font-ui); padding: 2px 8px; border-radius: var(--radius-full); background: var(--color-secondary-subtle); color: var(--color-secondary); }
+
+  /* ============ SCREEN 2: BAB ============ */
+  .lesson-hero { display: flex; flex-direction: column; gap: var(--space-3); padding: var(--space-1) var(--space-5) var(--space-5); }
+  .lesson-hero-top { display: flex; align-items: flex-end; gap: var(--space-4); }
+  .lesson-big { font: 600 44px/1 var(--font-brush); color: var(--color-primary); letter-spacing: -0.01em; }
+  .lesson-hero-title { display: flex; flex-direction: column; gap: 2px; padding-bottom: 4px; }
+  .lesson-hero-title strong { font: 700 22px/28px var(--font-jp); }
+  .lesson-hero-title span { font: 500 14px/20px var(--font-ui); color: var(--color-secondary); }
+  .hero-progress { display: flex; align-items: center; gap: var(--space-3); }
+  .hero-progress .bar-track { flex: 1; }
+  .hero-progress span { font: 500 13px/18px var(--font-ui); color: var(--color-text-muted); }
+
+  .groups { display: flex; flex-direction: column; gap: var(--space-5); padding: 0 var(--space-4) var(--space-6); }
+  .group { display: flex; flex-direction: column; gap: var(--space-2); }
+  .group-title { font: 600 12px/16px var(--font-ui); color: var(--color-text-muted); letter-spacing: .06em; text-transform: uppercase; padding: 0 var(--space-1); }
+  .sub-list { display: flex; flex-direction: column; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-lg); overflow: hidden; }
+  .sub-row { display: flex; align-items: center; gap: var(--space-3); padding: 0 var(--space-3) 0 var(--space-3); min-height: 60px; border-top: 1px solid var(--color-border); }
+  .sub-row:first-child { border-top: 0; }
+  .sub-tile { width: 40px; height: 40px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font: 600 20px/1 var(--font-brush); flex: none; }
+  .sub-tile.main { background: var(--color-primary-subtle); color: var(--color-primary-strong); }
+  .sub-tile.trans { background: var(--color-secondary-subtle); color: var(--color-secondary); }
+  .sub-info { flex: 1; display: flex; flex-direction: column; gap: 1px; padding: var(--space-2) 0; }
+  .sub-name { display: flex; align-items: baseline; gap: var(--space-2); }
+  .sub-name strong { font: 600 15px/20px var(--font-ui); }
+  .sub-name .jp { font: 500 13px/18px var(--font-jp); color: var(--color-text-muted); }
+  .sub-info > span { font: 500 13px/18px var(--font-ui); color: var(--color-text-muted); }
+  .sub-trail { display: flex; align-items: center; gap: var(--space-2); color: var(--color-text-subtle); }
+  .done { color: var(--color-success); }
+  .audio-badge { display: flex; align-items: center; gap: 4px; padding: 2px 8px 2px 6px; border-radius: var(--radius-full); background: #FBF6C9; color: #6B5F00; font: 600 11px/16px var(--font-ui); }
+  .audio-badge svg { width: 14px; height: 14px; }
+  .in-progress { font: 600 11px/16px var(--font-ui); color: var(--color-primary-strong); background: var(--color-primary-subtle); padding: 2px 8px; border-radius: var(--radius-full); }
+  .shortcut { display: flex; align-items: center; gap: var(--space-3); padding: var(--space-3) var(--space-4); border: 1px dashed var(--color-border); border-radius: var(--radius-md); min-height: 52px; font: 600 14px/20px var(--font-ui); color: var(--color-text); }
+  .shortcut span { flex: 1; }
+
+  /* ============ SCREEN 3: KAIWA ============ */
+  .mode-toggle { display: flex; height: 36px; padding: 3px; border-radius: var(--radius-full); background: var(--color-surface-alt); border: 1px solid var(--color-border); }
+  .mode-toggle button { min-width: 40px; padding: 0 10px; border-radius: var(--radius-full); font: 600 13px/1 var(--font-ui); color: var(--color-text-muted); }
+  .mode-toggle button.jp { font-family: var(--font-jp); font-size: 14px; }
+  .mode-toggle button.is-on { background: var(--color-surface); color: var(--color-text); box-shadow: 0 1px 2px rgba(42,39,43,.12); }
+
+  #kaiwa .scroll { overflow-y: auto; scrollbar-width: none; }
+  #kaiwa .scroll::-webkit-scrollbar { display: none; }
+  .kaiwa-body { display: flex; flex-direction: column; gap: var(--space-4); padding: 0 var(--space-4) 140px; }
+  .kaiwa-title { display: flex; flex-direction: column; gap: 2px; padding: 0 var(--space-1); }
+  .kaiwa-title strong { font: 700 24px/40px var(--font-jp); letter-spacing: -0.01em; }
+  .kaiwa-title span { font: 500 14px/20px var(--font-ui); color: var(--color-secondary); }
+  .illus { background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-lg); padding: var(--space-3); display: flex; }
+  .illus img { width: 100%; height: auto; display: block; border-radius: 4px; }
+  .hint { font: 500 12px/16px var(--font-ui); color: var(--color-text-subtle); padding: 0 var(--space-1); }
+
+  .dialog { display: flex; flex-direction: column; }
+  .line { display: flex; gap: var(--space-3); padding: var(--space-2) var(--space-3); border-radius: var(--radius-md); align-items: flex-start; }
+  .line.is-playing { background: var(--color-highlight-bg); }
+  .speaker { width: 52px; flex: none; font: 500 14px/36px var(--font-jp); color: var(--color-text-muted); }
+  .speaker.empty { visibility: hidden; }
+  .line-body { flex: 1; display: flex; flex-direction: column; gap: 2px; }
+  .jp-line { font: 400 18px/36px var(--font-jp); line-break: strict; }
+  .ro-line { display: none; font: 500 17px/28px var(--font-ui); }
+  .tr-line { display: none; font: 500 14px/20px var(--font-ui); color: var(--color-secondary); padding-bottom: 4px; }
+  .line.show-tr .tr-line { display: block; }
+
+  /* Kanji tap → furigana */
+  ruby { ruby-position: over; }
+  ruby rt { font: 500 9px/1 var(--font-jp); letter-spacing: -0.04em; color: var(--color-primary-strong); visibility: hidden; }
+  .k { cursor: pointer; border-radius: 4px; }
+  .k.on { background: var(--color-highlight); }
+  .k.on rt { visibility: visible; }
+
+  /* Mode romaji */
+  .screen.romaji .ro-line { display: block; }
+  .screen.romaji .jp-line { font-size: 13px; line-height: 26px; color: var(--color-text-subtle); }
+  .screen.romaji .jp-line .k { border-bottom: 1.5px dotted var(--color-primary); border-radius: 0; }
+  .rk { border-bottom: 1.5px dotted var(--color-primary); }
+  .rk.on, .screen.romaji .k.on { background: var(--color-highlight); }
+  .screen.romaji .speaker { line-height: 28px; }
+
+  .player { position: absolute; left: var(--space-3); right: var(--space-3); bottom: 32px; background: var(--color-text); color: #FBF8EE; border-radius: var(--radius-lg); padding: var(--space-3) var(--space-3) var(--space-3) var(--space-2); display: flex; align-items: center; gap: var(--space-2); box-shadow: var(--shadow-float); }
+  .play-btn { width: 48px; height: 48px; border-radius: 50%; background: var(--color-audio); color: var(--color-text); display: flex; align-items: center; justify-content: center; flex: none; }
+  .player-mid { flex: 1; display: flex; flex-direction: column; gap: 6px; }
+  .player-row { display: flex; justify-content: space-between; font: 500 12px/16px var(--font-ui); color: #CFC9BD; }
+  .player-row strong { color: #FBF8EE; font-weight: 600; }
+  .player .bar-track { background: rgba(251,248,238,.18); height: 4px; }
+  .player .bar-fill { background: var(--color-audio); height: 4px; }
+  .speed { height: 32px; min-width: 52px; padding: 0 10px; border-radius: var(--radius-full); border: 1px solid rgba(251,248,238,.3); font: 600 13px/1 var(--font-ui); color: #FBF8EE; display: flex; align-items: center; justify-content: center; }
+  .home-ind { position: absolute; bottom: 10px; left: 0; right: 0; display: flex; justify-content: center; }
+  .home-ind span { width: 108px; height: 4px; border-radius: 2px; background: var(--color-text); opacity: .35; }
+
+  .notes { max-width: 1400px; margin: 0 auto 64px; padding: 0 64px; font: 500 14px/22px var(--font-ui); color: var(--color-text-muted); }
+
+  /* ============ MONDAI ============ */
+  .canvas { gap: 56px; }
+  .nomor-tabs { display: flex; gap: var(--space-2); padding: 0 var(--space-4) var(--space-3); }
+  .nomor-tab { flex: 1; height: 44px; border-radius: var(--radius-md); border: 1px solid var(--color-border); background: var(--color-surface); display: flex; align-items: center; justify-content: center; gap: 6px; font: 600 15px/1 var(--font-ui); color: var(--color-text-muted); }
+  .nomor-tab svg { width: 16px; height: 16px; }
+  .nomor-tab.is-active { background: var(--color-text); border-color: var(--color-text); color: #FBF8EE; }
+  .nomor-tab.is-active svg { color: var(--color-audio); }
+
+  .m-body { display: flex; flex-direction: column; gap: var(--space-4); padding: 0 var(--space-4) 104px; }
+
+  .seg-player { background: var(--color-text); color: #FBF8EE; border-radius: var(--radius-lg); padding: var(--space-4); display: flex; flex-direction: column; gap: var(--space-4); }
+  .seg-top { display: flex; align-items: center; gap: var(--space-3); }
+  .seg-top .play-btn { width: 52px; height: 52px; }
+  .seg-meta { flex: 1; display: flex; flex-direction: column; gap: 2px; }
+  .seg-meta strong { font: 600 15px/20px var(--font-ui); }
+  .seg-meta span { font: 500 12px/16px var(--font-ui); color: #CFC9BD; }
+  .seg-actions { display: flex; gap: var(--space-2); align-items: center; }
+  .ghost-btn { width: 40px; height: 40px; border-radius: var(--radius-full); border: 1px solid rgba(251,248,238,.3); display: flex; align-items: center; justify-content: center; color: #FBF8EE; }
+  .ghost-btn svg { width: 20px; height: 20px; }
+  .ghost-btn.is-on { background: rgba(242,226,92,.16); border-color: var(--color-audio); color: var(--color-audio); }
+
+  .segments { display: flex; gap: 3px; }
+  .segment { height: 30px; border-radius: 6px; background: rgba(251,248,238,.12); display: flex; align-items: center; justify-content: center; font: 600 12px/1 var(--font-ui); color: #CFC9BD; position: relative; overflow: hidden; }
+  .segment .fill { position: absolute; left: 0; top: 0; bottom: 0; background: rgba(242,226,92,.28); }
+  .segment span { position: relative; }
+  .segment.is-done { background: rgba(242,226,92,.28); color: #FBF8EE; }
+  .segment.is-current { outline: 1.5px solid var(--color-audio); color: #FBF8EE; }
+  .seg-times { display: flex; justify-content: space-between; font: 500 12px/16px var(--font-ui); color: #CFC9BD; margin-top: -8px; }
+
+  .ex-card { background: var(--color-secondary-subtle); border-radius: var(--radius-md); padding: var(--space-3) var(--space-3) var(--space-3) var(--space-4); display: flex; align-items: center; gap: var(--space-3); }
+  .ex-label { font: 700 13px/1 var(--font-jp); color: var(--color-secondary); padding: 6px 8px; border-radius: 6px; background: var(--color-surface); flex: none; }
+  .ex-text { flex: 1; font: 400 17px/30px var(--font-jp); line-break: strict; }
+  .ex-text .opt { color: var(--color-text-muted); }
+
+  .seg-play { width: 44px; height: 44px; border-radius: 50%; border: 1px solid var(--color-border); background: var(--color-surface); display: flex; align-items: center; justify-content: center; color: var(--color-text); flex: none; }
+  .seg-play svg { width: 18px; height: 18px; }
+  .seg-play.is-playing { background: var(--color-audio); border-color: var(--color-audio); }
+
+  .items { display: flex; flex-direction: column; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-lg); overflow: hidden; }
+  .item { display: flex; align-items: center; gap: var(--space-3); padding: var(--space-3); border-top: 1px solid var(--color-border); }
+  .item:first-child { border-top: 0; }
+  .item.is-playing { background: var(--color-highlight-bg); }
+  .item-no { width: 22px; font: 600 15px/1 var(--font-ui); color: var(--color-text-muted); text-align: center; flex: none; }
+  .answer { flex: 1; min-height: 44px; border-radius: var(--radius-sm); border: 1px solid var(--color-border); background: var(--color-bg); padding: 0 var(--space-3); display: flex; align-items: center; font: 400 16px/22px var(--font-jp); color: var(--color-text-subtle); }
+  .item.is-playing .answer { background: var(--color-surface); border-color: var(--color-highlight); }
+  .playing-tag { font: 600 11px/16px var(--font-ui); color: var(--color-primary-strong); }
+  .eq { display: flex; gap: 2px; align-items: flex-end; height: 14px; }
+  .eq i { width: 3px; background: var(--color-text); border-radius: 1px; display: block; }
+
+  .no-key { display: flex; gap: var(--space-3); align-items: flex-start; padding: var(--space-3) var(--space-4); border-radius: var(--radius-md); border: 1px dashed var(--color-border); font: 500 13px/20px var(--font-ui); color: var(--color-text-muted); }
+  .no-key svg { width: 20px; height: 20px; flex: none; color: var(--color-text-subtle); margin-top: 0; }
+  .help-row { display: flex; gap: var(--space-2); }
+  .btn-outline { flex: 1; min-height: 44px; border-radius: var(--radius-md); border: 1px solid var(--color-border); background: var(--color-surface); display: flex; align-items: center; justify-content: center; gap: 6px; font: 600 14px/18px var(--font-ui); padding: 0 var(--space-3); }
+  .btn-outline svg { width: 18px; height: 18px; }
+  .btn-outline.ai { border-style: dashed; color: var(--color-secondary); }
+
+  .bottom-actions { position: absolute; left: 0; right: 0; bottom: 0; padding: var(--space-3) var(--space-4) 28px; background: var(--color-bg); border-top: 1px solid var(--color-border); display: flex; gap: var(--space-3); }
+  .btn-prev { width: 52px; height: 48px; border-radius: var(--radius-md); border: 1px solid var(--color-border); display: flex; align-items: center; justify-content: center; color: var(--color-text-subtle); }
+  .bottom-actions .btn-primary { flex: 1; }
+</style>
+</head>
+<body>
+<div class="canvas">
+  <div class="screen-wrap">
+    <div class="screen-label">Mondai · audio per soal (coba: tekan ▶ di soal, segmen, 🔁, 0.75×)</div>
+    <section class="screen" id="mondai" aria-label="Mondai Bab 1 nomor 1">
+      <header class="status-bar"><span class="num">09:41</span><span class="status-icons">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M2 22h20V2z" opacity=".9"/></svg>
+        <svg viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="3" width="12" height="19" rx="2"/></svg></span></header>
+      <div class="app-bar">
+        <button class="icon-btn" aria-label="Kembali"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M11 6l-6 6 6 6"/></svg></button>
+        <div class="app-bar-title"><strong>問題 Mondai</strong><span>Bab 1</span></div>
+        <div class="mode-toggle" role="group" aria-label="Mode teks"><button class="jp is-on">あ</button><button>Ro</button></div>
+        <button class="icon-btn" aria-label="Tata Bahasa Bab 1"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5a2 2 0 0 1 2-2h5v18H6a2 2 0 0 1-2-2zM13 3h5a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-5z"/></svg></button>
+        <button class="icon-btn" aria-label="Pengaturan audio"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 14v-3a9 9 0 0 1 18 0v3"/><rect x="3" y="14" width="4" height="6" rx="1.5"/><rect x="17" y="14" width="4" height="6" rx="1.5"/></svg></button>
+      </div>
+
+      <div class="nomor-tabs" role="tablist" aria-label="Nomor soal">
+        <button class="nomor-tab is-active" role="tab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 14v-3a9 9 0 0 1 18 0v3"/><rect x="3" y="14" width="4" height="6" rx="1.5"/><rect x="17" y="14" width="4" height="6" rx="1.5"/></svg>1</button>
+        <button class="nomor-tab" role="tab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 14v-3a9 9 0 0 1 18 0v3"/><rect x="3" y="14" width="4" height="6" rx="1.5"/><rect x="17" y="14" width="4" height="6" rx="1.5"/></svg>2</button>
+        <button class="nomor-tab" role="tab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 14v-3a9 9 0 0 1 18 0v3"/><rect x="3" y="14" width="4" height="6" rx="1.5"/><rect x="17" y="14" width="4" height="6" rx="1.5"/></svg>3</button>
+        <button class="nomor-tab" role="tab">4</button>
+        <button class="nomor-tab" role="tab">5</button>
+        <button class="nomor-tab" role="tab">6</button>
+      </div>
+
+      <main class="scroll">
+        <div class="m-body">
+          <!-- Pemutar nomor: satu file CD dibagi per soal -->
+          <div class="seg-player" role="region" aria-label="Audio CD 02">
+            <div class="seg-top">
+              <button class="play-btn" id="m-play" aria-label="Jeda">
+                <svg id="m-pause" class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg>
+                <svg id="m-playic" class="ic" viewBox="0 0 24 24" fill="currentColor" style="display:none"><path d="M8 5v14l11-7z"/></svg>
+              </button>
+              <div class="seg-meta"><strong>CD 02 · Mondai 1</strong><span id="seg-status">Soal 2 dari 5 · jeda otomatis</span></div>
+              <div class="seg-actions">
+                <button class="ghost-btn" id="m-repeat" aria-label="Ulangi soal ini"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M17 2l4 4-4 4"/><path d="M3 11V9a3 3 0 0 1 3-3h15"/><path d="M7 22l-4-4 4-4"/><path d="M21 13v2a3 3 0 0 1-3 3H3"/><path d="M11 10h1v4"/></svg></button>
+                <button class="speed num" id="m-speed" aria-label="Kecepatan audio (global)">0.75×</button>
+              </div>
+            </div>
+            <!-- lebar segmen sebanding durasi asli: 例 0–9.7s, 1) 9.7–14.3, 2) 14.3–18.0, 3) 18.0–22.0, 4) 22.0–26.1, 5) 26.1–31.2 -->
+            <div class="segments" id="segments">
+              <button class="segment is-done" data-seg="0" style="flex:9.7"><span class="jp">例</span></button>
+              <button class="segment is-done" data-seg="1" style="flex:4.6"><span>1</span></button>
+              <button class="segment is-current" data-seg="2" style="flex:3.7"><div class="fill" style="width:45%"></div><span>2</span></button>
+              <button class="segment" data-seg="3" style="flex:4.0"><span>3</span></button>
+              <button class="segment" data-seg="4" style="flex:4.1"><span>4</span></button>
+              <button class="segment" data-seg="5" style="flex:5.1"><span>5</span></button>
+            </div>
+            <div class="seg-times num"><span>0:15</span><span>0:31</span></div>
+          </div>
+
+          <!-- Contoh dari buku -->
+          <div class="ex-card">
+            <span class="ex-label">例</span>
+            <div class="ex-text jp">いいえ、<span class="opt">[わたしは]</span> <ruby class="k">先生<rt>せんせい</rt></ruby><span style="white-space:nowrap">じゃ　ありません。</span></div>
+            <button class="seg-play" data-seg="0" aria-label="Putar contoh"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>
+          </div>
+
+          <!-- Soal -->
+          <div class="items" id="items">
+            <div class="item" data-seg="1"><button class="seg-play" data-seg="1" aria-label="Putar soal 1"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button><span class="item-no">1</span><div class="answer">Tulis jawaban…</div></div>
+            <div class="item is-playing" data-seg="2"><button class="seg-play is-playing" data-seg="2" aria-label="Sedang diputar: soal 2"><span class="eq"><i style="height:8px"></i><i style="height:14px"></i><i style="height:10px"></i></span></button><span class="item-no">2</span><div class="answer" style="flex-direction:column;align-items:flex-start;justify-content:center;gap:0"><span class="playing-tag">Sedang diputar</span><span>Tulis jawaban…</span></div></div>
+            <div class="item" data-seg="3"><button class="seg-play" data-seg="3" aria-label="Putar soal 3"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button><span class="item-no">3</span><div class="answer">Tulis jawaban…</div></div>
+            <div class="item" data-seg="4"><button class="seg-play" data-seg="4" aria-label="Putar soal 4"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button><span class="item-no">4</span><div class="answer">Tulis jawaban…</div></div>
+            <div class="item" data-seg="5"><button class="seg-play" data-seg="5" aria-label="Putar soal 5"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button><span class="item-no">5</span><div class="answer">Tulis jawaban…</div></div>
+          </div>
+
+          <div class="no-key">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8h.01M11 12h1v4h1"/></svg>
+            <span>Buku tidak menyertakan kunci jawaban Mondai. Jawabanmu disimpan, tapi tidak dikoreksi.</span>
+          </div>
+          <div class="help-row">
+            <button class="btn-outline ai"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.8 4.7L18.5 9.5l-4.7 1.8L12 16l-1.8-4.7L5.5 9.5l4.7-1.8z"/><path d="M19 15l.8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8z"/></svg>Contoh jawaban AI</button>
+            <button class="btn-outline"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3 8-8"/><path d="M20 12v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h9"/></svg>Mondaishuu Bab 1</button>
+          </div>
+        </div>
+      </main>
+
+      <div class="bottom-actions">
+        <button class="btn-prev" aria-label="Nomor sebelumnya" disabled><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="m15 6-6 6 6 6"/></svg></button>
+        <button class="btn-primary">Lanjut ke Nomor 2 <svg class="ic" style="width:20px;height:20px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
+      </div>
+      <div class="home-ind"><span></span></div>
+    </section>
+  </div>
+</div>
+
+<p class="notes">Mondai Bab 1 nomor 1 (buku utama hlm. 12, audio CD 02). Satu file CD per nomor berisi 例 + 5 soal; file dibagi otomatis per soal berdasarkan jeda suara (例 0:00, soal 1 0:09, 2 0:14, 3 0:18, 4 0:22, 5 0:26). Lebar tiap segmen di bar sebanding dengan durasi aslinya.</p>
+
+<script>
+  const m = document.getElementById('mondai');
+  const names = ['contoh', 'soal 1', 'soal 2', 'soal 3', 'soal 4', 'soal 5'];
+  const playSvg = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>';
+  const eqSvg = '<span class="eq"><i style="height:8px"></i><i style="height:14px"></i><i style="height:10px"></i></span>';
+  function setSeg(n) {
+    m.querySelectorAll('.segment').forEach(s => {
+      const i = +s.dataset.seg;
+      s.classList.toggle('is-done', i < n); s.classList.toggle('is-current', i === n);
+      const f = s.querySelector('.fill'); if (f) f.remove();
+      if (i === n) { const d = document.createElement('div'); d.className = 'fill'; d.style.width = '10%'; s.prepend(d); }
+    });
+    m.querySelectorAll('.seg-play').forEach(b => { const on = +b.dataset.seg === n; b.classList.toggle('is-playing', on); b.innerHTML = on ? eqSvg : playSvg; });
+    m.querySelectorAll('.item').forEach(it => {
+      const on = +it.dataset.seg === n; it.classList.toggle('is-playing', on);
+      it.querySelector('.answer').innerHTML = on ? '<span class="playing-tag">Sedang diputar</span><span>Tulis jawaban…</span>' : 'Tulis jawaban…';
+      it.querySelector('.answer').style.cssText = on ? 'flex-direction:column;align-items:flex-start;justify-content:center;gap:0' : '';
+    });
+    document.getElementById('seg-status').textContent = (n === 0 ? 'Contoh' : 'Soal ' + n + ' dari 5') + (rep ? ' · diulang terus' : ' · jeda otomatis');
+  }
+  let rep = false, cur = 2;
+  m.querySelectorAll('[data-seg]').forEach(el => { if (el.classList.contains('item')) return; el.addEventListener('click', e => { e.stopPropagation(); cur = +el.dataset.seg; setSeg(cur); }); });
+  document.getElementById('m-repeat').onclick = e => { rep = !rep; e.currentTarget.classList.toggle('is-on', rep); setSeg(cur); };
+  let playing = true;
+  document.getElementById('m-play').onclick = () => { playing = !playing; document.getElementById('m-pause').style.display = playing ? '' : 'none'; document.getElementById('m-playic').style.display = playing ? 'none' : ''; };
+  document.getElementById('m-speed').onclick = e => { e.target.textContent = e.target.textContent === '0.75×' ? '1×' : '0.75×'; };
+  m.querySelectorAll('.k').forEach(k => k.addEventListener('click', () => k.classList.toggle('on')));
+</script>
+</body>
+</html>

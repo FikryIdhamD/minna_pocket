@@ -1,0 +1,1703 @@
+{
+ "book": 1,
+ "lesson": 25,
+ "title_jp": "いろいろ　お{世話|せわ}に　なりました",
+ "title_tr": "Telah Mendapatkan Banyak Bantuannya.",
+ "source_pages": {
+  "main_pdf": [
+   235,
+   242
+  ],
+  "translation_pdf": [
+   174,
+   182
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "かんがえます",
+       "kanji_jp": "{考|かんが}えます",
+       "tr": "[Ⅱ] berpikir, memikirkan"
+      },
+      {
+       "kana_jp": "つきます",
+       "kanji_jp": "{着|つ}きます",
+       "tr": "[Ⅰ] tiba, sampai"
+      },
+      {
+       "kana_jp": "とります［としを～］",
+       "kanji_jp": "{取|と}ります［{年|とし}を～］",
+       "tr": "[Ⅰ] berumur, lanjut usia"
+      },
+      {
+       "kana_jp": "たります",
+       "kanji_jp": "{足|た}ります",
+       "tr": "[Ⅱ] cukup"
+      },
+      {
+       "kana_jp": "いなか",
+       "kanji_jp": "{田舎|いなか}",
+       "tr": "desa, kampung halaman"
+      },
+      {
+       "kana_jp": "チャンス",
+       "kanji_jp": null,
+       "tr": "kesempatan"
+      },
+      {
+       "kana_jp": "おく",
+       "kanji_jp": "{億|おく}",
+       "tr": "ratus juta"
+      },
+      {
+       "kana_jp": "もし［～たら］",
+       "kanji_jp": null,
+       "tr": "kalau"
+      },
+      {
+       "kana_jp": "いみ",
+       "kanji_jp": "{意味|いみ}",
+       "tr": "arti, makna"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{練習|れんしゅう}C〉",
+     "items": [
+      {
+       "kana_jp": "もしもし",
+       "kanji_jp": null,
+       "tr": "halo (digunakan ketika menelepon)"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "てんきん",
+       "kanji_jp": "{転勤|てんきん}",
+       "tr": "pindah ke kantor cabang lain atau jabatan lain (～します: pindah kantor)"
+      },
+      {
+       "kana_jp": "こと",
+       "kanji_jp": null,
+       "tr": "hal (～の　こと: hal ～)"
+      },
+      {
+       "kana_jp": "ひま",
+       "kanji_jp": "{暇|ひま}",
+       "tr": "waktu luang"
+      },
+      {
+       "kana_jp": "［いろいろ］お{世話|せわ}に　なりました。",
+       "kanji_jp": null,
+       "tr": "Terima kasih banyak bantuan Anda yang telah diberikan."
+      },
+      {
+       "kana_jp": "がんばります",
+       "kanji_jp": "{頑張|がんば}ります",
+       "tr": "[Ⅰ] berusaha, bekerja keras"
+      },
+      {
+       "kana_jp": "どうぞ　おげんきで。",
+       "kanji_jp": "どうぞ　お{元気|げんき}で。",
+       "tr": "Semoga sehat-sehat selalu. (digunakan ketika perpisahan dalam jangka wantu lama)"
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "ベトナム",
+       "kanji_jp": null,
+       "tr": "Vietnam"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "{雨|あめ}が　{降|ふ}ったら、{出|で}かけません。",
+    "tr": "Kalau turun hujan, saya tidak pergi."
+   },
+   {
+    "no": 2,
+    "jp": "{雨|あめ}が　{降|ふ}っても、{出|で}かけます。",
+    "tr": "Walaupun turun hujan, saya pergi."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "もし　1{億円|おくえん}　あったら、{何|なに}を　したいですか。",
+      "tr": "Kalau ada seratus juta yen, apa yang ingin Anda lakukan?"
+     },
+     {
+      "jp": "……{学校|がっこう}を　{作|つく}りたいです。",
+      "tr": "……Ingin membangun sekolah."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "{電車|でんしゃ}や　バスが　{動|うご}かなかったら、どう　しますか。",
+      "tr": "Bagaimana seandainya kereta rel listrik atau bus tidak dioperasikan?"
+     },
+     {
+      "jp": "……{歩|ある}いて　{帰|かえ}ります。",
+      "tr": "……Pulang dengan berjalan kaki."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "あの　{新|あたら}しい　{靴屋|くつや}は　いい　{靴|くつ}が　たくさん　ありますよ。",
+      "tr": "Di toko sepatu baru itu ada banyak sepatu yang bagus."
+     },
+     {
+      "jp": "……そうですか。　{安|やす}かったら、{買|か}いたいです。",
+      "tr": "……O, begitu. Kalau murah, ingin membelinya."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "あしたも　{来|こ}なければ　なりませんか。",
+      "tr": "Apakah saya juga harus datang besok?"
+     },
+     {
+      "jp": "……{無理|むり}だったら、{来週|らいしゅう}　{来|き}て　ください。",
+      "tr": "……Kalau tidak memungkinkan, silakan datang minggu depan."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "もう　{子|こ}どもの　{名前|なまえ}を　{考|かんが}えましたか。",
+      "tr": "Apakah sudah memikirkan nama anak?"
+     },
+     {
+      "jp": "……ええ、{男|おとこ}の　{子|こ}だったら、「ひかる」です。",
+      "tr": "……Ya, kalau laki-laki “Hikaru”."
+     },
+     {
+      "jp": "{女|おんな}の　{子|こ}だったら、「あや」です。",
+      "tr": "Kalau perempuan “Aya”."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "{大学|だいがく}を　{出|で}たら、すぐ　{働|はたら}きますか。",
+      "tr": "Kalau tamat universitas, Anda langsung bekerja?"
+     },
+     {
+      "jp": "……いいえ、1{年|ねん}ぐらい　いろいろな　{国|くに}を　{旅行|りょこう}したいです。",
+      "tr": "……Tidak, kira-kira satu tahun saya ingin berjalan-jalan di berbagai negara."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "{先生|せんせい}、この　ことばの　{意味|いみ}が　わかりません。",
+      "tr": "Guru, saya tidak mengerti arti kata ini."
+     },
+     {
+      "jp": "……{辞書|じしょ}を　{見|み}ましたか。",
+      "tr": "……Apakah sudah melihat di kamus?"
+     },
+     {
+      "jp": "ええ。　{見|み}ても、わかりません。",
+      "tr": "Ya. Walaupun melihat di kamus, saya tidak mengerti."
+     }
+    ]
+   },
+   {
+    "no": 8,
+    "lines": [
+     {
+      "jp": "{暑|あつ}い　とき、エアコンを　つけますか。",
+      "tr": "Ketika panas, menghidupkan AC?"
+     },
+     {
+      "jp": "……いいえ、{暑|あつ}くても、つけません。　{体|からだ}に　よくないと　{思|おも}います。",
+      "tr": "……Tidak, walaupun panas, tidak menghidupkannya. Saya rasa tidak baik untuk badan."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "いろいろ　お{世話|せわ}に　なりました",
+   "title_tr": "Telah Mendapatkan Banyak Bantuannya.",
+   "image": "img/L25/kaiwa.webp",
+   "audio": "audio/L25_kaiwa.m4a",
+   "cd_track": "CD85",
+   "lines": [
+    {
+     "speaker_jp": "{木村|きむら}",
+     "speaker_tr": "Kimura",
+     "jp": "{転勤|てんきん}、おめでとう　ございます。",
+     "tr": "Selamat atas pemindahan posisi tugas!"
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "ありがとう　ございます。",
+     "tr": "Terima kasih."
+    },
+    {
+     "speaker_jp": "{木村|きむら}",
+     "speaker_tr": "Kimura",
+     "jp": "ミラーさんが　{東京|とうきょう}へ　{行|い}ったら、{寂|さび}しく　なりますね。",
+     "tr": "Kalau Sdr. Miller pergi ke Tokyo, kita kesepian ya."
+    },
+    {
+     "speaker_jp": "{佐藤|さとう}",
+     "speaker_tr": "Sato",
+     "jp": "そうですね。",
+     "tr": "Ya, betul."
+    },
+    {
+     "speaker_jp": "{木村|きむら}",
+     "speaker_tr": "Kimura",
+     "jp": "{東京|とうきょう}へ　{行|い}っても、{大阪|おおさか}の　ことを　{忘|わす}れないで　ください　ね。",
+     "tr": "Jangan lupa akan Osaka ya, walaupun Anda pergi ke Tokyo."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "もちろん。　{皆|みな}さん、{暇|ひま}が　あったら、ぜひ　{東京|とうきょう}へ　{遊|あそ}びに　{来|き}て　ください。",
+     "tr": "Tentu. Semuanya, kalau ada waktu luang, silakan datang bermain ke Tokyo."
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "jp": "ミラーさんも　{大阪|おおさか}へ　{来|き}たら、{電話|でんわ}を　ください。",
+     "tr": "Kalau Sdr. Miller datang ke Osaka, tolong menelepon kami juga, ya."
+    },
+    {
+     "jp": "いっしょに　{飲|の}みましょう。",
+     "tr": "Kita minum bersama-sama."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "ええ、ぜひ。",
+     "tr": "Ya, pasti."
+    },
+    {
+     "jp": "{皆|みな}さん、ほんとうに　いろいろ　お{世話|せわ}に　なりました。",
+     "tr": "Semuanya, saya telah mendapatan banyak bantuan kalian."
+    },
+    {
+     "speaker_jp": "{佐藤|さとう}",
+     "speaker_tr": "Sato",
+     "jp": "{頑張|がんば}って　ください。　お{体|からだ}に　{気|き}を　つけて。",
+     "tr": "Semangat! Jaga kesehatan baik-baik."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "はい。　{皆|みな}さんも　どうぞ　お{元気|げんき}で。",
+     "tr": "Ya. Demikian juga untuk semuanya."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "のみます",
+          "まちます",
+          "たべます",
+          "みます",
+          "きます",
+          "します",
+          "あついです",
+          "いいです",
+          "すきです",
+          "かんたんです",
+          "びょうきです",
+          "あめです"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "→"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "のんだ",
+          "まった",
+          "たべた",
+          "みた",
+          "きた",
+          "した",
+          "あつかった",
+          "よかった",
+          "すきだった",
+          "かんたんだった",
+          "びょうきだった",
+          "あめだった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ら"
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "のみます",
+          "まちます",
+          "たべます",
+          "みます",
+          "きます",
+          "します",
+          "あついです",
+          "いいです",
+          "すきです",
+          "かんたんです",
+          "びょうきです",
+          "あめです"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "→"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "のんで",
+          "まって",
+          "たべて",
+          "みて",
+          "きて",
+          "して",
+          "あつく",
+          "よく",
+          "すき",
+          "かんたん",
+          "びょうき",
+          "あめ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "も",
+          "も",
+          "も",
+          "も",
+          "も",
+          "も",
+          "も",
+          "も",
+          "も",
+          "も",
+          "も",
+          "も"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{雨|あめ}が　ふった",
+          "{時間|じかん}が　なかった",
+          "やすかった",
+          "ひまだった",
+          "いい　てんきだった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ら、"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{行|い}きません。",
+          "{映画|えいが}を　{見|み}ません。",
+          "あの　{店|みせ}で　{買|か}います。",
+          "{遊|あそ}びに　{行|い}きます。",
+          "{散歩|さんぽ}します。"
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ミラーさんが　きた",
+          "うちへ　かえった",
+          "{夏休|なつやす}みに　なった"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ら、"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{出|で}かけましょう。",
+          "すぐ　シャワーを　{浴|あ}びます。",
+          "{田舎|いなか}へ　{帰|かえ}りたいです。"
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かんがえて",
+          "{お金|かね}が　なくて",
+          "たかくて",
+          "べんりで",
+          "やすみの　ひで"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "も、"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "わかりません。",
+          "{毎日|まいにち}　{楽|たの}しいです。",
+          "この　うちを　{買|か}いたいです。",
+          "{車|くるま}は　{使|つか}いません。",
+          "{早|はや}く　{起|お}きます。"
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig3",
+     "image": "img/L25/rb_fig3.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "examples": [
+      {
+       "prompt_jp": "お{金|かね}が　あります・パソコンを　{買|か}いたいです",
+       "answer_jp": [
+        "お{金|かね}が　あったら、パソコンを　{買|か}いたいです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{駅|えき}まで　{歩|ある}きます・30{分|ぷん}　かかります"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "この　{薬|くすり}を　{飲|の}みます・{元気|げんき}に　なります"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "バスが　{来|き}ません・タクシーで　{行|い}きます"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{意見|いけん}が　ありません・{終|お}わりましょう"
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "examples": [
+      {
+       "prompt_jp": "{安|やす}いです・パソコンを　{買|か}います",
+       "answer_jp": [
+        "{安|やす}かったら、パソコンを　{買|か}います。"
+       ]
+      },
+      {
+       "prompt_jp": "{雨|あめ}です・{出|で}かけません",
+       "answer_jp": [
+        "{雨|あめ}だったら、{出|で}かけません。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{駅|えき}が　{近|ちか}いです・{便利|べんり}です"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{暑|あつ}いです・エアコンを　つけて　ください"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{使|つか}い{方|かた}が　{簡単|かんたん}です・{買|か}います"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{航空便|こうくうびん}です・{来週|らいしゅう}　{着|つ}きます"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "figure": "fig3",
+     "examples": [
+      {
+       "prompt_jp": "{日曜日|にちようび}　{雨|あめ}です・{何|なに}を　しますか",
+       "answer_jp": [
+        "{日曜日|にちようび}　{雨|あめ}だったら、{何|なに}を　しますか。",
+        "……うちで　{音楽|おんがく}を　{聞|き}きます。"
+       ]
+      },
+      {
+       "prompt_jp": "ケータイが　{故障|こしょう}します・どう　しますか",
+       "answer_jp": [
+        "ケータイが　{故障|こしょう}したら、どう　しますか。",
+        "……{新|あたら}しいのを　{買|か}います。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{日曜日|にちようび}　{天気|てんき}が　いいです・{何|なに}を　しますか"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{休|やす}みが　1か{月|げつ}　あります・{何|なに}を　しますか"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{会議|かいぎ}の　とき、{眠|ねむ}く　なります・どう　しますか"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{買|か}い{物|もの}の　とき、お{金|かね}が　{足|た}りません・どう　しますか"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "{昼|ひる}ごはんを　{食|た}べます・{映画|えいが}を　{見|み}に　{行|い}きませんか",
+       "answer_jp": [
+        "{昼|ひる}ごはんを　{食|た}べたら、{映画|えいが}を　{見|み}に　{行|い}きませんか。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{駅|えき}に　{着|つ}きます・{電話|でんわ}を　ください"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{仕事|しごと}が　{終|お}わります・{食事|しょくじ}に　{行|い}きましょう"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{高校|こうこう}を　{出|で}ます・{留学|りゅうがく}したいです"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "60{歳|さい}に　なります・{仕事|しごと}を　やめます"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "examples": [
+      {
+       "prompt_jp": "{考|かんが}えます・わかりません",
+       "answer_jp": [
+        "{考|かんが}えても、わかりません。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{覚|おぼ}えます・すぐ　{忘|わす}れます"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "ボタンを　{押|お}します・{水|みず}が　{出|で}ません"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{結婚|けっこん}します・いっしょに　{住|す}みません"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{辞書|じしょ}で　{調|しら}べます・わかりません"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "examples": [
+      {
+       "prompt_jp": "{安|やす}いです・{買|か}いません",
+       "answer_jp": [
+        "{安|やす}くても、{買|か}いません。"
+       ]
+      },
+      {
+       "prompt_jp": "{嫌|きら}いです・{食|た}べます",
+       "answer_jp": [
+        "{嫌|きら}いでも、{食|た}べます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{眠|ねむ}いです・レポートを　{書|か}かなければ　なりません"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{旅行|りょこう}に　{行|い}きたいです・{時間|じかん}が　ありません"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{歌|うた}が　{下手|へた}です・カラオケは　{楽|たの}しいです"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{病気|びょうき}です・{病院|びょういん}へ　{行|い}きません"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "examples": [
+      {
+       "prompt_jp": "デザインが　よかったら、{買|か}いますか。",
+       "answer_jp": [
+        "いいえ、デザインが　よくても、{買|か}いません。"
+       ]
+      },
+      {
+       "prompt_jp": "{高|たか}くても、{買|か}いますか。",
+       "answer_jp": [
+        "いいえ、{高|たか}かったら、{買|か}いません。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "チャンスが　あったら、{外国|がいこく}に　{住|す}みたいですか。"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{暇|ひま}だったら、{旅行|りょこう}に　{行|い}きますか。"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{年|とし}を　{取|と}っても、{働|はたら}きたいですか。"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{体|からだ}の　{調子|ちょうし}が　{悪|わる}くても、{勉強|べんきょう}しますか。"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L25/rc1.webp",
+    "dialog": [
+     {
+      "jp": "あした　[[{暇|ひま}だったら]]、[[ジャズ]]を　[[{聞|き}きに]]",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "{行|い}きませんか。"
+     },
+     {
+      "jp": "いいですね。　どこへ　{行|い}きますか。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[{神戸|こうべ}]]に　いい　{所|ところ}が　ありますよ。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[{神戸|こうべ}]]ですか。　いいですね。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L25/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L25/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L25/rc2.webp",
+    "dialog": [
+     {
+      "jp": "もしもし、{佐藤|さとう}さんですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "はい、{佐藤|さとう}です。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "ミラーですが、{今|いま}、{会議室|かいぎしつ}に　います。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[アキックスの　{牧野|まきの}さんが　{来|き}たら]]、[[{教|おし}えて]]　ください。"
+     },
+     {
+      "jp": "はい、わかりました。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L25/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L25/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L25/rc3.webp",
+    "dialog": [
+     {
+      "jp": "{来週|らいしゅう}の　[[サッカーの　{練習|れんしゅう}]]、[[{雨|あめ}でも]]、ありますか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "いいえ、[[{雨|あめ}だったら]]、ありません。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "そうですか。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L25/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L25/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L25_mondai1.m4a",
+    "cd_track": "CD86",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_truefalse",
+    "audio": "audio/L25_mondai2.m4a",
+    "cd_track": "CD87",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{雨|あめ}が　（{降|ふ}ります　→　{降|ふ}った）　ら、{出|で}かけません。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{毎日|まいにち}　{日本語|にほんご}を　（{使|つか}います　→　＿）　ら、{上手|じょうず}に　なります。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "バスが　（{来|き}ません　→　＿）　ら、タクシーで　{行|い}きましょう。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{月曜日|げつようび}が　（{無理|むり}です　→　＿）　ら、{火曜日|かようび}に　レポートを　{出|だ}して　ください。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{日曜日|にちようび}　{天気|てんき}が　（いいです　→　＿）　ら、ゴルフに　{行|い}きませんか。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "（{考|かんが}えます　→　＿）　も、わかりません。"
+      ]
+     },
+     {
+      "no": 6,
+      "lines_jp": [
+       "{車|くるま}は　{高|たか}いですから、（{便利|べんり}です　→　＿）　も、{買|か}いません。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "choice",
+    "instruction_jp": "a．エアコンを　つけて　ください。　　b．サッカーの　{試合|しあい}が　あります。　　c．{何|なに}も　{買|か}いません。　　［d．{遊|あそ}びに　{行|い}きましょう。］　　e．{毎晩|まいばん}　{日本語|にほんご}を　{勉強|べんきょう}します。　　f．{入|はい}りたいです。",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{時間|じかん}が　あったら、（d）"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "お{金|かね}が　あっても、（＿）"
+      ],
+      "choices_jp": [
+       "a",
+       "b",
+       "c",
+       "e",
+       "f"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{暑|あつ}かったら、（＿）"
+      ],
+      "choices_jp": [
+       "a",
+       "b",
+       "c",
+       "e",
+       "f"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{仕事|しごと}が　{忙|いそが}しくても、（＿）"
+      ],
+      "choices_jp": [
+       "a",
+       "b",
+       "c",
+       "e",
+       "f"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "いい　{会社|かいしゃ}だったら、（＿）"
+      ],
+      "choices_jp": [
+       "a",
+       "b",
+       "c",
+       "e",
+       "f"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{雨|あめ}でも、（＿）"
+      ],
+      "choices_jp": [
+       "a",
+       "b",
+       "c",
+       "e",
+       "f"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "write",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "いつ　{旅行|りょこう}に　{行|い}きますか。（{夏休|なつやす}みに　なります）",
+       "……{夏休|なつやす}みに　なったら、すぐ　{行|い}きます。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{何時|なんじ}に　パワー{電気|でんき}へ　{行|い}きますか。（{会議|かいぎ}が　{終|お}わります）",
+       "……＿"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "いつ　{結婚|けっこん}したいですか。（{大学|だいがく}を　{出|で}ます）",
+       "……＿"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{何時|なんじ}ごろ　{出|で}かけましょうか。（{昼|ひる}ごはんを　{食|た}べます）",
+       "……＿"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "いつごろ　{新|あたら}しい　{仕事|しごと}を　{始|はじ}めますか。（{国|くに}へ　{帰|かえ}ります）",
+       "……＿"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "choice",
+    "passage_title_jp": "わたしが　{欲|ほ}しい　{物|もの}",
+    "passage_jp": [
+     "いろいろな　{人|ひと}に　いちばん　{欲|ほ}しい　{物|もの}を　{聞|き}きました。",
+     "①「{時間|じかん}」です。　{会社|かいしゃ}へ　{行|い}って、{働|はたら}いて、うちへ　{帰|かえ}ったら、1{日|にち}が　{終|お}わります。　1{日|にち}が　{短|みじか}いです。　1{日|にち}　36{時間|じかん}ぐらい　{欲|ほ}しいです。　（{女|おんな}の　{人|ひと}、25{歳|さい}）",
+     "②「{僕|ぼく}の　{銀行|ぎんこう}」が　{欲|ほ}しいです。　{銀行|ぎんこう}を　{持|も}って　いたら、{好|す}きな　とき、お{金|かね}を　{下|お}ろして、{好|す}きな　{物|もの}を　{買|か}う　ことが　できます。　（{男|おとこ}の　{子|こ}、10{歳|さい}）",
+     "③「{若|わか}く　なる　{薬|くすり}」です。　わたしは　{若|わか}い　とき、あまり　{勉強|べんきょう}しませんでした。　もう　{一度|いちど}　{若|わか}く　なったら、{勉強|べんきょう}して、いい　{仕事|しごと}を　したいです。　（{女|おんな}の　{人|ひと}、60{歳|さい}）",
+     "④「ユーモア」が　{欲|ほ}しいです。　わたしが　{話|はなし}を　すると、{妻|つま}は　すぐ　「あしたも　{忙|いそが}しいでしょう？　{早|はや}く　{寝|ね}て　ください。」と　{言|い}います。　{子|こ}どもは　「お{父|とう}さん、もう　3{回|かい}ぐらい　{聞|き}いたよ。」と　{言|い}います。　わたしは　おもしろい　{人|ひと}に　なりたいです。　（{男|おとこ}の　{人|ひと}、43{歳|さい}）",
+     "⑤「わたし」が　もう　{一人|ひとり}　{欲|ほ}しいです。　わたしは　{毎日|まいにち}　{学校|がっこう}で　{勉強|べんきょう}しなければ　なりません。　「わたし」が　2{人|ふたり}　いたら、{一人|ひとり}が　{学校|がっこう}で　{勉強|べんきょう}して　いる　とき、もう　{一人|ひとり}の　「わたし」は　{好|す}きな　ことが　できます。　わたしは　2{人|ふたり}に　なりたいです。　（{女|おんな}の　{子|こ}、14{歳|さい}）"
+    ],
+    "image": "img/L25/m6_pairs.webp",
+    "instruction_jp": "{例|れい}：{男|おとこ}の　{子|こ}、10{歳|さい}　→　{好|す}きな　{物|もの}を　{買|か}いたい　→　{僕|ぼく}の　{銀行|ぎんこう}",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{男|おとこ}の　{子|こ}、10{歳|さい}　→　[[{僕|ぼく}の　{銀行|ぎんこう}]]"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{女|おんな}の　{子|こ}、14{歳|さい}"
+      ],
+      "choices_jp": [
+       "ユーモア",
+       "{僕|ぼく}の　{銀行|ぎんこう}",
+       "わたし",
+       "{若|わか}くなる　{薬|くすり}",
+       "{時間|じかん}"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{女|おんな}の　{人|ひと}、25{歳|さい}"
+      ],
+      "choices_jp": [
+       "ユーモア",
+       "{僕|ぼく}の　{銀行|ぎんこう}",
+       "わたし",
+       "{若|わか}くなる　{薬|くすり}",
+       "{時間|じかん}"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{男|おとこ}の　{人|ひと}、43{歳|さい}"
+      ],
+      "choices_jp": [
+       "ユーモア",
+       "{僕|ぼく}の　{銀行|ぎんこう}",
+       "わたし",
+       "{若|わか}くなる　{薬|くすり}",
+       "{時間|じかん}"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{女|おんな}の　{人|ひと}、60{歳|さい}"
+      ],
+      "choices_jp": [
+       "ユーモア",
+       "{僕|ぼく}の　{銀行|ぎんこう}",
+       "わたし",
+       "{若|わか}くなる　{薬|くすり}",
+       "{時間|じかん}"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "kind": "compose",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "あなたが　{今|いま}　いちばん　{欲|ほ}しい　{物|もの}は　{何|なん}ですか。"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Bentuk Biasa Lampau　ら、～(kalimat pokok)",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Kalau... Menyatakan persyaratan asumsi dengan membubuhkan ら pada Bentuk Biasa Lampau Kata Kerja, Kata Sifat dan Kata Benda yang menunjukkan isi suatu hal yang terjadi di bawah persyaratan asumsi yang disusul dengan kalimat pokok di belakangnya. Untuk kalimat pokok dapat digunakan ekspresi untuk menunjukkan keinginan, harapan ajakan, permohonan dan lain-lain dari lawan bicara."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "お{金|かね}が　あったら、{旅行|りょこう}します。",
+        "tr": "Kalau punya uang, berwisata."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "{時間|じかん}が　なかったら、テレビを　{見|み}ません。",
+        "tr": "Kalau tidak ada waktu, tidak menonton TV."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "{安|やす}かったら、パソコンを　{買|か}いたいです。",
+        "tr": "Kalau murah, ingin membeli komputer."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "{暇|ひま}だったら、{手伝|てつだ}って　ください。",
+        "tr": "Kalau sedang luang, tolong bantu saya."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "いい　{天気|てんき}だったら、{散歩|さんぽ}しませんか。",
+        "tr": "Kalau cuaca baik, bagaimana kita jalan-jalan?"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "［Perhatian］ Di belakang kalimat bentuk ～たら (kalimat pokok), ekspresi untuk keinginan, harapan, ajakan, permohonan dan lain-lainnya tidak dapat dipakai. ×{時間|じかん}が　あると、コンサートに　{行|い}きます。／{行|い}きたいです。／{行|い}きませんか。／ちょっと　{手伝|てつだ}って　ください。"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Kata Kerja Bentuk たら、～(kalimat pokok)",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Kalau sudah..., ～ Jika sebelumnya telah mengetahui bahwa maksud dari Kata Kerja Bentuk たら pasti terjadi, setelah terjadi hal itu menyatakan terjadinya hal-hal seperti aksi atau kejadian yang disusul kalimat pokok."
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "10{時|じ}に　なったら、{出|で}かけましょう。",
+        "tr": "Kalau sudah sampai pukul sepuluh, kita berangkat."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "うちへ　{帰|かえ}ったら、すぐ　シャワーを　{浴|あ}びます。",
+        "tr": "Kalau pulang ke rumah, saya langsung mandi."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Kerja Bentuk て／Kata Kerja (Bentuk ない) なくて／Kata Sifat い (～い)→～くて／Kata Sifat な［な］→～で／Kata Benda で　も、～(kalimat pokok)",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Walaupun... Ini menunjukkan persyaratan asumsi paradoks. Dengan kalimat yang disusul bentuk ても (kalimat pokok), ditunjukkan terjadi hal yang terbaik yang biasanya dapat diduga di bawah persyaratan asumsi, atau tidak terjadinya hal yang biasanya dapat diduga."
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "{雨|あめ}が　{降|ふ}っても、{洗濯|せんたく}します。",
+        "tr": "Walaupun hujan, mencuci pakaian."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "{安|やす}くても、わたしは　グループ{旅行|りょこう}は　{嫌|きら}いです。",
+        "tr": "Walaupun murah, saya tidak suka tur rombongan."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "{便利|べんり}でも、パソコンを　{使|つか}いません。",
+        "tr": "Walaupun praktis, tidak memakai komputer."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "{日曜日|にちようび}でも、{働|はたら}きます。",
+        "tr": "Walaupun hari Minggu, bekerja."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "もし",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "もし dipakai bersama dengan ～たら, dan berfungsi untuk memberitahukan sebelumnya bahwa kalimat tersebut adalah kalimat persyaratan. もし menekankan perasaan asumsi si pembicara."
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "もし　1{億円|おくえん}　あったら、いろいろな　{国|くに}を　{旅行|りょこう}したいです。",
+        "tr": "Kalau punya seratus juta yen, ingin berwisata di berbagai negara."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "Subjek dalam anak kalimat",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Pada Pelajaran 16 bagian 2, telah dijelaskan bahwa subjek dalam kalimat ～てから ditunjuk dengan が. Sama halnya dalam ～てから, ～とき atau ～まえに, untuk ～たら dan ～ても subjek dalam anak kalimat ditunjuk dengan が."
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "{友達|ともだち}が　{来|く}る　まえに、{部屋|へや}を　{掃除|そうじ}します。",
+        "tr": "Sebelum teman datang, membersihkan kamar. (Pel.18)"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑭",
+      "lines": [
+       {
+        "jp": "{妻|つま}が　{病気|びょうき}の　とき、{会社|かいしゃ}を　{休|やす}みます。",
+        "tr": "Waktu istri sakit, saya tidak masuk kerja. (Pel.23)"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑮",
+      "lines": [
+       {
+        "jp": "{友達|ともだち}が　{約束|やくそく}の　{時間|じかん}に　{来|こ}なかったら、どう　しますか。",
+        "tr": "Kalau teman tidak datang pada waktu janji, bagaimana? (Pel.25)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_rich": "Kolom 1: Topik dan Subjek",
+    "blocks": [
+     {
+      "type": "h",
+      "text_rich": "1. Apakah Topik itu?"
+     },
+     {
+      "type": "p",
+      "text_rich": "Kalimat bahasa Jepang (kebanyakan) mempunyai topik. Topik diletakan di paling depan kalimat untuk menunjukkan apa yang dinyatakan dalam kalimat tersebut yang berarti “Kalau dikatakan tentang ...”. Misalnya, kalimat (1) adalah tentang {東京|とうきょう}, dan menyatakan itu adalah {日本|にほん}の　{首都|しゅと}."
+     },
+     {
+      "type": "ex",
+      "mark": "(1)",
+      "lines": [
+       {
+        "jp": "{東京|とうきょう}は　{日本|にほん}の　{首都|しゅと}です。",
+        "tr": "Tokyo adalah ibu kota Jepang."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Sama halnya, kalimat (2) dan (3) masing-masing menyatakan tentang この　{部屋|へや} dan わたし."
+     },
+     {
+      "type": "ex",
+      "mark": "(2)",
+      "lines": [
+       {
+        "jp": "この　{部屋|へや}は　{静|しず}かです。",
+        "tr": "Kamar ini tenang."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "(3)",
+      "lines": [
+       {
+        "jp": "わたしは　{先週|せんしゅう}　ディズニーランドへ　{行|い}きました。",
+        "tr": "Pada minggu lalu, saya pergi ke Disneyland."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Topik ditunjukan dengan は. Kalimat yang mempunyai topik, dibagi dua bagian, yaitu sebelum dan setelah は. Bagian yang dibubuhkan は adalah topik, dan bagian selain topik dari seluruh kalimat disebut keterangan."
+     },
+     {
+      "type": "h",
+      "text_rich": "2. Apakah Subjek itu?"
+     },
+     {
+      "type": "p",
+      "text_rich": "Subjek itu unsur yang sangat penting bagi predikat (Kata Kerja, Kata Sifat, Kata Benda + です). Misalnya orang yang melakukan untuk Kata Kerja seperti {飲|の}みます (minum), {走|はし}ります (berlari), orang atau benda yang berada untuk Kata Kerja います (ada (makhluk hidup)), あります (ada (benda mati)), benda/subjek peristiwa (benda yang turun, benda yang bertiup) untuk Kata Kerja {降|ふ}ります (turun), {吹|ふ}きます (bertiup, menyiup), {大|おお}きいです (besar), {有名|ゆうめい}です (terkenal), dari Kata Sifat, atau orang yang memiliki sifat atau ciri khas seperti {学生|がくせい}です (mahasiswa), {病気|びょうき}です (sakit) dari Kata Benda +です, atau orang yang mempunyai perasaan untuk Kata Sifat {好|す}きです (suka), {怖|こわ}いです (takut). Oleh karena itu, frasa Kata Benda dari bagian yang diberi garis bawah pada contoh berikutnya semuanya subjek."
+     },
+     {
+      "type": "p",
+      "text_rich": "Dalam kalimat yang tidak mempunyai topik, subjek ditunjuk dengan が."
+     },
+     {
+      "type": "ex",
+      "mark": "(4)",
+      "lines": [
+       {
+        "jp": "{太郎|たろう}が　ビールを　{飲|の}みました。",
+        "tr": "Taro yang minum bir."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "(5)",
+      "lines": [
+       {
+        "jp": "{机|つくえ}の　{上|うえ}に　{本|ほん}が　あります。",
+        "tr": "Di atas meja ada buku."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "(6)",
+      "lines": [
+       {
+        "jp": "きのう　{雨|あめ}が　{降|ふ}りました。",
+        "tr": "Kemarin hujan turun."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "3. Hubungan antara Topik dan Subjek"
+     },
+     {
+      "type": "p",
+      "text_rich": "Topik dan subjek adalah konsep yang berbeda, tetapi saling memiliki hubungan erat. Kebanyakan dalam kalimat yang mempunyai topik, topik berfungsi sebagai subjek pula. Misalnya, {田中|たなか}さん pada (7), {佐藤|さとう}さん pada (8), わたし pada (9), semuanya adalah topik (karena dibubuhkan は), di samping itu merupakan subjek juga (karena masing-masing adalah orang yang mempunyai sifat atau ciri khas dan perasaan)."
+     },
+     {
+      "type": "ex",
+      "mark": "(7)",
+      "lines": [
+       {
+        "jp": "{田中|たなか}さんは　{有名|ゆうめい}です。",
+        "tr": "Sdr. Tanaka terkenal."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "(8)",
+      "lines": [
+       {
+        "jp": "{佐藤|さとう}さんは　{学生|がくせい}です。",
+        "tr": "Sdr. Sato adalah mahasiswa."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "(9)",
+      "lines": [
+       {
+        "jp": "わたしは　{犬|いぬ}が　{怖|こわ}いです。",
+        "tr": "Saya takut anjing."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Kebanyakan topik dan subjek (relatif) sama, tetapi adakalanya kedua-duanya tidak sama. Misalnya, pada (10) この　{本|ほん} adalah topik (karena dibubuhkan は), tetapi yang melakukan aksi {書|か}きます adalah {田中|たなか}さん, maka この　{本|ほん} bukan subjek."
+     },
+     {
+      "type": "ex",
+      "mark": "(10)",
+      "lines": [
+       {
+        "jp": "この　{本|ほん}は　{田中|たなか}さんが　{書|か}きました。",
+        "tr": "Buku ini ditulis oleh Sdr. Tanaka."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Kalimat (10) dapat dianggap この　{本|ほん}を pada kalimat (11) menjadi topik."
+     },
+     {
+      "type": "ex",
+      "mark": "(11)",
+      "lines": [
+       {
+        "jp": "{田中|たなか}さんが　この　{本|ほん}を　{書|か}きました。",
+        "tr": "Sdr. Tanaka menulis buku ini."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "(12)",
+      "lines": [
+       {
+        "jp": "この　{本|ほん}を は　{田中|たなか}さんが　{書|か}きました。",
+        "tr": "Buku ini ditulis oleh Sdr.Tanaka."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Pertama-tama, この　{本|ほん}を pindah ke paling depan kalimat, dan dibubuhkan は untuk menunjukkan topik. Dalam hal ini, を dan は tidak dapat digunakan secara bersamaan, maka を dihilangkan kemudian hanya は yang tetap dipakai dan hasilnya menjadi kalimat (10). Dengan catatan bahwa selain partikel が dan を, dapat digunakan bersama partikel は. Oleh karena itu, menjadi seperti (13) dan (14)."
+     },
+     {
+      "type": "ex",
+      "mark": "(13)",
+      "lines": [
+       {
+        "jp": "{田中|たなか}さんには　わたしが　{連絡|れんらく}します。",
+        "tr": "Untuk Sdr. Tanaka, saya yang akan hubungi."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "(14)",
+      "lines": [
+       {
+        "jp": "{山田|やまだ}さんからは　{返事|へんじ}が　{来|き}ませんでした。",
+        "tr": "Tidak ada jawaban dari Sdr. Yamada."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "4. Kalimat yang mempunyai topik dan Kalimat yang tidak mempunyai topik"
+     },
+     {
+      "type": "p",
+      "text_rich": "Dalam bahasa Jepang kebanyakan kalimat mempunyai topik, tetapi ada pula kalimat yang tidak mempunyai topik. Dalam kalimat yang mempunyai topik, dipakai は untuk menunjukkan subjek, sedangkan kalimat yang tidak mempunyai topik dipakai が untuk menunjukkan subjek. Contoh kalimat yang tidak mempunyai topik yang dipakai adalah jika halnya sebagai berikut:"
+     },
+     {
+      "type": "h",
+      "text_rich": "1) Jika melihat peristiwa atau menyatakan langsung sesuai dengan apa yang didengar. Jika menyatakan peristiwa yang dirasakan dengan panca indera langsung dapat digunakan kalimat yang tidak mempunyai topik."
+     },
+     {
+      "type": "ex",
+      "mark": "(15)",
+      "lines": [
+       {
+        "jp": "あっ、{雨|あめ}が　{降|ふ}って　います。",
+        "tr": "Ah, hujan turun."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "(16)",
+      "lines": [
+       {
+        "jp": "ラジオの　{音|おと}が　{小|ちい}さいです。",
+        "tr": "Suara radio kecil."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "(17)",
+      "lines": [
+       {
+        "jp": "（{窓|まど}の　{外|そと}を　{見|み}て）{月|つき}が　きれいだなぁ。",
+        "tr": "(melihat di luar jendela) Betapa indahnya bulan!"
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Jika menyampaikan peristiwa secara objektif atau awal cerita. Untuk hal-hal ini juga digunakan kalimat yang tidak mempunyai topik."
+     },
+     {
+      "type": "ex",
+      "mark": "(18)",
+      "lines": [
+       {
+        "jp": "きのう　{太郎|たろう}が　{来|き}ました。",
+        "tr": "Kemarin Taro datang."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "(19)",
+      "lines": [
+       {
+        "jp": "{来週|らいしゅう}　パーティーが　あります。",
+        "tr": "Pada minggu depan akan diadakan pesta."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "(20)",
+      "lines": [
+       {
+        "jp": "むかしむかし　ある　ところに　おじいさんと　おばあさんが　いました。",
+        "tr": "Dahulu kala adalah seorang kakek dan nenek di suatu tempat."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{人|ひと}の　{一生|いっしょう}",
+   "title_tr": "Seumur Hidup Manusia",
+   "blocks": [
+    {
+     "type": "image",
+     "image": "img/L25/sankou_isshou.webp",
+     "caption": "{人|ひと}の　{一生|いっしょう}"
+    },
+    {
+     "type": "note",
+     "text_rich": "Harapan Hidup Orang Jepang: laki-laki 79.59, perempuan 86.44 (2009, Menteri Kesehatan, Buruh, dan Kesejahteraan)"
+    }
+   ]
+  }
+ }
+}

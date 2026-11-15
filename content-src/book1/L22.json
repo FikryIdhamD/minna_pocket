@@ -1,0 +1,1535 @@
+{
+ "book": 1,
+ "lesson": 22,
+ "title_jp": "どんな　{部屋|へや}を　お{探|さが}しですか",
+ "title_tr": "Cari Kamar Yang Bagaimana?",
+ "source_pages": {
+  "main_pdf": [
+   209,
+   216
+  ],
+  "translation_pdf": [
+   156,
+   161
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "きます",
+       "kanji_jp": "{着|き}ます",
+       "tr": "[Ⅱ] memakai (kemeja)"
+      },
+      {
+       "kana_jp": "はきます",
+       "kanji_jp": null,
+       "tr": "[Ⅰ] memakai (sepatu, celana)"
+      },
+      {
+       "kana_jp": "かぶります",
+       "kanji_jp": null,
+       "tr": "[Ⅰ] memakai (topi)"
+      },
+      {
+       "kana_jp": "かけます［めがねを～］",
+       "kanji_jp": "［{眼鏡|めがね}を～］",
+       "tr": "[Ⅱ] memakai [kaca mata]"
+      },
+      {
+       "kana_jp": "します［ネクタイを～］",
+       "kanji_jp": null,
+       "tr": "[Ⅲ] memakai [dasi]"
+      },
+      {
+       "kana_jp": "うまれます",
+       "kanji_jp": "{生|う}まれます",
+       "tr": "[Ⅱ] lahir"
+      },
+      {
+       "kana_jp": "わたしたち",
+       "kanji_jp": null,
+       "tr": "kami, kita"
+      },
+      {
+       "kana_jp": "コート",
+       "kanji_jp": null,
+       "tr": "mantel"
+      },
+      {
+       "kana_jp": "セーター",
+       "kanji_jp": null,
+       "tr": "sweater, baju hangat"
+      },
+      {
+       "kana_jp": "スーツ*",
+       "kanji_jp": null,
+       "tr": "pakaian setelan"
+      },
+      {
+       "kana_jp": "ぼうし",
+       "kanji_jp": "{帽子|ぼうし}",
+       "tr": "topi"
+      },
+      {
+       "kana_jp": "めがね",
+       "kanji_jp": "{眼鏡|めがね}",
+       "tr": "kaca mata"
+      },
+      {
+       "kana_jp": "ケーキ",
+       "kanji_jp": null,
+       "tr": "kue"
+      },
+      {
+       "kana_jp": "［お］べんとう",
+       "kanji_jp": "［お］{弁当|べんとう}",
+       "tr": "bekal"
+      },
+      {
+       "kana_jp": "ロボット",
+       "kanji_jp": null,
+       "tr": "robot"
+      },
+      {
+       "kana_jp": "ユーモア",
+       "kanji_jp": null,
+       "tr": "humor"
+      },
+      {
+       "kana_jp": "つごう",
+       "kanji_jp": "{都合|つごう}",
+       "tr": "kondisi"
+      },
+      {
+       "kana_jp": "よく",
+       "kanji_jp": null,
+       "tr": "sering kali"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{練習|れんしゅう}C〉",
+     "items": [
+      {
+       "kana_jp": "えーと",
+       "kanji_jp": null,
+       "tr": "Itu..."
+      },
+      {
+       "kana_jp": "おめでとう［ございます］。",
+       "kanji_jp": null,
+       "tr": "Selamat. (digunakan untuk hari ulang tahu, upacara pernikahan, dan tahun baru)"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "お{探|さが}しですか。",
+       "kanji_jp": null,
+       "tr": "Mencari apa?"
+      },
+      {
+       "kana_jp": "では",
+       "kanji_jp": null,
+       "tr": "kalau begitu"
+      },
+      {
+       "kana_jp": "こちら",
+       "kanji_jp": null,
+       "tr": "ini (ungkapan sopan dari これ)"
+      },
+      {
+       "kana_jp": "やちん",
+       "kanji_jp": "{家賃|やちん}",
+       "tr": "biaya sewa rumah"
+      },
+      {
+       "kana_jp": "ダイニングキッチン",
+       "kanji_jp": null,
+       "tr": "ruang makan dengan dapur"
+      },
+      {
+       "kana_jp": "わしつ",
+       "kanji_jp": "{和室|わしつ}",
+       "tr": "kamar ala Jepang"
+      },
+      {
+       "kana_jp": "おしいれ",
+       "kanji_jp": "{押|お}し{入|い}れ",
+       "tr": "lemari dinding ala Jepang"
+      },
+      {
+       "kana_jp": "ふとん",
+       "kanji_jp": "{布団|ふとん}",
+       "tr": "selimut dan kasur berisi kapas ala Jepang"
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "パリ",
+       "kanji_jp": null,
+       "tr": "Paris"
+      },
+      {
+       "kana_jp": "ばんりの　ちょうじょう",
+       "kanji_jp": "{万里|ばんり}の　{長城|ちょうじょう}",
+       "tr": "Tembok Besar Cina"
+      },
+      {
+       "kana_jp": "みんなの　アンケート",
+       "kanji_jp": null,
+       "tr": "angket fiksi"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "これは　ミラーさんが　{作|つく}った　ケーキです。",
+    "tr": "Ini kue yang dibuat oleh Sdr. Miller."
+   },
+   {
+    "no": 2,
+    "jp": "あそこに　いる　{人|ひと}は　ミラーさんです。",
+    "tr": "Orang yang ada di sana adalah Sdr. Miller."
+   },
+   {
+    "no": 3,
+    "jp": "きのう　{習|なら}った　ことばを　{忘|わす}れました。",
+    "tr": "(Saya) lupa kosa kata yang telah pelajari kemarin."
+   },
+   {
+    "no": 4,
+    "jp": "{買|か}い{物|もの}に　{行|い}く　{時間|じかん}が　ありません。",
+    "tr": "Tidak ada waktu untuk pergi belanja."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "これは　{万里|ばんり}の　{長城|ちょうじょう}で　{撮|と}った　{写真|しゃしん}です。",
+      "tr": "Ini foto yang saya ambil di Tembok besar Cina."
+     },
+     {
+      "jp": "……そうですか。　すごいですね。",
+      "tr": "……O begitu. Bagus, ya."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "カリナさんが　かいた　{絵|え}は　どれですか。",
+      "tr": "Yang mana lukisan yang dilukis oleh Sdr. Karina?"
+     },
+     {
+      "jp": "……あれです。　あの　{海|うみ}の　{絵|え}です。",
+      "tr": "……Itu. Lukisan laut itu."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "あの　{着物|きもの}を　{着|き}て　いる　{人|ひと}は　だれですか。",
+      "tr": "Siapakah orang yang memakai kimono itu?"
+     },
+     {
+      "jp": "……{木村|きむら}さんです。",
+      "tr": "……Sdr. Kimura."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "{山田|やまだ}さん、{奥|おく}さんに　{初|はじ}めて　{会|あ}った　{所|ところ}は　どこですか。",
+      "tr": "Sdr. Yamada, di mana tempat pertama kalinya bertemu dengan istri Anda?"
+     },
+     {
+      "jp": "……{大阪城|おおさかじょう}です。",
+      "tr": "……Benteng Osaka."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "{木村|きむら}さんと　{行|い}った　コンサートは　どうでしたか。",
+      "tr": "Bagaimana konser yang Anda tonton bersama dengan Sdr. Kimura?"
+     },
+     {
+      "jp": "……とても　よかったです。",
+      "tr": "……Sangat bagus."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "どう　しましたか。",
+      "tr": "Kenapa?"
+     },
+     {
+      "jp": "……きのう　{買|か}った　{傘|かさ}を　なくしました。",
+      "tr": "……Saya kehilangan payung yang saya beli kemarin."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "どんな　うちが　{欲|ほ}しいですか。",
+      "tr": "Ingin punya rumah yang bagaimana?"
+     },
+     {
+      "jp": "……{広|ひろ}い　{庭|にわ}が　ある　うちが　{欲|ほ}しいです。",
+      "tr": "……Ingin punya rumah yang berhalaman luas."
+     }
+    ]
+   },
+   {
+    "no": 8,
+    "lines": [
+     {
+      "jp": "{日曜日|にちようび}　サッカーを　{見|み}に　{行|い}きませんか。",
+      "tr": "Bagaimana kalau hari Minggu yang akan datang pergi menonton sepak bola?"
+     },
+     {
+      "jp": "……すみません。　{日曜日|にちようび}は　ちょっと　{友達|ともだち}に　{会|あ}う　{約束|やくそく}が　あります。",
+      "tr": "……Maaf. Kalau hari Minggu ada janji bertemu dengan teman."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "どんな　{部屋|へや}を　お{探|さが}しですか",
+   "title_tr": "Cari Kamar Yang Bagaimana?",
+   "image": "img/L22/kaiwa.webp",
+   "audio": "audio/L22_kaiwa.m4a",
+   "cd_track": "CD75",
+   "lines": [
+    {
+     "speaker_jp": "{不動産屋|ふどうさんや}",
+     "speaker_tr": "Pegawai realestet",
+     "jp": "どんな　{部屋|へや}を　お{探|さが}しですか。",
+     "tr": "Cari kamar yang bagaimana?"
+    },
+    {
+     "speaker_jp": "ワン",
+     "speaker_tr": "Wang",
+     "jp": "そうですね。",
+     "tr": "Ya..."
+    },
+    {
+     "jp": "{家賃|やちん}は　8{万円|まんえん}ぐらいで、{駅|えき}から　{遠|とお}くない　{所|ところ}が　いいです。",
+     "tr": "Biaya sewanya kira-kira delapan puluh ribu yen, dan daerah yang tidak jauh dari stasiun."
+    },
+    {
+     "speaker_jp": "{不動産屋|ふどうさんや}",
+     "speaker_tr": "Pegawai realestet",
+     "jp": "では、こちらは　いかがですか。",
+     "tr": "Kalau begitu, bagaimana yang ini?"
+    },
+    {
+     "jp": "{駅|えき}から　10{分|ぷん}で、{家賃|やちん}は　83,000{円|えん}です。",
+     "tr": "Sepuluh menit dari stasiun, dan biaya sewanya delapan puluh tiga ribu yen."
+    },
+    {
+     "speaker_jp": "ワン",
+     "speaker_tr": "Wang",
+     "jp": "ダイニングキッチンと　{和室|わしつ}ですね。",
+     "tr": "Ruang makan dengan dapur dan kamar ala Jepang, ya."
+    },
+    {
+     "jp": "すみません。　ここは　{何|なん}ですか。",
+     "tr": "Maaf. Ini apa?"
+    },
+    {
+     "speaker_jp": "{不動産屋|ふどうさんや}",
+     "speaker_tr": "Pegawai realestet",
+     "jp": "{押|お}し{入|い}れです。　{布団|ふとん}を　{入|い}れる　{所|ところ}ですよ。",
+     "tr": "Lemari ala Jepang. Tempat untuk menyimpan selimut dan kasur."
+    },
+    {
+     "speaker_jp": "ワン",
+     "speaker_tr": "Wang",
+     "jp": "そうですか。",
+     "tr": "O, begitu."
+    },
+    {
+     "jp": "この　{部屋|へや}、きょう　{見|み}る　ことが　できますか。",
+     "tr": "Apakah kamar ini bisa saya lihat hari ini?"
+    },
+    {
+     "speaker_jp": "{不動産屋|ふどうさんや}",
+     "speaker_tr": "Pegawai realestet",
+     "jp": "ええ。　{今|いま}から　{行|い}きましょうか。",
+     "tr": "Ya. Bagaimana kalau pergi sekarang?"
+    },
+    {
+     "speaker_jp": "ワン",
+     "speaker_tr": "Wang",
+     "jp": "ええ、お{願|ねが}いします。",
+     "tr": "Ya, tolong."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{子|こ}どもが",
+          "{子|こ}どもが",
+          "きのう",
+          "きのう"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "よむ",
+          "よまない",
+          "よんだ",
+          "よまなかった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "{本|ほん}"
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{朝|あさ}ごはんを",
+          "{朝|あさ}ごはんを",
+          "{朝|あさ}ごはんを",
+          "{朝|あさ}ごはんを"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "たべる",
+          "たべない",
+          "たべた",
+          "たべなかった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "{人|ひと}"
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{今|いま}　だれも",
+          "{今|いま}　だれも",
+          "{父|ちち}が",
+          "{父|ちち}が"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "すんで　いる",
+          "すんで　いない",
+          "すんで　いた",
+          "すんで　いなかった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "{所|ところ}"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "これ",
+          "ミラーさん",
+          "ここ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "は"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{女|おんな}の　{人|ひと}が　{読|よ}む　{雑誌|ざっし}",
+          "{傘|かさ}を　{持|も}って　いる　{人|ひと}",
+          "{自転車|じてんしゃ}を　{置|お}く　{所|ところ}"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "です。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{母|はは}が　よく　{作|つく}る　{料理|りょうり}",
+          "{彼|かれ}が　{持|も}って　いる　パソコン",
+          "{来週|らいしゅう}　{泊|と}まる　ホテル"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "は"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "カレーです。",
+          "{新|あたら}しいです。",
+          "{海|うみ}の　{近|ちか}くに　あります。"
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "パソコンを　{入|い}れる　かばん",
+          "あの　{眼鏡|めがね}を　かけて　いる　{人|ひと}"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "を"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{買|か}いました。",
+          "{知|し}って　います。"
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{本|ほん}を　{読|よ}む　{人|ひと}",
+          "プールが　ある　うち"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "が"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{好|す}きです。",
+          "{欲|ほ}しいです。"
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "テレビを",
+          "{買|か}い{物|もの}に"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "みる",
+          "いく"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{時間|じかん}",
+          "{約束|やくそく}"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "が　ありません。",
+          "が　あります。"
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig2",
+     "image": "img/L22/rb_fig2.webp"
+    },
+    {
+     "id": "fig3",
+     "image": "img/L22/rb_fig3.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "examples": [
+      {
+       "prompt_jp": "〈パリで　{買|か}いました〉　{帽子|ぼうし}",
+       "answer_jp": [
+        "これは　パリで　{買|か}った　{帽子|ぼうし}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "〈{母|はは}に　もらいました〉　コート"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "〈{京都|きょうと}で　{撮|と}りました〉　{写真|しゃしん}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "〈マリアさんが　{作|つく}りました〉　ケーキ"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "〈カリナさんが　かきました〉　{絵|え}"
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "figure": "fig2",
+     "examples": [
+      {
+       "prompt_jp": "ミラー",
+       "answer_jp": [
+        "ミラーさんは　どの　{人|ひと}ですか。",
+        "……{電話|でんわ}して　いる　{人|ひと}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{佐藤|さとう}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{松本|まつもと}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "グプタ"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{山田|やまだ}"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "figure": "fig3",
+     "examples": [
+      {
+       "prompt_jp": "{着物|きもの}（{渡辺|わたなべ}）",
+       "answer_jp": [
+        "{着物|きもの}を　{着|き}て　いる　{人|ひと}は　だれですか。",
+        "……{渡辺|わたなべ}さんです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{赤|あか}い　{靴|くつ}（{林|はやし}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{赤|あか}い　ネクタイ（{鈴木|すずき}）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{眼鏡|めがね}（{高橋|たかはし}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{帽子|ぼうし}（{中村|なかむら}）"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "〈{弟|おとうと}が　{生|う}まれました〉　{所|ところ}・{北海道|ほっかいどう}です",
+       "answer_jp": [
+        "{弟|おとうと}が　{生|う}まれた　{所|ところ}は　{北海道|ほっかいどう}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "〈{初|はじ}めて　{主人|しゅじん}に　{会|あ}いました〉　{所|ところ}・{大学|だいがく}の　{図書館|としょかん}です"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "〈{先週|せんしゅう}　{見学|けんがく}しました〉　お{寺|てら}・{金閣寺|きんかくじ}です"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "〈ワンさんが　{働|はたら}いて　います〉　{病院|びょういん}・{神戸|こうべ}に　あります"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "〈{木村|きむら}さんが　{毎朝|まいあさ}　お{弁当|べんとう}を　{買|か}います〉　コンビニ・{駅|えき}の　{前|まえ}に　あります"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "examples": [
+      {
+       "prompt_jp": "〈サントスさんに　もらいました〉　コーヒーは　とても　おいしいです",
+       "answer_jp": [
+        "サントスさんに　もらった　コーヒーは　とても　おいしいです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "〈わたしが　いつも　{買|か}い{物|もの}します〉　スーパーは　{野菜|やさい}が　{安|やす}いです"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "〈よく　{寝|ね}ます〉　{子|こ}どもは　{元気|げんき}です"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "〈きのう　{見|み}ました〉　{映画|えいが}は　とても　よかったです"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "〈きのう　わたしたちが　{行|い}きました〉　お{寺|てら}は　きれいで、{静|しず}かでした"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "examples": [
+      {
+       "prompt_jp": "〈{彼|かれ}に　あげます〉　お{土産|みやげ}を　{買|か}います",
+       "answer_jp": [
+        "{彼|かれ}に　あげる　お{土産|みやげ}を　{買|か}います。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "〈{奈良|なら}で　{撮|と}りました〉　{写真|しゃしん}を　{見|み}せて　ください"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "〈{要|い}りません〉　{物|もの}を　{捨|す}てます"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "〈{病院|びょういん}で　もらいました〉　{薬|くすり}を　{飲|の}まなければ　なりません"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "〈イーさんの　{隣|となり}に　{座|すわ}って　います〉　{人|ひと}を　{知|し}って　いますか"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "examples": [
+      {
+       "prompt_jp": "〈{外|そと}で　します〉　スポーツが　{好|す}きです",
+       "answer_jp": [
+        "{外|そと}で　する　スポーツが　{好|す}きです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "〈ユーモアが　あります〉　{人|ひと}が　{好|す}きです"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "〈{料理|りょうり}を　{作|つく}ります〉　ロボットが　{欲|ほ}しいです"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "〈{会社|かいしゃ}の　{人|ひと}が　{話|はな}します〉　{日本語|にほんご}が　わかりません"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "〈パーティーで　{着|き}ます〉　{服|ふく}が　{要|い}ります"
+      }
+     ]
+    },
+    {
+     "no": 8,
+     "examples": [
+      {
+       "prompt_jp": "{昼|ひる}ごはんを　{食|た}べましたか。（{食|た}べます・{時間|じかん}が　ありませんでした）",
+       "answer_jp": [
+        "いいえ。　{食|た}べる　{時間|じかん}が　ありませんでした。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "あしたは　{都合|つごう}が　いいですか。（{市役所|しやくしょ}へ　{行|い}きます・{用事|ようじ}が　あります）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "カラオケに　{行|い}きますか。（{部長|ぶちょう}と　{食事|しょくじ}します・{約束|やくそく}が　あります）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "けさ　ニュースを　{見|み}ましたか。（テレビを　{見|み}ます・{時間|じかん}が　ありませんでした）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "よく　{本|ほん}を　{買|か}いますか。（{本|ほん}を　{読|よ}みます・{時間|じかん}が　ありません）"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L22/rc1.webp",
+    "dialog": [
+     {
+      "jp": "あの　{人|ひと}は　だれですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "どの　{人|ひと}ですか。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[{赤|あか}い　セーターを　{着|き}て　いる]]　{人|ひと}です。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ああ、[[{佐藤|さとう}]]さんです。　[[IMCの]]　{人|ひと}ですよ。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L22/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L22/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L22/rc2.webp",
+    "dialog": [
+     {
+      "jp": "[[{田中|たなか}さんに　もらった　カタログ]]は",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "どこに　ありますか。"
+     },
+     {
+      "jp": "えーと、あの　{机|つくえ}の　{上|うえ}に",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "ありますよ。"
+     },
+     {
+      "jp": "あ、そうですか。　どうも。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L22/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L22/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L22/rc3.webp",
+    "dialog": [
+     {
+      "jp": "おめでとう　ございます。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ありがとう　ございます。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "どんな　[[{仕事|しごと}を]]　したいですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "そうですね。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[{日本語|にほんご}を　{使|つか}う　{仕事|しごと}を]]　したいです。"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L22/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L22/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L22_mondai1.m4a",
+    "cd_track": "CD76",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_truefalse",
+    "audio": "audio/L22_mondai2.m4a",
+    "cd_track": "CD77",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "fill",
+    "instruction_jp": "{図書館|としょかん}で　{借|か}りました　　お{酒|さけ}を　{飲|の}みません　　マリアさんから　{来|き}ました　　{庭|にわ}が　あります　　［よく　{寝|ね}ます］",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "（よく　{寝|ね}る）　{人|ひと}は　{元気|げんき}です。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "わたしは　（＿）　うちが　{欲|ほ}しいです。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "わたしは　（＿）　{人|ひと}が　{好|す}きです。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "（＿）　{本|ほん}を　なくしました。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "（＿）　{手紙|てがみ}は　{机|つくえ}の　{上|うえ}に　あります。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "あの　{黒|くろ}い　シャツを　{着|き}て　いる　{人|ひと}は　（だれ）ですか。",
+       "……ミラーさんです。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "ここに　あった　{新聞|しんぶん}は　（＿）ですか。",
+       "……テレビの　{上|うえ}に　あります。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "マリアさんが　{作|つく}った　ケーキは　（＿）でしたか。",
+       "……とても　おいしかったです。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{金閣寺|きんかくじ}へ　{行|い}く　バスは　（＿）ですか。",
+       "……あれです。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "write",
+    "image": "img/L22/m5.webp",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "どこで　{撮|と}りましたか。→　これは　どこで　{撮|と}った　{写真|しゃしん}ですか。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "いつ　{買|か}いましたか。→"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "だれが　{作|つく}りましたか。→"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "だれに　もらいましたか。→"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "fill",
+    "image": "img/L22/m6.webp",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "（{銀行|ぎんこう}へ　{行|い}く）　{時間|じかん}が　ありません。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{日曜日|にちようび}は　（＿）　{約束|やくそく}が　あります。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "（＿）　{用事|ようじ}が　あります。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "（＿）　{時間|じかん}が　ありません。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "kind": "fill",
+    "image": "img/L22/m7.webp",
+    "passage_title_jp": "みんなの　アンケート",
+    "passage_jp": [
+     "コンビニへ　（{例|れい}：{行|い}く）　{人|ひと}の　50%ぐらいは　お{弁当|べんとう}や　お{茶|ちゃ}を　{買|か}います。",
+     "ATMで　お{金|かね}を　（①　）り、トイレを　（②　）り　する　{人|ひと}も　います。　{荷物|にもつ}を　（③　）　ことも　できます。　でも、2,000{円|えん}　（④　）　{人|ひと}は　とても　{少|すく}ないです。"
+    ],
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "①＿"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "②＿"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "③＿"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "④＿"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 8,
+    "kind": "compose",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "あなたの　{国|くに}に　コンビニが　ありますか。　{何|なに}を　する　ことが　できますか。"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Anak Kalimat",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Pada Pelajaran 2 dan Pelajaran 8 telah dipelajari cara untuk menerangkan Kata Benda."
+     },
+     {
+      "type": "ex",
+      "mark": "",
+      "lines": [
+       {
+        "jp": "ミラーさんの　うち",
+        "tr": "rumah Sdr. Miller (Pel.2)"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "",
+      "lines": [
+       {
+        "jp": "{新|あたら}しい　うち",
+        "tr": "rumah yang baru (Pel.8)"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "",
+      "lines": [
+       {
+        "jp": "きれいな　うち",
+        "tr": "rumah yang indah (Pel.8)"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Kata atau frasa yang menerangkan diletakkan di depan Kata Benda. Pada pelajaran ini, mempelajari frasa yang menerangkan Kata Benda."
+     },
+     {
+      "type": "h",
+      "text_rich": "1) Kata Kerja, Kata Sifat dan Kata Benda yang terdapat di dalam anak kalimat adalah Bentuk Biasa. Untuk Kata Sifat Bentuk な menjadi ～な, sedangkan untuk Kata Benda menjadi ～の."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "{京都|きょうと}へ　{行|い}く　{人|ひと}",
+        "tr": "orang yang pergi ke Kyoto"
+       },
+       {
+        "jp": "{京都|きょうと}へ　{行|い}かない　{人|ひと}",
+        "tr": "orang yang tidak pergi ke Kyoto"
+       },
+       {
+        "jp": "{京都|きょうと}へ　{行|い}った　{人|ひと}",
+        "tr": "orang yang telah pergi ke Kyoto"
+       },
+       {
+        "jp": "{京都|きょうと}へ　{行|い}かなかった　{人|ひと}",
+        "tr": "orang yang tidak pergi ke Kyoto (lampau)"
+       },
+       {
+        "jp": "{背|せ}が　{高|たか}くて、{髪|かみ}が　{黒|くろ}い　{人|ひと}",
+        "tr": "orang yang badannya tinggi, dan rambutnya hitam"
+       },
+       {
+        "jp": "{親切|しんせつ}で、きれいな　{人|ひと}",
+        "tr": "orang yang baik hati dan cantik"
+       },
+       {
+        "jp": "65{歳|さい}の　{人|ひと}",
+        "tr": "orang yang berumur enam puluh lima tahun"
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Anak kalimat dipakai dalam berbagai pola kalimat seperti di bawah ini."
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "これは　ミラーさんが　{住|す}んで　いた　うちです。",
+        "tr": "Ini adalah rumah yang dihuni Sdr. Miller."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "ミラーさんが　{住|す}んで　いた　うちは　{古|ふる}いです。",
+        "tr": "Rumah yang dihuni Sdr. Miller sudah tua."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "ミラーさんが　{住|す}んで　いた　うちを　{買|か}いました。",
+        "tr": "Membeli rumah yang dihuni Sdr. Miller."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "わたしは　ミラーさんが　{住|す}んで　いた　うちが　{好|す}きです。",
+        "tr": "Saya suka rumah yang dihuni Sdr. Miller."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "ミラーさんが　{住|す}んで　いた　うちに　{猫|ねこ}が　いました。",
+        "tr": "Di rumah yang dihuni Sdr. Miller ada kucing."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "ミラーさんが　{住|す}んで　いた　うちへ　{行|い}った　ことが　あります。",
+        "tr": "Pernah pergi ke rumah yang dihuni Sdr. Miller."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "3) Subjek di dalam anak kalimat ditunjukan dengan partikel が."
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "これは　ミラーさんが　{作|つく}った　ケーキです。",
+        "tr": "Ini adalah kue yang dibuat oleh Sdr. Miller."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "わたしは　カリナさんが　かいた　{絵|え}が　{好|す}きです。",
+        "tr": "Saya suka lukisan yang dilukis oleh Sdr. Karina."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "［あなたは］　{彼|かれ}が　{生|う}まれた　{所|ところ}を　{知|し}って　いますか。",
+        "tr": "Apakah [Anda] tahu tempat dia lahir?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Kata Kerja Bentuk Kamus　{時間|じかん}／{約束|やくそく}／{用事|ようじ}",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Jika menunjukkan waktu ketika melakukan sesuatu, ada janji dan ada urusan, aksi tersebut dijadikan Bentuk Kamus kemudian diletakkan di depan Kata Benda じかん, やくそく, ようじ dan lain-lainya."
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "わたしは　{朝|あさ}ごはんを　{食|た}べる　{時間|じかん}が　ありません。",
+        "tr": "Saya tidak ada waktu untuk makan pagi."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "わたしは　{友達|ともだち}と　{映画|えいが}を　{見|み}る　{約束|やくそく}が　あります。",
+        "tr": "Saya ada janji dengan teman untuk menonton film."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "きょうは　{市役所|しやくしょ}へ　{行|い}く　{用事|ようじ}が　あります。",
+        "tr": "Hari ini ada urusan pergi ke kantor wali kota."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Kerja (Bentuk ます) ましょうか",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Bagaimana kalau......? Pada Pelajaran 14, pola kalimat ini telah dipelajari sebagai ekspresi dari si pembicara menawarkan diri untuk melakukan sesuatu kepada lawan bicara. Pada percakapan dalam pelajaran ini, ekspresi ini disajikan sebagai ekspresi si pembicara yang menawarkan diri kepada lawan bicara untuk bersama-sama melakukan sesuatu."
+     },
+     {
+      "type": "ex",
+      "mark": "⑭",
+      "lines": [
+       {
+        "jp": "この　{部屋|へや}、きょう　{見|み}る　ことが　できますか。",
+        "tr": "Apakah kamar ini dapat saya lihat hari ini?"
+       },
+       {
+        "jp": "……ええ。　{今|いま}から　{行|い}きましょうか。",
+        "tr": "……Ya. Bagaimana kalau pergi sekarang?"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{衣服|いふく}",
+   "title_tr": "Pakaian",
+   "blocks": [
+    {
+     "type": "image",
+     "image": "img/L22/sankou_ifuku.webp",
+     "caption": "{衣服|いふく}"
+    }
+   ]
+  }
+ }
+}

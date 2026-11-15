@@ -1,0 +1,321 @@
+{
+  "book": 1,
+  "lesson": 2,
+  "title_jp": "これから　お{世話|せわ}に　なります",
+  "title_tr": "Mohon Bantuan Anda.",
+  "source_pages": { "main_pdf": [37, 44], "translation_pdf": [36, 41] },
+  "sections": {
+    "kosakata": { "groups": [
+      { "label_jp": null, "items": [
+        { "kana_jp": "これ", "kanji_jp": null, "tr": "ini (benda yang ada di dekat si pembicara)" },
+        { "kana_jp": "それ", "kanji_jp": null, "tr": "itu (benda yang ada di dekat lawan bicara)" },
+        { "kana_jp": "あれ", "kanji_jp": null, "tr": "itu (benda yang ada jauh dari si pembicara dan lawan bicara)" },
+        { "kana_jp": "この　～", "kanji_jp": null, "tr": "～ ini (menerangkan benda atau orang yang ada di dekat si pembicara.)" },
+        { "kana_jp": "その　～*", "kanji_jp": null, "tr": "～ itu (menerangkan benda atau orang yang ada di dekat lawan bicara.)" },
+        { "kana_jp": "あの　～*", "kanji_jp": null, "tr": "～ itu (menerangkan benda atau orang yang ada jauh dari si pembicara dan lawan bicara.)" },
+        { "kana_jp": "ほん", "kanji_jp": "{本|ほん}", "tr": "buku" },
+        { "kana_jp": "じしょ", "kanji_jp": "{辞書|じしょ}", "tr": "kamus" },
+        { "kana_jp": "ざっし", "kanji_jp": "{雑誌|ざっし}", "tr": "majalah" },
+        { "kana_jp": "しんぶん", "kanji_jp": "{新聞|しんぶん}", "tr": "koran, surat kabar" },
+        { "kana_jp": "ノート", "kanji_jp": null, "tr": "buku tulis, buku catatan" },
+        { "kana_jp": "てちょう", "kanji_jp": "{手帳|てちょう}", "tr": "buku agenda" },
+        { "kana_jp": "めいし", "kanji_jp": "{名刺|めいし}", "tr": "kartu nama" },
+        { "kana_jp": "カード", "kanji_jp": null, "tr": "kartu" },
+        { "kana_jp": "えんぴつ", "kanji_jp": "{鉛筆|えんぴつ}", "tr": "pensil" },
+        { "kana_jp": "ボールペン", "kanji_jp": null, "tr": "bolpoin" },
+        { "kana_jp": "シャープペンシル", "kanji_jp": null, "tr": "pensil mekanik, pensil isi ulang" },
+        { "kana_jp": "かぎ", "kanji_jp": null, "tr": "kunci" },
+        { "kana_jp": "とけい", "kanji_jp": "{時計|とけい}", "tr": "jam, arloji" },
+        { "kana_jp": "かさ", "kanji_jp": "{傘|かさ}", "tr": "payung" },
+        { "kana_jp": "かばん", "kanji_jp": null, "tr": "tas" },
+        { "kana_jp": "CD", "kanji_jp": null, "tr": "CD" },
+        { "kana_jp": "テレビ", "kanji_jp": null, "tr": "televisi" },
+        { "kana_jp": "ラジオ", "kanji_jp": null, "tr": "radio" },
+        { "kana_jp": "カメラ", "kanji_jp": null, "tr": "kamera" },
+        { "kana_jp": "コンピューター", "kanji_jp": null, "tr": "komputer, PC" },
+        { "kana_jp": "くるま", "kanji_jp": "{車|くるま}", "tr": "mobil" },
+        { "kana_jp": "つくえ", "kanji_jp": "{机|つくえ}", "tr": "meja, meja tulis" },
+        { "kana_jp": "いす", "kanji_jp": null, "tr": "kursi" },
+        { "kana_jp": "チョコレート", "kanji_jp": null, "tr": "coklat" },
+        { "kana_jp": "コーヒー", "kanji_jp": null, "tr": "kopi" },
+        { "kana_jp": "［お］みやげ", "kanji_jp": "［お］{土産|みやげ}", "tr": "oleh-oleh" },
+        { "kana_jp": "えいご", "kanji_jp": "{英語|えいご}", "tr": "bahasa Inggris" },
+        { "kana_jp": "にほんご", "kanji_jp": "{日本語|にほんご}", "tr": "bahasa Jepang" },
+        { "kana_jp": "～ご", "kanji_jp": "～{語|ご}", "tr": "bahasa ～" },
+        { "kana_jp": "なん", "kanji_jp": "{何|なん}", "tr": "apa" },
+        { "kana_jp": "そう", "kanji_jp": null, "tr": "begitu" } ] },
+      { "label_jp": "〈{練習|れんしゅう}C〉", "items": [
+        { "kana_jp": "あのう", "kanji_jp": null, "tr": "Eee… (ungkapan yang digunakan kepada lawan bicara dalam perasaan ragu-ragu)" },
+        { "kana_jp": "えっ", "kanji_jp": null, "tr": "Eh (dipakai ketika mendengar sesuatu yang di luar dugaan)" },
+        { "kana_jp": "どうぞ。", "kanji_jp": null, "tr": "Silakan. (digunakan ketika menawarkan sesuatu (barang))" },
+        { "kana_jp": "［どうも］　ありがとう　［ございます］。", "kanji_jp": null, "tr": "Terima kasih (banyak)." },
+        { "kana_jp": "そうですか。", "kanji_jp": null, "tr": "O, begitu./O, ya." },
+        { "kana_jp": "{違|ちが}います。", "kanji_jp": null, "tr": "Bukan./Tidak./Salah." },
+        { "kana_jp": "あ", "kanji_jp": null, "tr": "O, Eh, (dipakai ketika sadar)" } ] },
+      { "label_jp": "〈{会話|かいわ}〉", "items": [
+        { "kana_jp": "これから　お{世話|せわ}に　なります。", "kanji_jp": null, "tr": "Mulai sekarang, saya akan meminta bantuannya." },
+        { "kana_jp": "こちらこそ　［どうぞ］　よろしく　［お{願|ねが}いします］。", "kanji_jp": null, "tr": "Ya, sama-sama. (jawaban terhadap ［どうぞ］ よろしく ［おねがいします］。)" } ] }
+    ] },
+
+    "bunkei": [
+      { "no": 1, "jp": "これは　{辞書|じしょ}です。", "tr": "Ini kamus." },
+      { "no": 2, "jp": "それは　わたしの　{傘|かさ}です。", "tr": "Itu payung saya." },
+      { "no": 3, "jp": "この　{本|ほん}は　わたしのです。", "tr": "Buku ini punya saya." }
+    ],
+
+    "reibun": [
+      { "no": 1, "lines": [ { "jp": "これは　ボールペンですか。", "tr": "Ini bolpoin?" }, { "jp": "……はい、そうです。", "tr": "……Ya, betul." } ] },
+      { "no": 2, "lines": [ { "jp": "それは　ノートですか。", "tr": "Itu buku tulis?" }, { "jp": "……いいえ、［これは］　{手帳|てちょう}です。", "tr": "……Bukan, [ini] buku agenda." } ] },
+      { "no": 3, "lines": [ { "jp": "それは　{何|なん}ですか。", "tr": "Apa itu?" }, { "jp": "……{名刺|めいし}です。", "tr": "……Kartu nama." } ] },
+      { "no": 4, "lines": [ { "jp": "これは　「9」ですか、「7」ですか。", "tr": "Ini \"9\" atau \"7\"?" }, { "jp": "……「9」です。", "tr": "……\"9\"." } ] },
+      { "no": 5, "lines": [ { "jp": "それは　{何|なん}の　{雑誌|ざっし}ですか。", "tr": "Itu majalah apa?" }, { "jp": "……コンピューターの　{雑誌|ざっし}です。", "tr": "……Majalah komputer." } ] },
+      { "no": 6, "lines": [ { "jp": "あれは　だれの　かばんですか。", "tr": "Itu tas siapa?" }, { "jp": "……{佐藤|さとう}さんの　かばんです。", "tr": "……Tas Sdr. Sato." } ] },
+      { "no": 7, "lines": [ { "jp": "これは　ミラーさんのですか。", "tr": "Ini punya Sdr. Miller?" }, { "jp": "……いいえ、わたしのじゃ　ありません。", "tr": "……Bukan, bukan punya saya." } ] },
+      { "no": 8, "lines": [ { "jp": "この　かぎは　だれのですか。", "tr": "Kunci ini punya siapa?" }, { "jp": "……わたしのです。", "tr": "……Punya saya." } ] }
+    ],
+
+    "kaiwa": {
+      "title_jp": "これから　お{世話|せわ}に　なります",
+      "title_tr": "Mohon Bantuan Anda.",
+      "image": "img/L02/kaiwa.webp",
+      "audio": "audio/L02_kaiwa.m4a",
+      "cd_track": "CD05",
+      "lines": [
+        { "speaker_jp": "{山田一郎|やまだいちろう}", "speaker_tr": "Ichiro Yamada", "jp": "はい。　どなたですか。", "tr": "Ya! Siapa?" },
+        { "speaker_jp": "サントス", "speaker_tr": "Santos", "jp": "408の　サントスです。", "tr": "Saya Santos di kamar 408." },
+        { "speaker_jp": "サントス", "speaker_tr": "Santos", "break_before": true, "jp": "こんにちは。　サントスです。", "tr": "Selamat siang. Saya Santos." },
+        { "jp": "これから　お{世話|せわ}に　なります。", "tr": "Mulai sekarang, saya akan meminta bantuannya." },
+        { "jp": "どうぞ　よろしく　お{願|ねが}いします。", "tr": "Mohon bantuan Anda." },
+        { "speaker_jp": "{山田一郎|やまだいちろう}", "speaker_tr": "Ichiro Yamada", "jp": "こちらこそ　よろしく　お{願|ねが}いします。", "tr": "Sama-sama." },
+        { "speaker_jp": "サントス", "speaker_tr": "Santos", "jp": "あのう、これ、コーヒーです。　どうぞ。", "tr": "Pak, ini kopi. Silakan." },
+        { "speaker_jp": "{山田一郎|やまだいちろう}", "speaker_tr": "Ichiro Yamada", "jp": "どうも　ありがとう　ございます。", "tr": "Terima kasih banyak." }
+      ]
+    },
+
+    "renshuu_a": [
+      { "no": 1, "lines": [[
+        { "text_jp": "これは" },
+        { "slot": [ { "opts_jp": ["つくえ", "しんぶん", "めいし"] }, { "opts_jp": ["なん"], "hl": "strong" } ] },
+        { "slot": [ { "opts_jp": ["です。"], "hl": "none" }, { "opts_jp": ["……か。"], "hl": "none" } ] } ]] },
+      { "no": 2, "lines": [[
+        { "text_jp": "それは" },
+        { "slot": [ { "opts_jp": ["ボールペン", "「1」", "「あ」"] } ] },
+        { "text_jp": "ですか、" },
+        { "slot": [ { "opts_jp": ["シャープペンシル", "「7」", "「お」"] } ] },
+        { "text_jp": "ですか。" } ]] },
+      { "no": 3, "lines": [[
+        { "text_jp": "これは" },
+        { "slot": [ { "opts_jp": ["くるま", "コンピューター", "にほんご"] }, { "opts_jp": ["なん"], "hl": "strong" } ] },
+        { "slot": [ { "opts_jp": ["の　{本|ほん}です。"], "hl": "none" }, { "opts_jp": ["……………か。"], "hl": "none" } ] } ]] },
+      { "no": 4, "lines": [[
+        { "text_jp": "あれは" },
+        { "slot": [ { "opts_jp": ["わたし", "さとうさん", "せんせい"] }, { "opts_jp": ["だれ"], "hl": "strong" } ] },
+        { "slot": [ { "opts_jp": ["の　かばんです。"], "hl": "none" }, { "opts_jp": ["……………………か。"], "hl": "none" } ] } ]] },
+      { "no": 5, "lines": [[
+        { "text_jp": "あれは" },
+        { "slot": [ { "opts_jp": ["わたし", "さとうさん", "せんせい"] }, { "opts_jp": ["だれ"], "hl": "strong" } ] },
+        { "slot": [ { "opts_jp": ["のです。"], "hl": "none" }, { "opts_jp": ["………か。"], "hl": "none" } ] } ]] },
+      { "no": 6, "lines": [[
+        { "text_jp": "この" },
+        { "slot": [ { "opts_jp": ["てちょう", "かぎ", "かばん"] } ] },
+        { "text_jp": "は　わたしのです。" } ]] }
+    ],
+
+    "renshuu_b": {
+      "figures": [
+        { "id": "fig1", "image": "img/L02/rb_fig1.webp" },
+        { "id": "fig2", "image": "img/L02/rb_fig2.webp" },
+        { "id": "fig3", "image": "img/L02/rb_fig3.webp" },
+        { "id": "fig4", "image": "img/L02/rb_fig4.webp" }
+      ],
+      "items": [
+        { "no": 1, "figure": "fig1",
+          "examples": [
+            { "prompt_jp": null, "answer_jp": ["これは　{雑誌|ざっし}です。"] },
+            { "prompt_jp": null, "answer_jp": ["それは　ノートです。"] },
+            { "prompt_jp": null, "answer_jp": ["あれは　{辞書|じしょ}です。"] } ],
+          "questions": [ { "no": 1 }, { "no": 2 }, { "no": 3 } ] },
+        { "no": 2, "figure": "fig2",
+          "examples": [
+            { "prompt_jp": "{本|ほん}", "answer_jp": ["これは　{本|ほん}ですか。", "……はい、{本|ほん}です。"] },
+            { "prompt_jp": "{手帳|てちょう}", "answer_jp": ["これは　{手帳|てちょう}ですか。", "……いいえ、{本|ほん}です。"] } ],
+          "questions": [
+            { "no": 1, "prompt_jp": "{時計|とけい}" }, { "no": 2, "prompt_jp": "ラジオ" },
+            { "no": 3, "prompt_jp": "{鉛筆|えんぴつ}" }, { "no": 4, "prompt_jp": "いす" } ] },
+        { "no": 3, "figure": "fig2",
+          "examples": [ { "prompt_jp": null, "answer_jp": ["これは　{何|なん}ですか。", "……{本|ほん}です。"] } ],
+          "questions": [ { "no": 1 }, { "no": 2 }, { "no": 3 }, { "no": 4 } ] },
+        { "no": 4,
+          "examples": [ { "prompt_jp": "シャープペンシル・ボールペン　（ボールペン）", "answer_jp": ["これは　シャープペンシルですか、ボールペンですか。", "……ボールペンです。"] } ],
+          "questions": [
+            { "no": 1, "prompt_jp": "{本|ほん}・{雑誌|ざっし}　（{本|ほん}）" },
+            { "no": 2, "prompt_jp": "「い」・「り」　（「り」）" },
+            { "no": 3, "prompt_jp": "「1」・「7」　（「7」）" },
+            { "no": 4, "prompt_jp": "「シ」・「ツ」　（「シ」）" } ] },
+        { "no": 5, "figure": "fig3",
+          "examples": [ { "prompt_jp": "かぎ", "answer_jp": ["それは　{何|なん}の　かぎですか。", "……{車|くるま}の　かぎです。"] } ],
+          "questions": [
+            { "no": 1, "prompt_jp": "{雑誌|ざっし}" }, { "no": 2, "prompt_jp": "CD" },
+            { "no": 3, "prompt_jp": "{雑誌|ざっし}" }, { "no": 4, "prompt_jp": "{本|ほん}" } ] },
+        { "no": 6, "figure": "fig4",
+          "examples": [ { "prompt_jp": null, "answer_jp": ["これは　だれの　ノートですか。", "……カリナさんの　ノートです。"] } ],
+          "questions": [ { "no": 1 }, { "no": 2 }, { "no": 3 }, { "no": 4 } ] },
+        { "no": 7, "figure": "fig4",
+          "examples": [
+            { "prompt_jp": "カリナさん", "answer_jp": ["これは　カリナさんのですか。", "……はい、カリナさんのです。"] },
+            { "prompt_jp": "ミラーさん", "answer_jp": ["これは　ミラーさんのですか。", "……いいえ、ミラーさんのじゃ　ありません。"] } ],
+          "questions": [
+            { "no": 1, "prompt_jp": "ワンさん" }, { "no": 2, "prompt_jp": "サントスさん" },
+            { "no": 3, "prompt_jp": "{佐藤|さとう}さん" }, { "no": 4, "prompt_jp": "ワットさん" } ] },
+        { "no": 8, "figure": "fig4",
+          "examples": [ { "prompt_jp": null, "answer_jp": ["この　ノートは　だれのですか。", "……カリナさんのです。"] } ],
+          "questions": [ { "no": 1 }, { "no": 2 }, { "no": 3 }, { "no": 4 } ] }
+      ]
+    },
+
+    "renshuu_c": [
+      { "no": 1, "image": "img/L02/rc1.webp",
+        "dialog": [
+          { "speaker_jp": "A", "jp": "あのう、これ、お{土産|みやげ}です。" },
+          { "speaker_jp": "B", "jp": "えっ、{何|なん}ですか。" },
+          { "speaker_jp": "A", "jp": "[[コーヒー]]です。　どうぞ。" },
+          { "speaker_jp": "B", "jp": "どうも　ありがとう　ございます。" } ],
+        "substitutions": [ { "no": 1, "image": "img/L02/rc1_1.webp" }, { "no": 2, "image": "img/L02/rc1_2.webp" } ] },
+      { "no": 2, "image": "img/L02/rc2.webp",
+        "dialog": [
+          { "speaker_jp": "A", "jp": "それは　{何|なん}ですか。" },
+          { "speaker_jp": "B", "jp": "これですか。　[[{英語|えいご}の　CD]]です。" },
+          { "speaker_jp": "A", "jp": "そうですか。" } ],
+        "substitutions": [ { "no": 1, "image": "img/L02/rc2_1.webp" }, { "no": 2, "image": "img/L02/rc2_2.webp" } ] },
+      { "no": 3, "image": "img/L02/rc3.webp",
+        "dialog": [
+          { "speaker_jp": "A", "jp": "この　[[{傘|かさ}]]は　ミラーさんのですか。" },
+          { "speaker_jp": "B", "jp": "いいえ、{違|ちが}います。" },
+          { "speaker_jp": "A", "jp": "だれのですか。" },
+          { "speaker_jp": "C", "jp": "あ、わたしのです。" },
+          { "jp": "ありがとう　ございます。" } ],
+        "substitutions": [ { "no": 1, "image": "img/L02/rc3_1.webp" }, { "no": 2, "image": "img/L02/rc3_2.webp" } ] }
+    ],
+
+    "mondai": [
+      { "no": 1, "kind": "listen_write", "audio": "audio/L02_mondai1.m4a", "cd_track": "CD06", "image": "img/L02/m1.webp",
+        "examples": [],
+        "questions": [ { "no": 1 }, { "no": 2 }, { "no": 3 }, { "no": 4 }, { "no": 5 } ] },
+      { "no": 2, "kind": "listen_choice_image", "audio": "audio/L02_mondai2.m4a", "cd_track": "CD07",
+        "examples": [],
+        "questions": [
+          { "no": 1, "image": "img/L02/m2_1.webp", "options": 3 },
+          { "no": 2, "image": "img/L02/m2_2.webp", "options": 3 } ] },
+      { "no": 3, "kind": "listen_truefalse", "audio": "audio/L02_mondai3.m4a", "cd_track": "CD08",
+        "examples": [],
+        "questions": [ { "no": 1 }, { "no": 2 }, { "no": 3 } ] },
+      { "no": 4, "kind": "choice",
+        "examples": [ { "label_jp": "{例|れい}", "lines_jp": ["それは　（だれ、[[{何|なん}]]、{本|ほん}）ですか。……{本|ほん}です。"] } ],
+        "questions": [
+          { "no": 1, "lines_jp": ["ミラーさんは　（どなた、{何歳|なんさい}、{何|なん}）ですか。……28{歳|さい}です。"], "choices_jp": ["どなた", "{何歳|なんさい}", "{何|なん}"] },
+          { "no": 2, "lines_jp": ["ワンさんは　（だれ、{先生|せんせい}、{何|なん}）ですか。……いいえ、{違|ちが}います。"], "choices_jp": ["だれ", "{先生|せんせい}", "{何|なん}"] },
+          { "no": 3, "lines_jp": ["それは　（イーさん、だれ、{何|なん}）の　{雑誌|ざっし}ですか。", "……カメラの　{雑誌|ざっし}です。"], "choices_jp": ["イーさん", "だれ", "{何|なん}"] },
+          { "no": 4, "lines_jp": ["これは　（わたし、あなた、あの　{人|ひと}）のですか。", "……はい、わたしのです。"], "choices_jp": ["わたし", "あなた", "あの　{人|ひと}"] } ] },
+      { "no": 5, "kind": "fill", "image": "img/L02/m5.webp",
+        "examples": [ { "label_jp": "{例|れい}", "lines_jp": ["（これ）は　かぎです。"] } ],
+        "questions": [
+          { "no": 1, "lines_jp": ["（＿）は　ラジオです。"] },
+          { "no": 2, "lines_jp": ["（＿）は　テレビです。"] },
+          { "no": 3, "lines_jp": ["（＿）は　{辞書|じしょ}です。"] } ] },
+      { "no": 6, "kind": "fill",
+        "examples": [ { "label_jp": "{例|れい}", "lines_jp": ["あの　{人|ひと}は　（だれ）ですか。……ミラーさんです。"] } ],
+        "questions": [
+          { "no": 1, "lines_jp": ["それは　（＿）ですか。……カメラです。"] },
+          { "no": 2, "lines_jp": ["それは　（＿）の　CDですか。……{韓国語|かんこくご}の　CDです。"] },
+          { "no": 3, "lines_jp": ["これは　（＿）の　{鉛筆|えんぴつ}ですか。……{木村|きむら}さんの　{鉛筆|えんぴつ}です。"] } ] },
+      { "no": 7, "kind": "write",
+        "examples": [ { "label_jp": "{例|れい}", "lines_jp": ["は／{本|ほん}／です／これ　→　これは　{本|ほん}です。"] } ],
+        "questions": [
+          { "no": 1, "lines_jp": ["です／それ／は／の／わたし／かぎ　→　＿"] },
+          { "no": 2, "lines_jp": ["の／です／ミラーさん／{辞書|じしょ}／は／この　→　＿"] },
+          { "no": 3, "lines_jp": ["だれ／その／の／か／{傘|かさ}／です／は　→　＿"] },
+          { "no": 4, "lines_jp": ["あれ／です／{先生|せんせい}／{机|つくえ}／の／は　→　＿"] } ] },
+      { "no": 8, "kind": "compose",
+        "examples": [ { "label_jp": "{例|れい}", "lines_jp": ["{山田|やまだ}：　はい。　どなたですか。", "サントス：　408の　[[サントスです]]。"] } ],
+        "questions": [
+          { "no": 1, "lines_jp": ["サントス：　これから　＿。", "どうぞ　よろしく。", "{山田|やまだ}：　こちらこそ　よろしく。"] },
+          { "no": 2, "lines_jp": ["サントス：　あのう、これ、お{土産|みやげ}です。　＿。", "{山田|やまだ}：　えっ、{何|なん}ですか。", "サントス：　コーヒーです。", "{山田|やまだ}：　＿。"] } ] }
+    ],
+
+    "bunpou": [
+      { "no": 1, "title_rich": "これ／それ／あれ", "blocks": [
+        { "type": "p", "text_rich": "これ, それ, あれ menunjukkan benda dan berfungsi sebagai Kata Benda." },
+        { "type": "p", "text_rich": "これ menunjukkan benda yang ada di dekat si pembicara." },
+        { "type": "p", "text_rich": "それ menunjukkan benda yang ada di dekat lawan bicara." },
+        { "type": "p", "text_rich": "あれ menunjukkan benda yang ada jauh dari pembicara dan lawan bicara." },
+        { "type": "ex", "mark": "①", "lines": [ { "jp": "それは　{辞書|じしょ}ですか。", "tr": "Apakah ini kamus?" } ] },
+        { "type": "ex", "mark": "②", "lines": [ { "jp": "これは　だれの　{傘|かさ}ですか。", "tr": "Ini payung siapa?" } ] } ] },
+      { "no": 2, "title_rich": "この Kata Benda／その Kata Benda／あの Kata Benda", "blocks": [
+        { "type": "p", "text_rich": "Jika menerangkan Kata Benda, dipakai この, その dan あの." },
+        { "type": "ex", "mark": "③", "lines": [ { "jp": "この　{本|ほん}は　わたしのです。", "tr": "Buku ini kepunyaan saya." } ] },
+        { "type": "ex", "mark": "④", "lines": [ { "jp": "あの　{方|かた}は　どなたですか。", "tr": "Siapakah beliau?" } ] },
+        { "type": "image", "image": "img/L02/bunpou_kosoado.webp", "caption": "これ・それ・あれ / この・その・あの かばん" } ] },
+      { "no": 3, "title_rich": "そうです", "blocks": [
+        { "type": "p", "text_rich": "Dalam kalimat nominal yang menanyakan positif atau negatif, sering digunakan そう terhadap jawaban positif, dan dapat menjawab dengan kalimat はい、そうです." },
+        { "type": "ex", "mark": "⑤", "lines": [
+          { "jp": "それは　{辞書|じしょ}ですか。", "tr": "Apakah itu kamus?" },
+          { "jp": "……はい、そうです。", "tr": "……Ya, betul." } ] },
+        { "type": "p", "text_rich": "Untuk bentuk negatif, tidak lazim menjawab dengan そう, tetapi sebagai gantinya digunakan ちがいます (bukan), atau menyatakan jawaban yang sebenarnya." },
+        { "type": "ex", "mark": "⑥", "lines": [
+          { "jp": "それは　ミラーさんのですか。", "tr": "Apakah itu punya Sdr. Miller?" },
+          { "jp": "……いいえ、{違|ちが}います。", "tr": "……Bukan." } ] },
+        { "type": "ex", "mark": "⑦", "lines": [
+          { "jp": "それは　シャープペンシルですか。", "tr": "Apakah itu pensil isi ulang?" },
+          { "jp": "……いいえ、ボールペンです。", "tr": "……Bukan, bolpoin." } ] } ] },
+      { "no": 4, "title_rich": "～か、～か", "blocks": [
+        { "type": "p", "text_rich": "Dengan kalimat tanya ini memberi pilihan yang lebih dari dua, kemudian lawan bicara memilih yang benar. Untuk jawaban, tidak dibubuhi はい、いいえ, tetapi menyatakan langsung kalimat yang dipilih." },
+        { "type": "ex", "mark": "⑧", "lines": [
+          { "jp": "これは　「9」ですか、「7」ですか。", "tr": "Apakah ini \"9\" atau \"7\"?" },
+          { "jp": "……「9」です。", "tr": "……\"9\"." } ] } ] },
+      { "no": 5, "title_rich": "Kata Benda₁ の Kata Benda₂", "blocks": [
+        { "type": "p", "text_rich": "Pada Pelajaran 1 telah dipelajari bahwa jika Kata Benda₁ menerangkan Kata Benda₂, maka digunakan の di antara Kata Benda₁ dan Kata Benda₂. Pada pelajaran ini belajar cara penggunaan の sebagai berikut di bawah ini:" },
+        { "type": "h", "text_rich": "1) Kata Benda₁ menerangkan sesuatu dari Kata Benda₂." },
+        { "type": "ex", "mark": "⑨", "lines": [ { "jp": "これは　コンピューターの　{本|ほん}です。", "tr": "Ini buku komputer." } ] },
+        { "type": "h", "text_rich": "2) Kata Benda₁ menyatakan pemilik Kata Benda₂." },
+        { "type": "ex", "mark": "⑩", "lines": [ { "jp": "これは　わたしの　{本|ほん}です。", "tr": "Ini buku saya." } ] } ] },
+      { "no": 6, "title_rich": "の yang berfungsi sebagai pengganti Kata Benda", "blocks": [
+        { "type": "p", "text_rich": "の ini digunakan untuk mengganti Kata Benda yang terdapat sebelumnya (かばん pada contoh ⑪). Seperti contoh ⑪, jika diletakkan di belakang Kata Benda (さとうさん), maka bentuk kalimat menjadi sama maknanya dengan dihilangkannya Kata Benda₂ dari kalimat Kata Benda₁ の Kata Benda₂ (さとうさんの かばん). の digunakan sebagai pengganti kata benda, tetapi tidak digunakan sebagai pengganti orang." },
+        { "type": "ex", "mark": "⑪", "lines": [
+          { "jp": "あれは　だれの　かばんですか。", "tr": "Itu tas siapa?" },
+          { "jp": "……{佐藤|さとう}さんのです。", "tr": "……Kepunyaan Sdr. Sato." } ] },
+        { "type": "ex", "mark": "⑫", "lines": [
+          { "jp": "この　かばんは　あなたのですか。", "tr": "Apakah tas ini tas Anda?" },
+          { "jp": "……いいえ、わたしのじゃ　ありません。", "tr": "……Bukan, bukan kepunyaan saya." } ] },
+        { "type": "ex", "mark": "⑬", "lines": [
+          { "jp": "ミラーさんは　IMCの　{社員|しゃいん}ですか。", "tr": "Apakah Sdr. Miller pegawai perusahaan IMC?" },
+          { "jp": "……はい、IMCの　{社員|しゃいん}です。", "tr": "……Ya, pegawai perusahaan IMC." },
+          { "jp": "×　はい、IMCのです。" } ] } ] },
+      { "no": 7, "title_rich": "お～", "blocks": [
+        { "type": "p", "text_rich": "お dibubuhkan pada Kata Benda dan berfungsi untuk menyatakan kesopanan." },
+        { "type": "p", "text_rich": "(Contoh: ［お］みやげ, ［お］さけ)" } ] },
+      { "no": 8, "title_rich": "そうですか", "blocks": [
+        { "type": "p", "text_rich": "Ketika mendapatkan informasi baru, ekspresi ini digunakan untuk menyatakan telah mengerti. Diucapkan dengan intonasi menurun." },
+        { "type": "ex", "mark": "⑭", "lines": [
+          { "jp": "この　{傘|かさ}は　あなたのですか。", "tr": "Apakah payung ini punya Anda?" },
+          { "jp": "……いいえ、{違|ちが}います。シュミットさんのです。", "tr": "……Bukan, salah. Punya Sdr. Schmidt." },
+          { "jp": "そうですか。", "tr": "O, begitu." } ] } ] }
+    ],
+
+    "sankou": {
+      "title_jp": "{名前|なまえ}",
+      "title_tr": "Nama Keluarga",
+      "blocks": [
+        { "type": "p", "text_rich": "Nama keluarga yang lazim untuk orang Jepang" },
+        { "type": "table", "header": [],
+          "rows": [
+            [ [ { "tr": "1" } ], [ { "jp": "{佐藤|さとう}" } ], [ { "tr": "2" } ], [ { "jp": "{鈴木|すずき}" } ], [ { "tr": "3" } ], [ { "jp": "{高橋|たかはし}" } ], [ { "tr": "4" } ], [ { "jp": "{田中|たなか}" } ] ],
+            [ [ { "tr": "5" } ], [ { "jp": "{渡辺|わたなべ}" } ], [ { "tr": "6" } ], [ { "jp": "{伊藤|いとう}" } ], [ { "tr": "7" } ], [ { "jp": "{山本|やまもと}" } ], [ { "tr": "8" } ], [ { "jp": "{中村|なかむら}" } ] ],
+            [ [ { "tr": "9" } ], [ { "jp": "{小林|こばやし}" } ], [ { "tr": "10" } ], [ { "jp": "{加藤|かとう}" } ], [ { "tr": "11" } ], [ { "jp": "{吉田|よしだ}" } ], [ { "tr": "12" } ], [ { "jp": "{山田|やまだ}" } ] ],
+            [ [ { "tr": "13" } ], [ { "jp": "{佐々木|ささき}" } ], [ { "tr": "14" } ], [ { "jp": "{斎藤|さいとう}" } ], [ { "tr": "15" } ], [ { "jp": "{山口|やまぐち}" } ], [ { "tr": "16" } ], [ { "jp": "{松本|まつもと}" } ] ],
+            [ [ { "tr": "17" } ], [ { "jp": "{井上|いのうえ}" } ], [ { "tr": "18" } ], [ { "jp": "{木村|きむら}" } ], [ { "tr": "19" } ], [ { "jp": "{林|はやし}" } ], [ { "tr": "20" } ], [ { "jp": "{清水|しみず}" } ] ]
+          ] },
+        { "type": "note", "text_rich": "Sumber: \"Sumber data Urutan Marga Jepang Tingkat Nasional\" oleh Keiji Shiraoka, Tadashige Murayama, Agustus 2011" },
+        { "type": "image", "image": "img/L02/sankou_salam.webp", "caption": "Salam" }
+      ] }
+  }
+}

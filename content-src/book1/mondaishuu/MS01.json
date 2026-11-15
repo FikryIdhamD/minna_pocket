@@ -1,0 +1,104 @@
+{
+  "id": "MS01",
+  "lessons": [1, 2],
+  "title_jp": "{第|だい}1・2{課|か}",
+  "source_pages": { "workbook_pdf": [6, 7], "key_pdf": [73] },
+  "exercises": [
+    { "no": 1, "image": "img/MS01/ex1.webp",
+      "example": { "lines_jp": ["（{手帳|てちょう}）"] },
+      "items": [
+        { "no": 1, "lines_jp": ["（＿）"], "blanks": [ { "type": "text", "answers_jp": ["{時計|とけい}"] } ] },
+        { "no": 2, "lines_jp": ["（＿）"], "blanks": [ { "type": "text", "answers_jp": ["カメラ"] } ] },
+        { "no": 3, "lines_jp": ["（＿）"], "blanks": [ { "type": "text", "answers_jp": ["いす"] } ] },
+        { "no": 4, "lines_jp": ["（＿）"], "blanks": [ { "type": "text", "answers_jp": ["{雑誌|ざっし}"] } ] },
+        { "no": 5, "lines_jp": ["（＿）"], "blanks": [ { "type": "text", "answers_jp": ["{本|ほん}"] } ] },
+        { "no": 6, "lines_jp": ["（＿）"], "blanks": [ { "type": "text", "answers_jp": ["ノート"] } ] },
+        { "no": 7, "lines_jp": ["（＿）"], "blanks": [ { "type": "text", "answers_jp": ["かばん"] } ] },
+        { "no": 8, "lines_jp": ["（＿）"], "blanks": [ { "type": "text", "answers_jp": ["コンピューター"] } ] },
+        { "no": 9, "lines_jp": ["（＿）"], "blanks": [ { "type": "text", "answers_jp": ["{傘|かさ}"] } ] } ] },
+
+    { "no": 2,
+      "example": { "lines_jp": ["あの{方|かた}（は）どなたですか。"] },
+      "items": [
+        { "no": 1, "lines_jp": [
+            "A：サントスさんはブラジル{人|じん}です。マリアさん（＿）ブラジル{人|じん}ですか。",
+            "B：はい、マリアさん（＿）ブラジル{人|じん}です。",
+            "A：ミラーさん（＿）ブラジル{人|じん}ですか。",
+            "B：いいえ、ミラーさん（＿）ブラジル{人|じん}じゃありません。" ],
+          "blanks": [ { "type": "text", "answers_jp": ["も"] }, { "type": "text", "answers_jp": ["も"] },
+                      { "type": "text", "answers_jp": ["も"] }, { "type": "text", "answers_jp": ["は"] } ] },
+        { "no": 2, "lines_jp": ["グプタさんはＩＭＣ（＿）{社員|しゃいん}です。"],
+          "blanks": [ { "type": "text", "answers_jp": ["の"] } ] } ] },
+
+    { "no": 3, "image": "img/MS01/ex3.webp",
+      "example": { "lines_jp": ["（これ）", "（このかばん）"] },
+      "items": [
+        { "no": 1, "lines_jp": ["それ", "（＿）"], "blanks": [ { "type": "text", "answers_jp": ["そのかばん"] } ] },
+        { "no": 2, "lines_jp": ["（＿）", "あのかばん"], "blanks": [ { "type": "text", "answers_jp": ["あれ"] } ] } ] },
+
+    { "no": 4,
+      "example": { "lines_jp": ["ミラーさんは{会社員|かいしゃいん}ですか。…はい、{会社員|かいしゃいん}です。"] },
+      "items": [
+        { "no": 1, "lines_jp": ["カリナさんは{学生|がくせい}ですか。…はい、＿"], "blanks": [ { "type": "sentence", "answers_jp": ["{学生|がくせい}です。"] } ] },
+        { "no": 2, "lines_jp": ["ワンさんも{学生|がくせい}ですか。…いいえ、＿"], "blanks": [ { "type": "sentence", "answers_jp": ["{学生|がくせい}じゃありません。"] } ] },
+        { "no": 3, "lines_jp": ["あの{方|かた}は＿…{山田|やまだ}さんです。"], "blanks": [ { "type": "sentence", "answers_jp": ["どなたですか。", "だれですか。"] } ] },
+        { "no": 4, "lines_jp": ["この{傘|かさ}は＿…ミラーさんのです。"], "blanks": [ { "type": "sentence", "answers_jp": ["だれのですか。"] } ] } ] },
+
+    { "no": 5,
+      "options": [
+        { "key": "a", "jp": "それはノートです。" },
+        { "key": "b", "jp": "38{歳|さい}です。" },
+        { "key": "c", "jp": "はい、{山田|やまだ}さんです。" },
+        { "key": "d", "jp": "はい、それは{本|ほん}です。", "used_by_example": true },
+        { "key": "e", "jp": "{山田|やまだ}さんのです。" },
+        { "key": "f", "jp": "{山田|やまだ}さんです。" },
+        { "key": "g", "jp": "いいえ、{先生|せんせい}です。" },
+        { "key": "h", "jp": "{車|くるま}の{雑誌|ざっし}です。" },
+        { "key": "i", "jp": "はい、わたしのです。" } ],
+      "example": { "lines_jp": ["これは{本|ほん}ですか。（ｄ）"] },
+      "items": [
+        { "no": 1, "lines_jp": ["あの{人|ひと}はだれですか。（＿）"], "blanks": [ { "type": "option", "answer": "f" } ] },
+        { "no": 2, "lines_jp": ["これはノートですか、{雑誌|ざっし}ですか。（＿）"], "blanks": [ { "type": "option", "answer": "a" } ] },
+        { "no": 3, "lines_jp": ["それは{何|なん}の{雑誌|ざっし}ですか。（＿）"], "blanks": [ { "type": "option", "answer": "h" } ] },
+        { "no": 4, "lines_jp": ["{山田|やまだ}さんはおいくつですか。（＿）"], "blanks": [ { "type": "option", "answer": "b" } ] },
+        { "no": 5, "lines_jp": ["あの{人|ひと}は{山田|やまだ}さんですか。（＿）"], "blanks": [ { "type": "option", "answer": "c" } ] },
+        { "no": 6, "lines_jp": ["これはだれの{時計|とけい}ですか。（＿）"], "blanks": [ { "type": "option", "answer": "e" } ] },
+        { "no": 7, "lines_jp": ["ワットさんは{学生|がくせい}ですか。（＿）"], "blanks": [ { "type": "option", "answer": "g" } ] } ] },
+
+    { "no": 6,
+      "example": { "lines_jp": ["＿は{本|ほん}です。"],
+                   "blanks": [ { "type": "choice", "choices_jp": ["この", "これ"], "answers_jp": ["これ"] } ] },
+      "items": [
+        { "no": 1, "lines_jp": ["それは＿のかばんですか。…＿です。"],
+          "blanks": [ { "type": "choice", "choices_jp": ["だれ", "{何|なん}"], "answers_jp": ["だれ"] },
+                      { "type": "choice", "choices_jp": ["わたし", "わたしの"], "answers_jp": ["わたしの"] } ] },
+        { "no": 2, "lines_jp": ["＿は{何|なん}のＣＤですか。…{日本語|にほんご}のＣＤです。"],
+          "blanks": [ { "type": "choice", "choices_jp": ["その", "それ"], "answers_jp": ["それ"] } ] },
+        { "no": 3, "lines_jp": ["＿{傘|かさ}はあなたのですか。…いいえ、＿のじゃありません。"],
+          "blanks": [ { "type": "choice", "choices_jp": ["この", "これ"], "answers_jp": ["この"] },
+                      { "type": "choice", "choices_jp": ["あなた", "わたし"], "answers_jp": ["わたし"] } ] },
+        { "no": 4, "lines_jp": ["これは＿ですか。…はい、それは{新聞|しんぶん}です。"],
+          "blanks": [ { "type": "choice", "choices_jp": ["{新聞|しんぶん}", "{何|なん}"], "answers_jp": ["{新聞|しんぶん}"] } ] },
+        { "no": 5, "lines_jp": ["あの{人|ひと}は＿ですか。…{佐藤|さとう}さんです。"],
+          "blanks": [ { "type": "choice", "choices_jp": ["{何|なん}", "だれ"], "answers_jp": ["だれ"] } ] },
+        { "no": 6, "lines_jp": ["テレーザちゃんは＿ですか。…9{歳|さい}です。"],
+          "blanks": [ { "type": "choice", "choices_jp": ["だれ", "{何歳|なんさい}"], "answers_jp": ["{何歳|なんさい}"] } ] } ] },
+
+    { "no": 7,
+      "example": { "lines_jp": ["グプタさんは[[42]]{歳|さい}です。", "（よんじゅうに）"] },
+      "items": [
+        { "no": 1, "lines_jp": ["イーさんは[[35]]{歳|さい}です。", "（＿）"], "blanks": [ { "type": "text", "answers_jp": ["さんじゅうご"] } ] },
+        { "no": 2, "lines_jp": ["{太郎|たろう}ちゃんは[[8]]{歳|さい}です。", "（＿）"], "blanks": [ { "type": "text", "answers_jp": ["はっ"] } ] },
+        { "no": 3, "lines_jp": ["ワンさんは[[29]]{歳|さい}です。", "（＿）"], "blanks": [ { "type": "text", "answers_jp": ["にじゅうきゅう"] } ] },
+        { "no": 4, "lines_jp": ["カリナさんは[[24]]{歳|さい}です。", "（＿）"], "blanks": [ { "type": "text", "answers_jp": ["にじゅうよん"] } ] } ] },
+
+    { "no": 8,
+      "items": [
+        { "no": 1, "lines_jp": ["あなたは{学生|がくせい}ですか。＿"],
+          "blanks": [ { "type": "sentence", "answers_jp": ["はい、{学生|がくせい}です。", "いいえ、{学生|がくせい}じゃありません。"] } ] },
+        { "no": 2, "lines_jp": ["お{名前|なまえ}は？＿"],
+          "blanks": [ { "type": "free", "answers_jp": ["{例|れい}：マイク・ミラーです。"] } ] },
+        { "no": 3, "lines_jp": ["おいくつですか。＿"],
+          "blanks": [ { "type": "free", "answers_jp": ["{例|れい}：23{歳|さい}です。"] } ] } ] }
+  ]
+}

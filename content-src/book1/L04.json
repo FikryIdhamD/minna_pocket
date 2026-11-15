@@ -1,0 +1,2135 @@
+{
+ "book": 1,
+ "lesson": 4,
+ "title_jp": "そちらは　{何時|なんじ}までですか",
+ "title_tr": "Di Situ Sampai Pukul Berapa?",
+ "source_pages": {
+  "main_pdf": [
+   55,
+   62
+  ],
+  "translation_pdf": [
+   48,
+   53
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "おきます",
+       "kanji_jp": "{起|お}きます",
+       "tr": "bangun"
+      },
+      {
+       "kana_jp": "ねます",
+       "kanji_jp": "{寝|ね}ます",
+       "tr": "tidur"
+      },
+      {
+       "kana_jp": "はたらきます",
+       "kanji_jp": "{働|はたら}きます",
+       "tr": "bekerja"
+      },
+      {
+       "kana_jp": "やすみます",
+       "kanji_jp": "{休|やす}みます",
+       "tr": "beristirahat, libur"
+      },
+      {
+       "kana_jp": "べんきょうします",
+       "kanji_jp": "{勉強|べんきょう}します",
+       "tr": "belajar"
+      },
+      {
+       "kana_jp": "おわります",
+       "kanji_jp": "{終|お}わります",
+       "tr": "selesai"
+      },
+      {
+       "kana_jp": "デパート",
+       "kanji_jp": null,
+       "tr": "toserba"
+      },
+      {
+       "kana_jp": "ぎんこう",
+       "kanji_jp": "{銀行|ぎんこう}",
+       "tr": "bank"
+      },
+      {
+       "kana_jp": "ゆうびんきょく",
+       "kanji_jp": "{郵便局|ゆうびんきょく}",
+       "tr": "kantor pos"
+      },
+      {
+       "kana_jp": "としょかん",
+       "kanji_jp": "{図書館|としょかん}",
+       "tr": "perpustakaan"
+      },
+      {
+       "kana_jp": "びじゅつかん",
+       "kanji_jp": "{美術館|びじゅつかん}",
+       "tr": "gedung kesenian"
+      },
+      {
+       "kana_jp": "いま",
+       "kanji_jp": "{今|いま}",
+       "tr": "sekarang"
+      },
+      {
+       "kana_jp": "―じ",
+       "kanji_jp": "―{時|じ}",
+       "tr": "jam ―, pukul ―"
+      },
+      {
+       "kana_jp": "―ふん（―ぷん）",
+       "kanji_jp": "―{分|ふん}",
+       "tr": "― menit"
+      },
+      {
+       "kana_jp": "はん",
+       "kanji_jp": "{半|はん}",
+       "tr": "setengah"
+      },
+      {
+       "kana_jp": "なんじ",
+       "kanji_jp": "{何時|なんじ}",
+       "tr": "jam berapa, pukul berapa"
+      },
+      {
+       "kana_jp": "なんぷん*",
+       "kanji_jp": "{何分|なんぷん}",
+       "tr": "berapa menit"
+      },
+      {
+       "kana_jp": "ごぜん",
+       "kanji_jp": "{午前|ごぜん}",
+       "tr": "a.m. (waktu sebelum jam 12 siang)"
+      },
+      {
+       "kana_jp": "ごご",
+       "kanji_jp": "{午後|ごご}",
+       "tr": "p.m. (waktu setelah jam 12 siang)"
+      },
+      {
+       "kana_jp": "あさ",
+       "kanji_jp": "{朝|あさ}",
+       "tr": "pagi"
+      },
+      {
+       "kana_jp": "ひる",
+       "kanji_jp": "{昼|ひる}",
+       "tr": "siang"
+      },
+      {
+       "kana_jp": "ばん（よる）",
+       "kanji_jp": "{晩|ばん}（{夜|よる}）",
+       "tr": "malam"
+      },
+      {
+       "kana_jp": "おととい",
+       "kanji_jp": null,
+       "tr": "dua hari yang lalu, kemarin lusa"
+      },
+      {
+       "kana_jp": "きのう",
+       "kanji_jp": null,
+       "tr": "kemarin"
+      },
+      {
+       "kana_jp": "きょう",
+       "kanji_jp": null,
+       "tr": "hari ini"
+      },
+      {
+       "kana_jp": "あした",
+       "kanji_jp": null,
+       "tr": "besok"
+      },
+      {
+       "kana_jp": "あさって",
+       "kanji_jp": null,
+       "tr": "lusa"
+      },
+      {
+       "kana_jp": "けさ",
+       "kanji_jp": null,
+       "tr": "pagi ini, tadi pagi"
+      },
+      {
+       "kana_jp": "こんばん",
+       "kanji_jp": "{今晩|こんばん}",
+       "tr": "malam ini, nanti malam"
+      },
+      {
+       "kana_jp": "やすみ",
+       "kanji_jp": "{休|やす}み",
+       "tr": "istirahat, cuti, libur"
+      },
+      {
+       "kana_jp": "ひるやすみ",
+       "kanji_jp": "{昼休|ひるやす}み",
+       "tr": "istirahat siang"
+      },
+      {
+       "kana_jp": "しけん",
+       "kanji_jp": "{試験|しけん}",
+       "tr": "ujian"
+      },
+      {
+       "kana_jp": "かいぎ",
+       "kanji_jp": "{会議|かいぎ}",
+       "tr": "rapat, (～を　します: mengadakan rapat)"
+      },
+      {
+       "kana_jp": "えいが",
+       "kanji_jp": "{映画|えいが}",
+       "tr": "film"
+      },
+      {
+       "kana_jp": "まいあさ",
+       "kanji_jp": "{毎朝|まいあさ}",
+       "tr": "setiap pagi"
+      },
+      {
+       "kana_jp": "まいばん",
+       "kanji_jp": "{毎晩|まいばん}",
+       "tr": "setiap malam"
+      },
+      {
+       "kana_jp": "まいにち",
+       "kanji_jp": "{毎日|まいにち}",
+       "tr": "setiap hari"
+      },
+      {
+       "kana_jp": "げつようび",
+       "kanji_jp": "{月曜日|げつようび}",
+       "tr": "hari Senin"
+      },
+      {
+       "kana_jp": "かようび",
+       "kanji_jp": "{火曜日|かようび}",
+       "tr": "hari Selasa"
+      },
+      {
+       "kana_jp": "すいようび",
+       "kanji_jp": "{水曜日|すいようび}",
+       "tr": "hari Rabu"
+      },
+      {
+       "kana_jp": "もくようび",
+       "kanji_jp": "{木曜日|もくようび}",
+       "tr": "hari Kamis"
+      },
+      {
+       "kana_jp": "きんようび",
+       "kanji_jp": "{金曜日|きんようび}",
+       "tr": "hari Jumat"
+      },
+      {
+       "kana_jp": "どようび",
+       "kanji_jp": "{土曜日|どようび}",
+       "tr": "hari Sabtu"
+      },
+      {
+       "kana_jp": "にちようび",
+       "kanji_jp": "{日曜日|にちようび}",
+       "tr": "hari Minggu"
+      },
+      {
+       "kana_jp": "なんようび",
+       "kanji_jp": "{何曜日|なんようび}",
+       "tr": "hari apa"
+      },
+      {
+       "kana_jp": "～から",
+       "kanji_jp": null,
+       "tr": "dari ～"
+      },
+      {
+       "kana_jp": "～まで",
+       "kanji_jp": null,
+       "tr": "sampai ～"
+      },
+      {
+       "kana_jp": "～と　～",
+       "kanji_jp": null,
+       "tr": "～ dan ～ (digunakan jika menyambung kata benda)"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{練習|れんしゅう}C〉",
+     "items": [
+      {
+       "kana_jp": "{大変|たいへん}ですね。",
+       "kanji_jp": null,
+       "tr": "O, berat ya. (ungkapan untuk menyatakan rasa simpati dari lawan bicara terhadap si pembicara yang mengalami suatu hal yang dianggap susah)"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "{番号|ばんごう}",
+       "kanji_jp": null,
+       "tr": "nomor"
+      },
+      {
+       "kana_jp": "{何番|なんばん}",
+       "kanji_jp": null,
+       "tr": "nomor berapa"
+      },
+      {
+       "kana_jp": "そちら",
+       "kanji_jp": null,
+       "tr": "di situ"
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "ニューヨーク",
+       "kanji_jp": null,
+       "tr": "New York"
+      },
+      {
+       "kana_jp": "ペキン",
+       "kanji_jp": null,
+       "tr": "Beijing (北京)"
+      },
+      {
+       "kana_jp": "ロサンゼルス",
+       "kanji_jp": null,
+       "tr": "Los Angeles"
+      },
+      {
+       "kana_jp": "ロンドン",
+       "kanji_jp": null,
+       "tr": "London"
+      },
+      {
+       "kana_jp": "あすか",
+       "kanji_jp": null,
+       "tr": "restoran masakan Jepang fiksi"
+      },
+      {
+       "kana_jp": "アップル{銀行|ぎんこう}",
+       "kanji_jp": null,
+       "tr": "bank fiksi"
+      },
+      {
+       "kana_jp": "みどり{図書館|としょかん}",
+       "kanji_jp": null,
+       "tr": "perpustakaan fiksi"
+      },
+      {
+       "kana_jp": "やまと{美術館|びじゅつかん}",
+       "kanji_jp": null,
+       "tr": "gedung kesenian fiksi"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "{今|いま}　4{時|じ}5{分|ふん}です。",
+    "tr": "Sekarang pukul empat lewat lima menit."
+   },
+   {
+    "no": 2,
+    "jp": "わたしは　{毎朝|まいあさ}　6{時|じ}に　{起|お}きます。",
+    "tr": "Saya bangun pukul enam setiap pagi."
+   },
+   {
+    "no": 3,
+    "jp": "わたしは　きのう　{勉強|べんきょう}しました。",
+    "tr": "Saya belajar kemarin."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "{今|いま}　{何時|なんじ}ですか。",
+      "tr": "Sekarang pukul berapa?"
+     },
+     {
+      "jp": "……2{時|じ}10{分|ぷん}です。",
+      "tr": "……Pukul dua lewat sepuluh menit."
+     },
+     {
+      "jp": "ニューヨークは　{今|いま}　{何時|なんじ}ですか。",
+      "tr": "Sekarang di New York pukul berapa?"
+     },
+     {
+      "jp": "……{午前|ごぜん}　0{時|じ}10{分|ぷん}です。",
+      "tr": "……Pukul dua belas malam lewat sepuluh menit."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "{休|やす}みは　{何曜日|なんようび}ですか。",
+      "tr": "Liburnya hari apa?"
+     },
+     {
+      "jp": "……{土曜日|どようび}と　{日曜日|にちようび}です。",
+      "tr": "……Hari Sabtu dan hari Minggu."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "アップル{銀行|ぎんこう}は　{何時|なんじ}から　{何時|なんじ}までですか。",
+      "tr": "Bank Apple dari pukul berapa sampai dengan pukul berapa?"
+     },
+     {
+      "jp": "……9{時|じ}から　3{時|じ}までです。",
+      "tr": "……Pukul sembilan sampai dengan pukul tiga sore."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "{毎晩|まいばん}　{何時|なんじ}に　{寝|ね}ますか。",
+      "tr": "Tidur pukul berapa setiap malam?"
+     },
+     {
+      "jp": "……11{時|じ}に　{寝|ね}ます。",
+      "tr": "……Tidur pukul sebelas."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "{毎日|まいにち}　{何時|なんじ}から　{何時|なんじ}まで　{勉強|べんきょう}しますか。",
+      "tr": "Setiap hari belajar dari pukul berapa sampai dengan pukul berapa?"
+     },
+     {
+      "jp": "……{朝|あさ}　9{時|じ}から　{午後|ごご}　3{時|じ}まで　{勉強|べんきょう}します。",
+      "tr": "……Belajar dari pukul sembilan pagi sampai dengan pukul tiga sore."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "{土曜日|どようび}　{働|はたら}きますか。",
+      "tr": "Hari Sabtu bekerja?"
+     },
+     {
+      "jp": "……いいえ、{働|はたら}きません。",
+      "tr": "……Tidak, tidak bekerja."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "きのう　{勉強|べんきょう}しましたか。",
+      "tr": "Kemarin belajar?"
+     },
+     {
+      "jp": "……いいえ、{勉強|べんきょう}しませんでした。",
+      "tr": "……Tidak, tidak belajar."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "そちらは　{何時|なんじ}までですか",
+   "title_tr": "Di Situ Sampai Pukul Berapa?",
+   "image": "img/L04/kaiwa.webp",
+   "audio": "audio/L04_kaiwa.m4a",
+   "cd_track": "CD12",
+   "lines": [
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "すみません、「あすか」の　{電話番号|でんわばんごう}は　{何番|なんばん}ですか。",
+     "tr": "Maaf, berapa nomor telepon “Asuka”?"
+    },
+    {
+     "speaker_jp": "{佐藤|さとう}",
+     "speaker_tr": "Sato",
+     "jp": "「あすか」ですか。　5275の　2725です。",
+     "tr": "“Asuka” ya? 5275-2725."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "どうも　ありがとう　ございます。",
+     "tr": "Terima kasih banyak."
+    },
+    {
+     "speaker_jp": "{店|みせ}の　{人|ひと}",
+     "speaker_tr": "Pelayan",
+     "break_before": true,
+     "jp": "はい、「あすか」です。",
+     "tr": "Halo, “Asuka” di sini."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "すみません。　そちらは　{何時|なんじ}までですか。",
+     "tr": "Maaf. Di situ sampai dengan pukul berapa?"
+    },
+    {
+     "speaker_jp": "{店|みせ}の　{人|ひと}",
+     "speaker_tr": "Pelayan",
+     "jp": "10{時|じ}までです。",
+     "tr": "Sampai dengan pukul sepuluh."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "{休|やす}みは　{何曜日|なんようび}ですか。",
+     "tr": "Liburnya hari apa?"
+    },
+    {
+     "speaker_jp": "{店|みせ}の　{人|ひと}",
+     "speaker_tr": "Pelayan",
+     "jp": "{日曜日|にちようび}です。",
+     "tr": "Hari Minggu."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "そうですか。　どうも。",
+     "tr": "O, begitu. Terima kasih."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "{今|いま}"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "4じ5ふん",
+          "9じはん"
+         ]
+        },
+        {
+         "opts_jp": [
+          "なんじ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "です。"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "……か。"
+         ],
+         "hl": "none"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "text_jp": "{休|やす}みは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "すいようび",
+          "どようびと　にちようび"
+         ]
+        },
+        {
+         "opts_jp": [
+          "なんようび"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "です。"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "……か。"
+         ],
+         "hl": "none"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "text_jp": "{昼休|ひるやす}みは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "12じ",
+          "12じはん"
+         ]
+        },
+        {
+         "opts_jp": [
+          "なんじ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "から"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "1じ",
+          "1じ15ふん"
+         ]
+        },
+        {
+         "opts_jp": [
+          "なんじ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "までです。"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "…………か。"
+         ],
+         "hl": "none"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは　{毎朝|まいあさ}"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "6じ",
+          "7じはん"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "に　{起|お}きます。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたは　……"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "なんじ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "………………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "9じ"
+         ]
+        },
+        {
+         "opts_jp": [
+          "げつようび"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "から"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "5じ"
+         ]
+        },
+        {
+         "opts_jp": [
+          "きんようび"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "まで　{働|はたら}きます。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "まいにち",
+          "あした"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "{勉強|べんきょう}します。"
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "きのう",
+          "おととい"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "{勉強|べんきょう}しました。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ね",
+          "やすみ",
+          "はたらき"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ます"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ね",
+          "やすみ",
+          "はたらき"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ません"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ね",
+          "やすみ",
+          "はたらき"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ました"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ね",
+          "やすみ",
+          "はたらき"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ませんでした"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig1",
+     "image": "img/L04/rb_fig1.webp"
+    },
+    {
+     "id": "fig2",
+     "image": "img/L04/rb_fig2.webp"
+    },
+    {
+     "id": "fig3",
+     "image": "img/L04/rb_fig3.webp"
+    },
+    {
+     "id": "fig5",
+     "image": "img/L04/rb_fig5.webp"
+    },
+    {
+     "id": "fig7",
+     "image": "img/L04/rb_fig7.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "figure": "fig1",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "3{時|じ}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "figure": "fig2",
+     "examples": [
+      {
+       "prompt_jp": "{東京|とうきょう}",
+       "answer_jp": [
+        "{東京|とうきょう}は　{今|いま}　{何時|なんじ}ですか。",
+        "……{午後|ごご}　6{時|じ}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "ペキン"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "バンコク"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "ロンドン"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "ロサンゼルス"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "figure": "fig3",
+     "examples": [
+      {
+       "prompt_jp": "きょう",
+       "answer_jp": [
+        "きょうは　{何曜日|なんようび}ですか。",
+        "……{火曜日|かようび}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "あした"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{会議|かいぎ}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{試験|しけん}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{休|やす}み"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "{銀行|ぎんこう}（9:00～3:00）",
+       "answer_jp": [
+        "{銀行|ぎんこう}は　{何時|なんじ}から　{何時|なんじ}までですか。",
+        "……9{時|じ}から　3{時|じ}までです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{郵便局|ゆうびんきょく}（9:00～5:00）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "デパート（10:00～8:30）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{図書館|としょかん}（9:00～6:30）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{会社|かいしゃ}（9:15～5:45）"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "figure": "fig5",
+     "examples": [
+      {
+       "prompt_jp": "{毎朝|まいあさ}",
+       "answer_jp": [
+        "{毎朝|まいあさ}　{何時|なんじ}に　{起|お}きますか。",
+        "……7{時|じ}に　{起|お}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{毎晩|まいばん}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "あした"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{今晩|こんばん}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{日曜日|にちようび}"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "examples": [
+      {
+       "prompt_jp": "{毎晩|まいばん}・{勉強|べんきょう}します（7:30～9:30）",
+       "answer_jp": [
+        "{毎晩|まいばん}　{何時|なんじ}から　{何時|なんじ}まで　{勉強|べんきょう}しますか。",
+        "……7{時|じ}{半|はん}から　9{時|じ}{半|はん}まで　{勉強|べんきょう}します。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{毎日|まいにち}・{働|はたら}きます（9:30～5:30）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{昼|ひる}・{休|やす}みます（12:00～1:00）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{土曜日|どようび}・{働|はたら}きます（9:00～2:00）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{毎朝|まいあさ}・{勉強|べんきょう}します（7:00～8:00）"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "figure": "fig7",
+     "examples": [
+      {
+       "prompt_jp": "あした",
+       "answer_jp": [
+        "あした　{働|はたら}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{毎日|まいにち}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "きのうの　{晩|ばん}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "あさって"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "おととい"
+      }
+     ]
+    },
+    {
+     "no": 8,
+     "examples": [
+      {
+       "prompt_jp": "きょう　{勉強|べんきょう}しますか。（はい）",
+       "answer_jp": [
+        "はい、{勉強|べんきょう}します。"
+       ]
+      },
+      {
+       "prompt_jp": "きのう　{勉強|べんきょう}しましたか。（いいえ）",
+       "answer_jp": [
+        "いいえ、{勉強|べんきょう}しませんでした。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "あさって　{働|はたら}きますか。（いいえ）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{毎晩|まいばん}　{勉強|べんきょう}しますか。（はい）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "きのうの　{晩|ばん}　{勉強|べんきょう}しましたか。（はい）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "きのう　{働|はたら}きましたか。（いいえ）"
+      }
+     ]
+    },
+    {
+     "no": 9,
+     "examples": [
+      {
+       "prompt_jp": "{毎朝|まいあさ}・{起|お}きます（6:00）",
+       "answer_jp": [
+        "{毎朝|まいあさ}　{何時|なんじ}に　{起|お}きますか。",
+        "……6{時|じ}に　{起|お}きます。"
+       ]
+      },
+      {
+       "prompt_jp": "きのう・{働|はたら}きます（9:00～5:00）",
+       "answer_jp": [
+        "きのう　{何時|なんじ}から　{何時|なんじ}まで　{働|はたら}きましたか。",
+        "……9{時|じ}から　5{時|じ}まで　{働|はたら}きました。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{毎晩|まいばん}・{寝|ね}ます（11:00）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "けさ・{起|お}きます（7:30）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{毎日|まいにち}・{働|はたら}きます（10:00～6:00）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "きのうの　{晩|ばん}・{勉強|べんきょう}します（7:00～8:30）"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L04/rc1.webp",
+    "dialog": [
+     {
+      "jp": "[[やまと{美術館|びじゅつかん}]]は　{何時|なんじ}から　{何時|なんじ}までですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[10{時|じ}から　4{時|じ}まで]]です。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "{休|やす}みは　{何曜日|なんようび}ですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[{月曜日|げつようび}]]です。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "どうも。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L04/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L04/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L04/rc2.webp",
+    "dialog": [
+     {
+      "jp": "[[{試験|しけん}]]は　{何時|なんじ}からですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[10{時|じ}]]からです。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "{何時|なんじ}に　{終|お}わりますか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[12{時|じ}]]に　{終|お}わります。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "そうですか。　どうも。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L04/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L04/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L04/rc3.webp",
+    "dialog": [
+     {
+      "jp": "きのう　[[12{時|じ}]]まで　{勉強|べんきょう}しました。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "そうですか。　{何時|なんじ}に　{寝|ね}ましたか。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[1{時|じ}]]に　{寝|ね}ました。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "{大変|たいへん}ですね。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L04/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L04/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L04_mondai1.m4a",
+    "cd_track": "CD13",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_choice_image",
+    "audio": "audio/L04_mondai2.m4a",
+    "cd_track": "CD14",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "image": "img/L04/m2_1.webp",
+      "options": 3
+     },
+     {
+      "no": 2,
+      "image": "img/L04/m2_2.webp",
+      "options": 3
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "listen_truefalse",
+    "audio": "audio/L04_mondai3.m4a",
+    "cd_track": "CD15",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "listen_choice",
+    "audio": "audio/L04_mondai4.m4a",
+    "cd_track": "CD16",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "6:30",
+       "9:30"
+      ],
+      "answer": "9:30"
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "choices_jp": [
+       "8:30",
+       "7:30"
+      ]
+     },
+     {
+      "no": 2,
+      "choices_jp": [
+       "{午前|ごぜん}　8:20",
+       "{午後|ごご}　8:20"
+      ]
+     },
+     {
+      "no": 3,
+      "choices_jp": [
+       "9:30～6:30",
+       "9:00～6:00"
+      ]
+     },
+     {
+      "no": 4,
+      "choices_jp": [
+       "12:15～1:15",
+       "12:50～1:50"
+      ]
+     },
+     {
+      "no": 5,
+      "choices_jp": [
+       "349-7895",
+       "349-7865"
+      ]
+     },
+     {
+      "no": 6,
+      "choices_jp": [
+       "075-831-6697",
+       "075-138-6697"
+      ]
+     },
+     {
+      "no": 7,
+      "choices_jp": [
+       "3,850",
+       "3,650"
+      ]
+     },
+     {
+      "no": 8,
+      "choices_jp": [
+       "208,000",
+       "128,000"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "あの　{人|ひと}は　（だれ）ですか。",
+       "……ミラーさんです。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{今|いま}　（＿）ですか。",
+       "……5{時|じ}です。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{佐藤|さとう}さんの　{電話番号|でんわばんごう}は　（＿）ですか。",
+       "……020の　3333の　4367です。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "きょうは　（＿）ですか。",
+       "……{火曜日|かようび}です。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "テレーザちゃんは　（＿）ですか。",
+       "……9{歳|さい}です。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "きのう　（＿）まで　{働|はたら}きましたか。",
+       "……9{時|じ}まで　{働|はたら}きました。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}1",
+      "lines_jp": [
+       "これは　スイス（の）　{時計|とけい}です。"
+      ]
+     },
+     {
+      "label_jp": "{例|れい}2",
+      "lines_jp": [
+       "{電話|でんわ}は　どこ（×）　ですか。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{毎朝|まいあさ}（＿）　6{時|じ}（＿）　{起|お}きます。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{美術館|びじゅつかん}は　{何時|なんじ}（＿）　{何時|なんじ}（＿）　ですか。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{今|いま}　{何時|なんじ}（＿）ですか。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{木曜日|もくようび}（＿）　{午後|ごご}　{病院|びょういん}は　{休|やす}みです。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{大学|だいがく}は　{何時|なんじ}（＿）　{終|お}わりますか。"
+      ]
+     },
+     {
+      "no": 6,
+      "lines_jp": [
+       "{銀行|ぎんこう}の　{休|やす}みは　{土曜日|どようび}（＿）　{日曜日|にちようび}です。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "kind": "choice",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{毎日|まいにち}　9{時|じ}から　5{時|じ}まで　（[[{働|はたら}きます]]、{働|はたら}きました）。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "きのう　10{時|じ}に　（{寝|ね}ます、{寝|ね}ました）。"
+      ],
+      "choice_groups_jp": [
+       [
+        "{寝|ね}ます",
+        "{寝|ね}ました"
+       ]
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{毎日|まいにち}　{昼|ひる}　12{時|じ}から　1{時|じ}まで　（{休|やす}みます、{休|やす}みました）。"
+      ],
+      "choice_groups_jp": [
+       [
+        "{休|やす}みます",
+        "{休|やす}みました"
+       ]
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "おとといの　{晩|ばん}　9{時|じ}から　11{時|じ}まで　（{勉強|べんきょう}します、{勉強|べんきょう}しました）。"
+      ],
+      "choice_groups_jp": [
+       [
+        "{勉強|べんきょう}します",
+        "{勉強|べんきょう}しました"
+       ]
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{毎朝|まいあさ}　{何時|なんじ}に　（{起|お}きます、{起|お}きました）か。"
+      ],
+      "choice_groups_jp": [
+       [
+        "{起|お}きます",
+        "{起|お}きました"
+       ]
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "あさっては　{日曜日|にちようび}です。　（{働|はたら}きません、{働|はたら}きませんでした）。"
+      ],
+      "choice_groups_jp": [
+       [
+        "{働|はたら}きません",
+        "{働|はたら}きませんでした"
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "no": 8,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{今晩|こんばん}　{勉強|べんきょう}しますか。……はい、（{勉強|べんきょう}します）。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "おととい　{休|やす}みましたか。……はい、（＿）。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{日曜日|にちようび}　{働|はたら}きますか。……いいえ、（＿）。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "きのう　{勉強|べんきょう}しましたか。……いいえ、（＿）。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{大学|だいがく}は　3{時|じ}に　{終|お}わりますか。……はい、（＿）。"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "{今|いま}　―{時|じ}―{分|ふん}です",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Untuk menyatakan waktu, dibubuhkan Kata Bantu Bilangan {時|じ}, dan {分|ふん} di belakang angka. Jika angka 2, 5, 7, dan 9 di depan {分|ふん}, dibacanya ふん, dan 1, 3, 4, 6, 8, dan 10 di depannya maka dibacanya ぷん. Jika angka 1, 6, 8 dan 10 di depan {分|ふん}, masing-masing angka dibacanya いっ, ろっ, はっ, dan じゅっ（じっ） (Lihat Lampiran Buku Induk). Jika menanyakan waktu, なん dibubuhkan di depan じ atau ぷん."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "{今|いま}　{何時|なんじ}ですか。",
+        "tr": "Sekarang pukul berapa?"
+       },
+       {
+        "jp": "……7{時|じ}10{分|ぷん}です。",
+        "tr": "……Pukul tujuh lewat sepuluh menit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Kata Kerja ます／Kata Kerja ません／Kata Kerja ました／Kata Kerja ませんでした",
+    "blocks": [
+     {
+      "type": "h",
+      "text_rich": "1) Kata Kerja ます berfungsi sebagai predikat pada kalimat."
+     },
+     {
+      "type": "p",
+      "text_rich": "ます menyatakan sikap halus terhadap lawan bicara."
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "わたしは　{毎日|まいにち}　{勉強|べんきょう}します。",
+        "tr": "Saya belajar setiap hari."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Kata Kerja ます digunakan untuk menjelaskan kebiasaan dan kebenaran saat ini, dan aksi serta peristiwa yang akan terjadi masa depan."
+     },
+     {
+      "type": "p",
+      "text_rich": "Kalimat negatif dan bentuk lampau berubah menjadi seperti berikut:"
+     },
+     {
+      "type": "table",
+      "header": [
+       [
+        {
+         "tr": ""
+        }
+       ],
+       [
+        {
+         "tr": "Waktu non lampau (Sekarang dan masa depan)"
+        }
+       ],
+       [
+        {
+         "tr": "Waktu lampau"
+        }
+       ]
+      ],
+      "rows": [
+       [
+        [
+         {
+          "tr": "Positif"
+         }
+        ],
+        [
+         {
+          "jp": "おきます"
+         }
+        ],
+        [
+         {
+          "jp": "おきました"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "tr": "Negatif"
+         }
+        ],
+        [
+         {
+          "jp": "おきません"
+         }
+        ],
+        [
+         {
+          "jp": "おきませんでした"
+         }
+        ]
+       ]
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "{毎朝|まいあさ}　6{時|じ}に　{起|お}きます。",
+        "tr": "Setiap pagi saya bangun pukul enam."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "あした　6{時|じ}に　{起|お}きます。",
+        "tr": "Besok saya bangun pukul enam."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "けさ　6{時|じ}に　{起|お}きました。",
+        "tr": "Tadi pagi saya bangun pukul enam."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "3) Kalimat Tanya tidak mengubah susunan kata, tetapi dibubuhkan か pada akhir kalimat."
+     },
+     {
+      "type": "p",
+      "text_rich": "Kata Tanya diletakkan dibagian yang ingin tanyakan. Untuk jawabannya, menjawab dengan mengulang Kata Kerja yang terdapat di dalam kalimat tanya. そうです, ちがいます (Lihat Pel.2) tidak dapat digunakan sebagai jawaban untuk kalimat tanya dari kalimat verbal."
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "きのう　{勉強|べんきょう}しましたか。",
+        "tr": "Kemarin belajar?"
+       },
+       {
+        "jp": "……はい、{勉強|べんきょう}しました。",
+        "tr": "……Ya, belajar."
+       },
+       {
+        "jp": "……いいえ、{勉強|べんきょう}しませんでした。",
+        "tr": "……Tidak, tidak belajar."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "{毎朝|まいあさ}　{何時|なんじ}に　{起|お}きますか。",
+        "tr": "Setiap pagi bangun pukul berapa?"
+       },
+       {
+        "jp": "……6{時|じ}に　{起|お}きます。",
+        "tr": "……Bangun pukul enam."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Benda (waktu) に Kata Kerja",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Setelah Kata Benda yang menunjukkan waktu, dibubuhkan partikel に untuk menunjukkan waktu ketika melakukan sesuatu."
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "6{時|じ}{半|はん}に　{起|お}きます。",
+        "tr": "Bangun pukul setengah tujuh."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "7{月|がつ}{2日|ふつか}に　{日本|にほん}へ　{来|き}ました。",
+        "tr": "Datang ke Jepang pada tanggal 2 Juli yang lalu. (Pel.5)"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian 1] Kata Benda yang menunjukkan waktu seperti di bawah ini, tidak dibubuhkan に. きょう, あした, あさって, きのう, おととい, けさ, こんばん, いま, まいあさ, まいばん, まいにち, せんしゅう (Pel.5), こんしゅう (Pel.5), らいしゅう (Pel.5), いつ (Pel.5), せんげつ (Pel.5), こんげつ (Pel.5), らいげつ (Pel.5), ことし (Pel.5), らいねん (Pel.5), きょねん (Pel.5), dan lain-lain."
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "きのう　{勉強|べんきょう}しました。",
+        "tr": "Kemarin belajar."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian 2] Untuk Kata Benda berikut, に boleh dibubuhkan dan juga boleh tidak dibubuhkan. ～ようび, あさ, ひる, ばん, よる"
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "{日曜日|にちようび}［に］　{奈良|なら}へ　{行|い}きます。",
+        "tr": "Pada hari Minggu, pergi ke Nara. (Pel.5)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "Kata Benda₁ から Kata Benda₂ まで",
+    "blocks": [
+     {
+      "type": "h",
+      "text_rich": "1) から menunjukkan titik permulaan waktu atau tempat, sedangkan まで menunjukkan titik akhir waktu atau tempat."
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "9{時|じ}から　5{時|じ}まで　{勉強|べんきょう}します。",
+        "tr": "Belajar dari pukul sembilan sampai dengan pukul lima."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "{大阪|おおさか}から　{東京|とうきょう}まで　3{時間|じかん}　かかります。",
+        "tr": "Menghabiskan waktu tiga jam dari Osaka sampai di Tokyo. (Pel.11)"
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) から dan まで tidak selalu dipakai secara bersamaan, tetapi juga dipakai sendiri."
+     },
+     {
+      "type": "ex",
+      "mark": "⑭",
+      "lines": [
+       {
+        "jp": "9{時|じ}から　{働|はたら}きます。",
+        "tr": "Bekerja dari pukul sembilan."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "3) Untuk menyatakan waktu atau tanggal mulai dan selesainya Kata Benda yang diangkat pada topik, dapat digunakan dengan です di belakang ～から, ～まで, ～から～まで."
+     },
+     {
+      "type": "ex",
+      "mark": "⑮",
+      "lines": [
+       {
+        "jp": "{銀行|ぎんこう}は　9{時|じ}から　3{時|じ}までです。",
+        "tr": "Bank dibuka dari pukul sembilan sampai dengan pukul tiga."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑯",
+      "lines": [
+       {
+        "jp": "{昼休|ひるやす}みは　12{時|じ}からです。",
+        "tr": "Waktu istirahat siang dari pukul dua belas."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "Kata Benda₁ と Kata Benda₂",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Jika menyambung Kata Benda secara setaraf, Kata Benda dan Kata Benda disambung dengan と."
+     },
+     {
+      "type": "ex",
+      "mark": "⑰",
+      "lines": [
+       {
+        "jp": "{銀行|ぎんこう}の　{休|やす}みは　{土曜日|どようび}と　{日曜日|にちようび}です。",
+        "tr": "Hari libur bank adalah hari Sabtu dan hari Minggu."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_rich": "～ね",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Kata Bantu ね dibubuhkan di akhir kalimat, dan digunakan ketika mengharapkan persetujuan dari lawan bicara, menegaskan, atau menekankan."
+     },
+     {
+      "type": "ex",
+      "mark": "⑱",
+      "lines": [
+       {
+        "jp": "{毎日|まいにち}　10{時|じ}まで　{勉強|べんきょう}します。",
+        "tr": "Setiap hari belajar sampai pukul sepuluh."
+       },
+       {
+        "jp": "……{大変|たいへん}ですね。",
+        "tr": "……O, berat ya."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑲",
+      "lines": [
+       {
+        "jp": "{山田|やまだ}さんの　{電話番号|でんわばんごう}は　871の　6813です。",
+        "tr": "Nomor telepon Sdr. Yamada 871-6813."
+       },
+       {
+        "jp": "……871の　6813ですね。",
+        "tr": "……871-6813, ya."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{電話|でんわ}・{手紙|てがみ}",
+   "title_tr": "Telepon, Surat",
+   "blocks": [
+    {
+     "type": "h",
+     "text_rich": "Cara Penggunaan Telepon Umum"
+    },
+    {
+     "type": "image",
+     "image": "img/L04/sankou_telepon.webp",
+     "caption": "Cara Penggunaan Telepon Umum"
+    },
+    {
+     "type": "p",
+     "text_rich": "Telepon umum hanya bisa menerima koin ¥10, koin ¥100, dan kartu telepon. Kalau memasukkan koin ¥100 tidak akan dapat kembalian."
+    },
+    {
+     "type": "p",
+     "text_rich": "*Kalau pesawat telepon yang bertombol start, tekan setelah ③."
+    },
+    {
+     "type": "h",
+     "text_rich": "Nomor darurat dan informasi"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "tr": "110"
+        }
+       ],
+       [
+        {
+         "jp": "{警察署|けいさつしょ}",
+         "tr": "Kantor polisi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "tr": "119"
+        }
+       ],
+       [
+        {
+         "jp": "{消防署|しょうぼうしょ}",
+         "tr": "pemadam kebakaran"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "tr": "117"
+        }
+       ],
+       [
+        {
+         "jp": "{時報|じほう}",
+         "tr": "pemberitahuan waktu"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "tr": "177"
+        }
+       ],
+       [
+        {
+         "jp": "{天気予報|てんきよほう}",
+         "tr": "ramalan cuaca"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "tr": "104"
+        }
+       ],
+       [
+        {
+         "jp": "{電話番号案内|でんわばんごうあんない}",
+         "tr": "petunjuk nomor telepon"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "Cara menulis alamat"
+    },
+    {
+     "type": "image",
+     "image": "img/L04/sankou_alamat.webp",
+     "caption": "Cara menulis alamat"
+    }
+   ]
+  }
+ }
+}

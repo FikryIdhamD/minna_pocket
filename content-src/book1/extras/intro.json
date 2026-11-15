@@ -1,0 +1,1538 @@
+{
+ "id": "intro",
+ "title": "はじめに — Pengantar",
+ "source_pages": {
+  "translation_pdf": [
+   7,
+   8,
+   9,
+   10,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29
+  ]
+ },
+ "sections": [
+  {
+   "id": "cara",
+   "title": "Cara Penggunaan Buku Ini",
+   "blocks": [
+    {
+     "type": "h",
+     "text_rich": "I. Susunan"
+    },
+    {
+     "type": "p",
+     "text_rich": "\"Minna no Nihongo untuk Tingkat Dasar I Edisi Kedua\" terdiri dari \"Buku Pelajaran Utama (lengkap dengan CD)\" serta \"Buku Terjemahan dan Keterangan Tata Bahasa\". \"Buku Terjemahan dan Keterangan Tata Bahasa\" direncanakan terbit dalam dua belas bahasa terutama bahasa Inggris."
+    },
+    {
+     "type": "p",
+     "text_rich": "Buku pelajaran ini disusun dengan tujuan menguasai empat kemampuan yaitu, berbicara, mendengar, membaca, dan menulis dalam bahasa Jepang. Tetapi, cara membaca serta menulis huruf Hiragana, Katakana dan Kanji tidak termasuk dalam \"Buku Pelajaran Utama\" serta \"Buku Terjemahan dan Keterangan Tata Bahasa\"."
+    },
+    {
+     "type": "h",
+     "text_rich": "II. Isi"
+    },
+    {
+     "type": "h",
+     "text_rich": "1. Buku Pelajaran Utama"
+    },
+    {
+     "type": "p",
+     "text_rich": "1) Ungkapan bahasa Jepang: Disajikan contoh utama mengenai hal yang perlu diperhatikan dalam ungkapan."
+    },
+    {
+     "type": "p",
+     "text_rich": "2) Ungkapan di dalam kelas, ucapan salam sehari-hari serta ekspresi percakapan, dan bilangan: Diberikan percakapan yang digunakan di dalam kelas dan ucapan salam dasar sehari-hari."
+    },
+    {
+     "type": "p",
+     "text_rich": "3) Pelajaran: Bagian ini terdiri dari pelajaran 1 sampai pelajaran 25, dan terbagi seperti di bawah ini:"
+    },
+    {
+     "type": "p",
+     "text_rich": "① Pola kalimat: Diberikan pola kalimat yang akan dipelajari dalam pelajaran tersebut."
+    },
+    {
+     "type": "p",
+     "text_rich": "② Contoh kalimat: Bentuk pola kalimat dasar disajikan dalam bentuk percakapan tanya-jawab singkat yaitu bagaimana cara mempraktekkannya. Kemudian disajikan pula cara penggunaan kata keterangan, kata penghubung dan topik pelajaran di luar pola kalimat dasar."
+    },
+    {
+     "type": "p",
+     "text_rich": "③ Percakapan: Dalam percakapan, muncul warga asing yang hidup di Jepang dengan memaparkan berbagai adegan. Selain setiap isi pelajaran, bagian ini juga disusun dengan tambahan ucapan salam sehari-hari yang sering menggunakan ungkapan idiom. Jika memiliki kemampuan yang lebih, Anda dapat mengembangkan isi percakapan dengan menggunakan referensi kosa kata yang terdapat di \"Buku Terjemahan dan Keterangan Tata Bahasa\"."
+    },
+    {
+     "type": "p",
+     "text_rich": "④ Latihan: Latihan terbagi dalam tiga tahap yaitu A, B, dan C. Latihan bagian A disusun secara visualisasi agar struktur tata bahasanya mudah dipahami. Sambil menguasai pola kalimat secara dasar, juga diperhatikan cara membuat perubahan bentuk serta cara menghubungkan kalimat agar mudah dipelajari. Pada latihan bagian B memperkuat penguasaan terhadap pola kalimat dasar dengan menggunakan berbagai soal latihan secara teratur. Nomor yang bertanda (➡) menunjukkan latihan yang menggunakan ilustrasi. Latihan bagian C merupakan latihan untuk meningkatkan kemampuan komunikasi. Percakapan dilakukan dengan mengganti kosa kata yang sesuai dengan situasinya, namun sedapat mungkin menghindari untuk memberikan pilihan dengan huruf agar latihan tidak hanya mengganti kosa kata saja. Oleh karena itu, dengan sebuah gambar, latihan menjadi bebas sehingga asumsi contoh percakapan setiap pelajar berbeda. Contoh jawaban dari latihan bagian B dan C disusun di buku tersendiri."
+    },
+    {
+     "type": "p",
+     "text_rich": "⑤ Soal: Di dalam bagian soal terdapat soal mendengar, soal tata bahasa serta soal bacaan. Pada bagian mendengarkan terdapat soal untuk menjawab pertanyaan singkat dan soal pertanyaan untuk memahami inti setelah mendengarkan percakapan singkat. Bagian soal tata bahasa bermaksud untuk menegaskan tingkat pemahaman kosa kata dan tata bahasa yang telah dipelajari. Bagian soal bacaan, kosa kata dan kalimat dasar dengan menggunakan tata bahasa yang telah dipelajari, kemudian mengerjakan berbagai macam model pertanyaan yang berkaitan dengan isinya."
+    },
+    {
+     "type": "p",
+     "text_rich": "⑥ Pengulangan pelajaran: Setiap beberapa bab disediakan pengulangan pelajaran untuk memahami kembali inti dari pelajaran pada bab tersebut."
+    },
+    {
+     "type": "p",
+     "text_rich": "⑦ Rangkuman kata keterangan, kata penghubung dan ekspresi percakapan: Diberikan soal latihan untuk menegaskan kata keterangan, kata penghubung dan ekspresi percakapan yang telah disajikan di dalam buku pelajaran ini."
+    },
+    {
+     "type": "p",
+     "text_rich": "4) Bentuk kata kerja: Dimuat rangkuman bentuk kata kerja serta bentuk tambahan di akhir verba disajikan di dalam buku ini."
+    },
+    {
+     "type": "p",
+     "text_rich": "5) Daftar isi pelajaran: Isi pelajaran yang disajikan di dalam buku ini diatur secara khusus yang dipusatkan dari latihan bagian A agar dapat memahami hubungan antara pola kalimat, contoh kalimat, serta Latihan B dan C."
+    },
+    {
+     "type": "p",
+     "text_rich": "6) Indeks: \"Ungkapan di dalam kelas\", \"Ucapan Salam Sehari-hari dan Ekspresi Percakapan\", serta kosa kata baru dan ekspresi di setiap pelajaran dan lain-lainnya, masing-masing termuat pada pelajaran yang pertama kali menggunakannya."
+    },
+    {
+     "type": "p",
+     "text_rich": "7) Lampiran CD: Dalam CD dari buku pelajaran utama direkam percakapan setiap pelajaran, dan soal latihan bagian mendengarkan."
+    },
+    {
+     "type": "h",
+     "text_rich": "2. Terjemahan dan Keterangan Tata Bahasa"
+    },
+    {
+     "type": "p",
+     "text_rich": "1) Penjelasan tentang ciri khas Bahasa Jepang, huruf Bahasa Jepang, dan sistem pengucapan Bahasa Jepang."
+    },
+    {
+     "type": "p",
+     "text_rich": "2) Terjemahan ungkapan di kelas, ucapan salam sehari-hari, dan ekspresi percakapan."
+    },
+    {
+     "type": "p",
+     "text_rich": "3) Dari pelajaran 1 sampai dengan pelajaran 25: ① Kosa kata baru, dan terjemahannya. ② Terjemahan pola kalimat, contoh kalimat, dan percakapan. ③ Kosa kata referensi yang berguna untuk belajar pelajaran tersebut, dan perkenalan singkat mengenai Jepang. ④ Penjelasan tentang pola kalimat serta ekspresi."
+    },
+    {
+     "type": "p",
+     "text_rich": "4) Rangkuman mengenai bilangan, ekspresi waktu, cara menyatakan jangka waktu, kata bantu bilangan, dan konjugasi kata kerja."
+    },
+    {
+     "type": "h",
+     "text_rich": "III. Waktu yang diperlukan untuk pelajaran"
+    },
+    {
+     "type": "p",
+     "text_rich": "Diperkirakan empat sampai dengan enam jam per pelajaran, atau 150 jam untuk keseluruhannya."
+    },
+    {
+     "type": "h",
+     "text_rich": "IV. Kosa Kata"
+    },
+    {
+     "type": "p",
+     "text_rich": "Diangkat kurang-lebih seribu patah kata yang sering digunakan dalam kehidupan sehari-hari."
+    },
+    {
+     "type": "h",
+     "text_rich": "V. Penulisan"
+    },
+    {
+     "type": "p",
+     "text_rich": "Huruf Kanji pada dasarnya diikuti \"Daftar Huruf Kanji {常用|じょうよう} (Diumumkan oleh Kabinet pada tahun 1981)\"."
+    },
+    {
+     "type": "p",
+     "text_rich": "1) Dalam \"Jukujikun\" (dikombinasi lebih dari dua huruf Kanji kemudian digunakan cara membaca yang khusus), yang ditunjuk pada \"Lampiran\" dari \"Daftar Huruf Kanji {常用|じょうよう}\" yang ditulis dalam huruf Kanji."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "{友達|ともだち}",
+       "tr": "teman"
+      },
+      {
+       "jp": "{果物|くだもの}",
+       "tr": "buah-buahan"
+      },
+      {
+       "jp": "{眼鏡|めがね}",
+       "tr": "kaca mata"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text_rich": "2) Kata benda {固有|こゆう} dari nama negara・nama daerah, atau kata-kata istilah dari bidang seni・budaya menggunakan juga huruf Kanji dan {音訓|おんくん} yang tidak terdapat pada \"Daftar Huruf Kanji {常用|じょうよう}\"."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "{大阪|おおさか}",
+       "tr": "Osaka"
+      },
+      {
+       "jp": "{奈良|なら}",
+       "tr": "Nara"
+      },
+      {
+       "jp": "{歌舞伎|かぶき}",
+       "tr": "Kabuki"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text_rich": "3) Agar mudah dibaca, adakalanya ditulis dengan huruf Kana."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "ある（{有|あ}る・{在|あ}る）",
+       "tr": "ada・berada"
+      },
+      {
+       "jp": "たぶん（{多分|たぶん}）",
+       "tr": "mungkin"
+      },
+      {
+       "jp": "きのう（{昨日|きのう}）",
+       "tr": "kemarin"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text_rich": "4) Bilangan pada dasarnya digunakan bilangan {算用|さんよう}."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "9{時|じ}",
+       "tr": "pukul sembilan"
+      },
+      {
+       "jp": "4{月|がつ}1{日|ついたち}",
+       "tr": "tanggal satu bulan April"
+      },
+      {
+       "jp": "1{つ|ひと}",
+       "tr": "sebuah"
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "VI. Dan Lain-Lain"
+    },
+    {
+     "type": "p",
+     "text_rich": "1) Kata yang dapat dihilangkan dalam kalimat dikurung dengan tanda [   ]."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "{父|ちち}は 54[{歳|さい}]です。",
+       "tr": "Ayah saya berumur lima puluh empat [tahun]."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text_rich": "2) Jika ada ekspresi lain, dikurung dengan tanda (   )."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "だれ（どなた）",
+       "tr": "siapa"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ciri",
+   "title": "Ciri Khas dan Aksara Bahasa Jepang",
+   "blocks": [
+    {
+     "type": "h",
+     "text_rich": "Ciri Khas Bahasa Jepang"
+    },
+    {
+     "type": "p",
+     "text_rich": "1. Jenis Kata: Dalam bahasa Jepang terdapat Kata Kerja, Kata Sifat, Kata Benda, Kata Keterangan, Kata Penghubung, Partikel dan lain-lain."
+    },
+    {
+     "type": "p",
+     "text_rich": "2. Urutan Kata: Partikel diletakkan pada akhir kalimat. Kata yang menerangkan diletakkan di depan kata yang diterangkan."
+    },
+    {
+     "type": "p",
+     "text_rich": "3. Predikat: Yang menjadi predikat bahasa Jepang adalah Kata Kerja, Kata Sifat dan Kata Benda + {です|です}（だ）. Predikat berubah bentuk sesuai dengan positif atau negatif, atau waktu lampau atau waktu non lampau. Predikat tidak berubah bentuknya karena orang, jenis kelamin atau bilangan."
+    },
+    {
+     "type": "p",
+     "text_rich": "4. Partikel: Pada belakang kata atau kalimat dipakai partikel. Partikel menunjukkan hubungan antara kata dan kata, atau berfungsi untuk membubuhkan berbagai arti."
+    },
+    {
+     "type": "p",
+     "text_rich": "5. Penghilangan: Subjek atau objek kadang-kadang dihilangkan jika konteks kalimat dapat dipahami."
+    },
+    {
+     "type": "h",
+     "text_rich": "Aksara Bahasa Jepang"
+    },
+    {
+     "type": "p",
+     "text_rich": "Aksara bahasa Jepang terdapat tiga jenis, yaitu Hiragana, Katakana, dan Kanji. Hiragana dan Katakana adalah aksara silabis sedangkan Kanji adalah ideogram yang menunjukkan bunyi sekaligus artinya."
+    },
+    {
+     "type": "p",
+     "text_rich": "Bahasa Jepang biasanya ditulis bercampur dengan Hiragana, Katakana dan Kanji. Nama warga asing, nama daerah atau kata serapan dari bahasa asing ditulis dengan Katakana. Hiragana digunakan untuk penulisan partikel atau bagian konjugasi Kata Kerja dan Kata Sifat."
+    },
+    {
+     "type": "p",
+     "text_rich": "Selain itu, adakalanya huruf Latin digunakan sebagai penulisan untuk nama warga asing. Penulisan dalam huruf Latin dapat dilihat pada penunjuk nama stasiun."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "{田中|たなか}さんは ミラーさんと デパートへ {行|い}きます。",
+       "tr": "Sdr. Tanaka pergi ke toserba bersama dengan Sdr. Miller."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text_rich": "Pada kalimat di atas: {田中|たなか}, {行|い} = Kanji; さん, は, と, へ, きます = Hiragana; ミラー, デパート = Katakana. Contoh huruf Latin: {大阪|おおさか} Osaka."
+    }
+   ]
+  },
+  {
+   "id": "lafal",
+   "title": "Introduksi: Ucapan Bahasa Jepang",
+   "blocks": [
+    {
+     "type": "h",
+     "text_rich": "1. Kana dan Mora"
+    },
+    {
+     "type": "p",
+     "text_rich": "Bunyi Bahasa Jepang dapat ditunjukkan oleh Kana seperti daftar kana. Mora adalah satuan bunyi Bahasa Jepang yang sama panjangnya dengan satu huruf Kana (dua huruf untuk Yoon). Vokal dalam Bahasa Jepang terdapat lima macam, yaitu あ (a), い (i), う (u), え (e) dan お (o) dan vokal tersebut selain berdiri sendiri, juga membentuk sebuah bunyi dengan disertai konsonan di depannya, atau juga disertai konsonan bersama semi vokal (y) (Contoh: k + a = か, k + y + a = きゃ) (ん adalah pengecualian). Bunyi tersebut diucapkan dengan panjang yang hampir sama."
+    },
+    {
+     "type": "p",
+     "text_rich": "Katakana yang tidak disajikan di dalam daftar kana sebenarnya adalah bunyi yang tidak ada di dalam Bahasa Jepang, tetapi digunakan untuk menulis kata-kata dari bahasa asing: ウィ wi, ウェ we, ウォ wo, シェ she, チェ che, ツァ tsa, ツェ tse, ツォ tso, ファ fa, フィ fi, フェ fe, フォ fo, ジェ je, ティ ti, トゥ tu, ディ di, ドゥ du, デュ dyu."
+    },
+    {
+     "type": "note",
+     "text_rich": "Tabel Hiragana dan Katakana lengkap dapat dilihat pada tab Huruf."
+    },
+    {
+     "type": "h",
+     "text_rich": "2. Vokal Panjang"
+    },
+    {
+     "type": "p",
+     "text_rich": "Vokal Bahasa Jepang ada lima macam, yaitu あ, い, う, え, dan お, di samping itu vokal yang diucapkan bunyi panjang disebut vokal panjang. Vokal diucapkan satu mora sedangkan vokal panjang diucapkan dua mora. Berdasarkan panjang atau pendeknya vokal akan menimbulkan perbedaan arti kata."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "おばさん",
+       "tr": "tante"
+      },
+      {
+       "jp": "おばあさん",
+       "tr": "nenek"
+      },
+      {
+       "jp": "おじさん",
+       "tr": "om"
+      },
+      {
+       "jp": "おじいさん",
+       "tr": "kakek"
+      },
+      {
+       "jp": "ゆき",
+       "tr": "salju"
+      },
+      {
+       "jp": "ゆうき",
+       "tr": "keberanian"
+      },
+      {
+       "jp": "え",
+       "tr": "gambar"
+      },
+      {
+       "jp": "ええ",
+       "tr": "ya"
+      },
+      {
+       "jp": "とる",
+       "tr": "mengambil"
+      },
+      {
+       "jp": "とおる",
+       "tr": "melewati"
+      },
+      {
+       "jp": "ここ",
+       "tr": "sini"
+      },
+      {
+       "jp": "こうこう",
+       "tr": "SMA"
+      },
+      {
+       "jp": "へや",
+       "tr": "kamar"
+      },
+      {
+       "jp": "へいや",
+       "tr": "padang"
+      },
+      {
+       "jp": "カード",
+       "tr": "kartu"
+      },
+      {
+       "jp": "タクシー",
+       "tr": "taksi"
+      },
+      {
+       "jp": "スーパー",
+       "tr": "pasar swalayan"
+      },
+      {
+       "jp": "エスカレーター",
+       "tr": "eskalator"
+      },
+      {
+       "jp": "ノート",
+       "tr": "buku catatan"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text_rich": "Cara Menulis Hiragana: Bunyi panjang dari Kolom あ, Kolom い, Kolom う masing-masing dibubuhi あ, い, う. Bunyi panjang dari Kolom え dibubuhi い. (Pengecualian: ええ (ya), ねえ (he), おねえさん (kakak perempuan) dan sebagainya.) Bunyi panjang dari Kolom お dibubuhi う. (Pengecualian: おおきい (besar), おおい (banyak), とおい (jauh) dan sebagainya.)"
+    },
+    {
+     "type": "note",
+     "text_rich": "Cara Menulis Katakana: Menggunakan tanda ー sebagai tanda bunyi panjang."
+    },
+    {
+     "type": "h",
+     "text_rich": "3. Bunyi yang ditulis dengan ん"
+    },
+    {
+     "type": "p",
+     "text_rich": "ん tidak terdapat di awal kata dan merupakan bunyi yang memiliki satu mora. ん berubah menjadi bunyi yang mudah diucapkan seperti /n/ /m/ /ŋ/, karena terpengaruh oleh bunyi yang terletak di belakangnya."
+    },
+    {
+     "type": "p",
+     "text_rich": "① Diucapkan sebagai /n/ di depan bunyi Baris た, Baris だ, Baris ら, dan Baris な."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "はんたい",
+       "tr": "perlawanan"
+      },
+      {
+       "jp": "うんどう",
+       "tr": "gerakan"
+      },
+      {
+       "jp": "せんろ",
+       "tr": "rel"
+      },
+      {
+       "jp": "みんな",
+       "tr": "semua"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text_rich": "② Diucapkan sebagai /m/ di depan bunyi Baris ば, Baris ぱ, dan Baris ま."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "しんぶん",
+       "tr": "surat kabar"
+      },
+      {
+       "jp": "えんぴつ",
+       "tr": "pensil"
+      },
+      {
+       "jp": "うんめい",
+       "tr": "nasib"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text_rich": "③ Diucapkan sebagai /ŋ/ di depan bunyi Baris か dan Baris が."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "てんき",
+       "tr": "cuaca"
+      },
+      {
+       "jp": "けんがく",
+       "tr": "peninjauan"
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "4. Bunyi yang ditulis dengan っ (っ huruf kecil)"
+    },
+    {
+     "type": "p",
+     "text_rich": "っ memiliki bunyi yang satu mora, dan muncul di depan bunyi Baris か, Baris さ, Baris た, dan Baris ぱ. Jika menulis kata-kata dari bahasa asing, digunakan pula di depan bunyi Baris ザ, Baris ダ, dan lain-lainnya."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "ぶか",
+       "tr": "bawahan"
+      },
+      {
+       "jp": "ぶっか",
+       "tr": "harga barang"
+      },
+      {
+       "jp": "かさい",
+       "tr": "kebakaran"
+      },
+      {
+       "jp": "かっさい",
+       "tr": "tepukan"
+      },
+      {
+       "jp": "おと",
+       "tr": "bunyi"
+      },
+      {
+       "jp": "おっと",
+       "tr": "suami"
+      },
+      {
+       "jp": "にっき",
+       "tr": "harian"
+      },
+      {
+       "jp": "ざっし",
+       "tr": "majalah"
+      },
+      {
+       "jp": "きって",
+       "tr": "prangko"
+      },
+      {
+       "jp": "いっぱい",
+       "tr": "penuh"
+      },
+      {
+       "jp": "コップ",
+       "tr": "gelas"
+      },
+      {
+       "jp": "ベッド",
+       "tr": "ranjang"
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "5. Bunyi yang ditulis dengan ゃ, ゅ atau ょ (ゃ, ゅ, ょ huruf kecil)"
+    },
+    {
+     "type": "p",
+     "text_rich": "Bunyi yang dibubuhkan ゃ, ゅ, ょ dengan huruf kecil disebut Yoon. Yoon terdiri dari dua huruf, tetapi diucapkan satu mora."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "ひやく",
+       "tr": "melompat"
+      },
+      {
+       "jp": "ひゃく",
+       "tr": "seratus"
+      },
+      {
+       "jp": "じゆう",
+       "tr": "kebebasan"
+      },
+      {
+       "jp": "じゅう",
+       "tr": "sepuluh"
+      },
+      {
+       "jp": "びよういん",
+       "tr": "salon kecantikan"
+      },
+      {
+       "jp": "びょういん",
+       "tr": "rumah sakit"
+      },
+      {
+       "jp": "シャツ",
+       "tr": "kemeja"
+      },
+      {
+       "jp": "おちゃ",
+       "tr": "teh"
+      },
+      {
+       "jp": "ぎゅうにゅう",
+       "tr": "susu sapi"
+      },
+      {
+       "jp": "きょう",
+       "tr": "hari ini"
+      },
+      {
+       "jp": "ぶちょう",
+       "tr": "kepala bagian"
+      },
+      {
+       "jp": "りょこう",
+       "tr": "perjalanan"
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "6. Ucapan Bunyi untuk Baris が"
+    },
+    {
+     "type": "p",
+     "text_rich": "Konsonan dalam Baris が, diucapkan [g] pada awal kata, dan selain itu diucapkan [ŋ]. Namun, akhir-akhir ini ada juga orang yang menggunakannya sebagai [g] tanpa membedakan [g] dan [ŋ]."
+    },
+    {
+     "type": "h",
+     "text_rich": "7. Kehilangan Bunyi Vokal"
+    },
+    {
+     "type": "p",
+     "text_rich": "Apa bila vokal [i] atau [u] terletak di antara konsonan tidak bersuara, sering kali cenderung kehilangan bunyi. Kemudian, bunyi [u] di bagian terakhir dari ～です dan ～ます juga cenderung kehilangan bunyi."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "すき",
+       "tr": "suka"
+      },
+      {
+       "jp": "したいです",
+       "tr": "ingin melakukan"
+      },
+      {
+       "jp": "ききます",
+       "tr": "mendengar"
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "8. Aksen"
+    },
+    {
+     "type": "p",
+     "text_rich": "Bahasa Jepang memiliki tinggi-rendahnya aksen. Dalam satu kosa katanya, ada yang moranya diucapkan tinggi, dan ada yang moranya diucapkan rendah. Pola aksen terdapat empat macam, dan dengan perbedaan pola arti kata pun berubah. Menurut pola aksen standar, tingginya mora pertama dan kedua berbeda, kemudian memiliki ciri khas bahwa sekali mengalami penurunan aksen, selanjutnya aksen tidak akan naik lagi."
+    },
+    {
+     "type": "p",
+     "text_rich": "Pola Aksen: ① Pola yang Datar (Tidak ada ucapan yang merendah): にわ (halaman), はな (hidung), なまえ (nama), にほんご (Bahasa Jepang). ② Pola yang awalnya ditekankan (Ucapan yang merendah terdapat setelah mora yang pertama): ほん (buku), てんき (cuaca), らいげつ (bulan depan). ③ Pola yang tengahnya tinggi (Ucapan yang merendah terdapat setelah mora yang kedua atau mora yang selanjutnya): たまご (telur), ひこうき (pesawat), せんせい (guru). ④ Pola yang akhir kosa katanya tinggi (Ucapan yang merendah terdapat setelah mora yang akhir): くつ (sepatu), はな (bunga), やすみ (libur), おとうと (adik laki-laki)."
+    },
+    {
+     "type": "p",
+     "text_rich": "はな (hidung) ① dan はな (bunga) ④ mirip, tetapi jika membubuhkan Kata Bantu が di belakangnya, untuk ① diucapkan はなが, sedangkan untuk ④ diucapkan はなが, maka pola aksennya berbeda. Demikian halnya, masih ada beberapa contoh sebagai perbedaan aksen dapat mengakibatkan perbedaan arti kosa kata adalah sebagai berikut: はし (jembatan) : はし (sumpit); いち (satu) : いち (posisi)."
+    },
+    {
+     "type": "p",
+     "text_rich": "Kadang-kadang aksen berbeda di setiap daerah. Contoh: Aksen Tokyo (Aksen standar) dan Aksen Osaka berbeda pada はな (bunga), りんご (apel), おんがく (musik)."
+    },
+    {
+     "type": "note",
+     "text_rich": "Tanda tinggi-rendah aksen (garis/kotak di atas kata) hanya ada pada halaman bukunya dan tidak ditampilkan di sini."
+    },
+    {
+     "type": "h",
+     "text_rich": "9. Intonasi"
+    },
+    {
+     "type": "p",
+     "text_rich": "Intonasi terdapat tiga macam pola, yaitu ①datar, ②naik, dan ③turun. Untuk pertanyaan diucapkan dengan intonasi yang naik. Kalimat yang lain-lainnya biasanya diucapkan dengan intonasi yang datar, tetapi adakalanya berintonasi yang turun jika menunjukkan rasa persetujuan atau kekecewaan."
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "{佐藤|さとう}：あした {友達|ともだち}と お{花見|はなみ}を します。［→ datar］",
+       "tr": "Sato: Besok saya akan melihat bunga Sakura dengan teman."
+      },
+      {
+       "jp": "ミラーさんも いっしょに {行|い}きませんか。［↗ naik］",
+       "tr": "Sdr. Miller juga mau pergi bersama-sama?"
+      },
+      {
+       "jp": "ミラー：いいですね。［↘ turun］",
+       "tr": "Miller: Baik."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kelas",
+   "title": "Ungkapan Kelas dan Salam",
+   "blocks": [
+    {
+     "type": "h",
+     "text_rich": "II. Ungkapan di Dalam Kelas"
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "{始|はじ}めましょう。",
+       "tr": "Mari kita mulai."
+      },
+      {
+       "jp": "{終|お}わりましょう。",
+       "tr": "Mari akhiri."
+      },
+      {
+       "jp": "{休|やす}みましょう。",
+       "tr": "Mari istirahat."
+      },
+      {
+       "jp": "わかりますか。",
+       "tr": "Mengerti?"
+      },
+      {
+       "jp": "……はい、わかります。",
+       "tr": "……Ya, mengerti."
+      },
+      {
+       "jp": "……いいえ、わかりません。",
+       "tr": "Tidak, tidak mengerti."
+      },
+      {
+       "jp": "もう {一度|いちど} ［お{願|ねが}いします］。",
+       "tr": "Tolong sekali lagi."
+      },
+      {
+       "jp": "いいです。",
+       "tr": "Benar."
+      },
+      {
+       "jp": "{違|ちが}います。",
+       "tr": "Salah."
+      },
+      {
+       "jp": "{名前|なまえ}",
+       "tr": "Nama"
+      },
+      {
+       "jp": "{試験|しけん}、{宿題|しゅくだい}",
+       "tr": "Ujian, PR"
+      },
+      {
+       "jp": "{質問|しつもん}、{答|こた}え、{例|れい}",
+       "tr": "Pertanyaan, Jawaban, Contoh"
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "III. Ucapan Salam Sehari-hari dan Ekspresi Percakapan"
+    },
+    {
+     "type": "ex",
+     "lines": [
+      {
+       "jp": "おはよう ございます。",
+       "tr": "Selamat pagi."
+      },
+      {
+       "jp": "こんにちは。",
+       "tr": "Selamat siang./Selamat sore."
+      },
+      {
+       "jp": "こんばんは。",
+       "tr": "Selamat malam."
+      },
+      {
+       "jp": "お{休|やす}みなさい。",
+       "tr": "Selamat tidur."
+      },
+      {
+       "jp": "さようなら。",
+       "tr": "Sampai jumpa lagi."
+      },
+      {
+       "jp": "ありがとう ございます。",
+       "tr": "Terima kasih."
+      },
+      {
+       "jp": "すみません。",
+       "tr": "Maaf."
+      },
+      {
+       "jp": "お{願|ねが}いします。",
+       "tr": "Tolong."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "petunjuk",
+   "title": "Kata-kata untuk Petunjuk",
+   "blocks": [
+    {
+     "type": "h",
+     "text_rich": "Kata-Kata untuk Petunjuk"
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       [
+        {
+         "jp": "{第|だい}一{課|か}"
+        }
+       ],
+       [
+        {
+         "tr": "Pelajaran —"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{文型|ぶんけい}"
+        }
+       ],
+       [
+        {
+         "tr": "Pola Kalimat"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{例文|れいぶん}"
+        }
+       ],
+       [
+        {
+         "tr": "Contoh Kalimat"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{会話|かいわ}"
+        }
+       ],
+       [
+        {
+         "tr": "Percakapan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{練習|れんしゅう}"
+        }
+       ],
+       [
+        {
+         "tr": "Latihan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{問題|もんだい}"
+        }
+       ],
+       [
+        {
+         "tr": "Soal"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{答|こた}え"
+        }
+       ],
+       [
+        {
+         "tr": "Jawaban"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{読|よ}み{物|もの}"
+        }
+       ],
+       [
+        {
+         "tr": "Bacaan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{復習|ふくしゅう}"
+        }
+       ],
+       [
+        {
+         "tr": "Ulangan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{目次|もくじ}"
+        }
+       ],
+       [
+        {
+         "tr": "Daftar Isi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{索引|さくいん}"
+        }
+       ],
+       [
+        {
+         "tr": "Refrensi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{文法|ぶんぽう}"
+        }
+       ],
+       [
+        {
+         "tr": "Tata Bahasa"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{文|ぶん}"
+        }
+       ],
+       [
+        {
+         "tr": "Kalimat"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{単語|たんご}（{語|ご}）"
+        }
+       ],
+       [
+        {
+         "tr": "Kosa Kata (Kata)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{句|く}"
+        }
+       ],
+       [
+        {
+         "tr": "Klausa"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{節|せつ}"
+        }
+       ],
+       [
+        {
+         "tr": "Anak Kalimat"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{発音|はつおん}"
+        }
+       ],
+       [
+        {
+         "tr": "Ucapan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{母音|ぼいん}"
+        }
+       ],
+       [
+        {
+         "tr": "Vokal"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{子音|しいん}"
+        }
+       ],
+       [
+        {
+         "tr": "Konsonan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{拍|はく}"
+        }
+       ],
+       [
+        {
+         "tr": "Mora"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "アクセント"
+        }
+       ],
+       [
+        {
+         "tr": "Aksen"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "イントネーション"
+        }
+       ],
+       [
+        {
+         "tr": "Intonasi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "［か］{行|ぎょう}"
+        }
+       ],
+       [
+        {
+         "tr": "Baris [か]"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "［い］{列|れつ}"
+        }
+       ],
+       [
+        {
+         "tr": "Kolom [い]"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{丁寧体|ていねいたい}"
+        }
+       ],
+       [
+        {
+         "tr": "Bentuk Sopan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{普通体|ふつうたい}"
+        }
+       ],
+       [
+        {
+         "tr": "Bentuk Biasa"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{活用|かつよう}"
+        }
+       ],
+       [
+        {
+         "tr": "Konjugasi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "フォーム"
+        }
+       ],
+       [
+        {
+         "tr": "Bentuk"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "～{形|けい}"
+        }
+       ],
+       [
+        {
+         "tr": "Bentuk ～"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{修飾|しゅうしょく}"
+        }
+       ],
+       [
+        {
+         "tr": "Modifikasi, Keterangan, Penjelasan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{例外|れいがい}"
+        }
+       ],
+       [
+        {
+         "tr": "Pengecualian"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{名詞|めいし}"
+        }
+       ],
+       [
+        {
+         "tr": "Kata Benda"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{動詞|どうし}"
+        }
+       ],
+       [
+        {
+         "tr": "Kata Kerja"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{形容詞|けいようし}"
+        }
+       ],
+       [
+        {
+         "tr": "Kata Sifat"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "い{形容詞|けいようし}"
+        }
+       ],
+       [
+        {
+         "tr": "Kata Sifat い"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "な{形容詞|けいようし}"
+        }
+       ],
+       [
+        {
+         "tr": "Kata Sifat な"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{助詞|じょし}"
+        }
+       ],
+       [
+        {
+         "tr": "Kata Bantu, Partikel"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{副詞|ふくし}"
+        }
+       ],
+       [
+        {
+         "tr": "Kata Keterangan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{接続詞|せつぞくし}"
+        }
+       ],
+       [
+        {
+         "tr": "Kata Penghubung"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{数詞|すうし}"
+        }
+       ],
+       [
+        {
+         "tr": "Kata Bilangan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{助数詞|じょすうし}"
+        }
+       ],
+       [
+        {
+         "tr": "Kata Bantu Bilangan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{疑問詞|ぎもんし}"
+        }
+       ],
+       [
+        {
+         "tr": "Kata Tanya"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{名詞文|めいしぶん}"
+        }
+       ],
+       [
+        {
+         "tr": "Kalimat Nominal"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{動詞文|どうしぶん}"
+        }
+       ],
+       [
+        {
+         "tr": "Kalimat Verba"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{形容詞文|けいようしぶん}"
+        }
+       ],
+       [
+        {
+         "tr": "Kalimat Adjektival"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{主語|しゅご}"
+        }
+       ],
+       [
+        {
+         "tr": "Subjek"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{述語|じゅつご}"
+        }
+       ],
+       [
+        {
+         "tr": "Predikat"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{目的語|もくてきご}"
+        }
+       ],
+       [
+        {
+         "tr": "Objek"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{主題|しゅだい}"
+        }
+       ],
+       [
+        {
+         "tr": "Topik"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{肯定|こうてい}"
+        }
+       ],
+       [
+        {
+         "tr": "Positif"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{否定|ひてい}"
+        }
+       ],
+       [
+        {
+         "tr": "Negatif"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{完了|かんりょう}"
+        }
+       ],
+       [
+        {
+         "tr": "Bentuk kata kerja yang menunjukan pekerjaan sudah diselesaikan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{未完了|みかんりょう}"
+        }
+       ],
+       [
+        {
+         "tr": "Bentuk kata kerja yang menunjukan pekerjaan belum diselesaikan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{過去|かこ}"
+        }
+       ],
+       [
+        {
+         "tr": "Waktu lampau"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{非過去|ひかこ}"
+        }
+       ],
+       [
+        {
+         "tr": "Waktu non lampau"
+        }
+       ]
+      ]
+     ],
+     "header": [
+      [
+       {
+        "tr": "Jepang"
+       }
+      ],
+      [
+       {
+        "tr": "Arti"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "Petunjuk Pemakaian: Aksara dan lain-lainnya yang digunakan pada [I. Kosa Kata]"
+    },
+    {
+     "type": "p",
+     "text_rich": "① ～ dimasukkan kata atau frase. Contoh: ～から {来|き}ました。 datang dari ～"
+    },
+    {
+     "type": "p",
+     "text_rich": "② － dimasukkan bilangan. Contoh: －{歳|さい} － tahun"
+    },
+    {
+     "type": "p",
+     "text_rich": "③ Kata-kata yang dapat dihilangkan dikurung dengan [   ]. Contoh: どうぞ よろしく ［お{願|ねが}いします］。 Salam kenal, mohon bantuannya."
+    },
+    {
+     "type": "p",
+     "text_rich": "④ Jika terdapat ekspresi yang lain, dikurung dengan (   ). Contoh: だれ（どなた） siapa"
+    },
+    {
+     "type": "p",
+     "text_rich": "⑤ Kata yang diberi tanda ＊ tidak dipakai pada pelajaran tersebut, tetapi disajikannya sebagai kata yang berhubungan degan pelajaran."
+    },
+    {
+     "type": "p",
+     "text_rich": "⑥ ＜{練習|れんしゅう} C＞ <Latihan C> menyajikan ekspresi dan lain-lainnya yang terdapat pada Latihan C."
+    },
+    {
+     "type": "p",
+     "text_rich": "⑦ ＜{会話|かいわ}＞ <Percakapan> menyajikan kosa kata, ekspresi dan lain-lainnya yang terdapat pada percakapan."
+    }
+   ]
+  }
+ ]
+}

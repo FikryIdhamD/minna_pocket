@@ -1,0 +1,1787 @@
+{
+ "book": 1,
+ "lesson": 16,
+ "title_jp": "{使|つか}い{方|かた}を　{教|おし}えて　ください",
+ "title_tr": "Tolong Ajarkan Cara Pemakaiannya!",
+ "source_pages": {
+  "main_pdf": [
+   157,
+   164
+  ],
+  "translation_pdf": [
+   120,
+   125
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "のります［でんしゃに～］",
+       "kanji_jp": "{乗|の}ります［{電車|でんしゃ}に～］",
+       "tr": "[Ⅰ] naik [kereta rel listrik]"
+      },
+      {
+       "kana_jp": "おります［でんしゃを～］",
+       "kanji_jp": "{降|お}ります［{電車|でんしゃ}を～］",
+       "tr": "[Ⅱ] turun [kereta rel listrik]"
+      },
+      {
+       "kana_jp": "のりかえます",
+       "kanji_jp": "{乗|の}り{換|か}えます",
+       "tr": "[Ⅱ] ganti, pindah"
+      },
+      {
+       "kana_jp": "あびます［シャワーを～］",
+       "kanji_jp": "{浴|あ}びます",
+       "tr": "[Ⅱ] mandi"
+      },
+      {
+       "kana_jp": "いれます",
+       "kanji_jp": "{入|い}れます",
+       "tr": "[Ⅱ] memasukkan"
+      },
+      {
+       "kana_jp": "だします",
+       "kanji_jp": "{出|だ}します",
+       "tr": "[Ⅰ] mengeluarkan, menyerahkan, mengirim"
+      },
+      {
+       "kana_jp": "おろします［おかねを～］",
+       "kanji_jp": "{下|お}ろします［お{金|かね}を～］",
+       "tr": "[Ⅰ] mengeluarkan/mengambil [uang]"
+      },
+      {
+       "kana_jp": "はいります［だいがくに～］",
+       "kanji_jp": "{入|はい}ります［{大学|だいがく}に～］",
+       "tr": "[Ⅰ] masuk [universitas]"
+      },
+      {
+       "kana_jp": "でます［だいがくを～］",
+       "kanji_jp": "{出|で}ます［{大学|だいがく}を～］",
+       "tr": "[Ⅱ] tamat [dari universitas]"
+      },
+      {
+       "kana_jp": "おします",
+       "kanji_jp": "{押|お}します",
+       "tr": "[Ⅰ] menekan"
+      },
+      {
+       "kana_jp": "のみます",
+       "kanji_jp": "{飲|の}みます",
+       "tr": "[Ⅰ] minum (minuman keras)"
+      },
+      {
+       "kana_jp": "はじめます",
+       "kanji_jp": "{始|はじ}めます",
+       "tr": "[Ⅱ] mulai"
+      },
+      {
+       "kana_jp": "けんがくします",
+       "kanji_jp": "{見学|けんがく}します",
+       "tr": "[Ⅲ] mengunjungi"
+      },
+      {
+       "kana_jp": "でんわします",
+       "kanji_jp": "{電話|でんわ}します",
+       "tr": "[Ⅲ] menelepon"
+      },
+      {
+       "kana_jp": "わかい",
+       "kanji_jp": "{若|わか}い",
+       "tr": "muda"
+      },
+      {
+       "kana_jp": "ながい",
+       "kanji_jp": "{長|なが}い",
+       "tr": "panjang"
+      },
+      {
+       "kana_jp": "みじかい",
+       "kanji_jp": "{短|みじか}い",
+       "tr": "pendek"
+      },
+      {
+       "kana_jp": "あかるい",
+       "kanji_jp": "{明|あか}るい",
+       "tr": "terang"
+      },
+      {
+       "kana_jp": "くらい",
+       "kanji_jp": "{暗|くら}い",
+       "tr": "gelap"
+      },
+      {
+       "kana_jp": "からだ*",
+       "kanji_jp": "{体|からだ}",
+       "tr": "badan"
+      },
+      {
+       "kana_jp": "あたま",
+       "kanji_jp": "{頭|あたま}",
+       "tr": "kepala"
+      },
+      {
+       "kana_jp": "かみ",
+       "kanji_jp": "{髪|かみ}",
+       "tr": "rambut"
+      },
+      {
+       "kana_jp": "かお*",
+       "kanji_jp": "{顔|かお}",
+       "tr": "muka"
+      },
+      {
+       "kana_jp": "め",
+       "kanji_jp": "{目|め}",
+       "tr": "mata"
+      },
+      {
+       "kana_jp": "みみ*",
+       "kanji_jp": "{耳|みみ}",
+       "tr": "telinga"
+      },
+      {
+       "kana_jp": "はな*",
+       "kanji_jp": "{鼻|はな}",
+       "tr": "hidung"
+      },
+      {
+       "kana_jp": "くち*",
+       "kanji_jp": "{口|くち}",
+       "tr": "mulut"
+      },
+      {
+       "kana_jp": "は*",
+       "kanji_jp": "{歯|は}",
+       "tr": "gigi"
+      },
+      {
+       "kana_jp": "おなか*",
+       "kanji_jp": null,
+       "tr": "perut"
+      },
+      {
+       "kana_jp": "あし*",
+       "kanji_jp": "{足|あし}",
+       "tr": "kaki"
+      },
+      {
+       "kana_jp": "せ",
+       "kanji_jp": "{背|せ}",
+       "tr": "punggung"
+      },
+      {
+       "kana_jp": "サービス",
+       "kanji_jp": null,
+       "tr": "pelayanan"
+      },
+      {
+       "kana_jp": "ジョギング",
+       "kanji_jp": null,
+       "tr": "joging, lari pelan-pelan (～を　します: berlari pelan-pelan)"
+      },
+      {
+       "kana_jp": "シャワー",
+       "kanji_jp": null,
+       "tr": "shower"
+      },
+      {
+       "kana_jp": "みどり",
+       "kanji_jp": "{緑|みどり}",
+       "tr": "hijau, tumbuhan hijau"
+      },
+      {
+       "kana_jp": "［お］てら",
+       "kanji_jp": "［お］{寺|てら}",
+       "tr": "wihara"
+      },
+      {
+       "kana_jp": "じんじゃ",
+       "kanji_jp": "{神社|じんじゃ}",
+       "tr": "kuil Shinto"
+      },
+      {
+       "kana_jp": "－ばん",
+       "kanji_jp": "－{番|ばん}",
+       "tr": "nomor －"
+      },
+      {
+       "kana_jp": "どうやって",
+       "kanji_jp": null,
+       "tr": "dengan cara bagaimana"
+      },
+      {
+       "kana_jp": "どの　～",
+       "kanji_jp": null,
+       "tr": "～ yang mana (mengungkapkan lebih dari tiga barang)"
+      },
+      {
+       "kana_jp": "どれ",
+       "kanji_jp": null,
+       "tr": "mana (mengungkapkan lebih dari tiga barang)"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{練習|れんしゅう}C〉",
+     "items": [
+      {
+       "kana_jp": "すごいですね。",
+       "kanji_jp": null,
+       "tr": "Hebat."
+      },
+      {
+       "kana_jp": "［いいえ、］　まだまだです。",
+       "kanji_jp": null,
+       "tr": "[Tidak], belum memuaskan."
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "お{引|ひ}き{出|だ}しですか。",
+       "kanji_jp": null,
+       "tr": "Mau menarik uang?"
+      },
+      {
+       "kana_jp": "まず",
+       "kanji_jp": null,
+       "tr": "pertama-tama, terlebih dahulu"
+      },
+      {
+       "kana_jp": "{次|つぎ}に",
+       "kanji_jp": null,
+       "tr": "kemudian"
+      },
+      {
+       "kana_jp": "キャッシュカード",
+       "kanji_jp": null,
+       "tr": "kartu ATM"
+      },
+      {
+       "kana_jp": "{暗証番号|あんしょうばんごう}",
+       "kanji_jp": null,
+       "tr": "PIN"
+      },
+      {
+       "kana_jp": "{金額|きんがく}",
+       "kanji_jp": null,
+       "tr": "jumlah uang"
+      },
+      {
+       "kana_jp": "{確認|かくにん}",
+       "kanji_jp": null,
+       "tr": "cek (～します: mengecek, memastikan)"
+      },
+      {
+       "kana_jp": "ボタン",
+       "kanji_jp": null,
+       "tr": "tombol"
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "JR",
+       "kanji_jp": null,
+       "tr": "JR (nama perusahaan rel kereta listrik)"
+      },
+      {
+       "kana_jp": "{雪祭|ゆきまつ}り",
+       "kanji_jp": null,
+       "tr": "pesta salju"
+      },
+      {
+       "kana_jp": "バンドン",
+       "kanji_jp": null,
+       "tr": "Bandung (di Indonesia)"
+      },
+      {
+       "kana_jp": "フランケン",
+       "kanji_jp": null,
+       "tr": "Franken (di Jerman)"
+      },
+      {
+       "kana_jp": "ベラクルス",
+       "kanji_jp": null,
+       "tr": "Veracruz (di Meksiko)"
+      },
+      {
+       "kana_jp": "{梅田|うめだ}",
+       "kanji_jp": null,
+       "tr": "Umeda (nama daerah di Osaka)"
+      },
+      {
+       "kana_jp": "{大学前|だいがくまえ}",
+       "kanji_jp": null,
+       "tr": "halte fiksi"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "{朝|あさ}　ジョギングを　して、シャワーを　{浴|あ}びて、{会社|かいしゃ}へ　{行|い}きます。",
+    "tr": "Pagi hari joging, mandi, kemudian pergi ke perusahaan."
+   },
+   {
+    "no": 2,
+    "jp": "コンサートが　{終|お}わってから、レストランで　{食事|しょくじ}しました。",
+    "tr": "Setelah selesai konser, makan di restoran."
+   },
+   {
+    "no": 3,
+    "jp": "{大阪|おおさか}は　{食|た}べ{物|もの}が　おいしいです。",
+    "tr": "Osaka makanannya enak."
+   },
+   {
+    "no": 4,
+    "jp": "この　{部屋|へや}は　{広|ひろ}くて、{明|あか}るいです。",
+    "tr": "Kamar ini luas dan terang."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "きのう　{何|なに}を　しましたか。",
+      "tr": "Kemarin melakukan apa?"
+     },
+     {
+      "jp": "……{図書館|としょかん}へ　{行|い}って、{本|ほん}を　{借|か}りて、それから　{友達|ともだち}に　{会|あ}いました。",
+      "tr": "……Pergi ke perpustakaan untuk meminjam buku, kemudian bertemu dengan teman."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "{大学|だいがく}まで　どうやって　{行|い}きますか。",
+      "tr": "Bagaimana caranya pergi ke universitas?"
+     },
+     {
+      "jp": "……{京都駅|きょうとえき}から　16{番|ばん}の　バスに　{乗|の}って、{大学前|だいがくまえ}で　{降|お}ります。",
+      "tr": "……Dari stasiun Kyoto, naik bus nomor 16, dan turun di Daigakumae."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "{今|いま}から　{大阪城|おおさかじょう}を　{見学|けんがく}しますか。",
+      "tr": "Sekarang mau melihat Benteng Osaka?"
+     },
+     {
+      "jp": "……いいえ。　{昼|ひる}ごはんを　{食|た}べてから、{見学|けんがく}します。",
+      "tr": "……Tidak. Melihatnya setelah makan siang."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "マリアさんは　どの　{人|ひと}ですか。",
+      "tr": "Sdr. Maria orangnya yang mana?"
+     },
+     {
+      "jp": "……あの　{髪|かみ}が　{長|なが}い　{人|ひと}です。",
+      "tr": "……Orang yang rambutnya panjang itu."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "{太郎|たろう}ちゃんの　{自転車|じてんしゃ}は　どれですか。",
+      "tr": "Yang mana sepeda Taro?"
+     },
+     {
+      "jp": "……あの　{青|あお}くて、{新|あたら}しい　{自転車|じてんしゃ}です。",
+      "tr": "……Sepeda yang biru, dan baru itu."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "{奈良|なら}は　どんな　{町|まち}ですか。",
+      "tr": "Nara kota yang bagaimana?"
+     },
+     {
+      "jp": "……{静|しず}かで、きれいな　{町|まち}です。",
+      "tr": "……Kota yang tenang dan indah."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "あの　{人|ひと}は　だれですか。",
+      "tr": "Siapa orang itu?"
+     },
+     {
+      "jp": "……カリナさんです。　インドネシア{人|じん}で、{富士大学|ふじだいがく}の　{留学生|りゅうがくせい}です。",
+      "tr": "……Sdr. Karina. Dia orang Indonesia, dan pelajar asing dari Universitas Fuji."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "{使|つか}い{方|かた}を　{教|おし}えて　ください",
+   "title_tr": "Tolong Ajarkan Cara Pemakaiannya!",
+   "image": "img/L16/kaiwa.webp",
+   "audio": "audio/L16_kaiwa.m4a",
+   "cd_track": "CD56",
+   "lines": [
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "すみませんが、ちょっと　{使|つか}い{方|かた}を　{教|おし}えて　ください。",
+     "tr": "Maaf, tolong ajarkan cara pemakaiannya."
+    },
+    {
+     "speaker_jp": "{銀行員|ぎんこういん}",
+     "speaker_tr": "Pegawai bank",
+     "jp": "お{引|ひ}き{出|だ}しですか。",
+     "tr": "Tarik uang?"
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "そうです。",
+     "tr": "Ya, betul."
+    },
+    {
+     "speaker_jp": "{銀行員|ぎんこういん}",
+     "speaker_tr": "Pegawai bank",
+     "jp": "じゃ、まず　ここを　{押|お}して　ください。",
+     "tr": "Kalau begitu, pertama-tama tekan di sini."
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "はい。",
+     "tr": "Baik."
+    },
+    {
+     "speaker_jp": "{銀行員|ぎんこういん}",
+     "speaker_tr": "Pegawai bank",
+     "jp": "{次|つぎ}に　キャッシュカードを　ここに　{入|い}れて、{暗証番号|あんしょうばんごう}を　{押|お}して　ください。",
+     "tr": "Kemudian, masukkan kartu ATM di sini, dan tekankan nomor PINnya."
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "はい。",
+     "tr": "Baik."
+    },
+    {
+     "jp": "{押|お}しました。",
+     "tr": "Sudah saya tekankan."
+    },
+    {
+     "speaker_jp": "{銀行員|ぎんこういん}",
+     "speaker_tr": "Pegawai bank",
+     "jp": "じゃ、{金額|きんがく}を　{押|お}して　ください。",
+     "tr": "Kalau begitu, tekankan jumlah uangnya."
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "5{万円|まんえん}ですが、5……。",
+     "tr": "¥50.000, lima...."
+    },
+    {
+     "speaker_jp": "{銀行員|ぎんこういん}",
+     "speaker_tr": "Pegawai bank",
+     "jp": "この　「{万|まん}」「{円|えん}」を　{押|お}します。",
+     "tr": "Tekan “Man (10,000)” dan “En (Yen)” ini."
+    },
+    {
+     "jp": "それから　この　「{確認|かくにん}」ボタンを　{押|お}して　ください。",
+     "tr": "Kemudian, tekan tombol “Kakunin (cek)” ini."
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "はい。　どうも　ありがとう　ございました。",
+     "tr": "Baik. Terima kasih banyak."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あした　{神戸|こうべ}へ",
+          "きのうの　{晩|ばん}　{本|ほん}を",
+          "{日曜日|にちようび}　10{時|じ}ごろ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いって、",
+          "よんで、",
+          "おきて、"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{映画|えいが}を",
+          "CDを",
+          "　"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "みて、",
+          "きいて、",
+          "さんぽして、"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{買|か}い{物|もの}します。",
+          "{寝|ね}ました。",
+          "{食事|しょくじ}します。"
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "うちへ",
+          "{電話|でんわ}を",
+          "{仕事|しごと}が"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かえって",
+          "かけて",
+          "おわって"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "から、"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{晩|ばん}ごはんを　{食|た}べます。",
+          "{友達|ともだち}の　うちへ　{行|い}きます。",
+          "{泳|およ}ぎに　{行|い}きました。"
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "text_jp": "カリナさんは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "せ",
+          "め",
+          "かみ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "が"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "たかい",
+          "おおきい",
+          "みじかい"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "です。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "text_jp": "ミラーさんは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "　",
+          "あたまが",
+          "　",
+          "　"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "わかくて、",
+          "よくて、",
+          "ハンサムで、",
+          "28さいで、"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{元気|げんき}です。",
+          "おもしろいです。",
+          "{親切|しんせつ}です。",
+          "{独身|どくしん}です。"
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig2",
+     "image": "img/L16/rb_fig2.webp"
+    },
+    {
+     "id": "fig8",
+     "image": "img/L16/rb_fig8.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "examples": [
+      {
+       "prompt_jp": "{日曜日|にちようび}　{梅田|うめだ}へ　{行|い}きます・{友達|ともだち}に　{会|あ}います",
+       "answer_jp": [
+        "{日曜日|にちようび}　{梅田|うめだ}へ　{行|い}って、{友達|ともだち}に　{会|あ}います。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{昼|ひる}　1{時間|じかん}　{休|やす}みます・{午後|ごご}　5{時|じ}まで　{働|はたら}きます"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{京都駅|きょうとえき}から　JRに　{乗|の}ります・{大阪|おおさか}で　{地下鉄|ちかてつ}に　{乗|の}り{換|か}えます"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{市役所|しやくしょ}と　{銀行|ぎんこう}へ　{行|い}きました・うちへ　{帰|かえ}りました"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "サンドイッチを　{買|か}いました・{公園|こうえん}で　{食|た}べました"
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "figure": "fig2",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "6{時|じ}に　{起|お}きて、{散歩|さんぽ}して、それから　{朝|あさ}ごはんを　{食|た}べました。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "examples": [
+      {
+       "prompt_jp": "{電話|でんわ}を　かけます・{友達|ともだち}の　うちへ　{行|い}きます",
+       "answer_jp": [
+        "{電話|でんわ}を　かけてから、{友達|ともだち}の　うちへ　{行|い}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "お{金|かね}を　{下|お}ろします・{買|か}い{物|もの}に　{行|い}きます"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "きのう　{仕事|しごと}が　{終|お}わりました・{飲|の}みに　{行|い}きました"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{日本|にほん}へ　{来|き}ました・{日本語|にほんご}の　{勉強|べんきょう}を　{始|はじ}めました"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "お{金|かね}を　{入|い}れます・ボタンを　{押|お}して　ください"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "もう　レポートを　{出|だ}しましたか。（もう　{一度|いちど}　{読|よ}みます）",
+       "answer_jp": [
+        "いいえ、まだです。　もう　{一度|いちど}　{読|よ}んでから、{出|だ}します。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "もう　{昼|ひる}ごはんを　{食|た}べましたか。（この　{仕事|しごと}が　{終|お}わります）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "もう　IMCに　{電話|でんわ}しましたか。（メールを　{送|おく}ります）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "もう　{会議|かいぎ}の　{資料|しりょう}を　コピーしましたか。（{松本|まつもと}さんに　{見|み}せます）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "もう　パワー{電気|でんき}へ　{行|い}きましたか。（{午後|ごご}の　{会議|かいぎ}が　{終|お}わります）"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "examples": [
+      {
+       "prompt_jp": "{雪|ゆき}・{多|おお}い",
+       "answer_jp": [
+        "{北海道|ほっかいどう}は　{雪|ゆき}が　{多|おお}いです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{人|ひと}・{少|すく}ない"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{冬|ふゆ}・{長|なが}い"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{食|た}べ{物|もの}・おいしい"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{雪祭|ゆきまつ}り・{有名|ゆうめい}"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "examples": [
+      {
+       "prompt_jp": "この　カメラ・{大|おお}きい・{重|おも}い",
+       "answer_jp": [
+        "この　カメラは　{大|おお}きくて、{重|おも}いです。"
+       ]
+      },
+      {
+       "prompt_jp": "ワットさん・{親切|しんせつ}・すてき",
+       "answer_jp": [
+        "ワットさんは　{親切|しんせつ}で、すてきです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "わたしの　{部屋|へや}・{狭|せま}い・{暗|くら}い"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{沖縄|おきなわ}の　{海|うみ}・{青|あお}い・きれい"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{東京|とうきょう}・にぎやか・おもしろい"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "ワットさん・45{歳|さい}・{独身|どくしん}"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "examples": [
+      {
+       "prompt_jp": "{奈良|なら}は　どんな　{町|まち}ですか。（{緑|みどり}が　{多|おお}い・{静|しず}か）",
+       "answer_jp": [
+        "{緑|みどり}が　{多|おお}くて、{静|しず}かな　{町|まち}です。"
+       ]
+      },
+      {
+       "prompt_jp": "きのうの　パーティーは　どうでしたか。（にぎやか・{楽|たの}しい）",
+       "answer_jp": [
+        "にぎやかで、{楽|たの}しかったです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "ミラーさんは　どんな　{人|ひと}ですか。（{頭|あたま}が　いい・おもしろい）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "サントスさんは　どんな　{人|ひと}ですか。（{元気|げんき}・{親切|しんせつ}）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{寮|りょう}の　{部屋|へや}は　どうですか。（{広|ひろ}い・{明|あか}るい）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "ホテルは　どうでしたか。（{静|しず}か・サービスが　いい）"
+      }
+     ]
+    },
+    {
+     "no": 8,
+     "figure": "fig8",
+     "examples": [
+      {
+       "prompt_jp": "マリアさんは　どの　{人|ひと}ですか。（{髪|かみ}が　{長|なが}い・きれい）",
+       "answer_jp": [
+        "あの　{髪|かみ}が　{長|なが}くて、きれいな　{人|ひと}です。"
+       ]
+      },
+      {
+       "prompt_jp": "マリアさんの　かばんは　どれですか。（{白|しろ}い・{大|おお}きい）",
+       "answer_jp": [
+        "あの　{白|しろ}くて、{大|おお}きい　かばんです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "ミラーさんは　どの　{人|ひと}ですか。（{若|わか}い・{背|せ}が　{高|たか}い）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "ワットさんは　どの　{人|ひと}ですか。（ダンスが　{上手|じょうず}・すてき）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "ミラーさんの　かばんは　どれですか。（{黒|くろ}い・{古|ふる}い）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "カリナさんの　かばんは　どれですか。（{赤|あか}い・{小|ちい}さい）"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L16/rc1.webp",
+    "dialog": [
+     {
+      "jp": "きのうは　どこか　{行|い}きましたか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ええ、{京都|きょうと}へ　{行|い}きました。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "そうですか。　{京都|きょうと}で　{何|なに}を　しましたか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "{友達|ともだち}に　{会|あ}って、[[{食事|しょくじ}して]]、",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "それから　[[お{寺|てら}を　{見|み}]]ました。"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L16/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L16/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L16/rc2.webp",
+    "dialog": [
+     {
+      "jp": "{日本語|にほんご}が　{上手|じょうず}ですね。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "どのくらい　{勉強|べんきょう}しましたか。"
+     },
+     {
+      "jp": "1{年|ねん}ぐらいです。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[{日本|にほん}へ　{来|き}て]]から、{始|はじ}めました。"
+     },
+     {
+      "jp": "そうですか。　すごいですね。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "いいえ、まだまだです。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L16/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L16/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L16/rc3.webp",
+    "dialog": [
+     {
+      "jp": "[[インドネシアの　バンドン]]から　{来|き}ました。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[バンドン]]？　どんな　{所|ところ}ですか。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "そうですね。　[[{緑|みどり}が　{多|おお}くて]]、きれいな　{所|ところ}です。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "そうですか。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L16/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L16/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L16_mondai1.m4a",
+    "cd_track": "CD57",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_choice_image",
+    "audio": "audio/L16_mondai2.m4a",
+    "cd_track": "CD58",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "image": "img/L16/m2_1.webp",
+      "options": 3
+     },
+     {
+      "no": 2,
+      "image": "img/L16/m2_2.webp",
+      "options": 3
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "listen_truefalse",
+    "audio": "audio/L16_mondai3.m4a",
+    "cd_track": "CD59",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "fill",
+    "instruction_jp": "［{閉|し}めます］　　{下|お}ろします　　{乗|の}ります　　{浴|あ}びます　　{行|い}きます　　{乗|の}り{換|か}えます",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{窓|まど}を　（{閉|し}めて）、{電気|でんき}を　{消|け}して、{寝|ね}ました。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "デパートへ　（＿）、{買|か}い{物|もの}して、それから　{映画|えいが}を　{見|み}ます。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{銀行|ぎんこう}で　お{金|かね}を　（＿）から、{買|か}い{物|もの}に　{行|い}きます。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{甲子園|こうしえん}から　{電車|でんしゃ}に　（＿）、{梅田|うめだ}で　{地下鉄|ちかてつ}に　（＿）、{日本橋|にっぽんばし}で　{降|お}ります。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "シャワーを　（＿）から、プールに　{入|はい}って　ください。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "instruction_jp": "いいです　　［{多|おお}いです］　　{軽|かる}いです　　にぎやかです　　{学生|がくせい}です",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{奈良|なら}は　{緑|みどり}が　（{多|おお}くて）、きれいな　{町|まち}です。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "カリナさんは　{富士大学|ふじだいがく}の　（＿）、{美術|びじゅつ}を　{勉強|べんきょう}して　います。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{佐藤|さとう}さんは　{頭|あたま}が　（＿）、すてきな　{人|ひと}です。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{新|あたら}しい　パソコンは　（＿）、{便利|べんり}です。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{東京|とうきょう}は　（＿）、おもしろい　{町|まち}です。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "ミラーさんは　{背|せ}（が）　{高|たか}いです。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{国|くに}へ　{帰|かえ}ってから、{大学|だいがく}（＿）　{入|はい}って、{経済|けいざい}の　{研究|けんきゅう}を　します。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{大阪駅|おおさかえき}から　JR（＿）　{乗|の}って、{京都駅|きょうとえき}（＿）　{降|お}ります。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{京都|きょうと}で　{古|ふる}い　お{寺|てら}（＿）　{見学|けんがく}しました。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{日本|にほん}は　{山|やま}（＿）　{多|おお}いです。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{北海道|ほっかいどう}は　きれいで、{食|た}べ{物|もの}（＿）　おいしいです。"
+      ]
+     },
+     {
+      "no": 6,
+      "lines_jp": [
+       "ここ（＿）　お{金|かね}（＿）　{入|い}れて　ください。"
+      ]
+     },
+     {
+      "no": 7,
+      "lines_jp": [
+       "ジョギングを　して、シャワー（＿）　{浴|あ}びて、{学校|がっこう}へ　{行|い}きます。"
+      ]
+     },
+     {
+      "no": 8,
+      "lines_jp": [
+       "{大学|だいがく}（＿）　{出|で}てから、{父|ちち}の　{会社|かいしゃ}（＿）　{働|はたら}きました。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "kind": "choice",
+    "passage_title_jp": "{大阪|おおさか}、{神戸|こうべ}、{京都|きょうと}、{奈良|なら}",
+    "passage_jp": [
+     "{大阪|おおさか}は　{大|おお}きくて、にぎやかな　{町|まち}です。　おもしろい　{人|ひと}が　{多|おお}くて、{食|た}べ{物|もの}が　おいしいです。",
+     "{神戸|こうべ}と　{京都|きょうと}と　{奈良|なら}は　{大阪|おおさか}から　{近|ちか}いです。　{4|よっ}つの　{町|まち}の　{中|なか}で　{奈良|なら}が　いちばん　{古|ふる}いです。　{奈良|なら}と　{京都|きょうと}は　{古|ふる}い　お{寺|てら}や　{神社|じんじゃ}が　{多|おお}いですから、{外国人|がいこくじん}も　{遊|あそ}びに　{来|き}ます。",
+     "{神戸|こうべ}は　すてきな　{町|まち}です。　{前|まえ}に　{海|うみ}が　あって、うしろに　{山|やま}が　あります。　{若|わか}い　{人|ひと}は　{神戸|こうべ}が　{好|す}きです。"
+    ],
+    "image": "img/L16/m7.webp",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "おもしろい　{人|ひと}が　たくさん　います。（[[{大阪|おおさか}]]）"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{近|ちか}くに　{山|やま}と　{海|うみ}が　あります。"
+      ],
+      "choices_jp": [
+       "{大阪|おおさか}",
+       "{神戸|こうべ}",
+       "{京都|きょうと}",
+       "{奈良|なら}"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{古|ふる}い　お{寺|てら}や　{神社|じんじゃ}が　たくさん　あります。（2つ）"
+      ],
+      "choices_jp": [
+       "{大阪|おおさか}",
+       "{神戸|こうべ}",
+       "{京都|きょうと}",
+       "{奈良|なら}"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "いちばん　{古|ふる}い　{町|まち}です。"
+      ],
+      "choices_jp": [
+       "{大阪|おおさか}",
+       "{神戸|こうべ}",
+       "{京都|きょうと}",
+       "{奈良|なら}"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{食|た}べ{物|もの}が　おいしくて、にぎやかです。"
+      ],
+      "choices_jp": [
+       "{大阪|おおさか}",
+       "{神戸|こうべ}",
+       "{京都|きょうと}",
+       "{奈良|なら}"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Cara menyambung kalimat yang lebih dari dua",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Dengan memakai ～て(～で) dapat menyambung kalimat yang lebih dari dua menjadi satu kalimat."
+     },
+     {
+      "type": "h",
+      "text_rich": "1) Kata Kerja Bentuk て₁、［Kata Kerja Bentuk て₂、］ Kata Kerja₃"
+     },
+     {
+      "type": "p",
+      "text_rich": "Apabila menyatakan lebih dari dua aksi yang berturut-turut, menyebutkan aksi tersebut sesuai dengan urutannya dengan menggunakan bentuk て. Waktu ditentukan dengan Kata Kerja yang terakhir."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "{朝|あさ}　ジョギングを　して、シャワーを　{浴|あ}びて、{会社|かいしゃ}へ　{行|い}きます。",
+        "tr": "Pagi hari joging, mandi, kemudian pergi ke perusahaan."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "{神戸|こうべ}へ　{行|い}って、{映画|えいが}を　{見|み}て、お{茶|ちゃ}を　{飲|の}みました。",
+        "tr": "Pergi ke Kobe, menonton film, kemudian minum teh."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Kata Sifat い（～い）→　～くて"
+     },
+     {
+      "type": "p",
+      "text_rich": "おおきーい → おおきーくて besar　ちいさーい → ちいさーくて kecil　いーい → よーくて baik, bagus (pengecualian)"
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "ミラーさんは　{若|わか}くて、{元気|げんき}です。",
+        "tr": "Sdr. Miller muda dan sehat."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "きのうは　{天気|てんき}が　よくて、{暑|あつ}かったです。",
+        "tr": "Kemarin cuaca baik dan panas."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "3) Kata Sifat な［な］→　～で"
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "ミラーさんは　ハンサムで、{親切|しんせつ}です。",
+        "tr": "Sdr. Miller ganteng dan baik hati."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "{奈良|なら}は　{静|しず}かで、きれいな　{町|まち}です。",
+        "tr": "Nara adalah kota yang tenang dan indah."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Jika memakai ～て(～で) untuk menyambung Kata sifat yang bersubjek yang sama, tidak dapat menyambungkan kalimat yang nilai pembicaranya berbeda. Dalam hal itu, menggunakan が (Lihat Pel.8-4). ×この　へやは　せまくて、きれいです。　○この　へやは　せまいですが、きれいです。 Kamar ini sempit, tetapi bersih."
+     },
+     {
+      "type": "h",
+      "text_rich": "4) Kata Benda で"
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "カリナさんは　インドネシア{人|じん}で、{富士大学|ふじだいがく}の　{留学生|りゅうがくせい}です。",
+        "tr": "Sdr. Karina adalah orang Indonesia dan pelajar asing dari Universitas Fuji."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "カリナさんは　{学生|がくせい}で、マリアさんは　{主婦|しゅふ}です。",
+        "tr": "Sdr. Karina adalah mahasiswa, sedangkan Sdr. Maria adalah ibu rumah tangga."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Kata Kerja₁ Bentuk てから、Kata Kerja₂",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Pola kalimat ini menunjukkan bahwa Kata Kerja₂ dilakukan setelah Kata Kerja₁. Oleh karena itu, pada umumnya dengan Kata Kerja₁ dikatakan prasyarat sebagai persiapan untuk melakukan Kata Kerja₂. Waktu ditentukan oleh waktu Kata Kerja terakhir."
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "お{金|かね}を　{入|い}れてから、ボタンを　{押|お}して　ください。",
+        "tr": "Tekanlah tombol setelah memasukkan uang."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Dengan catatan bahwa subjek untuk Kata Kerja Bentuk てから ditunjukkan dengan partikel が."
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "もう　{昼|ひる}ごはんを　{食|た}べましたか。",
+        "tr": "Sudah makan siang?"
+       },
+       {
+        "jp": "……この　{仕事|しごと}が　{終|お}わってから、{食|た}べます。",
+        "tr": "……Setelah selesai pekerjaan ini, baru mau makan."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Benda₁ は　Kata Benda₂ が　Kata Sifat",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Pola kalimat ini menunjukkan bahwa topik (Kata Benda₁) mempunyai sifat ‘Kata Benda₂ が Kata Sifat’."
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "{大阪|おおさか}は　{食|た}べ{物|もの}が　おいしいです。",
+        "tr": "Osaka makanannya enak."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "ドイツの　フランケンは　ワインが　{有名|ゆうめい}です。",
+        "tr": "Franken di Jerman anggurnya terkenal."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "マリアさんは　{髪|かみ}が　{長|なが}いです。",
+        "tr": "Sdr. Maria rambutnya panjang."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "Kata Benda を　Kata Kerja",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Kata Kerja でます, おります dan lain-lainnya digunakan bersama dengan partikel を. を ini menunjukkan titik awal atau titik keberangkatan."
+     },
+     {
+      "type": "ex",
+      "mark": "⑭",
+      "lines": [
+       {
+        "jp": "7{時|じ}に　うちを　{出|で}ます。",
+        "tr": "Pada pukul tujuh keluar dari rumah."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑮",
+      "lines": [
+       {
+        "jp": "{梅田|うめだ}で　{電車|でんしゃ}を　{降|お}りました。",
+        "tr": "Turun kereta rel listirik di Umeda."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "どうやって",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "どうやって dipakai untuk menanyakan cara pergi ke suatu tempat atau cara untuk melakukan sesuatu."
+     },
+     {
+      "type": "ex",
+      "mark": "⑯",
+      "lines": [
+       {
+        "jp": "{大学|だいがく}まで　どうやって　{行|い}きますか。",
+        "tr": "Bagaimana caranya pergi ke universitas?"
+       },
+       {
+        "jp": "……{京都駅|きょうとえき}から　16{番|ばん}の　バスに　{乗|の}って、{大学前|だいがくまえ}で　{降|お}ります。",
+        "tr": "……Dari stasiun Kyoto, naik bus nomor 16, dan turun di Daigakumae."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_rich": "どれ／どの　Kata Benda",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "どれ adalah Kata Tanya untuk meminta untuk menuntukan satu dari lebih dari tiga macam pilihan yang ditunjukkan secara konkret."
+     },
+     {
+      "type": "ex",
+      "mark": "⑰",
+      "lines": [
+       {
+        "jp": "ミラーさんの　{傘|かさ}は　どれですか。",
+        "tr": "Yang mana payung Sdr. Miller?"
+       },
+       {
+        "jp": "……あの　{青|あお}い　{傘|かさ}です。",
+        "tr": "……Payung yang biru itu."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "どれ tidak dapat digunakan dengan Kata Benda secara langsung. Ketika menerangkan Kata Benda digunakan どの."
+     },
+     {
+      "type": "ex",
+      "mark": "⑱",
+      "lines": [
+       {
+        "jp": "サントスさんは　どの　{人|ひと}ですか。",
+        "tr": "Sdr. Santos orangnya yang mana?"
+       },
+       {
+        "jp": "……あの　{背|せ}が　{高|たか}くて、{髪|かみ}が　{黒|くろ}い　{人|ひと}です。",
+        "tr": "……Orang yang badannya tinggi, dan rambutnya hitam."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "ATMの　{使|つか}い{方|かた}",
+   "title_tr": "Cara Menggunakan ATM",
+   "blocks": [
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "お{預|あず}け{入|い}れ"
+        }
+       ],
+       [
+        {
+         "tr": "menambahkan saldo"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "お{振|ふ}り{込|こ}み"
+        }
+       ],
+       [
+        {
+         "tr": "pembayaran"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "お{振|ふ}り{替|か}え"
+        }
+       ],
+       [
+        {
+         "tr": "pengiriman"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "お{引|ひ}き{出|だ}し"
+        }
+       ],
+       [
+        {
+         "tr": "penarikan uang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{通帳記入|つうちょうきにゅう}"
+        }
+       ],
+       [
+        {
+         "tr": "pembaharuan buku catatatan bank"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{残高照会|ざんだかしょうかい}"
+        }
+       ],
+       [
+        {
+         "tr": "cek saldo"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{暗証番号|あんしょうばんごう}"
+        }
+       ],
+       [
+        {
+         "tr": "PIN"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{円|えん}"
+        }
+       ],
+       [
+        {
+         "tr": "Yen (mata uang Jepang)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{確認|かくにん}"
+        }
+       ],
+       [
+        {
+         "tr": "cek"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "image": "img/L16/sankou_atm.webp",
+     "caption": "ATMの　{使|つか}い{方|かた}"
+    },
+    {
+     "type": "p",
+     "text_rich": "① Tekan tombol お{引|ひ}き{出|だ}し.　② Masukan kartu ATM.　③ Masukan nomor PIN.　④ Masukan jumlah uang yang akan diambil lalu tekan tombol {円|えん}.　⑤ Jika sudah benar, tekan tombol {確認|かくにん}.　⑥ Ambil uang dan kartu ATM."
+    }
+   ]
+  }
+ }
+}

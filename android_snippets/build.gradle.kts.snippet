@@ -1,0 +1,45 @@
+// ===== Tempel di android/app/build.gradle.kts (lihat docs/02 Task T03) =====
+
+// (A) dua bagian:
+// (A1) baris PALING ATAS file, SEBELUM blok `plugins { ... }` (Kotlin mewajibkan import di awal file):
+import java.util.Properties
+import java.io.FileInputStream
+
+// (A2) tepat SETELAH blok `plugins { ... }`:
+val keystoreProperties = Properties()
+val keystorePropertiesFile = rootProject.file("key.properties")
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(FileInputStream(keystorePropertiesFile))
+}
+
+// (B) di DALAM blok `android { ... }`:
+    flavorDimensions += "book"
+    productFlavors {
+        create("book1") {
+            dimension = "book"
+            applicationId = "id.minnapocket.book1"
+            resValue("string", "app_name", "Minna Pocket")
+        }
+        create("book2") {
+            dimension = "book"
+            applicationId = "id.minnapocket.book2"
+            resValue("string", "app_name", "Minna Pocket II")
+        }
+    }
+
+    signingConfigs {
+        create("release") {
+            if (keystorePropertiesFile.exists()) {
+                keyAlias = keystoreProperties["keyAlias"] as String
+                keyPassword = keystoreProperties["keyPassword"] as String
+                storeFile = file(keystoreProperties["storeFile"] as String)
+                storePassword = keystoreProperties["storePassword"] as String
+            }
+        }
+    }
+
+// (C) di DALAM blok `defaultConfig { ... }` — GANTI baris minSdk yang ada menjadi:
+        minSdk = 24
+
+// (D) di DALAM blok `buildTypes { release { ... } }` — GANTI baris signingConfig yang ada menjadi:
+            signingConfig = if (keystorePropertiesFile.exists()) signingConfigs.getByName("release") else signingConfigs.getByName("debug")

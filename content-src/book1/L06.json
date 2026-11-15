@@ -1,0 +1,2258 @@
+{
+ "book": 1,
+ "lesson": 6,
+ "title_jp": "いっしょに　{行|い}きませんか",
+ "title_tr": "Bagaimana Kalau Kita Pergi Bersama-sama?",
+ "source_pages": {
+  "main_pdf": [
+   71,
+   78
+  ],
+  "translation_pdf": [
+   60,
+   65
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "たべます",
+       "kanji_jp": "{食|た}べます",
+       "tr": "makan"
+      },
+      {
+       "kana_jp": "のみます",
+       "kanji_jp": "{飲|の}みます",
+       "tr": "minum"
+      },
+      {
+       "kana_jp": "すいます［たばこを～］",
+       "kanji_jp": "{吸|す}います",
+       "tr": "mengisap [rokok], merokok"
+      },
+      {
+       "kana_jp": "みます",
+       "kanji_jp": "{見|み}ます",
+       "tr": "melihat, menonton"
+      },
+      {
+       "kana_jp": "ききます",
+       "kanji_jp": "{聞|き}きます",
+       "tr": "mendengar"
+      },
+      {
+       "kana_jp": "よみます",
+       "kanji_jp": "{読|よ}みます",
+       "tr": "membaca"
+      },
+      {
+       "kana_jp": "かきます",
+       "kanji_jp": "{書|か}きます",
+       "tr": "menulis, menggambar (かきます juga bermaksud menggambar, tetapi dalam buku ini yang dimaksud menggambar itu tertulis dalam hiragana)"
+      },
+      {
+       "kana_jp": "かいます",
+       "kanji_jp": "{買|か}います",
+       "tr": "membeli"
+      },
+      {
+       "kana_jp": "とります［しゃしんを～］",
+       "kanji_jp": "{撮|と}ります［{写真|しゃしん}を～］",
+       "tr": "mengambil [foto]"
+      },
+      {
+       "kana_jp": "します",
+       "kanji_jp": null,
+       "tr": "mengerjakan, melakukan, berbuat"
+      },
+      {
+       "kana_jp": "あいます［ともだちに～］",
+       "kanji_jp": "{会|あ}います［{友達|ともだち}に～］",
+       "tr": "bertemu [dengan teman]"
+      },
+      {
+       "kana_jp": "ごはん",
+       "kanji_jp": null,
+       "tr": "nasi"
+      },
+      {
+       "kana_jp": "あさごはん*",
+       "kanji_jp": "{朝|あさ}ごはん",
+       "tr": "sarapan"
+      },
+      {
+       "kana_jp": "ひるごはん",
+       "kanji_jp": "{昼|ひる}ごはん",
+       "tr": "makan siang"
+      },
+      {
+       "kana_jp": "ばんごはん*",
+       "kanji_jp": "{晩|ばん}ごはん",
+       "tr": "makan malam"
+      },
+      {
+       "kana_jp": "パン",
+       "kanji_jp": null,
+       "tr": "roti"
+      },
+      {
+       "kana_jp": "たまご",
+       "kanji_jp": "{卵|たまご}",
+       "tr": "telur"
+      },
+      {
+       "kana_jp": "にく",
+       "kanji_jp": "{肉|にく}",
+       "tr": "daging"
+      },
+      {
+       "kana_jp": "さかな",
+       "kanji_jp": "{魚|さかな}",
+       "tr": "ikan"
+      },
+      {
+       "kana_jp": "やさい",
+       "kanji_jp": "{野菜|やさい}",
+       "tr": "sayur"
+      },
+      {
+       "kana_jp": "くだもの",
+       "kanji_jp": "{果物|くだもの}",
+       "tr": "buah-buahan"
+      },
+      {
+       "kana_jp": "みず",
+       "kanji_jp": "{水|みず}",
+       "tr": "air"
+      },
+      {
+       "kana_jp": "おちゃ",
+       "kanji_jp": "お{茶|ちゃ}",
+       "tr": "teh, teh Jepang (teh hijau)"
+      },
+      {
+       "kana_jp": "こうちゃ",
+       "kanji_jp": "{紅茶|こうちゃ}",
+       "tr": "teh"
+      },
+      {
+       "kana_jp": "ぎゅうにゅう（ミルク）",
+       "kanji_jp": "{牛乳|ぎゅうにゅう}",
+       "tr": "susu"
+      },
+      {
+       "kana_jp": "ジュース",
+       "kanji_jp": null,
+       "tr": "jus, sari buah"
+      },
+      {
+       "kana_jp": "ビール",
+       "kanji_jp": null,
+       "tr": "bir"
+      },
+      {
+       "kana_jp": "［お］さけ",
+       "kanji_jp": "［お］{酒|さけ}",
+       "tr": "minuman keras"
+      },
+      {
+       "kana_jp": "たばこ",
+       "kanji_jp": null,
+       "tr": "rokok"
+      },
+      {
+       "kana_jp": "てがみ",
+       "kanji_jp": "{手紙|てがみ}",
+       "tr": "surat"
+      },
+      {
+       "kana_jp": "レポート",
+       "kanji_jp": null,
+       "tr": "laporan"
+      },
+      {
+       "kana_jp": "しゃしん",
+       "kanji_jp": "{写真|しゃしん}",
+       "tr": "foto"
+      },
+      {
+       "kana_jp": "ビデオ",
+       "kanji_jp": null,
+       "tr": "kaset video, VHS"
+      },
+      {
+       "kana_jp": "みせ",
+       "kanji_jp": "{店|みせ}",
+       "tr": "toko"
+      },
+      {
+       "kana_jp": "にわ",
+       "kanji_jp": "{庭|にわ}",
+       "tr": "halaman"
+      },
+      {
+       "kana_jp": "しゅくだい",
+       "kanji_jp": "{宿題|しゅくだい}",
+       "tr": "pekerjaan rumah, PR (～を　します: mengerjakan PR)"
+      },
+      {
+       "kana_jp": "テニス",
+       "kanji_jp": null,
+       "tr": "tenis (～を　します: bermain tenis)"
+      },
+      {
+       "kana_jp": "サッカー",
+       "kanji_jp": null,
+       "tr": "sepak bola (～を　します: bermain sepak bola)"
+      },
+      {
+       "kana_jp": "［お］はなみ",
+       "kanji_jp": "［お］{花見|はなみ}",
+       "tr": "(O) Hanami, menikmati bunga Sakura (～を　します: melihat dan menikmati bunga Sakura)"
+      },
+      {
+       "kana_jp": "なに",
+       "kanji_jp": "{何|なに}",
+       "tr": "apa"
+      },
+      {
+       "kana_jp": "いっしょに",
+       "kanji_jp": null,
+       "tr": "bersama-sama"
+      },
+      {
+       "kana_jp": "ちょっと",
+       "kanji_jp": null,
+       "tr": "sebentar, sedikit"
+      },
+      {
+       "kana_jp": "いつも",
+       "kanji_jp": null,
+       "tr": "selalu"
+      },
+      {
+       "kana_jp": "ときどき",
+       "kanji_jp": "{時々|ときどき}",
+       "tr": "kadang-kadang"
+      },
+      {
+       "kana_jp": "それから",
+       "kanji_jp": null,
+       "tr": "setelah itu, kemudian"
+      },
+      {
+       "kana_jp": "ええ",
+       "kanji_jp": null,
+       "tr": "ya"
+      },
+      {
+       "kana_jp": "いいですね。",
+       "kanji_jp": null,
+       "tr": "Bagus ya./Baik ya."
+      },
+      {
+       "kana_jp": "わかりました。",
+       "kanji_jp": null,
+       "tr": "Mengerti./Baik."
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "{何|なん}ですか。",
+       "kanji_jp": null,
+       "tr": "Apa?"
+      },
+      {
+       "kana_jp": "じゃ、また　［あした］。",
+       "kanji_jp": null,
+       "tr": "Ok, sampai jumpa [besok]."
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "メキシコ",
+       "kanji_jp": null,
+       "tr": "Meksiko"
+      },
+      {
+       "kana_jp": "{大阪|おおさか}デパート",
+       "kanji_jp": null,
+       "tr": "toserba fiksi"
+      },
+      {
+       "kana_jp": "つるや",
+       "kanji_jp": null,
+       "tr": "restoran fiksi"
+      },
+      {
+       "kana_jp": "フランス{屋|や}",
+       "kanji_jp": null,
+       "tr": "pasar swalayan fiksi"
+      },
+      {
+       "kana_jp": "{毎日屋|まいにちや}",
+       "kanji_jp": null,
+       "tr": "pasar swalayan fiksi"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "わたしは　{本|ほん}を　{読|よ}みます。",
+    "tr": "Saya membaca buku."
+   },
+   {
+    "no": 2,
+    "jp": "わたしは　{駅|えき}で　{新聞|しんぶん}を　{買|か}います。",
+    "tr": "Saya membeli surat kabar di stasiun."
+   },
+   {
+    "no": 3,
+    "jp": "いっしょに　{神戸|こうべ}へ　{行|い}きませんか。",
+    "tr": "Bagaimana kalau kita pergi ke Kobe bersama-sama?"
+   },
+   {
+    "no": 4,
+    "jp": "ちょっと　{休|やす}みましょう。",
+    "tr": "Mari istirahat sebentar!"
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "お{酒|さけ}を　{飲|の}みますか。",
+      "tr": "Minum minuman keras?"
+     },
+     {
+      "jp": "……いいえ、{飲|の}みません。",
+      "tr": "……Tidak, tidak minum."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "{毎朝|まいあさ}　{何|なに}を　{食|た}べますか。",
+      "tr": "Setiap pagi makan apa?"
+     },
+     {
+      "jp": "……パンと　{卵|たまご}を　{食|た}べます。",
+      "tr": "……Makan roti dan telur."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "けさ　{何|なに}を　{食|た}べましたか。",
+      "tr": "Tadi pagi makan apa?"
+     },
+     {
+      "jp": "……{何|なに}も　{食|た}べませんでした。",
+      "tr": "……Tidak makan apa-apa."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "{土曜日|どようび}　{何|なに}を　しましたか。",
+      "tr": "Hari Sabtu yang lalu, melakukan apa?"
+     },
+     {
+      "jp": "……{日本語|にほんご}を　{勉強|べんきょう}しました。　それから　{友達|ともだち}と　{映画|えいが}を　{見|み}ました。",
+      "tr": "……Belajar bahasa Jepang. Kemudian menonton film bersama dengan teman."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "どこで　その　かばんを　{買|か}いましたか。",
+      "tr": "Di mana membeli tas itu?"
+     },
+     {
+      "jp": "……メキシコで　{買|か}いました。",
+      "tr": "……Di Meksiko."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "あした　テニスを　しませんか。",
+      "tr": "Bagaimana kalau besok kita bermain tenis?"
+     },
+     {
+      "jp": "……ええ、いいですね。",
+      "tr": "……Bagus, ya."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "あした　10{時|じ}に　{駅|えき}で　{会|あ}いましょう。",
+      "tr": "Kita bertemu pada pukul sepuluh besok di stasiun."
+     },
+     {
+      "jp": "……わかりました。",
+      "tr": "……Baik."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "いっしょに　{行|い}きませんか",
+   "title_tr": "Bagaimana Kalau Kita Pergi Bersama-sama?",
+   "image": "img/L06/kaiwa.webp",
+   "audio": "audio/L06_kaiwa.m4a",
+   "cd_track": "CD21",
+   "lines": [
+    {
+     "speaker_jp": "{佐藤|さとう}",
+     "speaker_tr": "Sato",
+     "jp": "ミラーさん。",
+     "tr": "Sdr. Miller!"
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "{何|なん}ですか。",
+     "tr": "Kenapa?"
+    },
+    {
+     "speaker_jp": "{佐藤|さとう}",
+     "speaker_tr": "Sato",
+     "jp": "あした　{友達|ともだち}と　お{花見|はなみ}を　します。",
+     "tr": "Besok saya dengan teman-teman akan mengadakan Ohanami."
+    },
+    {
+     "jp": "ミラーさんも　いっしょに　{行|い}きませんか。",
+     "tr": "Bagaimana kalau Sdr. Miller juga ikut pergi bersama-sama?"
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "いいですね。　どこへ　{行|い}きますか。",
+     "tr": "Bagus, ya. Pergi ke mana?"
+    },
+    {
+     "speaker_jp": "{佐藤|さとう}",
+     "speaker_tr": "Sato",
+     "jp": "{大阪城|おおさかじょう}です。",
+     "tr": "Benteng Osaka."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "{何時|なんじ}に　{行|い}きますか。",
+     "tr": "Pergi pukul berapa?"
+    },
+    {
+     "speaker_jp": "{佐藤|さとう}",
+     "speaker_tr": "Sato",
+     "jp": "10{時|じ}に　{大阪駅|おおさかえき}で　{会|あ}いましょう。",
+     "tr": "Kita bertemu di stasiun Osaka pada pukul sepuluh, ya."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "わかりました。",
+     "tr": "Baik."
+    },
+    {
+     "speaker_jp": "{佐藤|さとう}",
+     "speaker_tr": "Sato",
+     "jp": "じゃ、また　あした。",
+     "tr": "Kalau begitu, sampai besok!"
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "パン",
+          "くだもの",
+          "にくと　やさい"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "を　{食|た}べます。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "なに"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "………………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "サッカーを",
+          "ビデオを",
+          "こうべへ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し",
+          "み",
+          "いき"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "なにを"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "……か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "デパート",
+          "あの　みせ",
+          "とうきょう"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "で　{紅茶|こうちゃ}を　{買|か}いました。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "どこ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "……………………………………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "text_jp": "いっしょに"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{京都|きょうと}へ",
+          "お{花見|はなみ}を",
+          "お{茶|ちゃ}を"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いき",
+          "し",
+          "のみ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ませんか。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あそこで",
+          "{食堂|しょくどう}へ",
+          "3{時|じ}に"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "やすみ",
+          "いき",
+          "あい"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ましょう。"
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig1",
+     "image": "img/L06/rb_fig1.webp"
+    },
+    {
+     "id": "fig4",
+     "image": "img/L06/rb_fig4.webp"
+    },
+    {
+     "id": "fig6",
+     "image": "img/L06/rb_fig6.webp"
+    },
+    {
+     "id": "fig7",
+     "image": "img/L06/rb_fig7.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "figure": "fig1",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "ラジオを　{聞|き}きます"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "examples": [
+      {
+       "prompt_jp": "たばこを　{吸|す}いますか。（いいえ）",
+       "answer_jp": [
+        "いいえ、{吸|す}いません。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "お{酒|さけ}を　{飲|の}みますか。（いいえ）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "あした　{日本語|にほんご}を　{勉強|べんきょう}しますか。（はい）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "けさ　{新聞|しんぶん}を　{読|よ}みましたか。（はい）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "きのうの　{晩|ばん}　テレビを　{見|み}ましたか。（いいえ）"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "examples": [
+      {
+       "prompt_jp": "{買|か}います（かばん）",
+       "answer_jp": [
+        "{何|なに}を　{買|か}いますか。",
+        "……かばんを　{買|か}います。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{勉強|べんきょう}します（{日本語|にほんご}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{飲|の}みます（ジュース）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{食|た}べました（{魚|さかな}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{買|か}いました（{雑誌|ざっし}と　CD）"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "figure": "fig4",
+     "examples": [
+      {
+       "prompt_jp": "あした",
+       "answer_jp": [
+        "あした　{何|なに}を　しますか。",
+        "……サッカーを　します。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "きょうの　{午後|ごご}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{今晩|こんばん}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "きのう"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "おととい"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "examples": [
+      {
+       "prompt_jp": "{写真|しゃしん}を　{撮|と}ります（{庭|にわ}）",
+       "answer_jp": [
+        "どこで　{写真|しゃしん}を　{撮|と}りますか。",
+        "……{庭|にわ}で　{撮|と}ります。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "ミラーさんに　{会|あ}います（{駅|えき}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{昼|ひる}ごはんを　{食|た}べます（{会社|かいしゃ}の　{食堂|しょくどう}）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{牛乳|ぎゅうにゅう}を　{買|か}いました（スーパー）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{日本語|にほんご}を　{勉強|べんきょう}しました（{大学|だいがく}）"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "figure": "fig6",
+     "examples": [
+      {
+       "prompt_jp": "{今晩|こんばん}",
+       "answer_jp": [
+        "{今晩|こんばん}　{何|なに}を　しますか。",
+        "……うちで　{宿題|しゅくだい}を　します。　それから　CDを　{聞|き}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "あした"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{来週|らいしゅう}の　{土曜日|どようび}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "きのうの　{午後|ごご}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{先週|せんしゅう}の　{日曜日|にちようび}"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "figure": "fig7",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "いっしょに　{京都|きょうと}へ　{行|い}きませんか。",
+        "……ええ、{行|い}きましょう。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L06/rc1.webp",
+    "dialog": [
+     {
+      "jp": "{日曜日|にちようび}　{何|なに}を　しましたか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[{本|ほん}を　{読|よ}み]]ました。　それから",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[ビデオを　{見|み}]]ました。"
+     },
+     {
+      "jp": "{田中|たなか}さんは？"
+     },
+     {
+      "jp": "わたしは　{京都|きょうと}へ　{行|い}きました。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "{京都|きょうと}ですか。　いいですね。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L06/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L06/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L06/rc2.webp",
+    "dialog": [
+     {
+      "jp": "いつも　どこで　[[パンを　{買|か}い]]ますか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "「[[{毎日屋|まいにちや}]]」で　{買|か}います。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "{時々|ときどき}　「[[フランス{屋|や}]]」へ　{行|い}きます。"
+     },
+     {
+      "jp": "あ、わたしも　{時々|ときどき}　「[[フランス{屋|や}]]」で　[[{買|か}い]]ます。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "そうですか。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L06/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L06/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L06/rc3.webp",
+    "dialog": [
+     {
+      "jp": "あした　いっしょに",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[テニスを　し]]ませんか。"
+     },
+     {
+      "jp": "ええ、いいですね。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "じゃ、11{時|じ}に　{駅|えき}で　{会|あ}いましょう。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "わかりました。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L06/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L06/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L06_mondai1.m4a",
+    "cd_track": "CD22",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_truefalse",
+    "audio": "audio/L06_mondai2.m4a",
+    "cd_track": "CD23",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "write",
+    "image": "img/L06/m3.webp",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{電車|でんしゃ}（で）　[[{会社|かいしゃ}へ　{行|い}きます]]。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{友達|ともだち}（＿）　＿。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "12{時|じ}（＿）　＿。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "デパート（＿）　＿。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "ロビー（＿）　＿。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "8{時|じ}（＿）　9{時|じ}（＿）　＿。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "choice",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{毎晩|まいばん}　（[[{何時|なんじ}に]]、いつ、どこで）　{寝|ね}ますか。",
+       "……11{時|じ}に　{寝|ね}ます。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{日曜日|にちようび}　（どこで、{何|なに}を、{何|なん}で）　しますか。",
+       "……テニスを　します。"
+      ],
+      "choice_groups_jp": [
+       [
+        "どこで",
+        "{何|なに}を",
+        "{何|なん}で"
+       ]
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "（どこへ、どこで、いつ）　その　カメラを　{買|か}いましたか。",
+       "……{大阪|おおさか}デパートで　{買|か}いました。"
+      ],
+      "choice_groups_jp": [
+       [
+        "どこへ",
+        "どこで",
+        "いつ"
+       ]
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "けさ　（{何|なに}を、{何|なん}で、どこで）　{食|た}べましたか。",
+       "……{何|なに}も　{食|た}べませんでした。"
+      ],
+      "choice_groups_jp": [
+       [
+        "{何|なに}を",
+        "{何|なん}で",
+        "どこで"
+       ]
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "おととい　（どこで、だれに、{何時|なんじ}に）　{会|あ}いましたか。",
+       "……グプタさんに　{会|あ}いました。"
+      ],
+      "choice_groups_jp": [
+       [
+        "どこで",
+        "だれに",
+        "{何時|なんじ}に"
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "choice",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "おととい　{東京|とうきょう}へ　（[[{行|い}きました]]、{行|い}きます）。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "きのうの　{晩|ばん}　{手紙|てがみ}を　（{書|か}きます、{書|か}きました）。"
+      ],
+      "choice_groups_jp": [
+       [
+        "{書|か}きます",
+        "{書|か}きました"
+       ]
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{毎朝|まいあさ}　{新聞|しんぶん}を　（{読|よ}みますか、{読|よ}みましたか）。",
+       "……いいえ、{読|よ}みません。"
+      ],
+      "choice_groups_jp": [
+       [
+        "{読|よ}みますか",
+        "{読|よ}みましたか"
+       ]
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "いっしょに　{美術館|びじゅつかん}へ　（{行|い}きませんでしたか、{行|い}きませんか）。",
+       "……ええ、（{行|い}きましょう、{行|い}きません）。"
+      ],
+      "choice_groups_jp": [
+       [
+        "{行|い}きませんでしたか",
+        "{行|い}きませんか"
+       ],
+       [
+        "{行|い}きましょう",
+        "{行|い}きません"
+       ]
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "あした　{大阪城|おおさかじょう}で　{花見|はなみ}を　（しました、します）。"
+      ],
+      "choice_groups_jp": [
+       [
+        "しました",
+        "します"
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "truefalse",
+    "passage_title_jp": "ミラーさんの　{毎日|まいにち}",
+    "passage_jp": [
+     "ミラーさんは　{毎朝|まいあさ}　7{時|じ}に　{起|お}きます。　{朝|あさ}ごはんは　いつも　パンと　コーヒーです。　{電車|でんしゃ}で　{会社|かいしゃ}へ　{行|い}きます。　{会社|かいしゃ}は　9{時|じ}から　5{時|じ}までです。　7{時|じ}に　うちへ　{帰|かえ}ります。　7{時|じ}{半|はん}に　{晩|ばん}ごはんを　{食|た}べます。　それから　テレビを　{見|み}ます。　{英語|えいご}の　{新聞|しんぶん}を　{読|よ}みます。　{夜|よる}　12{時|じ}に　{寝|ね}ます。",
+     "{土曜日|どようび}と　{日曜日|にちようび}　{会社|かいしゃ}は　{休|やす}みです。　{土曜日|どようび}の　{朝|あさ}　{図書館|としょかん}へ　{行|い}きます。{午後|ごご}　テニスを　します。　{日曜日|にちようび}　どこも　{行|い}きません。　{休|やす}みます。"
+    ],
+    "examples": [
+     {
+      "label_jp": "{例|れい}1",
+      "lines_jp": [
+       "ミラーさんは　{毎朝|まいあさ}　コーヒーを　{飲|の}みます。"
+      ],
+      "answer": "○"
+     },
+     {
+      "label_jp": "{例|れい}2",
+      "lines_jp": [
+       "ミラーさんは　{毎朝|まいあさ}　7{時|じ}{半|はん}に　{起|お}きます。"
+      ],
+      "answer": "×"
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "ミラーさんは　{朝|あさ}ごはんを　{食|た}べません。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "ミラーさんは　{月曜日|げつようび}から　{金曜日|きんようび}まで　{働|はたら}きます。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "ミラーさんは　{毎朝|まいあさ}　{英語|えいご}の　{新聞|しんぶん}を　{読|よ}みます。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "ミラーさんは　{土曜日|どようび}　どこも　{行|い}きません。"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Kata Benda を Kata Kerja (Kata Kerja Transitif)",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Objek dari Kata Kerja Transitif ditunjukkan oleh partikel を."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "ジュースを　{飲|の}みます。",
+        "tr": "Minum jus."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] を hanya dipakai untuk menulis partikel saja."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Kata Benda を　します",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "します disertai Kata Benda secara luas sebagai objek. します mempunyai arti bahwa melakukan hal yang ditunjukan oleh objek tersebut. Beberapa contoh diberikan di bawah ini:"
+     },
+     {
+      "type": "h",
+      "text_rich": "1) Olahraga, permainan dan lain-lain"
+     },
+     {
+      "type": "table",
+      "header": [],
+      "rows": [
+       [
+        [
+         {
+          "jp": "サッカーを　します",
+          "tr": "bermain sepak bola"
+         }
+        ],
+        [
+         {
+          "jp": "トランプを　します",
+          "tr": "bermain kartu"
+         }
+        ]
+       ]
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Pertemuan, acara dan lain-lain"
+     },
+     {
+      "type": "table",
+      "header": [],
+      "rows": [
+       [
+        [
+         {
+          "jp": "パーティーを　します",
+          "tr": "berpesta"
+         }
+        ],
+        [
+         {
+          "jp": "{会議|かいぎ}を　します",
+          "tr": "mengadakan rapat"
+         }
+        ]
+       ]
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "3) Dan lain-lain"
+     },
+     {
+      "type": "table",
+      "header": [],
+      "rows": [
+       [
+        [
+         {
+          "jp": "{宿題|しゅくだい}を　します",
+          "tr": "membuat PR"
+         }
+        ],
+        [
+         {
+          "jp": "{仕事|しごと}を　します",
+          "tr": "bekerja"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "{電話|でんわ}を　します",
+          "tr": "menelepon"
+         }
+        ],
+        []
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "{何|なに}を　しますか",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Ini adalah pertanyaan untuk menanyakan hal yang dilakukan."
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "{月曜日|げつようび}　{何|なに}を　しますか。",
+        "tr": "Hari Senin melakukan apa?"
+       },
+       {
+        "jp": "……{京都|きょうと}へ　{行|い}きます。",
+        "tr": "……Pergi ke Kyoto."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "きのう　{何|なに}を　しましたか。",
+        "tr": "Kemarin melakukan apa?"
+       },
+       {
+        "jp": "……サッカーを　しました。",
+        "tr": "……Bermain sepak bola."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "なん dan なに",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "なん dan なに mempunyai arti yang sama. なん digunakan pada hal-hal berikut:"
+     },
+     {
+      "type": "h",
+      "text_rich": "1) Jika kata yang mengikutinya diawali dengan baris た, だ, dan な."
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "それは　{何|なん}[[です]]か。",
+        "tr": "Itu apa?"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "{何|なん}[[の]]　{本|ほん}ですか。",
+        "tr": "Buku apa?"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "{寝|ね}る　まえに、{何|なん}[[と]]　{言|い}いますか。",
+        "tr": "Sebelum tidur, mengucapkan apa? (Pel.21)"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "{何|なん}[[で]]　{東京|とうきょう}へ　{行|い}きますか。",
+        "tr": "Dengan apa pergi ke Tokyo?"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Selain bertanya tentang sarana, なんで digunakan untuk menanyakan alasan juga. Adakalanya dikatakan なにで jika ingin menunjukkan lebih jelas untuk menanyakan sarana."
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "{何|なに}で　{東京|とうきょう}へ　{行|い}きますか。",
+        "tr": "Dengan apa pergi ke Tokyo?"
+       },
+       {
+        "jp": "……{新幹線|しんかんせん}で　{行|い}きます。",
+        "tr": "……Dengan Shinkansen."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Disertai Kata Bantu Bilangan"
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "テレーザちゃんは　{何歳|なんさい}ですか。",
+        "tr": "Berapa usia Teresa?"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Selain 1) dan 2) menggunakan なに."
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "{何|なに}を　{買|か}いますか。",
+        "tr": "Mau membeli apa?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "Kata Benda (tempat) で Kata Kerja",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Partikel yang dipelajari di sini disertai Kata Benda yang menunjukkan tempat kemudian menunjukkan tempat yang melakukan aksi."
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "{駅|えき}で　{新聞|しんぶん}を　{買|か}います。",
+        "tr": "Membeli surat kabar di stasiun."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_rich": "Kata Kerja ませんか",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Ekspresi untuk mengajak lawan bicara."
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "いっしょに　{京都|きょうと}へ　{行|い}きませんか。",
+        "tr": "Bagaimana kita pergi ke Kyoto bersama-sama?"
+       },
+       {
+        "jp": "……ええ、いいですね。",
+        "tr": "……Ya, bagus ya."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "title_rich": "Kata Kerja ましょう",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Ekspresi untuk mengusulkan secara aktif dan mengajak. Dipakai untuk menanggapi usulan atau ajakan secara aktif juga."
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "ちょっと　{休|やす}みましょう。",
+        "tr": "Mari istirahat sebentar."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑭",
+      "lines": [
+       {
+        "jp": "いっしょに　{昼|ひる}ごはんを　{食|た}べませんか。",
+        "tr": "Bagaimana kita makan siang bersama-sama?"
+       },
+       {
+        "jp": "……ええ、{食|た}べましょう。",
+        "tr": "……Ya, ayo kita makan."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Kata Kerja ませんか dan Kata Kerja ましょう kedua-duanya adalah ekspresi untuk mengajak lawan bicara, tetapi Kata Kerja ませんか lebih ditunjukkan perasaan yang menghormati keinginan lawan bicara."
+     }
+    ]
+   },
+   {
+    "no": 8,
+    "title_rich": "～か",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "か menyatakan hal untuk mendapatkan informasi baru yang belum diketahui oleh lawan bicara sebelumnya, kemudian memahaminya. Ini adalah cara penggunaan yang sama dengan か dari そうですか (Lihat Pel.2-8)."
+     },
+     {
+      "type": "ex",
+      "mark": "⑮",
+      "lines": [
+       {
+        "jp": "{日曜日|にちようび}　{京都|きょうと}へ　{行|い}きました。",
+        "tr": "Hari Minggu yang lalu pergi ke Kyoto."
+       },
+       {
+        "jp": "……{京都|きょうと}ですか。　いいですね。",
+        "tr": "……Kyoto? Bagus ya."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{食|た}べ{物|もの}",
+   "title_tr": "Makanan",
+   "blocks": [
+    {
+     "type": "h",
+     "text_rich": "{野菜|やさい}　Sayuran"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "きゅうり"
+        }
+       ],
+       [
+        {
+         "tr": "ketimun"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "トマト"
+        }
+       ],
+       [
+        {
+         "tr": "tomat"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "なす"
+        }
+       ],
+       [
+        {
+         "tr": "terong"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "まめ"
+        }
+       ],
+       [
+        {
+         "tr": "kacang-kacangan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "キャベツ"
+        }
+       ],
+       [
+        {
+         "tr": "kol"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ねぎ"
+        }
+       ],
+       [
+        {
+         "tr": "daun bawang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "はくさい"
+        }
+       ],
+       [
+        {
+         "tr": "sawi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ほうれんそう"
+        }
+       ],
+       [
+        {
+         "tr": "bayam"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "レタス"
+        }
+       ],
+       [
+        {
+         "tr": "letas"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "じゃがいも"
+        }
+       ],
+       [
+        {
+         "tr": "kentang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "だいこん"
+        }
+       ],
+       [
+        {
+         "tr": "lobak"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "たまねぎ"
+        }
+       ],
+       [
+        {
+         "tr": "bawang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "にんじん"
+        }
+       ],
+       [
+        {
+         "tr": "wortel"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "{果物|くだもの}　Buah-buahan"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "いちご"
+        }
+       ],
+       [
+        {
+         "tr": "stroberi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "もも"
+        }
+       ],
+       [
+        {
+         "tr": "buah peach"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "すいか"
+        }
+       ],
+       [
+        {
+         "tr": "semangka"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ぶどう"
+        }
+       ],
+       [
+        {
+         "tr": "anggur"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "なし"
+        }
+       ],
+       [
+        {
+         "tr": "pir"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "かき"
+        }
+       ],
+       [
+        {
+         "tr": "buah kesemek"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "みかん"
+        }
+       ],
+       [
+        {
+         "tr": "jeruk"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "りんご"
+        }
+       ],
+       [
+        {
+         "tr": "apel"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "バナナ"
+        }
+       ],
+       [
+        {
+         "tr": "pisang"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "{肉|にく}　Daging"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "ぎゅうにく"
+        }
+       ],
+       [
+        {
+         "tr": "daging sapi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "とりにく"
+        }
+       ],
+       [
+        {
+         "tr": "daging ayam"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ぶたにく"
+        }
+       ],
+       [
+        {
+         "tr": "daging babi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ソーセージ"
+        }
+       ],
+       [
+        {
+         "tr": "sosis"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ハム"
+        }
+       ],
+       [
+        {
+         "tr": "ham"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "{魚|さかな}　Ikan"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "あじ"
+        }
+       ],
+       [
+        {
+         "tr": "ikan horse mackerel, ikan aji"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "いわし"
+        }
+       ],
+       [
+        {
+         "tr": "ikan sarden"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "さば"
+        }
+       ],
+       [
+        {
+         "tr": "ikan kembung, ikan saba"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "さんま"
+        }
+       ],
+       [
+        {
+         "tr": "ikan sauri pasifik, ikan samma"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "さけ"
+        }
+       ],
+       [
+        {
+         "tr": "ikan salmon"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "まぐろ"
+        }
+       ],
+       [
+        {
+         "tr": "ikan tuna"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "たい"
+        }
+       ],
+       [
+        {
+         "tr": "ikan kakap"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "たら"
+        }
+       ],
+       [
+        {
+         "tr": "ikan gabus"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "えび"
+        }
+       ],
+       [
+        {
+         "tr": "udang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "かに"
+        }
+       ],
+       [
+        {
+         "tr": "kepiting"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "いか"
+        }
+       ],
+       [
+        {
+         "tr": "cumi-cumi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "たこ"
+        }
+       ],
+       [
+        {
+         "tr": "gurita"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "こめ"
+        }
+       ],
+       [
+        {
+         "tr": "beras"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "たまご"
+        }
+       ],
+       [
+        {
+         "tr": "telur"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "かい"
+        }
+       ],
+       [
+        {
+         "tr": "kerang"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "image": "img/L06/sankou_tabemono.webp",
+     "caption": "{食|た}べ{物|もの}"
+    },
+    {
+     "type": "note",
+     "text_rich": "Jepang tergantung pada impor dari daerah lain lebih dari setengah makanan yang dikonsumsi oleh warganya. Persentase swasembaba pangan adalah sebagai berikut: gandum 59%, sayuran 81%, buah-buahn 38%, daging 56%, dan hasil laut 60% (Hasil penelitian Departemen Kementerian Pertanian, Kehutanan, dan Perikanan, 2010). Swasembaba pangan adalah beras yaitu, 100%."
+    }
+   ]
+  }
+ }
+}

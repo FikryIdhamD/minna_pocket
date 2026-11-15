@@ -1,0 +1,1820 @@
+{
+ "book": 1,
+ "lesson": 21,
+ "title_jp": "わたしも　そう　{思|おも}います",
+ "title_tr": "Saya Kira Juga Begitu.",
+ "source_pages": {
+  "main_pdf": [
+   201,
+   208
+  ],
+  "translation_pdf": [
+   150,
+   155
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "おもいます",
+       "kanji_jp": "{思|おも}います",
+       "tr": "[Ⅰ] mengira, berpikir"
+      },
+      {
+       "kana_jp": "いいます",
+       "kanji_jp": "{言|い}います",
+       "tr": "[Ⅰ] mengatakan, berkata"
+      },
+      {
+       "kana_jp": "かちます",
+       "kanji_jp": "{勝|か}ちます",
+       "tr": "[Ⅰ] menang"
+      },
+      {
+       "kana_jp": "まけます*",
+       "kanji_jp": "{負|ま}けます",
+       "tr": "[Ⅱ] kalah"
+      },
+      {
+       "kana_jp": "あります［おまつりが～］",
+       "kanji_jp": "［お{祭|まつ}りが～］",
+       "tr": "[Ⅰ] ada, diadakan [pesta perayaan]"
+      },
+      {
+       "kana_jp": "やくに　たちます",
+       "kanji_jp": "{役|やく}に　{立|た}ちます",
+       "tr": "[Ⅰ] berguna, bermanfaat"
+      },
+      {
+       "kana_jp": "うごきます",
+       "kanji_jp": "{動|うご}きます",
+       "tr": "[Ⅰ] pindah, bergerak"
+      },
+      {
+       "kana_jp": "やめます［かいしゃを～］",
+       "kanji_jp": "［{会社|かいしゃ}を～］",
+       "tr": "[Ⅱ] berhenti [kerja]"
+      },
+      {
+       "kana_jp": "きを　つけます",
+       "kanji_jp": "{気|き}を　つけます",
+       "tr": "[Ⅱ] berwaspada, berhati-hati"
+      },
+      {
+       "kana_jp": "りゅうがくします",
+       "kanji_jp": "{留学|りゅうがく}します",
+       "tr": "[Ⅲ] studi di luar negeri"
+      },
+      {
+       "kana_jp": "むだ［な］",
+       "kanji_jp": null,
+       "tr": "sia-sia, tidak berguna"
+      },
+      {
+       "kana_jp": "ふべん［な］",
+       "kanji_jp": "{不便|ふべん}［な］",
+       "tr": "tidak praktis"
+      },
+      {
+       "kana_jp": "すごい",
+       "kanji_jp": null,
+       "tr": "hebat, bukan main (digunakan ketika menyatakan kejutan atau kekaguman)"
+      },
+      {
+       "kana_jp": "ほんとう",
+       "kanji_jp": null,
+       "tr": "betul, benar"
+      },
+      {
+       "kana_jp": "うそ*",
+       "kanji_jp": null,
+       "tr": "bohong"
+      },
+      {
+       "kana_jp": "じどうしゃ",
+       "kanji_jp": "{自動車|じどうしゃ}",
+       "tr": "mobil"
+      },
+      {
+       "kana_jp": "こうつう",
+       "kanji_jp": "{交通|こうつう}",
+       "tr": "lalu lintas"
+      },
+      {
+       "kana_jp": "ぶっか",
+       "kanji_jp": "{物価|ぶっか}",
+       "tr": "harga barang"
+      },
+      {
+       "kana_jp": "ほうそう",
+       "kanji_jp": "{放送|ほうそう}",
+       "tr": "siaran, pengumuman"
+      },
+      {
+       "kana_jp": "ニュース",
+       "kanji_jp": null,
+       "tr": "warta berita"
+      },
+      {
+       "kana_jp": "アニメ",
+       "kanji_jp": null,
+       "tr": "animasi"
+      },
+      {
+       "kana_jp": "マンガ",
+       "kanji_jp": null,
+       "tr": "manga, komik"
+      },
+      {
+       "kana_jp": "デザイン",
+       "kanji_jp": null,
+       "tr": "desain, model"
+      },
+      {
+       "kana_jp": "ゆめ",
+       "kanji_jp": "{夢|ゆめ}",
+       "tr": "mimpi"
+      },
+      {
+       "kana_jp": "てんさい",
+       "kanji_jp": "{天才|てんさい}",
+       "tr": "genius"
+      },
+      {
+       "kana_jp": "しあい",
+       "kanji_jp": "{試合|しあい}",
+       "tr": "pertandingan (～を　します: bertanding)"
+      },
+      {
+       "kana_jp": "いけん",
+       "kanji_jp": "{意見|いけん}",
+       "tr": "pendapat"
+      },
+      {
+       "kana_jp": "はなし",
+       "kanji_jp": "{話|はなし}",
+       "tr": "cerita (～を　します: bercerita, berbicara)"
+      },
+      {
+       "kana_jp": "ちきゅう",
+       "kanji_jp": "{地球|ちきゅう}",
+       "tr": "bumi"
+      },
+      {
+       "kana_jp": "つき",
+       "kanji_jp": "{月|つき}",
+       "tr": "bulan"
+      },
+      {
+       "kana_jp": "さいきん",
+       "kanji_jp": "{最近|さいきん}",
+       "tr": "akhir-akhir ini"
+      },
+      {
+       "kana_jp": "たぶん",
+       "kanji_jp": null,
+       "tr": "mungkin, barangkali"
+      },
+      {
+       "kana_jp": "きっと",
+       "kanji_jp": null,
+       "tr": "pasti"
+      },
+      {
+       "kana_jp": "ほんとうに",
+       "kanji_jp": null,
+       "tr": "betul-betul"
+      },
+      {
+       "kana_jp": "そんなに",
+       "kanji_jp": null,
+       "tr": "tidak begitu (diikuti bentuk negatif)"
+      },
+      {
+       "kana_jp": "～に　ついて",
+       "kanji_jp": null,
+       "tr": "tentang ～, mengenai ～"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "{久|ひさ}しぶりですね。",
+       "kanji_jp": null,
+       "tr": "Sudah lama tidak bertemu ya."
+      },
+      {
+       "kana_jp": "～でも　{飲|の}みませんか。",
+       "kanji_jp": null,
+       "tr": "Bagaimana kalau kita minum ～, atau apa saja?"
+      },
+      {
+       "kana_jp": "もちろん",
+       "kanji_jp": null,
+       "tr": "tentu saja"
+      },
+      {
+       "kana_jp": "もう　{帰|かえ}らないと……。",
+       "kanji_jp": null,
+       "tr": "Saya harus pulang..."
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "アインシュタイン",
+       "kanji_jp": null,
+       "tr": "Albert Einstein (1879-1955)"
+      },
+      {
+       "kana_jp": "ガガーリン",
+       "kanji_jp": null,
+       "tr": "Gagarin (1934-1968)"
+      },
+      {
+       "kana_jp": "ガリレオ",
+       "kanji_jp": null,
+       "tr": "Galileo Galilei (1564-1642)"
+      },
+      {
+       "kana_jp": "キング{牧師|ぼくし}",
+       "kanji_jp": null,
+       "tr": "Martin Luther King, Jr. (1929-1968)"
+      },
+      {
+       "kana_jp": "フランクリン",
+       "kanji_jp": null,
+       "tr": "Benjamin Franklin (1706-1790)"
+      },
+      {
+       "kana_jp": "かぐや{姫|ひめ}",
+       "kanji_jp": null,
+       "tr": "Putri Kaguya (protagonis dari cerita dongen Jepang “Taketori monogatari”)"
+      },
+      {
+       "kana_jp": "{天神祭|てんじんまつり}",
+       "kanji_jp": null,
+       "tr": "Perayaan Tenjin (perayaan di Osaka)"
+      },
+      {
+       "kana_jp": "{吉野山|よしのやま}",
+       "kanji_jp": null,
+       "tr": "Gunung Yoshino (gunung yang ada di Nara)"
+      },
+      {
+       "kana_jp": "カンガルー",
+       "kanji_jp": null,
+       "tr": "kanguru"
+      },
+      {
+       "kana_jp": "キャプテン・クック",
+       "kanji_jp": null,
+       "tr": "Captain James Cook (1728-1779)"
+      },
+      {
+       "kana_jp": "ヨーネン",
+       "kanji_jp": null,
+       "tr": "perusahaan fiksi"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "わたしは　あした　{雨|あめ}が　{降|ふ}ると　{思|おも}います。",
+    "tr": "Saya kira besok hujan turun."
+   },
+   {
+    "no": 2,
+    "jp": "わたしは　{父|ちち}に　{留学|りゅうがく}したいと　{言|い}いました。",
+    "tr": "Saya berkata kepada ayah bahwa ingin belajar di luar negeri."
+   },
+   {
+    "no": 3,
+    "jp": "{疲|つか}れたでしょう？",
+    "tr": "Lelah, bukan?"
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "ミラーさんは　どこですか。",
+      "tr": "Di mana Sdr. Miller?"
+     },
+     {
+      "jp": "……たぶん　もう　{帰|かえ}ったと　{思|おも}います。",
+      "tr": "……Saya kira mungkin dia sudah pulang."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "ミラーさんは　この　ニュースを　{知|し}って　いますか。",
+      "tr": "Apakah Sdr. Miller tahu berita ini?"
+     },
+     {
+      "jp": "……いいえ、{知|し}らないと　{思|おも}います。",
+      "tr": "……Saya kira dia tidak tahu."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "{仕事|しごと}と　{家族|かぞく}と　どちらが　{大切|たいせつ}ですか。",
+      "tr": "Yang mana lebih penting, tugas atau keluarga?"
+     },
+     {
+      "jp": "……どちらも　{大切|たいせつ}だと　{思|おも}います。",
+      "tr": "……Saya kira dua-duanya penting."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "{日本|にほん}に　ついて　どう　{思|おも}いますか。",
+      "tr": "Mengenai Jepang, menurut Anda bagaimana?"
+     },
+     {
+      "jp": "……{物価|ぶっか}が　{高|たか}いと　{思|おも}います。",
+      "tr": "……Saya kira harga barangnya mahal."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "{食事|しょくじ}の　まえに、お{祈|いの}りを　しますか。",
+      "tr": "Apakah Anda berdoa sebelum makan?"
+     },
+     {
+      "jp": "……いいえ、しませんが、「いただきます」と　{言|い}います。",
+      "tr": "……Tidak, tidak berdoa, tetapi mengucapkan “Itadakimasu”."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "かぐや{姫|ひめ}は　「{月|つき}へ　{帰|かえ}らなければ　なりません」と　{言|い}いました。",
+      "tr": "Kaguyahime berkata “Harus pulang ke bulan”."
+     },
+     {
+      "jp": "そして、{月|つき}へ　{帰|かえ}りました。　{終|お}わり。",
+      "tr": "Kemudian, pulang ke bulan. Tamat."
+     },
+     {
+      "jp": "……{終|お}わり？　お{母|かあ}さん、わたしも　{月|つき}へ　{行|い}きたい。",
+      "tr": "……Tamat? Ibu, saya juga ingin pergi ke bulan."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "{会議|かいぎ}で　{何|なに}か　{意見|いけん}を　{言|い}いましたか。",
+      "tr": "Di dalam rapat, apakah mengutarakan suatu pendapat?"
+     },
+     {
+      "jp": "……はい。　むだな　コピーが　{多|おお}いと　{言|い}いました。",
+      "tr": "……Ya. Saya berkata bahwa terdapat banyak fotokopian yang sia-sia."
+     }
+    ]
+   },
+   {
+    "no": 8,
+    "lines": [
+     {
+      "jp": "7{月|がつ}に　{京都|きょうと}で　お{祭|まつ}りが　あるでしょう？",
+      "tr": "Pada bulan Juli ada perayaan di Kyoto, bukan?"
+     },
+     {
+      "jp": "……ええ、あります。",
+      "tr": "……Ya, ada."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "わたしも　そう　{思|おも}います",
+   "title_tr": "Saya Kira Juga Begitu.",
+   "image": "img/L21/kaiwa.webp",
+   "audio": "audio/L21_kaiwa.m4a",
+   "cd_track": "CD72",
+   "lines": [
+    {
+     "speaker_jp": "{松本|まつもと}",
+     "speaker_tr": "Matsumoto",
+     "jp": "あ、サントスさん、{久|ひさ}しぶりですね。",
+     "tr": "Ah, Sdr. Santos, sudah lama tidak bertemu."
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "jp": "あ、{松本|まつもと}さん、お{元気|げんき}ですか。",
+     "tr": "Oh, Sdr. Matsumoto, apa kabar?"
+    },
+    {
+     "speaker_jp": "{松本|まつもと}",
+     "speaker_tr": "Matsumoto",
+     "jp": "ええ。　ちょっと　ビールでも　{飲|の}みませんか。",
+     "tr": "Baik-baik saja. Bagaimana kalau minum bir, atau...?"
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "jp": "いいですね。",
+     "tr": "Bagus, ya."
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "break_before": true,
+     "jp": "{今晩|こんばん}　10{時|じ}から　{日本|にほん}と　ブラジルの　サッカーの　{試合|しあい}が　ありますね。",
+     "tr": "Nanti malam, pukul sepuluh diadakan pertandingan sepak bola antara Jepang dan Brasil."
+    },
+    {
+     "speaker_jp": "{松本|まつもと}",
+     "speaker_tr": "Matsumoto",
+     "jp": "ああ、そうですね。",
+     "tr": "O ya, benar."
+    },
+    {
+     "jp": "サントスさんは　どちらが　{勝|か}つと　{思|おも}いますか。",
+     "tr": "Menurut Sdr. Santos, yang mana yang menang?"
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "jp": "もちろん　ブラジルですよ。",
+     "tr": "Itu pasti Brasil."
+    },
+    {
+     "speaker_jp": "{松本|まつもと}",
+     "speaker_tr": "Matsumoto",
+     "jp": "そうですね。　でも、{最近|さいきん}　{日本|にほん}も　{強|つよ}く　なりましたよ。",
+     "tr": "Betul, ya. Tetapi, akhir-akhir ini Jepang juga menjadi kuat."
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "jp": "ええ、わたしも　そう　{思|おも}いますが、……。",
+     "tr": "Saya kira juga begitu, tetapi......"
+    },
+    {
+     "jp": "あ、もう　{帰|かえ}らないと……。",
+     "tr": "O, harus pulang..."
+    },
+    {
+     "speaker_jp": "{松本|まつもと}",
+     "speaker_tr": "Matsumoto",
+     "jp": "ええ、{帰|かえ}りましょう。",
+     "tr": "Ya, mari pulang."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あした　{雨|あめ}が",
+          "{佐藤|さとう}さんは　ゴルフを",
+          "{山田|やまだ}さんは　もう",
+          "あした",
+          "あしたも"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ふる",
+          "しない",
+          "かえった",
+          "さむい",
+          "いい　てんきだ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "と　{思|おも}います。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{馬|うま}は",
+          "{子|こ}どもは　{外|そと}で",
+          "マンガは",
+          "ケータイは",
+          "{彼|かれ}の　{話|はなし}は"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "やくに　たつ",
+          "あそばなければ　ならない",
+          "おもしろい",
+          "べんりだ",
+          "ほんとうだ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "と　{思|おも}います。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは　{課長|かちょう}に"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{会社|かいしゃ}を",
+          "{車|くるま}を",
+          "もう　{資料|しりょう}を",
+          "{休|やす}みが",
+          "{釣|つ}りが"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "やめる",
+          "もって　いない",
+          "つくった",
+          "ほしい",
+          "すきだ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "と　{言|い}いました。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あした　パーティーに",
+          "お{寺|てら}で　コンサートが",
+          "{大阪|おおさか}は　{食|た}べ{物|もの}が",
+          "あしたは"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "くる",
+          "あった",
+          "おいしい",
+          "やすみ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "でしょう？"
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig6",
+     "image": "img/L21/rb_fig6.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "examples": [
+      {
+       "prompt_jp": "ミラーさんは　{会議室|かいぎしつ}に　います",
+       "answer_jp": [
+        "ミラーさんは　{会議室|かいぎしつ}に　いると　{思|おも}います。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "ミラーさんは　9{時|じ}に　{来|き}ます"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "マリアさんは　{運転|うんてん}しません"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{日曜日|にちようび}は　{人|ひと}が　{多|おお}いです"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "「つるや」は　あした　{休|やす}みです"
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "examples": [
+      {
+       "prompt_jp": "{部長|ぶちょう}は　{事務所|じむしょ}に　いますか。（いいえ）",
+       "answer_jp": [
+        "いいえ、いないと　{思|おも}います。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{部長|ぶちょう}は　もう　{帰|かえ}りましたか。（はい）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "あの　コンビニで　{薬|くすり}を　{売|う}って　いますか。（いいえ、たぶん）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "あしたは　「ヨーネン」と　「アキックス」と　どちらが　{勝|か}ちますか。（きっと　「ヨーネン」）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "かぎは　どこですか。（あの　{箱|はこ}の　{中|なか}）"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "examples": [
+      {
+       "prompt_jp": "{漢字|かんじ}の　{勉強|べんきょう}は　おもしろいです",
+       "answer_jp": [
+        "{漢字|かんじ}の　{勉強|べんきょう}は　おもしろいと　{思|おも}います。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{山田|やまだ}さんは　ほんとうに　よく　{働|はたら}きます"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "パワー{電気|でんき}の　{製品|せいひん}は　デザインが　いいです"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "ミラーさんは　{時間|じかん}の　{使|つか}い{方|かた}が　{上手|じょうず}です"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{神戸病院|こうべびょういん}は　いい　{病院|びょういん}です"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "{新|あたら}しい　ソフトは　{便利|べんり}ですか。（はい）",
+       "answer_jp": [
+        "はい、{便利|べんり}だと　{思|おも}います。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{相撲|すもう}は　おもしろいですか。（いいえ、あまり）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "ワットさんは　いい　{先生|せんせい}ですか。（はい、とても）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{犬|いぬ}と　{猫|ねこ}と　どちらが　{役|やく}に　{立|た}ちますか。（{犬|いぬ}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{日本|にほん}で　どこが　いちばん　きれいですか。（{奈良|なら}）"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "examples": [
+      {
+       "prompt_jp": "{日本|にほん}の　{自動車|じどうしゃ}（とても　いいです）",
+       "answer_jp": [
+        "{日本|にほん}の　{自動車|じどうしゃ}に　ついて　どう　{思|おも}いますか。",
+        "……とても　いいと　{思|おも}います。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{日本|にほん}の　アニメ（おもしろいです）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{日本|にほん}の　{大学|だいがく}（{休|やす}みが　{多|おお}いです）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{着物|きもの}（とても　きれいです）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{日本|にほん}（{交通|こうつう}が　{便利|べんり}です）"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "figure": "fig6",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "キング{牧師|ぼくし}は　{夢|ゆめ}が　あると　{言|い}いました。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "examples": [
+      {
+       "prompt_jp": "あしたは　{休|やす}みです",
+       "answer_jp": [
+        "あしたは　{休|やす}みでしょう？"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{沖縄|おきなわ}は　{海|うみ}が　きれいです"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "ワットさんの　{話|はなし}は　おもしろいです"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{木村|きむら}さんは　イーさんを　{知|し}りません"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "きのう　サッカーの　{試合|しあい}が　ありました"
+      }
+     ]
+    },
+    {
+     "no": 8,
+     "examples": [
+      {
+       "prompt_jp": "{日本|にほん}は　{食|た}べ{物|もの}が　{高|たか}いでしょう？（ええ）",
+       "answer_jp": [
+        "ええ、{高|たか}いです。"
+       ]
+      },
+      {
+       "prompt_jp": "その　カメラは　{高|たか}かったでしょう？（いいえ、そんなに）",
+       "answer_jp": [
+        "いいえ、そんなに　{高|たか}くなかったです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "ここは　{冬|ふゆ}　{雪|ゆき}が　すごいでしょう？（ええ、ほんとうに）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{仕事|しごと}は　{大変|たいへん}でしょう？（いいえ、そんなに）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{北海道|ほっかいどう}は　{寒|さむ}かったでしょう？（いいえ、あまり）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "のどが　かわいたでしょう？（ええ）"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L21/rc1.webp",
+    "dialog": [
+     {
+      "jp": "[[インターネット]]に　ついて　どう　{思|おも}いますか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "そうですね。　[[{便利|べんり}です]]が、",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[{使|つか}い{方|かた}に　{気|き}を　つけなければ　ならない]]と"
+     },
+     {
+      "jp": "{思|おも}います。"
+     },
+     {
+      "jp": "ワットさんは　どう　{思|おも}いますか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "わたしも　そう　{思|おも}います。",
+      "speaker_jp": "C"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L21/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L21/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L21/rc2.webp",
+    "dialog": [
+     {
+      "jp": "{今|いま}　{放送|ほうそう}が　ありましたね。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "{何|なん}と　{言|い}いましたか。"
+     },
+     {
+      "jp": "[[きょうは　9{時半|じはん}から　{中|なか}に　{入|はい}る]]",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[ことが　できる]]と　{言|い}いました。"
+     },
+     {
+      "jp": "そうですか。　ありがとう　ございます。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L21/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L21/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L21/rc3.webp",
+    "dialog": [
+     {
+      "jp": "{日曜日|にちようび}　[[{大阪|おおさか}]]へ　[[{天神祭|てんじんまつり}]]を",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "{見|み}に　{行|い}きました。"
+     },
+     {
+      "jp": "[[にぎやかだった]]でしょう？",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "ええ、ほんとうに　[[にぎやかでした]]。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L21/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L21/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L21_mondai1.m4a",
+    "cd_track": "CD73",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_truefalse",
+    "audio": "audio/L21_mondai2.m4a",
+    "cd_track": "CD74",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "fill",
+    "instruction_jp": "おいしいです　　{帰|かえ}ります　　［{来|き}ます］　　{上手|じょうず}です　　{役|やく}に　{立|た}ちます",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{彼女|かのじょ}は　{来|き}ますか。",
+       "……いいえ、きょうは　（{来|こ}ない）と　{思|おも}います。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "あの　レストランの　{料理|りょうり}は　どうですか。",
+       "……あまり　（＿）と　{思|おも}います。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{鈴木|すずき}さんは　{英語|えいご}が　できますか。",
+       "……ええ、（＿）と　{思|おも}います。　アメリカに　3{年|ねん}　いましたから。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "その　{辞書|じしょ}は　いいですか。",
+       "……ええ、とても　（＿）と　{思|おも}います。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{田中|たなか}さんは　いますか。",
+       "……かばんが　ありませんから、もう　うちへ　（＿）と　{思|おも}います。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "write",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "A：あしたは　{暇|ひま}ですか。",
+       "B：あしたは　{会社|かいしゃ}へ　{行|い}かなければ　なりません。",
+       "→　Bさんは　あしたは　[[{会社|かいしゃ}へ　{行|い}かなければ　ならない]]と　{言|い}いました。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "A：{桜|さくら}の　{季節|きせつ}ですね。　どこか　お{花見|はなみ}に　{行|い}きますか。",
+       "B：ええ、{日曜日|にちようび}　{家族|かぞく}と　{吉野山|よしのやま}へ　{行|い}きます。",
+       "→　Bさんは　＿と　{言|い}いました。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "A：この　{本|ほん}、おもしろいですよ。",
+       "B：そうですか。　じゃ、{貸|か}して　ください。",
+       "→　Aさんは　この　{本|ほん}は　＿と　{言|い}いました。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "A：パーティーは　にぎやかでしたか。",
+       "B：ええ、とても　にぎやかでした。",
+       "→　Bさんは　パーティーは　＿と　{言|い}いました。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "A：すみません。　{日曜日|にちようび}の　{試合|しあい}を　{見|み}に　{行|い}く　ことが　できません。",
+       "B：そうですか。　{残念|ざんねん}です。",
+       "→　Aさんは　{日曜日|にちようび}　＿と　{言|い}いました。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "instruction_jp": "あります　　{暑|あつ}いです　　［すきました］　　{試験|しけん}です　　{疲|つか}れました",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "おなかが　（すいた）でしょう？　{何|なに}か　{食|た}べませんか。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{来月|らいげつ}　{京都|きょうと}で　{有名|ゆうめい}な　お{祭|まつ}りが　（＿）でしょう？"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "（＿）でしょう？　{少|すこ}し　{休|やす}みましょう。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "（＿）でしょう？　エアコンを　つけましょうか。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "あしたは　（＿）でしょう？　{早|はや}く　{帰|かえ}りましょう。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "truefalse",
+    "passage_title_jp": "カンガルー",
+    "passage_jp": [
+     "この　{動物|どうぶつ}の　{名前|なまえ}を　{知|し}って　いますか。　『カンガルー』です。",
+     "カンガルーの　{名前|なまえ}に　ついて　おもしろい　{話|はなし}が　あります。　1770{年|ねん}に　イギリスの　キャプテン・クックは　{船|ふね}で　オーストラリアへ　{行|い}きました。　そして、{初|はじ}めて　この　{動物|どうぶつ}を　{見|み}ました。　クックは　オーストラリアの　{人|ひと}に　この　{動物|どうぶつ}の　{名前|なまえ}を　{知|し}りたいと　{言|い}いました。　オーストラリアの　{人|ひと}は　オーストラリアの　ことばで　「カンガルー（わからない）」と　{言|い}いました。　ですから、クックは　この　{動物|どうぶつ}の　{名前|なまえ}は　『カンガルー』だと　{思|おも}いました。　それから　この　{動物|どうぶつ}の　{名前|なまえ}は　『カンガルー』に　なりました。",
+     "おもしろいですね。　ほんとうだと　{思|おも}いますか。"
+    ],
+    "image": "img/L21/m6.webp",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "キャプテン・クックは　オーストラリアへ　{行|い}く　まえに、カンガルーを　{見|み}た　ことが　ありませんでした。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "オーストラリアの　{人|ひと}は　クックに　{動物|どうぶつ}の　{名前|なまえ}を　{教|おし}えました。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "クックは　オーストラリアの　{人|ひと}の　ことばが　わかりませんでした。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "kind": "compose",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{名前|なまえ}に　ついて　おもしろい　{話|はなし}が　ありますか。　{話|はな}して　ください。"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Bentuk Biasa と　{思|おも}います",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Saya kira...... Isi pikiran dan keputusan ditunjukan dengan memakai partikel と. Untuk pola kalimat ini terdapat penggunaan sebagai berikut di bawah ini:"
+     },
+     {
+      "type": "h",
+      "text_rich": "1) Menyatakan dugaan."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "あした　{雨|あめ}が　{降|ふ}ると　{思|おも}います。",
+        "tr": "Saya kira besok hujan turun."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "テレーザちゃんは　もう　{寝|ね}たと　{思|おも}います。",
+        "tr": "Saya kira Teresa sudah tidur."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Jika isi dugaan bersifat negatif, bentuk negatif diletakan di depan と."
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "ミラーさんは　この　ニュースを　{知|し}って　いますか。",
+        "tr": "Apakah Sdr. Miller tahu berita ini?"
+       },
+       {
+        "jp": "……いいえ、{知|し}らないと　{思|おも}います。",
+        "tr": "……Tidak, saya kira dia tidak tahu."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Menyatakan pendapat."
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "{日本|にほん}は　{物価|ぶっか}が　{高|たか}いと　{思|おも}います。",
+        "tr": "Saya pikir Jepang harga barangnya mahal."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Jika menanyakan pendapat tentang sesuatu, memakai ekspresi ～に　ついて　どう　おもいますか, dan tidak membubuhkan と di belakang どう."
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "{新|あたら}しい　{空港|くうこう}に　ついて　どう　{思|おも}いますか。",
+        "tr": "Mengenai bandara baru, menurut Anda bagaimana?"
+       },
+       {
+        "jp": "……きれいですが、ちょっと　{交通|こうつう}が　{不便|ふべん}だと　{思|おも}います。",
+        "tr": "……Bersih, tetapi lalu lintasnya kurang praktis."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Untuk menyatakan setuju atau tidak setuju terhadap pendapat orang lain sebagai berikut:"
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "ケータイは　{便利|べんり}ですね。",
+        "tr": "HP itu praktis ya."
+       },
+       {
+        "jp": "……わたしも　そう　{思|おも}います。",
+        "tr": "……Saya rasa begitu juga."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "“Kalimat”／Bentuk Biasa　と　{言|い}います",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Mengatakan bahwa... Isi ucapan ditunjukkan dengan と. Carannya ada dua."
+     },
+     {
+      "type": "h",
+      "text_rich": "1) Jika mengutip langsung, mengatakan kata yang dikutip seperti yang diucapkan tanpa diubah. Untuk menulis, kata tersebut dimasukkan ke dalam kurung 「 」 tanpa diubah."
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "{寝|ね}る　まえに、「お{休|やす}みなさい」と　{言|い}います。",
+        "tr": "Sebelum tidur mengucapkan “Selamat tidur”."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "ミラーさんは　「{来週|らいしゅう}　{東京|とうきょう}へ　{出張|しゅっちょう}します」と　{言|い}いました。",
+        "tr": "Sdr. Miller berkata “Minggu depan dinas ke Tokyo”."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Jika mengungkapkan isi rangkuman yang disingkat oleh pengutip, sebelum と dipakai bentuk biasa."
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "ミラーさんは　{東京|とうきょう}へ　{出張|しゅっちょう}すると　{言|い}いました。",
+        "tr": "Sdr. Miller mengatakan bahwa dinas ke Tokyo."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Bagian ketipan tidak dipengaruhi waktu kalimat. Lawan bicara yang mendengarkan ungkapan pembicara ditunjukan dengan partikel に."
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "{父|ちち}に　{留学|りゅうがく}したいと　{言|い}いました。",
+        "tr": "Saya berkata kepada ayah bahwa ingin belajar di luar negeri."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Kerja／Kata Sifat い Bentuk Biasa／Kata Sifat な／Kata Benda Bentuk Biasa ～だ　でしょう？",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "......, bukan? Ini digunakan pada waktu bertanya dengan tujuan mendapatkan persetujuan dari lawan bicara atau menegaskan. でしょう diungkapkan dengan nada yang naik. Di depan でしょう dipakai bentuk biasa, tetapi untuk Kata Sifat な dan Kata Benda dilanjutkan dengan bentuk ない dari ～だ."
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "あした　パーティーに　{行|い}くでしょう？",
+        "tr": "Besok pergi ke pesta, bukan?"
+       },
+       {
+        "jp": "……ええ、{行|い}きます。",
+        "tr": "……Ya, pergi."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "{北海道|ほっかいどう}は　{寒|さむ}かったでしょう？",
+        "tr": "Hokkaido dingin, bukan?"
+       },
+       {
+        "jp": "……いいえ、そんなに　{寒|さむ}くなかったです。",
+        "tr": "……Tidak, tidak begitu dingin."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "Kata Benda₁ (tempat) で　Kata Benda₂ が　あります",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Jika Kata Benda₂ menyatakan acara atau peristiwa seperti pesta, konser, perayaan, kejadian, bencana dan sebagainya, maka あります digunakan dalam maksud diadakan atau terjadi."
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "{東京|とうきょう}で　{日本|にほん}と　ブラジルの　サッカーの　{試合|しあい}が　あります。",
+        "tr": "Di Tokyo diadakan pertandingan sepak bola antara Jepang dan Brasil."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "Kata Benda (adegan) で",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Sesuatu adegan yang dilakukan ditunjukan dengan partikel で."
+     },
+     {
+      "type": "ex",
+      "mark": "⑭",
+      "lines": [
+       {
+        "jp": "{会議|かいぎ}で　{何|なに}か　{意見|いけん}を　{言|い}いましたか。",
+        "tr": "Di dalam rapat, apakah mengutarakan suatu pendapat?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_rich": "Kata Benda でも　Kata Kerja",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Jika menawarkan atau mengusulkan sesuatu, atau menyatakan keinginan dipakai partikel でも untuk menyebutkan satu dari beberapa contoh yang ada."
+     },
+     {
+      "type": "ex",
+      "mark": "⑮",
+      "lines": [
+       {
+        "jp": "ちょっと　ビールでも　{飲|の}みませんか。",
+        "tr": "Bagaimana kalau minum bir, atau...?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "title_rich": "Kata Kerja (Bentuk ない) ないと……",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Ini adalah bentuk yang disingkat dari Kata Kerja (Bentukない)ないと　いけません (Pel.17). Kata Kerja (Bentukない)ないと　いけません mempunyai arti yang hampir sama dengan Kata Kerja (Bentukない)なければ　なりません yang telah dipelajari pada Pelajaran 17."
+     },
+     {
+      "type": "ex",
+      "mark": "⑯",
+      "lines": [
+       {
+        "jp": "もう　{帰|かえ}らないと……。",
+        "tr": "Harus pulang..."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{役職名|やくしょくめい}",
+   "title_tr": "Nama-Nama Jabatan",
+   "blocks": [
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{国|くに}",
+         "tr": "negara"
+        }
+       ],
+       [
+        {
+         "jp": "{首相|しゅしょう}（{内閣総理大臣|ないかくそうりだいじん}）",
+         "tr": "Perdana Menteri"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{都道府県|とどうふけん}",
+         "tr": "prefektur"
+        }
+       ],
+       [
+        {
+         "jp": "{知事|ちじ}",
+         "tr": "Gubernur"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{市|し}",
+         "tr": "kota"
+        }
+       ],
+       [
+        {
+         "jp": "{市長|しちょう}",
+         "tr": "Wali Kota"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{町|まち}",
+         "tr": "distrik, daerah"
+        }
+       ],
+       [
+        {
+         "jp": "{町長|ちょうちょう}",
+         "tr": "Kepala Daerah"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{村|むら}",
+         "tr": "desa"
+        }
+       ],
+       [
+        {
+         "jp": "{村長|そんちょう}",
+         "tr": "Kepala Desa"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{大学|だいがく}",
+         "tr": "Universitas"
+        }
+       ],
+       [
+        {
+         "jp": "{学長|がくちょう}",
+         "tr": "Rektor"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{高等学校|こうとうがっこう}",
+         "tr": "SMA"
+        }
+       ],
+       [
+        {
+         "jp": "{校長|こうちょう}",
+         "tr": "Kepala Sekolah"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{中学校|ちゅうがっこう}",
+         "tr": "SMP"
+        }
+       ],
+       [
+        {
+         "jp": "{校長|こうちょう}",
+         "tr": "Kepala Sekolah"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{小学校|しょうがっこう}",
+         "tr": "SD"
+        }
+       ],
+       [
+        {
+         "jp": "{校長|こうちょう}",
+         "tr": "Kepala Sekolah"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{幼稚園|ようちえん}",
+         "tr": "TK"
+        }
+       ],
+       [
+        {
+         "jp": "{園長|えんちょう}",
+         "tr": "Kepala TK"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "{会社|かいしゃ}　Perusahaan"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{会長|かいちょう}",
+         "tr": "Ketua"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{社長|しゃちょう}",
+         "tr": "Direktur Utama"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{重役|じゅうやく}",
+         "tr": "Direktur"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{部長|ぶちょう}",
+         "tr": "Kepala Bagian"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{課長|かちょう}",
+         "tr": "Kepala Seksi"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "{銀行|ぎんこう}　Bank"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{頭取|とうどり}",
+         "tr": "Direktur Bank"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{支店長|してんちょう}",
+         "tr": "Kepala Kantor Cabang"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "{駅|えき}　Stasiun"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{駅長|えきちょう}",
+         "tr": "Kepala Stasiun"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "{病院|びょういん}　Rumah Sakit"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{院長|いんちょう}",
+         "tr": "Direktur Rumah Sakit"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{部長|ぶちょう}",
+         "tr": "Kepala Bagian"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{看護師長|かんごしちょう}",
+         "tr": "Kepala Perawat"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "{警察|けいさつ}　Kantor Polisi"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{署長|しょちょう}",
+         "tr": "Kepala Kantor Polisi"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ }
+}

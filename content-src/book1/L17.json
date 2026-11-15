@@ -1,0 +1,2425 @@
+{
+ "book": 1,
+ "lesson": 17,
+ "title_jp": "どう　しましたか",
+ "title_tr": "Kenapa?",
+ "source_pages": {
+  "main_pdf": [
+   167,
+   174
+  ],
+  "translation_pdf": [
+   126,
+   131
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "おぼえます",
+       "kanji_jp": "{覚|おぼ}えます",
+       "tr": "[Ⅱ] mengingat, menghafal"
+      },
+      {
+       "kana_jp": "わすれます",
+       "kanji_jp": "{忘|わす}れます",
+       "tr": "[Ⅱ] lupa"
+      },
+      {
+       "kana_jp": "なくします",
+       "kanji_jp": null,
+       "tr": "[Ⅰ] kehilangan"
+      },
+      {
+       "kana_jp": "はらいます",
+       "kanji_jp": "{払|はら}います",
+       "tr": "[Ⅰ] membayar"
+      },
+      {
+       "kana_jp": "かえします",
+       "kanji_jp": "{返|かえ}します",
+       "tr": "[Ⅰ] mengembalikan"
+      },
+      {
+       "kana_jp": "でかけます",
+       "kanji_jp": "{出|で}かけます",
+       "tr": "[Ⅱ] pergi, keluar, berangkat"
+      },
+      {
+       "kana_jp": "ぬぎます",
+       "kanji_jp": "{脱|ぬ}ぎます",
+       "tr": "[Ⅰ] buka (baju, sepatu dan lain-lain)"
+      },
+      {
+       "kana_jp": "もって　いきます",
+       "kanji_jp": "{持|も}って　{行|い}きます",
+       "tr": "[Ⅰ] membawa pergi"
+      },
+      {
+       "kana_jp": "もって　きます",
+       "kanji_jp": "{持|も}って　{来|き}ます",
+       "tr": "[Ⅲ] membawa datang"
+      },
+      {
+       "kana_jp": "しんぱいします",
+       "kanji_jp": "{心配|しんぱい}します",
+       "tr": "[Ⅲ] mengkhawatirkan"
+      },
+      {
+       "kana_jp": "ざんぎょうします",
+       "kanji_jp": "{残業|ざんぎょう}します",
+       "tr": "[Ⅲ] melembur"
+      },
+      {
+       "kana_jp": "しゅっちょうします",
+       "kanji_jp": "{出張|しゅっちょう}します",
+       "tr": "[Ⅲ] dinas"
+      },
+      {
+       "kana_jp": "のみます［くすりを～］",
+       "kanji_jp": "{飲|の}みます［{薬|くすり}を～］",
+       "tr": "[Ⅰ] minum [obat]"
+      },
+      {
+       "kana_jp": "はいります［おふろに～］",
+       "kanji_jp": "{入|はい}ります",
+       "tr": "[Ⅰ] mandi, masuk [ofuro]"
+      },
+      {
+       "kana_jp": "たいせつ［な］",
+       "kanji_jp": "{大切|たいせつ}［な］",
+       "tr": "penting, bernilai, berharga"
+      },
+      {
+       "kana_jp": "だいじょうぶ［な］",
+       "kanji_jp": "{大丈夫|だいじょうぶ}［な］",
+       "tr": "tidak apa-apa, tidak masalah"
+      },
+      {
+       "kana_jp": "あぶない",
+       "kanji_jp": "{危|あぶ}ない",
+       "tr": "berbahaya"
+      },
+      {
+       "kana_jp": "きんえん",
+       "kanji_jp": "{禁煙|きんえん}",
+       "tr": "dilarang merokok"
+      },
+      {
+       "kana_jp": "［けんこう］ほけんしょう",
+       "kanji_jp": "［{健康|けんこう}］{保険証|ほけんしょう}",
+       "tr": "kartu asuransi [kesehatan]"
+      },
+      {
+       "kana_jp": "ねつ",
+       "kanji_jp": "{熱|ねつ}",
+       "tr": "demam"
+      },
+      {
+       "kana_jp": "びょうき",
+       "kanji_jp": "{病気|びょうき}",
+       "tr": "sakit"
+      },
+      {
+       "kana_jp": "くすり",
+       "kanji_jp": "{薬|くすり}",
+       "tr": "obat"
+      },
+      {
+       "kana_jp": "［お］ふろ",
+       "kanji_jp": null,
+       "tr": "mandi, kamar mandi"
+      },
+      {
+       "kana_jp": "うわぎ",
+       "kanji_jp": "{上着|うわぎ}",
+       "tr": "baju, jaket"
+      },
+      {
+       "kana_jp": "したぎ",
+       "kanji_jp": "{下着|したぎ}",
+       "tr": "pakaian dalam"
+      },
+      {
+       "kana_jp": "2、3にち",
+       "kanji_jp": "2、3{日|にち}",
+       "tr": "dua atau tiga hari"
+      },
+      {
+       "kana_jp": "2、3～",
+       "kanji_jp": null,
+       "tr": "dua atau tiga (digunakan kata bilangan di bagian ～)"
+      },
+      {
+       "kana_jp": "～までに",
+       "kanji_jp": null,
+       "tr": "sampai dengan (menyatakan batas waktu)"
+      },
+      {
+       "kana_jp": "ですから",
+       "kanji_jp": null,
+       "tr": "oleh karena itu"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "どう　しましたか。",
+       "kanji_jp": null,
+       "tr": "Kenapa?/Ada masalah apa?"
+      },
+      {
+       "kana_jp": "のど",
+       "kanji_jp": null,
+       "tr": "kerongkongan"
+      },
+      {
+       "kana_jp": "［～が］　{痛|いた}いです。",
+       "kanji_jp": null,
+       "tr": "[～] sakit"
+      },
+      {
+       "kana_jp": "かぜ",
+       "kanji_jp": null,
+       "tr": "masuk angin"
+      },
+      {
+       "kana_jp": "それから",
+       "kanji_jp": null,
+       "tr": "dan, kemudian"
+      },
+      {
+       "kana_jp": "お{大事|だいじ}に。",
+       "kanji_jp": null,
+       "tr": "Semoga lekas sembuh. (ekspresi yang diucapkan kepada orang yang sedang sakit)"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "{写真|しゃしん}を　{撮|と}らないで　ください。",
+    "tr": "Jangan mengambil foto!"
+   },
+   {
+    "no": 2,
+    "jp": "パスポートを　{見|み}せなければ　なりません。",
+    "variants_jp": [
+     "（{見|み}せないと　いけません）"
+    ],
+    "tr": "Harus memperlihatkan paspor."
+   },
+   {
+    "no": 3,
+    "jp": "{日曜日|にちようび}は　{早|はや}く　{起|お}きなくても　いいです。",
+    "tr": "Pada hari Minggu tidak perlu bangun pagi-pagi."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "そこに　{車|くるま}を　{止|と}めないで　ください。",
+      "tr": "Jangan parkir mobil di situ!"
+     },
+     {
+      "jp": "……すみません。",
+      "tr": "……Maaf."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "もう　12{時|じ}ですよ。　{一人|ひとり}で　{大丈夫|だいじょうぶ}ですか。",
+      "tr": "Sudah pukul dua belas. Tidak apa-apa kalau sendirian?"
+     },
+     {
+      "jp": "……ええ、{心配|しんぱい}しないで　ください。　タクシーで　{帰|かえ}りますから。",
+      "tr": "……Ya, jangan khawatir. Saya pulang dengan taksi."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "{今晩|こんばん}　{飲|の}みに　{行|い}きませんか。",
+      "tr": "Bagaimana kalau nanti malam pergi minum minuman keras?"
+     },
+     {
+      "jp": "……すみません。　あしたから　ホンコンへ　{出張|しゅっちょう}しなければ　なりません。　ですから、{早|はや}く　{帰|かえ}ります。",
+      "tr": "……Maaf. Saya harus dinas ke Hong Kong besok. Karena itu, saya cepat pulang."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "{子|こ}どもも　お{金|かね}を　{払|はら}わなければ　なりませんか。",
+      "tr": "Apakah anak juga harus bayar?"
+     },
+     {
+      "jp": "……いいえ、{払|はら}わなくても　いいです。",
+      "tr": "……Tidak, tidak usah bayar."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "レポートは　いつまでに　{出|だ}さなければ　なりませんか。",
+      "tr": "Sampai dengan kapan laporan harus diserahkan?"
+     },
+     {
+      "jp": "……{金曜日|きんようび}までに　{出|だ}して　ください。",
+      "tr": "……Tolong diserahkan sampai dengan hari Jumat."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "どう　しましたか",
+   "title_tr": "Kenapa?",
+   "image": "img/L17/kaiwa.webp",
+   "audio": "audio/L17_kaiwa.m4a",
+   "cd_track": "CD60",
+   "lines": [
+    {
+     "speaker_jp": "{医者|いしゃ}",
+     "speaker_tr": "Dokter",
+     "jp": "どう　しましたか。",
+     "tr": "Kenapa?"
+    },
+    {
+     "speaker_jp": "{松本|まつもと}",
+     "speaker_tr": "Matsumoto",
+     "jp": "きのうから　のどが　{痛|いた}くて、{熱|ねつ}も　{少|すこ}し　あります。",
+     "tr": "Sejak kemarin sakit kerongkongan dan sedikit demam juga."
+    },
+    {
+     "speaker_jp": "{医者|いしゃ}",
+     "speaker_tr": "Dokter",
+     "jp": "そうですか。　ちょっと　{口|くち}を　{開|あ}けて　ください。",
+     "tr": "O, begitu. Coba buka mulut."
+    },
+    {
+     "speaker_jp": "{医者|いしゃ}",
+     "speaker_tr": "Dokter",
+     "break_before": true,
+     "jp": "かぜですね。　2、3{日|にち}　ゆっくり　{休|やす}んで　ください。",
+     "tr": "Masuk angin ya. Beristirahat yang cukup selama dua, tiga hari."
+    },
+    {
+     "speaker_jp": "{松本|まつもと}",
+     "speaker_tr": "Matsumoto",
+     "jp": "あのう、あしたから　{東京|とうきょう}へ　{出張|しゅっちょう}しなければ　なりません。",
+     "tr": "Begini, Dok, mulai besok saya harus dinas ke Tokyo."
+    },
+    {
+     "speaker_jp": "{医者|いしゃ}",
+     "speaker_tr": "Dokter",
+     "jp": "じゃ、きょうは　{薬|くすり}を　{飲|の}んで、{早|はや}く　{寝|ね}て　ください。",
+     "tr": "Kalau begitu, hari ini minum obat, dan cepat istirahat."
+    },
+    {
+     "speaker_jp": "{松本|まつもと}",
+     "speaker_tr": "Matsumoto",
+     "jp": "はい。",
+     "tr": "Ya."
+    },
+    {
+     "speaker_jp": "{医者|いしゃ}",
+     "speaker_tr": "Dokter",
+     "jp": "それから　{今晩|こんばん}は　おふろに　{入|はい}らないで　くださいね。",
+     "tr": "Dan juga nanti malam jangan mandi, ya."
+    },
+    {
+     "speaker_jp": "{松本|まつもと}",
+     "speaker_tr": "Matsumoto",
+     "jp": "はい、わかりました。",
+     "tr": "Baik, saya mengerti."
+    },
+    {
+     "speaker_jp": "{医者|いしゃ}",
+     "speaker_tr": "Dokter",
+     "jp": "じゃ、お{大事|だいじ}に。",
+     "tr": "Semoga lekas sembuh."
+    },
+    {
+     "speaker_jp": "{松本|まつもと}",
+     "speaker_tr": "Matsumoto",
+     "jp": "どうも　ありがとう　ございました。",
+     "tr": "Terima kasih banyak."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "す"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "い"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "す"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "わ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "い"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "き"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "い"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "か"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いそ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ぎ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いそ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "が"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "はな"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "はな"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "さ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ま"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ち"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ま"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "た"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "よ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "び"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "よ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ば"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "の"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "み"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "の"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ま"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かえ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "り"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かえ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ら"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "たべ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "たべ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いれ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いれ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "い"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "い"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おき"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おき"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あび"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あび"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "み"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "み"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かり"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かり"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おり"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おり"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅲ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "き"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "こ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅲ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅲ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "しんぱい"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "しんぱい"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ない"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "たばこを",
+          "ここに",
+          "{傘|かさ}を",
+          "　"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "すわ",
+          "はいら",
+          "わすれ",
+          "しんぱいし"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ないで　ください。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{本|ほん}を",
+          "{薬|くすり}を",
+          "　"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かえさ",
+          "のま",
+          "ざんぎょうし"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "なければ　なりません。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{名前|なまえ}を",
+          "{靴|くつ}を",
+          "あした"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かか",
+          "ぬが",
+          "こ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "なくても　いいです。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "レポート",
+          "{資料|しりょう}",
+          "コピー"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "は"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あした　{書|か}きます。",
+          "メールで　{送|おく}って　ください。",
+          "{松本|まつもと}さんに　{見|み}せなければ　なりません。"
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig1",
+     "image": "img/L17/rb_fig1.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "figure": "fig1",
+     "examples": [
+      {
+       "prompt_jp": "ここに",
+       "answer_jp": [
+        "ここに　{自転車|じてんしゃ}を　{置|お}かないで　ください。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "ここに"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "ここに"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "ここで"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "ここで"
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "examples": [
+      {
+       "prompt_jp": "{禁煙|きんえん}です・たばこを　{吸|す}いません",
+       "answer_jp": [
+        "{禁煙|きんえん}ですから、たばこを　{吸|す}わないで　ください。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{危|あぶ}ないです・{押|お}しません"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{大切|たいせつ}な　{資料|しりょう}です・なくしません"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{図書館|としょかん}の　{本|ほん}です・{何|なに}も　{書|か}きません"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{大丈夫|だいじょうぶ}です・{心配|しんぱい}しません"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "examples": [
+      {
+       "prompt_jp": "{早|はや}く　うちへ　{帰|かえ}ります",
+       "answer_jp": [
+        "{早|はや}く　うちへ　{帰|かえ}らなければ　なりません。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "あした　{病院|びょういん}へ　{行|い}きます"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "パスポートを　{見|み}せます"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{毎朝|まいあさ}　5{時|じ}に　{起|お}きます"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{土曜日|どようび}までに　{本|ほん}を　{返|かえ}します"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "{何時|なんじ}までに　{寮|りょう}へ　{帰|かえ}りますか（12{時|じ}）",
+       "answer_jp": [
+        "{何時|なんじ}までに　{寮|りょう}へ　{帰|かえ}らなければ　なりませんか。",
+        "……12{時|じ}までに　{帰|かえ}らなければ　なりません。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{何曜日|なんようび}までに　その　{本|ほん}を　{返|かえ}しますか（{水曜日|すいようび}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{何枚|なんまい}　レポートを　{書|か}きますか（15{枚|まい}）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{1日|いちにち}に　{何回|なんかい}　{薬|くすり}を　{飲|の}みますか（3{回|かい}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{毎日|まいにち}　いくつ　{漢字|かんじ}を　{覚|おぼ}えますか（{6|むっ}つ）"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "examples": [
+      {
+       "prompt_jp": "タクシーを　{呼|よ}びません",
+       "answer_jp": [
+        "タクシーを　{呼|よ}ばなくても　いいです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{急|いそ}ぎません"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "きょうは　{食事|しょくじ}を　{作|つく}りません"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "あしたは　{病院|びょういん}へ　{来|き}ません"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{傘|かさ}を　{持|も}って　{行|い}きません"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "examples": [
+      {
+       "prompt_jp": "{用事|ようじ}が　あります・{出|で}かけます",
+       "answer_jp": [
+        "{用事|ようじ}が　ありますから、{出|で}かけなければ　なりません。"
+       ]
+      },
+      {
+       "prompt_jp": "{悪|わる}い　{病気|びょうき}じゃ　ありません・{心配|しんぱい}しません",
+       "answer_jp": [
+        "{悪|わる}い　{病気|びょうき}じゃ　ありませんから、{心配|しんぱい}しなくても　いいです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{熱|ねつ}が　あります・{病院|びょういん}へ　{行|い}きます"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "あしたは　{休|やす}みです・{早|はや}く　{起|お}きません"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{会社|かいしゃ}の　{人|ひと}は　{英語|えいご}が　わかりません・{日本語|にほんご}で　{話|はな}します"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "あまり　{暑|あつ}くないです・エアコンを　つけません"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "examples": [
+      {
+       "prompt_jp": "ここで　{靴|くつ}を　{脱|ぬ}がなければ　なりませんか。（はい）",
+       "answer_jp": [
+        "はい、{脱|ぬ}がなければ　なりません。"
+       ]
+      },
+      {
+       "prompt_jp": "レポートを　{出|だ}さなければ　なりませんか。（いいえ）",
+       "answer_jp": [
+        "いいえ、{出|だ}さなくても　いいです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "パスポートを　{持|も}って　{行|い}かなければ　なりませんか。（はい）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{名前|なまえ}を　{書|か}かなければ　なりませんか。（いいえ）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{今|いま}　お{金|かね}を　{払|はら}わなければ　なりませんか。（はい）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "あしたも　{来|こ}なければ　なりませんか。（いいえ）"
+      }
+     ]
+    },
+    {
+     "no": 8,
+     "examples": [
+      {
+       "prompt_jp": "ここに　[[{荷物|にもつ}を]]　{置|お}いても　いいですか。（あそこ）",
+       "answer_jp": [
+        "{荷物|にもつ}は　あそこに　{置|お}いて　ください。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "ボールペンで　[[{答|こた}えを]]　{書|か}いても　いいですか。（{鉛筆|えんぴつ}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "ここで　[[たばこを]]　{吸|す}っても　いいですか。（{外|そと}）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "ここで　[[お{金|かね}を]]　{払|はら}わなければ　なりませんか。（{受付|うけつけ}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "あしたも　[[{保険証|ほけんしょう}を]]　{持|も}って　{来|こ}なければ　なりませんか。（{来月|らいげつ}）"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L17/rc1.webp",
+    "dialog": [
+     {
+      "jp": "はい、{終|お}わりましたよ。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[2、3{日|にち}]]　[[おふろに　{入|はい}ら]]ないで　くださいね。"
+     },
+     {
+      "jp": "はい、わかりました。　ありがとう　ございました。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L17/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L17/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L17/rc2.webp",
+    "dialog": [
+     {
+      "jp": "[[{昼|ひる}ごはんを　{食|た}べ]]に　{行|い}きませんか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "すみません。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "これから　[[{病院|びょういん}へ　{行|い}か]]なければ"
+     },
+     {
+      "jp": "なりません。"
+     },
+     {
+      "jp": "そうですか。　じゃ、また。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L17/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L17/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L17/rc3.webp",
+    "dialog": [
+     {
+      "jp": "[[{名前|なまえ}]]を　[[{書|か}いて]]　ください。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[{住所|じゅうしょ}]]は　[[{書|か}か]]なくても　いいです。"
+     },
+     {
+      "jp": "はい。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L17/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L17/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L17_mondai1.m4a",
+    "cd_track": "CD61",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_truefalse",
+    "audio": "audio/L17_mondai2.m4a",
+    "cd_track": "CD62",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{読|よ}みます　→　[[{読|よ}まない]]"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{行|い}きます　→　＿"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{脱|ぬ}ぎます　→　＿"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{返|かえ}します　→　＿"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{持|も}ちます　→　＿"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{呼|よ}びます　→　＿"
+      ]
+     },
+     {
+      "no": 6,
+      "lines_jp": [
+       "{入|はい}ります　→　＿"
+      ]
+     },
+     {
+      "no": 7,
+      "lines_jp": [
+       "{払|はら}います　→　＿"
+      ]
+     },
+     {
+      "no": 8,
+      "lines_jp": [
+       "{忘|わす}れます　→　＿"
+      ]
+     },
+     {
+      "no": 9,
+      "lines_jp": [
+       "{覚|おぼ}えます　→　＿"
+      ]
+     },
+     {
+      "no": 10,
+      "lines_jp": [
+       "（6{時|じ}に）　{起|お}きます　→　＿"
+      ]
+     },
+     {
+      "no": 11,
+      "lines_jp": [
+       "{借|か}ります　→　＿"
+      ]
+     },
+     {
+      "no": 12,
+      "lines_jp": [
+       "{見|み}ます　→　＿"
+      ]
+     },
+     {
+      "no": 13,
+      "lines_jp": [
+       "します　→　＿"
+      ]
+     },
+     {
+      "no": 14,
+      "lines_jp": [
+       "{心配|しんぱい}します　→　＿"
+      ]
+     },
+     {
+      "no": 15,
+      "lines_jp": [
+       "（{日本|にほん}へ）　{来|き}ます　→　＿"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "fill",
+    "instruction_jp": "{開|あ}けます　　{行|い}きます　　{心配|しんぱい}します　　［{吸|す}います］　　なくします　　{入|はい}ります",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "ここは　{禁煙|きんえん}ですから、たばこを　（{吸|す}わないで）　ください。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{危|あぶ}ないですから、そちらへ　（＿）　ください。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "この　{資料|しりょう}は　{大切|たいせつ}ですから、（＿）　ください。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{寒|さむ}いですから、{窓|まど}を　（＿）　ください。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{熱|ねつ}が　ありますから、おふろに　（＿）　ください。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{寮|りょう}の　{生活|せいかつ}は　{楽|たの}しいですから、（＿）　ください。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}1",
+      "lines_jp": [
+       "{会社|かいしゃ}を　{休|やす}みますから、{電話|でんわ}を　（かけます→　かけなければ　なりません）。"
+      ]
+     },
+     {
+      "label_jp": "{例|れい}2",
+      "lines_jp": [
+       "{土曜日|どようび}は　{休|やす}みですから、{会社|かいしゃ}へ　（{行|い}きます→　{行|い}かなくても　いいです）。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{肉|にく}や　{魚|さかな}は　{冷蔵庫|れいぞうこ}に　（{入|い}れます　→　＿）。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "あしたは　{病院|びょういん}へ　（{来|き}ます　→　＿）。",
+       "あさって　{来|き}て　ください。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{日本|にほん}の　うちで　{靴|くつ}を　（{脱|ぬ}ぎます　→　＿）。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{本|ほん}を　（{返|かえ}します　→　＿）から、これから　{図書館|としょかん}へ　{行|い}きます。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "レポートは　きょう　（{出|だ}します　→　＿）。",
+       "{来週|らいしゅう}の　{月曜日|げつようび}までに　{出|だ}して　ください。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "truefalse",
+    "passage_title_jp": "{日本語|にほんご}の　{試験|しけん}",
+    "passage_jp": [
+     "12{月|がつ}　{9日|ここのか}（{月曜日|げつようび}）　{午前|ごぜん}9:00～12:00",
+     "①　8{時|じ}40{分|ぷん}までに　{教室|きょうしつ}に　{入|はい}って　ください。",
+     "②　{机|つくえ}の　{番号|ばんごう}を　{見|み}て、あなたの　{番号|ばんごう}の　{所|ところ}に　{座|すわ}って　ください。",
+     "③　{鉛筆|えんぴつ}と　{消|け}しゴムだけ　{机|つくえ}の　{上|うえ}に　{置|お}いて　ください。",
+     "④　「{問題|もんだい}」は　{全部|ぜんぶ}で　9{枚|まい}　あります。　いちばん　{上|うえ}の　{紙|かみ}に　あなたの　{番号|ばんごう}と　{名前|なまえ}を　{書|か}いて　ください。",
+     "⑤　{答|こた}えは　{鉛筆|えんぴつ}で　{書|か}いて　ください。　ボールペンは　{使|つか}わないで　ください。"
+    ],
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "8{時|じ}40{分|ぷん}までに　{教室|きょうしつ}へ　{来|こ}なければ　なりません。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{机|つくえ}の　{番号|ばんごう}を　{確認|かくにん}してから、{座|すわ}ります。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{机|つくえ}の　{上|うえ}に　かばんを　{置|お}いても　いいです。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "「{問題|もんだい}」の　{紙|かみ}に　あなたの　{番号|ばんごう}は　{書|か}かなくても　いいです。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{答|こた}えは　{鉛筆|えんぴつ}で　{書|か}かなければ　なりません。"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Kata Kerja Bentuk ない",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Bentuk yang disambung pada ない (Contoh: かか dari かかない) disebut bentuk ない. Sesuai dengan kelompok Kata Kerja, cara membuat bentuk ない dari bentuk ます adalah sebagai berikut: (Lihat Buku Induk Pel.17 Latihan A1.)"
+     },
+     {
+      "type": "h",
+      "text_rich": "1) Kata Kerja Kelompok I"
+     },
+     {
+      "type": "p",
+      "text_rich": "Bunyi terakhir bentuk ます adalah bunyi kolom い, maka い diganti dengan bunyi kolom あ. Dengan catatan bahwa untuk Kata Kerja bentuk ます yang bunyi terakhirnya bunyi い sebagai vokal (かいます, あいます dan lain-lain) tidak diganti dengan あ melainkan わ."
+     },
+     {
+      "type": "p",
+      "text_rich": "かき－ます → かか－ない　いそぎ－ます → いそが－ない　よみ－ます → よま－ない　あそび－ます → あそば－ない　とり－ます → とら－ない　まち－ます → また－ない　すい－ます → すわ－ない　はなし－ます → はなさ－ない"
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Kata Kerja Kelompok II"
+     },
+     {
+      "type": "p",
+      "text_rich": "Bentuknya sama dengan bentuk ます. たべ－ます → たべ－ない　み－ます → み－ない"
+     },
+     {
+      "type": "h",
+      "text_rich": "3) Kata Kerja kelompok III"
+     },
+     {
+      "type": "p",
+      "text_rich": "べんきょうし－ます → べんきょうし－ない　し－ます → し－ない　き－ます → こ－ない"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Kata Kerja (Bentuk ない) ないで　ください",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Jangan......! Pola kalimat ini dipakai jika meminta atau memerintah kepada lawan bicara supaya tidak melakukan sesuatu hal."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "ここで　{写真|しゃしん}を　{撮|と}らないで　ください。",
+        "tr": "Jangan mengambil foto di sini!"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Dapat menyatakan perhatian kepada lawan bicara untuk tidak perlu berbuat sesuatu hal."
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "わたしは　{元気|げんき}ですから、{心配|しんぱい}しないで　ください。",
+        "tr": "Karena saya sehat, jangan khawatir."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Kerja (Bentuk ない) なければ　なりません",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Harus...... Pola kalimat ini menunjukkan keharusan. Perlu hati-hati bahwa ini bukan kalimat negatif."
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "{薬|くすり}を　{飲|の}まなければ　なりません。",
+        "tr": "Harus minum obat."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "Kata Kerja (Bentuk ない) なくても　いいです",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Tidak perlu...... Pola kalimat ini menunjukkan bahwa tidak perlu melakukan sesuatu hal."
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "あした　{来|こ}なくても　いいです。",
+        "tr": "Besok tidak perlu datang."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "Pentopikan objek",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Jika menyatakan dengan objek langsung sebagai topik, maka partikel を dihilangkan kemudian membubuhkan partikel は, lalu diletakkan paling di depan dalam kalimat."
+     },
+     {
+      "type": "ex",
+      "mark": "",
+      "lines": [
+       {
+        "jp": "ここに　{荷物|にもつ}を　{置|お}かないで　ください。",
+        "tr": "Jangan letakkan barang di sini."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "{荷物|にもつ}は　ここに　{置|お}かないで　ください。",
+        "tr": "Barangnya jangan diletakkan di sini."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "",
+      "lines": [
+       {
+        "jp": "{会社|かいしゃ}の　{食堂|しょくどう}で　{昼|ひる}ごはんを　{食|た}べます。",
+        "tr": "Makan siang di kantin perusahaan."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "{昼|ひる}ごはんは　{会社|かいしゃ}の　{食堂|しょくどう}で　{食|た}べます。",
+        "tr": "Makan siangnya makan di kantin perusahaan."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_rich": "Kata Benda (waktu) までに　Kata Kerja",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Menunjukkan batas waktu aksi atau peristiwa."
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "{会議|かいぎ}は　5{時|じ}までに　{終|お}わります。",
+        "tr": "Rapat selesai sebelum pukul lima."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "{土曜日|どようび}までに　{本|ほん}を　{返|かえ}さなければ　なりません。",
+        "tr": "Mengembalikan buku sampai dengan hari Sabtu."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Partikel まで yang telah dipelajari pada Pelajaran 4 menunjukkan titik akhir aksi yang sedang berlangsung. Perlu hati-hati sebab bentuknya mirip."
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "5{時|じ}まで　{働|はたら}きます。",
+        "tr": "Bekerja sampai pukul lima."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{体|からだ}・{病気|びょうき}",
+   "title_tr": "Badan, Penyakit",
+   "blocks": [
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "どう　しましたか。"
+        }
+       ],
+       [
+        {
+         "tr": "Kenapa? Ada masalah apa?"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{頭|あたま}が　{痛|いた}い"
+        }
+       ],
+       [
+        {
+         "tr": "sakit kepala"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "おなかが　{痛|いた}い"
+        }
+       ],
+       [
+        {
+         "tr": "sakit perut"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{歯|は}が　{痛|いた}い"
+        }
+       ],
+       [
+        {
+         "tr": "sakit gigi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{熱|ねつ}が　あります"
+        }
+       ],
+       [
+        {
+         "tr": "demam"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "せきが　{出|で}ます"
+        }
+       ],
+       [
+        {
+         "tr": "batuk"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{鼻水|はなみず}が　{出|で}ます"
+        }
+       ],
+       [
+        {
+         "tr": "pilek"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{血|ち}が　{出|で}ます"
+        }
+       ],
+       [
+        {
+         "tr": "berdarah"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{吐|は}き{気|け}が　します"
+        }
+       ],
+       [
+        {
+         "tr": "mual, mau muntah"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{寒気|さむけ}が　します"
+        }
+       ],
+       [
+        {
+         "tr": "kedinginan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "めまいが　します"
+        }
+       ],
+       [
+        {
+         "tr": "pening, pusing"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{下痢|げり}を　します"
+        }
+       ],
+       [
+        {
+         "tr": "diare"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{便秘|べんぴ}を　します"
+        }
+       ],
+       [
+        {
+         "tr": "sembelit"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "けがを　します"
+        }
+       ],
+       [
+        {
+         "tr": "terluka"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "やけどを　します"
+        }
+       ],
+       [
+        {
+         "tr": "terbakar"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{食欲|しょくよく}が　ありません"
+        }
+       ],
+       [
+        {
+         "tr": "tidak nafsu makan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{肩|かた}が　こります"
+        }
+       ],
+       [
+        {
+         "tr": "bahu pegal"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{体|からだ}が　だるい"
+        }
+       ],
+       [
+        {
+         "tr": "badan lemas"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "かゆい"
+        }
+       ],
+       [
+        {
+         "tr": "gatal"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "かぜ"
+        }
+       ],
+       [
+        {
+         "tr": "masuk angin"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "インフルエンザ"
+        }
+       ],
+       [
+        {
+         "tr": "flu, influenza"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{盲腸|もうちょう}"
+        }
+       ],
+       [
+        {
+         "tr": "usus buntu"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ぎっくり{腰|ごし}"
+        }
+       ],
+       [
+        {
+         "tr": "sakit pinggang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ねんざ"
+        }
+       ],
+       [
+        {
+         "tr": "keseleo"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{骨折|こっせつ}"
+        }
+       ],
+       [
+        {
+         "tr": "patah tulang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{二日酔|ふつかよ}い"
+        }
+       ],
+       [
+        {
+         "tr": "efek sesudah minum"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "image": "img/L17/sankou_karada.webp",
+     "caption": "{体|からだ}"
+    }
+   ]
+  }
+ }
+}

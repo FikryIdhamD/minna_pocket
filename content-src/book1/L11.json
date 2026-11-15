@@ -1,0 +1,2169 @@
+{
+ "book": 1,
+ "lesson": 11,
+ "title_jp": "これ、お{願|ねが}いします",
+ "title_tr": "Tolong Ini.",
+ "source_pages": {
+  "main_pdf": [
+   113,
+   120
+  ],
+  "translation_pdf": [
+   90,
+   95
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "います［こどもが～］",
+       "kanji_jp": "［{子|こ}どもが～］",
+       "tr": "ada, mempunyai [anak]"
+      },
+      {
+       "kana_jp": "います［にほんに～］",
+       "kanji_jp": "［{日本|にほん}に～］",
+       "tr": "ada [di Jepang]"
+      },
+      {
+       "kana_jp": "かかります",
+       "kanji_jp": null,
+       "tr": "memakan, perlu (digunakan untuk waktu dan uang)"
+      },
+      {
+       "kana_jp": "やすみます［かいしゃを～］",
+       "kanji_jp": "{休|やす}みます［{会社|かいしゃ}を～］",
+       "tr": "tidak masuk [kerja]"
+      },
+      {
+       "kana_jp": "ひとつ",
+       "kanji_jp": "{1つ|ひとつ}",
+       "tr": "satu (kata bantu bilangan yang digunakan untuk menghitung barang)"
+      },
+      {
+       "kana_jp": "ふたつ",
+       "kanji_jp": "{2つ|ふたつ}",
+       "tr": "dua"
+      },
+      {
+       "kana_jp": "みっつ",
+       "kanji_jp": "{3つ|みっつ}",
+       "tr": "tiga"
+      },
+      {
+       "kana_jp": "よっつ",
+       "kanji_jp": "{4つ|よっつ}",
+       "tr": "empat"
+      },
+      {
+       "kana_jp": "いつつ",
+       "kanji_jp": "{5つ|いつつ}",
+       "tr": "lima"
+      },
+      {
+       "kana_jp": "むっつ",
+       "kanji_jp": "{6つ|むっつ}",
+       "tr": "enam"
+      },
+      {
+       "kana_jp": "ななつ",
+       "kanji_jp": "{7つ|ななつ}",
+       "tr": "tujuh"
+      },
+      {
+       "kana_jp": "やっつ",
+       "kanji_jp": "{8つ|やっつ}",
+       "tr": "delapan"
+      },
+      {
+       "kana_jp": "ここのつ",
+       "kanji_jp": "{9つ|ここのつ}",
+       "tr": "sembilan"
+      },
+      {
+       "kana_jp": "とお",
+       "kanji_jp": "{10|とお}",
+       "tr": "sepuluh"
+      },
+      {
+       "kana_jp": "いくつ",
+       "kanji_jp": null,
+       "tr": "berapa"
+      },
+      {
+       "kana_jp": "ひとり",
+       "kanji_jp": "{1人|ひとり}",
+       "tr": "seorang"
+      },
+      {
+       "kana_jp": "ふたり",
+       "kanji_jp": "{2人|ふたり}",
+       "tr": "dua orang"
+      },
+      {
+       "kana_jp": "－にん",
+       "kanji_jp": "－{人|にん}",
+       "tr": "－ orang"
+      },
+      {
+       "kana_jp": "－だい",
+       "kanji_jp": "－{台|だい}",
+       "tr": "buah (kata bantu bilangan yang digunakan untuk menghitung mesin dan mobil)"
+      },
+      {
+       "kana_jp": "－まい",
+       "kanji_jp": "－{枚|まい}",
+       "tr": "lembar, helai (kata bantu bilangan yang digunakan untuk menghitung kertas dan perangko)"
+      },
+      {
+       "kana_jp": "－かい",
+       "kanji_jp": "－{回|かい}",
+       "tr": "－ kali"
+      },
+      {
+       "kana_jp": "りんご",
+       "kanji_jp": null,
+       "tr": "apel"
+      },
+      {
+       "kana_jp": "みかん",
+       "kanji_jp": null,
+       "tr": "jeruk"
+      },
+      {
+       "kana_jp": "サンドイッチ",
+       "kanji_jp": null,
+       "tr": "sandwich"
+      },
+      {
+       "kana_jp": "カレー［ライス］",
+       "kanji_jp": null,
+       "tr": "[nasi dan] kare"
+      },
+      {
+       "kana_jp": "アイスクリーム",
+       "kanji_jp": null,
+       "tr": "es krim"
+      },
+      {
+       "kana_jp": "きって",
+       "kanji_jp": "{切手|きって}",
+       "tr": "perangko"
+      },
+      {
+       "kana_jp": "はがき",
+       "kanji_jp": null,
+       "tr": "kartu pos"
+      },
+      {
+       "kana_jp": "ふうとう",
+       "kanji_jp": "{封筒|ふうとう}",
+       "tr": "amplop"
+      },
+      {
+       "kana_jp": "りょうしん",
+       "kanji_jp": "{両親|りょうしん}",
+       "tr": "orang tua"
+      },
+      {
+       "kana_jp": "きょうだい",
+       "kanji_jp": "{兄弟|きょうだい}",
+       "tr": "saudara, saudari"
+      },
+      {
+       "kana_jp": "あに",
+       "kanji_jp": "{兄|あに}",
+       "tr": "kakak laki-laki (untuk menyebutkan kakak sendiri)"
+      },
+      {
+       "kana_jp": "おにいさん*",
+       "kanji_jp": "お{兄|にい}さん",
+       "tr": "kakak laki-laki (untuk menyebutkan kakak laki-laki orang lain)"
+      },
+      {
+       "kana_jp": "あね",
+       "kanji_jp": "{姉|あね}",
+       "tr": "kakak perempuan (untuk menyebutkan kakak sendiri)"
+      },
+      {
+       "kana_jp": "おねえさん*",
+       "kanji_jp": "お{姉|ねえ}さん",
+       "tr": "kakak perempuan (untuk menyebutkan kakak perempuan orang lain)"
+      },
+      {
+       "kana_jp": "おとうと",
+       "kanji_jp": "{弟|おとうと}",
+       "tr": "adik laki-laki (untuk menyebutkan adik sendiri)"
+      },
+      {
+       "kana_jp": "おとうとさん*",
+       "kanji_jp": "{弟|おとうと}さん",
+       "tr": "adik laki-laki (untuk menyebutkan adik laki-laki orang lain)"
+      },
+      {
+       "kana_jp": "いもうと",
+       "kanji_jp": "{妹|いもうと}",
+       "tr": "adik perempuan (untuk menyebutkan adik sendiri)"
+      },
+      {
+       "kana_jp": "いもうとさん*",
+       "kanji_jp": "{妹|いもうと}さん",
+       "tr": "adik perempuan (untuk menyebutkan adik perempuan orang lain)"
+      },
+      {
+       "kana_jp": "がいこく",
+       "kanji_jp": "{外国|がいこく}",
+       "tr": "luar negeri"
+      },
+      {
+       "kana_jp": "りゅうがくせい",
+       "kanji_jp": "{留学生|りゅうがくせい}",
+       "tr": "pelajar asing"
+      },
+      {
+       "kana_jp": "クラス",
+       "kanji_jp": null,
+       "tr": "kelas"
+      },
+      {
+       "kana_jp": "－じかん",
+       "kanji_jp": "－{時間|じかん}",
+       "tr": "－ jam"
+      },
+      {
+       "kana_jp": "－しゅうかん",
+       "kanji_jp": "－{週間|しゅうかん}",
+       "tr": "－ minggu"
+      },
+      {
+       "kana_jp": "－かげつ",
+       "kanji_jp": "－か{月|げつ}",
+       "tr": "－ bulan"
+      },
+      {
+       "kana_jp": "－ねん",
+       "kanji_jp": "－{年|ねん}",
+       "tr": "－ tahun"
+      },
+      {
+       "kana_jp": "～ぐらい",
+       "kanji_jp": null,
+       "tr": "kira-kira ～"
+      },
+      {
+       "kana_jp": "どのくらい",
+       "kanji_jp": null,
+       "tr": "berapa lama"
+      },
+      {
+       "kana_jp": "ぜんぶで",
+       "kanji_jp": "{全部|ぜんぶ}で",
+       "tr": "semuanya"
+      },
+      {
+       "kana_jp": "みんな",
+       "kanji_jp": null,
+       "tr": "semua"
+      },
+      {
+       "kana_jp": "～だけ",
+       "kanji_jp": null,
+       "tr": "hanya ～, ～ saja"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{練習|れんしゅう}C〉",
+     "items": [
+      {
+       "kana_jp": "かしこまりました。",
+       "kanji_jp": null,
+       "tr": "Baik."
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "いい　［お］{天気|てんき}ですね。",
+       "kanji_jp": null,
+       "tr": "Cuacanya bagus ya."
+      },
+      {
+       "kana_jp": "お{出|で}かけですか。",
+       "kanji_jp": null,
+       "tr": "Mau keluar?"
+      },
+      {
+       "kana_jp": "ちょっと　～まで。",
+       "kanji_jp": null,
+       "tr": "Ke ～ sebentar."
+      },
+      {
+       "kana_jp": "{行|い}って　らっしゃい。",
+       "kanji_jp": null,
+       "tr": "Hati-hati."
+      },
+      {
+       "kana_jp": "{行|い}って　きます。",
+       "kanji_jp": null,
+       "tr": "Saya berangkat."
+      },
+      {
+       "kana_jp": "{船便|ふなびん}",
+       "kanji_jp": null,
+       "tr": "pos laut"
+      },
+      {
+       "kana_jp": "{航空便|こうくうびん}（エアメール）",
+       "kanji_jp": null,
+       "tr": "pos udara"
+      },
+      {
+       "kana_jp": "お{願|ねが}いします。",
+       "kanji_jp": null,
+       "tr": "Tolong."
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "オーストラリア",
+       "kanji_jp": null,
+       "tr": "Australia"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "{会議室|かいぎしつ}に　テーブルが　{7つ|ななつ}　あります。",
+    "tr": "Di ruang rapat ada tujuh buah meja."
+   },
+   {
+    "no": 2,
+    "jp": "わたしは　{日本|にほん}に　1{年|ねん}　います。",
+    "tr": "Saya tinggal di Jepang selama satu tahun."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "りんごを　いくつ　{買|か}いましたか。",
+      "tr": "Anda membeli berapa buah apel?"
+     },
+     {
+      "jp": "……{4つ|よっつ}　{買|か}いました。",
+      "tr": "……Saya membeli empat buah."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "80{円|えん}の　{切手|きって}を　5{枚|まい}と　はがきを　2{枚|まい}　ください。",
+      "tr": "Minta perangko seharga ¥80 lima lembar dan kartu pos dua lembar."
+     },
+     {
+      "jp": "……はい。　{全部|ぜんぶ}で　500{円|えん}です。",
+      "tr": "……Ya. Semuanya ¥500."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "{富士大学|ふじだいがく}に　{外国人|がいこくじん}の　{先生|せんせい}が　いますか。",
+      "tr": "Apakah di Universiras Fuji ada dosen orang asing?"
+     },
+     {
+      "jp": "……はい、3{人|にん}　います。　みんな　アメリカ{人|じん}です。",
+      "tr": "……Ya, ada tiga orang. Semuanya orang Amerika Serikat."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "{兄弟|きょうだい}は　{何人|なんにん}ですか。",
+      "tr": "Berapa saudara Anda?"
+     },
+     {
+      "jp": "……4{人|にん}です。　{姉|あね}が　{2人|ふたり}と　{兄|あに}が　{1人|ひとり}　います。",
+      "tr": "……Empat orang. Dua orang kakak perempuan, dan seorang kakak laki-laki."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "1{週間|しゅうかん}に　{何回|なんかい}　テニスを　しますか。",
+      "tr": "Seminggu berapa kali Anda bermain tenis?"
+     },
+     {
+      "jp": "……2{回|かい}ぐらい　します。",
+      "tr": "……Kira-kira bermain dua kali."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "{田中|たなか}さんは　どのくらい　スペイン{語|ご}を　{勉強|べんきょう}しましたか。",
+      "tr": "Kira-kira berapa lama Sdr. Tanaka belajar bahasa Spanyol?"
+     },
+     {
+      "jp": "……3か{月|げつ}　{勉強|べんきょう}しました。",
+      "tr": "……Belajar tiga bulan."
+     },
+     {
+      "jp": "3か{月|げつ}だけですか。　{上手|じょうず}ですね。",
+      "tr": "Hanya tiga bulan saja? Pintar ya."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "{大阪|おおさか}から　{東京|とうきょう}まで　{新幹線|しんかんせん}で　どのくらい　かかりますか。",
+      "tr": "Memakan waktu berapa lama dari Osaka sampai di Tokyo dengan Shinkansen?"
+     },
+     {
+      "jp": "……2{時間半|じかんはん}　かかります。",
+      "tr": "……Memakan waktu dua setengah jam."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "これ、お{願|ねが}いします",
+   "title_tr": "Tolong Ini.",
+   "image": "img/L11/kaiwa.webp",
+   "audio": "audio/L11_kaiwa.m4a",
+   "cd_track": "CD39",
+   "lines": [
+    {
+     "speaker_jp": "{管理人|かんりにん}",
+     "speaker_tr": "Petugas sekuriti",
+     "jp": "いい　{天気|てんき}ですね。　お{出|で}かけですか。",
+     "tr": "Cuacanya baik, ya. Mau keluar?"
+    },
+    {
+     "speaker_jp": "ワン",
+     "speaker_tr": "Wang",
+     "jp": "ええ、ちょっと　{郵便局|ゆうびんきょく}まで。",
+     "tr": "Ya, mau ke kantor pos sebentar."
+    },
+    {
+     "speaker_jp": "{管理人|かんりにん}",
+     "speaker_tr": "Petugas sekuriti",
+     "jp": "そうですか。　{行|い}って　らっしゃい。",
+     "tr": "O, begitu. Hati-hati!"
+    },
+    {
+     "speaker_jp": "ワン",
+     "speaker_tr": "Wang",
+     "jp": "{行|い}って　きます。",
+     "tr": "Saya berangkat."
+    },
+    {
+     "speaker_jp": "ワン",
+     "speaker_tr": "Wang",
+     "break_before": true,
+     "jp": "これ、オーストラリアまで　お{願|ねが}いします。",
+     "tr": "Tolong ini ke Australia."
+    },
+    {
+     "speaker_jp": "{郵便局員|ゆうびんきょくいん}",
+     "speaker_tr": "Pegawai kantor pos",
+     "jp": "はい。　{船便|ふなびん}ですか、{航空便|こうくうびん}ですか。",
+     "tr": "Baik. Dengan pos laut atau pos udara?"
+    },
+    {
+     "speaker_jp": "ワン",
+     "speaker_tr": "Wang",
+     "jp": "{航空便|こうくうびん}は　いくらですか。",
+     "tr": "Berapa ongkosnya kalau dengan pos udara?"
+    },
+    {
+     "speaker_jp": "{郵便局員|ゆうびんきょくいん}",
+     "speaker_tr": "Pegawai kantor pos",
+     "jp": "7,600{円|えん}です。",
+     "tr": "¥7.600."
+    },
+    {
+     "speaker_jp": "ワン",
+     "speaker_tr": "Wang",
+     "jp": "{船便|ふなびん}は？",
+     "tr": "Kalau pos laut?"
+    },
+    {
+     "speaker_jp": "{郵便局員|ゆうびんきょくいん}",
+     "speaker_tr": "Pegawai kantor pos",
+     "jp": "3,450{円|えん}です。",
+     "tr": "¥3.450."
+    },
+    {
+     "speaker_jp": "ワン",
+     "speaker_tr": "Wang",
+     "jp": "どのくらい　かかりますか。",
+     "tr": "Kira-kira memakan waktu berapa lama?"
+    },
+    {
+     "speaker_jp": "{郵便局員|ゆうびんきょくいん}",
+     "speaker_tr": "Pegawai kantor pos",
+     "jp": "{航空便|こうくうびん}で　{7日|なのか}、{船便|ふなびん}で　2か{月|げつ}ぐらいです。",
+     "tr": "Tujuh hari dengan pos udara, dan dua bulan dengan pos laut."
+    },
+    {
+     "speaker_jp": "ワン",
+     "speaker_tr": "Wang",
+     "jp": "じゃ、{船便|ふなびん}で　お{願|ねが}いします。",
+     "tr": "Kalau begitu, dengan pos laut."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "みかんが"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いつつ",
+          "やっつ",
+          "とお"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "あります。"
+      }
+     ],
+     [
+      {
+       "text_jp": "みかんが"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いくつ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "…………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "text_jp": "80{円|えん}の　{切手|きって}を"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "1まい",
+          "4まい",
+          "9まい"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "{買|か}いました。"
+      }
+     ],
+     [
+      {
+       "text_jp": "80{円|えん}の　{切手|きって}を"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "なんまい"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "……………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "text_jp": "この　クラスに　{留学生|りゅうがくせい}が"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ひとり",
+          "ふたり",
+          "4にん"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "います。"
+      }
+     ],
+     [
+      {
+       "text_jp": "この　クラスに　{留学生|りゅうがくせい}が"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "なんにん"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "1しゅうかん",
+          "1かげつ",
+          "1ねん"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "に"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "1かい",
+          "2かい",
+          "5かいぐらい"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "{映画|えいが}を　{見|み}ます。"
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "1しゅうかん",
+          "1かげつ",
+          "1ねん"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "に"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "なんかい"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "…………………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     [
+      {
+       "text_jp": "{国|くに}で"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "5しゅうかん",
+          "6かげつ",
+          "1ねんぐらい"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "{日本語|にほんご}を　{勉強|べんきょう}しました。"
+      }
+     ],
+     [
+      {
+       "text_jp": "{国|くに}で"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "どのくらい"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "…………………………………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしの　{国|くに}から　{日本|にほん}まで　{飛行機|ひこうき}で"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "4じかん",
+          "5じかんはん",
+          "12じかん"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "かかります。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたの　……………………………………"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "どのくらい"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "……………か。"
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig1",
+     "image": "img/L11/rb_fig1.webp"
+    },
+    {
+     "id": "fig2",
+     "image": "img/L11/rb_fig2.webp"
+    },
+    {
+     "id": "fig3",
+     "image": "img/L11/rb_fig3.webp"
+    },
+    {
+     "id": "fig4",
+     "image": "img/L11/rb_fig4.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "figure": "fig1",
+     "examples": [
+      {
+       "prompt_jp": "りんご",
+       "answer_jp": [
+        "りんごが　いくつ　ありますか。",
+        "……{3つ|みっつ}　あります。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "いす"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{卵|たまご}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "かばん"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{部屋|へや}"
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "figure": "fig2",
+     "examples": [
+      {
+       "prompt_jp": "テレビ",
+       "answer_jp": [
+        "テレビが　{何台|なんだい}　ありますか。",
+        "……2{台|だい}　あります。"
+       ]
+      },
+      {
+       "prompt_jp": "シャツ",
+       "answer_jp": [
+        "シャツが　{何枚|なんまい}　ありますか。",
+        "……1{枚|まい}　あります。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "CD"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "コンピューター"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{封筒|ふうとう}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{車|くるま}"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "figure": "fig3",
+     "examples": [
+      {
+       "prompt_jp": "{買|か}います",
+       "answer_jp": [
+        "はがきを　{何枚|なんまい}　{買|か}いましたか。",
+        "……10{枚|まい}　{買|か}いました。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{撮|と}ります"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{買|か}います"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{食|た}べます"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{送|おく}ります"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "figure": "fig4",
+     "examples": [
+      {
+       "prompt_jp": "{女|おんな}の　{人|ひと}",
+       "answer_jp": [
+        "{女|おんな}の　{人|ひと}が　{何人|なんにん}　いますか。",
+        "……6{人|にん}　います。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{男|おとこ}の　{人|ひと}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{子|こ}ども"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{女|おんな}の　{子|こ}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{学生|がくせい}"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "examples": [
+      {
+       "prompt_jp": "1か{月|げつ}・{映画|えいが}を　{見|み}ます（1）",
+       "answer_jp": [
+        "1か{月|げつ}に　{何回|なんかい}　{映画|えいが}を　{見|み}ますか。",
+        "……1{回|かい}　{見|み}ます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{1日|いちにち}・{彼女|かのじょ}に　{電話|でんわ}を　かけます（2）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "1{週間|しゅうかん}・{日本語|にほんご}を　{習|なら}います（3）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "1か{月|げつ}・{東京|とうきょう}へ　{行|い}きます（1）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "1{年|ねん}・{国|くに}へ　{帰|かえ}ります（1）"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "examples": [
+      {
+       "prompt_jp": "{会社|かいしゃ}を　{休|やす}みました（{4日|よっか}）",
+       "answer_jp": [
+        "{何日|なんにち}　{会社|かいしゃ}を　{休|やす}みましたか。",
+        "……{4日|よっか}　{休|やす}みました。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{大学|だいがく}で　{勉強|べんきょう}します（4{年|ねん}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{旅行|りょこう}しました（2{週間|しゅうかん}）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "コンビニで　アルバイトを　します（5{時間|じかん}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{休|やす}みます（10{分|ぷん}だけ）"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "examples": [
+      {
+       "prompt_jp": "{今|いま}まで　{日本語|にほんご}を　{勉強|べんきょう}しました（3か{月|げつ}）",
+       "answer_jp": [
+        "{今|いま}まで　どのくらい　{日本語|にほんご}を　{勉強|べんきょう}しましたか。",
+        "……3か{月|げつ}　{勉強|べんきょう}しました。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "これから　{日本|にほん}に　います（2{週間|しゅうかん}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{今|いま}まで　{中国語|ちゅうごくご}を　{習|なら}いました（1{年|ねん}ぐらい）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{昼|ひる}　{休|やす}みます（45{分|ふん}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{毎日|まいにち}　{働|はたら}きます（8{時間|じかん}）"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L11/rc1.webp",
+    "dialog": [
+     {
+      "jp": "いらっしゃいませ。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[サンドイッチ]]を　[[{2つ|ふたつ}]]　ください。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "かしこまりました。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L11/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L11/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L11/rc2.webp",
+    "dialog": [
+     {
+      "jp": "{家族|かぞく}は　{何人|なんにん}ですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "4{人|にん}です。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[{母|はは}]]と　[[{弟|おとうと}]]が　[[{2人|ふたり}]]　います。"
+     },
+     {
+      "jp": "そうですか。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L11/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L11/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L11/rc3.webp",
+    "dialog": [
+     {
+      "jp": "8{月|がつ}に　1{週間|しゅうかん}ぐらい　{鹿児島|かごしま}へ　{帰|かえ}ります。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "{鹿児島|かごしま}？　{飛行機|ひこうき}ですか。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "いいえ、[[バス]]で　{帰|かえ}ります。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[バス]]で　どのくらい　かかりますか。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[12{時間|じかん}]]ぐらいです。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "{大変|たいへん}ですね。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L11/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L11/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L11_mondai1.m4a",
+    "cd_track": "CD40",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_choice_image",
+    "audio": "audio/L11_mondai2.m4a",
+    "cd_track": "CD41",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "image": "img/L11/m2_1.webp",
+      "options": 3
+     },
+     {
+      "no": 2,
+      "image": "img/L11/m2_2.webp",
+      "options": 3
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "listen_truefalse",
+    "audio": "audio/L11_mondai3.m4a",
+    "cd_track": "CD42",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "みかんが　（ 8　→　やっつ ）　あります。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{子|こ}どもが　（ 2　→　＿ ）　います。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{車|くるま}が　（ 4　→　＿ ）　あります。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{切手|きって}を　（ 10　→　＿ ）　{買|か}いました。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "りんごを　（ 6　→　＿ ）　ください。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{子|こ}どもが　（{何人|なんにん}）　いますか。……3{人|にん}　います。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "いすが　（＿）　ありますか。……{3つ|みっつ}　あります。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{毎日|まいにち}　（＿）　{働|はたら}きますか。…8{時間|じかん}　{働|はたら}きます。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{切符|きっぷ}を　（＿）　{買|か}いますか。…2{枚|まい}　{買|か}います。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{寮|りょう}に　{自転車|じてんしゃ}が　（＿）　ありますか。……5{台|だい}　あります。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{電車|でんしゃ}（で）　1{時間|じかん}（×）　かかります。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "1{週間|しゅうかん}（＿）　3{回|かい}（＿）　{彼女|かのじょ}に　{電話|でんわ}を　かけます。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "この　{荷物|にもつ}は　アメリカまで　{船便|ふなびん}（＿）　いくらですか。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{日本|にほん}（＿）　2{年|ねん}（＿）　います。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "りんご（＿）　{5つ|いつつ}（＿）　ください。",
+       "……はい。　600{円|えん}です。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "kind": "write",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{田中|たなか}さんは　ご{主人|しゅじん}と　{子|こ}どもが　{2人|ふたり}　います。　{田中|たなか}さんの　{家族|かぞく}は　{全部|ぜんぶ}で　{何人|なんにん}ですか。",
+       "……＿"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "りんごを　20　もらいました。　{4つ|よっつ}　{食|た}べました。　{隣|となり}の　うちの　{人|ひと}に　{6つ|むっつ}　あげました。　{今|いま}　りんごが　いくつ　ありますか。",
+       "……＿"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "80{円|えん}の　{切手|きって}を　5{枚|まい}と　50{円|えん}の　{切手|きって}を　5{枚|まい}　{買|か}います。　{全部|ぜんぶ}で　いくらですか。",
+       "……＿"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "わたしは　{中国語|ちゅうごくご}を　3か{月|げつ}　{習|なら}いました。　1か{月|げつ}に　8{回|かい}　{習|なら}いました。　1{回|かい}は　2{時間|じかん}です。　{全部|ぜんぶ}で　{何時間|なんじかん}　{習|なら}いましたか。",
+       "……＿"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Cara menghitung kuantitas",
+    "blocks": [
+     {
+      "type": "h",
+      "text_rich": "1) Cara menghitung 1 sampai dengan 10 ひとつ, ふたつ, ……とお"
+     },
+     {
+      "type": "p",
+      "text_rich": "Cara menghitung di atas ini adalah cara untuk menghitung benda. Untuk 11 ke atas digunakan angka itu sendiri."
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Berbagai Kata Bantu Bilangan"
+     },
+     {
+      "type": "p",
+      "text_rich": "Waktu menghitung orang, benda atau menunjukkan kwantitas digunakan Kata Bantu Bilangan yang berbeda-beda sesuai dengan benda yang dihitung. Kata Bantu Bilangan dibubuhkan di belakang angka."
+     },
+     {
+      "type": "table",
+      "header": [],
+      "rows": [
+       [
+        [
+         {
+          "jp": "－{人|にん}"
+         }
+        ],
+        [
+         {
+          "tr": "jumlah orang (dengan catatan untuk seorang dibaca dengan ひとり (1人), dua orang dibaca dengan ふたり (2人), 4人 dibacanya よにん)"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "－{台|だい}"
+         }
+        ],
+        [
+         {
+          "tr": "mesin, kendaraan"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "－{枚|まい}"
+         }
+        ],
+        [
+         {
+          "tr": "benda yang tipis dan datar (kertas, baju kaos, piring, CD dll.)"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "－{回|かい}"
+         }
+        ],
+        [
+         {
+          "tr": "kali"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "－{分|ふん}"
+         }
+        ],
+        [
+         {
+          "tr": "menit"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "－{時間|じかん}"
+         }
+        ],
+        [
+         {
+          "tr": "jam"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "－{日|にち}"
+         }
+        ],
+        [
+         {
+          "tr": "hari (Sama dengan cara membaca tanggal, tetapi 1日 tidak dibaca ついたち melainkan いちにち.)"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "－{週間|しゅうかん}"
+         }
+        ],
+        [
+         {
+          "tr": "minggu"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "－か{月|げつ}"
+         }
+        ],
+        [
+         {
+          "tr": "bulan"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "jp": "－{年|ねん}"
+         }
+        ],
+        [
+         {
+          "tr": "tahun"
+         }
+        ]
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Cara penggunaan Kata Keterangan Bilangan",
+    "blocks": [
+     {
+      "type": "h",
+      "text_rich": "1) Kata Keterangan Bilangan (angka yang dibubuhkan Kata Bantu Bilangan) pada dasarnya diletakkan langsung di belakang Kata Benda yang menentukan jenis Kata Keterangan Bilangan + partikel. Kecuali untuk Kata Keterangan Bilangan yang menunjukkan lama waktu tidak harus mengikuti aturan susunan kata ini."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "りんごを　{4つ|よっつ}　{買|か}いました。",
+        "tr": "Membeli empat buah apel."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "{外国人|がいこくじん}の　{学生|がくせい}が　{2人|ふたり}　います。",
+        "tr": "Ada dua orang mahasiswa asing."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "{国|くに}で　2か{月|げつ}　{日本語|にほんご}を　{勉強|べんきょう}しました。",
+        "tr": "Belajar bahasa Jepang di negara saya selama dua bulan."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Cara menanyakan kuantitas"
+     },
+     {
+      "type": "h",
+      "text_rich": "(1) いくつ"
+     },
+     {
+      "type": "p",
+      "text_rich": "いくつ digunakan untuk menghitung kuantitas benda dengan menggunakan cara menghitung 1-1)."
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "みかんを　いくつ　{買|か}いましたか。",
+        "tr": "Membeli berapa buah jeruk?"
+       },
+       {
+        "jp": "……{8つ|やっつ}　{買|か}いました。",
+        "tr": "……Membeli delapan buah."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "(2) なん + Kata Bantu Bilangan"
+     },
+     {
+      "type": "p",
+      "text_rich": "なん + Kata Bantu Bilangan digunakan untuk menghitung kuantitas benda yang dibubuhkan Kata Bantu Bilangan seperti 1-2)."
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "この　{会社|かいしゃ}に　{外国人|がいこくじん}が　{何人|なんにん}　いますか。",
+        "tr": "Di perusahaan ini ada berapa orang asing?"
+       },
+       {
+        "jp": "……5{人|にん}　います。",
+        "tr": "……Ada lima orang."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "{毎晩|まいばん}　{何時間|なんじかん}　{日本語|にほんご}を　{勉強|べんきょう}しますか。",
+        "tr": "Setiap malam berapa jam belajar bahasa Jepang?"
+       },
+       {
+        "jp": "……2{時間|じかん}　{勉強|べんきょう}します。",
+        "tr": "……Belajar dua jam."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "(3) どのくらい"
+     },
+     {
+      "type": "p",
+      "text_rich": "どのくらい digunakan untuk menanyakan lama waktu."
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "どのくらい　{日本語|にほんご}を　{勉強|べんきょう}しましたか。",
+        "tr": "Berapa lama belajar bahasa Jepang?"
+       },
+       {
+        "jp": "……3{年|ねん}　{勉強|べんきょう}しました。",
+        "tr": "……Belajar selama tiga tahun."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "{大阪|おおさか}から　{東京|とうきょう}まで　どのくらい　かかりますか。",
+        "tr": "Memerlukan waktu berapa lama dari Osaka sampai dengan Tokyo?"
+       },
+       {
+        "jp": "……{新幹線|しんかんせん}で　2{時間半|じかんはん}　かかります。",
+        "tr": "……Memerlukan waktu dua setengah jam dengan Shinkansen."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "3) ～ぐらい"
+     },
+     {
+      "type": "p",
+      "text_rich": "ぐらい mengikuti Kata Keterangan Bilangan dan menunjukkan perkiraan jumlah."
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "{学校|がっこう}に　{先生|せんせい}が　30{人|にん}ぐらい　います。",
+        "tr": "Di sekolah ada kira-kira tiga puluh orang guru."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "15{分|ふん}ぐらい　かかります。",
+        "tr": "Memerlukan waktu kira-kira lima belas menit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Keterangan Bilangan (jangka waktu) に　－{回|かい}　Kata Kerja",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Ekspresi untuk menunjukkan frekuensi."
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "1か{月|げつ}に　2{回|かい}　{映画|えいが}を　{見|み}ます。",
+        "tr": "Sebulan dua kali menonton film."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "Kata Keterangan Bilangan だけ／Kata Benda だけ",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "だけ diletakkan di belakang Kata Keterangan Bilangan atau Kata Benda, yang mempunyai arti tidak ada yang lebih dari itu atau tidak ada selain itu."
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "パワー{電気|でんき}に　{外国人|がいこくじん}の　{社員|しゃいん}が　{1人|ひとり}だけ　います。",
+        "tr": "Di Power Elektronik hanya ada seorang pegawai orang asing."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "{休|やす}みは　{日曜日|にちようび}だけです。",
+        "tr": "Hari libur hanya hari Minggu saja."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "メニュー",
+   "title_tr": "Menu",
+   "blocks": [
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{定食|ていしょく}"
+        }
+       ],
+       [
+        {
+         "tr": "makanan paket"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ランチ"
+        }
+       ],
+       [
+        {
+         "tr": "paket makan siang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{天|てん}どん"
+        }
+       ],
+       [
+        {
+         "tr": "semangkuk nasi dengan tempura dan sayuran di atasnya"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{親子|おやこ}どん"
+        }
+       ],
+       [
+        {
+         "tr": "semangkuk nasi dengan daging ayam dan telur di atasnya"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{牛|ぎゅう}どん"
+        }
+       ],
+       [
+        {
+         "tr": "semangkuk nasi dengan daging sapi di atasnya"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{焼|や}き{肉|にく}"
+        }
+       ],
+       [
+        {
+         "tr": "daging panggang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{野菜|やさい}いため"
+        }
+       ],
+       [
+        {
+         "tr": "sayur goreng"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{漬物|つけもの}"
+        }
+       ],
+       [
+        {
+         "tr": "asinan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "みそ{汁|しる}"
+        }
+       ],
+       [
+        {
+         "tr": "sup Miso"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "おにぎり"
+        }
+       ],
+       [
+        {
+         "tr": "nasi bola (nasi kepal)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "てんぷら"
+        }
+       ],
+       [
+        {
+         "tr": "tempura"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "すし"
+        }
+       ],
+       [
+        {
+         "tr": "nasi yang dicampur cuka dan diberi ikan mentah"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "うどん"
+        }
+       ],
+       [
+        {
+         "tr": "mie Jepang yang terbuat dari tepung terigu yang memiliki ukuran lebih besar dari mie biasa"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "そば"
+        }
+       ],
+       [
+        {
+         "tr": "mie Jepang yang berwarna agak kehitaman (abu-abu)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ラーメン"
+        }
+       ],
+       [
+        {
+         "tr": "mie Jepang yang terbuat dari tepung terigu dan telur dan ukurannya seperti mie biasa"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{焼|や}きそば"
+        }
+       ],
+       [
+        {
+         "tr": "mie goreng Jepang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "お{好|この}み{焼|や}き"
+        }
+       ],
+       [
+        {
+         "tr": "makanan gorengan tepung dengan sayuran dan daging yang dimasak di atas loyang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "カレーライス"
+        }
+       ],
+       [
+        {
+         "tr": "nasi kare"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ハンバーグ"
+        }
+       ],
+       [
+        {
+         "tr": "hamburg"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "コロッケ"
+        }
+       ],
+       [
+        {
+         "tr": "kroket"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "えびフライ"
+        }
+       ],
+       [
+        {
+         "tr": "udang goreng tepung roti"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "フライドチキン"
+        }
+       ],
+       [
+        {
+         "tr": "ayam goreng"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "サラダ"
+        }
+       ],
+       [
+        {
+         "tr": "salad"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "スープ"
+        }
+       ],
+       [
+        {
+         "tr": "sup"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "スパゲッティ"
+        }
+       ],
+       [
+        {
+         "tr": "spaghetti"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ピザ"
+        }
+       ],
+       [
+        {
+         "tr": "pizza"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ハンバーガー"
+        }
+       ],
+       [
+        {
+         "tr": "burger"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "サンドイッチ"
+        }
+       ],
+       [
+        {
+         "tr": "sandwich"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "トースト"
+        }
+       ],
+       [
+        {
+         "tr": "roti panggang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "コーヒー"
+        }
+       ],
+       [
+        {
+         "tr": "kopi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{紅茶|こうちゃ}"
+        }
+       ],
+       [
+        {
+         "tr": "teh"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ココア"
+        }
+       ],
+       [
+        {
+         "tr": "minuman coktat"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ジュース"
+        }
+       ],
+       [
+        {
+         "tr": "jus"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "コーラ"
+        }
+       ],
+       [
+        {
+         "tr": "coca cola"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "image": "img/L11/sankou_menu.webp",
+     "caption": "メニュー"
+    }
+   ]
+  }
+ }
+}

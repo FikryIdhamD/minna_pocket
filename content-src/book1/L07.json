@@ -1,0 +1,1861 @@
+{
+ "book": 1,
+ "lesson": 7,
+ "title_jp": "いらっしゃい",
+ "title_tr": "Selamat Datang!",
+ "source_pages": {
+  "main_pdf": [
+   79,
+   86
+  ],
+  "translation_pdf": [
+   66,
+   71
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "きります",
+       "kanji_jp": "{切|き}ります",
+       "tr": "memotong, menggunting"
+      },
+      {
+       "kana_jp": "おくります",
+       "kanji_jp": "{送|おく}ります",
+       "tr": "mengirim"
+      },
+      {
+       "kana_jp": "あげます",
+       "kanji_jp": null,
+       "tr": "memberikan"
+      },
+      {
+       "kana_jp": "もらいます",
+       "kanji_jp": null,
+       "tr": "mendapatkan, menerima"
+      },
+      {
+       "kana_jp": "かします",
+       "kanji_jp": "{貸|か}します",
+       "tr": "meminjamkan, menyewakan"
+      },
+      {
+       "kana_jp": "かります",
+       "kanji_jp": "{借|か}ります",
+       "tr": "meminjam, menyewa"
+      },
+      {
+       "kana_jp": "おしえます",
+       "kanji_jp": "{教|おし}えます",
+       "tr": "mengajar"
+      },
+      {
+       "kana_jp": "ならいます",
+       "kanji_jp": "{習|なら}います",
+       "tr": "belajar"
+      },
+      {
+       "kana_jp": "かけます［でんわを～］",
+       "kanji_jp": "［{電話|でんわ}を～］",
+       "tr": "menelepon"
+      },
+      {
+       "kana_jp": "て",
+       "kanji_jp": "{手|て}",
+       "tr": "tangan"
+      },
+      {
+       "kana_jp": "はし",
+       "kanji_jp": null,
+       "tr": "sumpit"
+      },
+      {
+       "kana_jp": "スプーン",
+       "kanji_jp": null,
+       "tr": "sendok"
+      },
+      {
+       "kana_jp": "ナイフ",
+       "kanji_jp": null,
+       "tr": "pisau"
+      },
+      {
+       "kana_jp": "フォーク",
+       "kanji_jp": null,
+       "tr": "garpu"
+      },
+      {
+       "kana_jp": "はさみ",
+       "kanji_jp": null,
+       "tr": "gunting"
+      },
+      {
+       "kana_jp": "パソコン",
+       "kanji_jp": null,
+       "tr": "komputer, PC"
+      },
+      {
+       "kana_jp": "ケータイ",
+       "kanji_jp": null,
+       "tr": "HP"
+      },
+      {
+       "kana_jp": "メール",
+       "kanji_jp": null,
+       "tr": "e-mail"
+      },
+      {
+       "kana_jp": "ねんがじょう",
+       "kanji_jp": "{年賀状|ねんがじょう}",
+       "tr": "kartu tahun baru"
+      },
+      {
+       "kana_jp": "パンチ",
+       "kanji_jp": null,
+       "tr": "pelubang kertas"
+      },
+      {
+       "kana_jp": "ホッチキス",
+       "kanji_jp": null,
+       "tr": "staplar"
+      },
+      {
+       "kana_jp": "セロテープ",
+       "kanji_jp": null,
+       "tr": "selotip"
+      },
+      {
+       "kana_jp": "けしゴム",
+       "kanji_jp": "{消|け}しゴム",
+       "tr": "penghapus karet"
+      },
+      {
+       "kana_jp": "かみ",
+       "kanji_jp": "{紙|かみ}",
+       "tr": "kertas"
+      },
+      {
+       "kana_jp": "はな",
+       "kanji_jp": "{花|はな}",
+       "tr": "bunga"
+      },
+      {
+       "kana_jp": "シャツ",
+       "kanji_jp": null,
+       "tr": "kemeja"
+      },
+      {
+       "kana_jp": "プレゼント",
+       "kanji_jp": null,
+       "tr": "kado, hadiah"
+      },
+      {
+       "kana_jp": "にもつ",
+       "kanji_jp": "{荷物|にもつ}",
+       "tr": "barang"
+      },
+      {
+       "kana_jp": "おかね",
+       "kanji_jp": "お{金|かね}",
+       "tr": "uang"
+      },
+      {
+       "kana_jp": "きっぷ",
+       "kanji_jp": "{切符|きっぷ}",
+       "tr": "karcis"
+      },
+      {
+       "kana_jp": "クリスマス",
+       "kanji_jp": null,
+       "tr": "Natal"
+      },
+      {
+       "kana_jp": "ちち",
+       "kanji_jp": "{父|ちち}",
+       "tr": "bapak, ayah"
+      },
+      {
+       "kana_jp": "はは",
+       "kanji_jp": "{母|はは}",
+       "tr": "ibu"
+      },
+      {
+       "kana_jp": "おとうさん*",
+       "kanji_jp": "お{父|とう}さん",
+       "tr": "bapak, ayah (ayah orang lain, dan digunakan untuk bapak kandung sendiri juga ketika memanggilnya)"
+      },
+      {
+       "kana_jp": "おかあさん",
+       "kanji_jp": "お{母|かあ}さん",
+       "tr": "ibu (ibu orang lain, dan digunakan untuk ibu kandung sendiri juga ketika memanggilnya)"
+      },
+      {
+       "kana_jp": "もう",
+       "kanji_jp": null,
+       "tr": "sudah"
+      },
+      {
+       "kana_jp": "まだ",
+       "kanji_jp": null,
+       "tr": "belum"
+      },
+      {
+       "kana_jp": "これから",
+       "kanji_jp": null,
+       "tr": "mulai dari sekarang"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{練習|れんしゅう}C〉",
+     "items": [
+      {
+       "kana_jp": "［～、］　すてきですね。",
+       "kanji_jp": null,
+       "tr": "[～] bagus ya./[～] indah ya."
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "いらっしゃい。",
+       "kanji_jp": null,
+       "tr": "Selamat datang."
+      },
+      {
+       "kana_jp": "どうぞ　お{上|あ}がり　ください。",
+       "kanji_jp": null,
+       "tr": "Silakan masuk."
+      },
+      {
+       "kana_jp": "{失礼|しつれい}します。",
+       "kanji_jp": null,
+       "tr": "Permisi."
+      },
+      {
+       "kana_jp": "［～は］　いかがですか。",
+       "kanji_jp": null,
+       "tr": "Bagaimana [～]? (digunakan saat menawarkan sesuatu kepada orang)"
+      },
+      {
+       "kana_jp": "いただきます。",
+       "kanji_jp": null,
+       "tr": "Selamat makan! (diucapkan sebelum minum dan makan makanan)"
+      },
+      {
+       "kana_jp": "ごちそうさま［でした］*。",
+       "kanji_jp": null,
+       "tr": "Terima kaih atas hidangannya. (diucapkan setelah minum dan makan makanan)"
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "スペイン",
+       "kanji_jp": null,
+       "tr": "Spanyol"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "わたしは　パソコンで　{映画|えいが}を　{見|み}ます。",
+    "tr": "Saya menonton film dengan komputer."
+   },
+   {
+    "no": 2,
+    "jp": "わたしは　{木村|きむら}さんに　{花|はな}を　あげます。",
+    "tr": "Saya memberikan bunga kepada Sdr. Kimura."
+   },
+   {
+    "no": 3,
+    "jp": "わたしは　カリナさんに　チョコレートを　もらいました。",
+    "variants_jp": [
+     "（から）"
+    ],
+    "tr": "Saya mendapatkan cokelat dari Sdr. Karina."
+   },
+   {
+    "no": 4,
+    "jp": "わたしは　もう　メールを　{送|おく}りました。",
+    "tr": "Saya telah mengirim e-mail."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "テレビで　{日本語|にほんご}を　{勉強|べんきょう}しましたか。",
+      "tr": "Apakah belajar bahasa Jepang dengan televisi?"
+     },
+     {
+      "jp": "……いいえ、ラジオで　{勉強|べんきょう}しました。",
+      "tr": "……Tidak, belajar dengan radio."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "{日本語|にほんご}で　レポートを　{書|か}きますか。",
+      "tr": "Menulis laporan dalam bahasa Jepang?"
+     },
+     {
+      "jp": "……いいえ、{英語|えいご}で　{書|か}きます。",
+      "tr": "……Tidak, menulis dalam bahasa Inggris."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "“Goodbye”は　{日本語|にほんご}で　{何|なん}ですか。",
+      "tr": "Apa bahasa Jepangnya “Goodbye”?"
+     },
+     {
+      "jp": "……「さようなら」です。",
+      "tr": "……“Sayonara”."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "だれに　{年賀状|ねんがじょう}を　{書|か}きますか。",
+      "tr": "Menulis kartu tahun baru untuk siapa?"
+     },
+     {
+      "jp": "……{先生|せんせい}と　{友達|ともだち}に　{書|か}きます。",
+      "tr": "……Menulis untuk guru dan teman."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "それは　{何|なん}ですか。",
+      "tr": "Apa itu?"
+     },
+     {
+      "jp": "……{手帳|てちょう}です。　{山田|やまだ}さんに　もらいました。",
+      "tr": "……Buku agenda. Saya mendapatkannya dari Sdr. Yamada."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "もう　{新幹線|しんかんせん}の　{切符|きっぷ}を　{買|か}いましたか。",
+      "tr": "Karcis Shinkansen sudah Anda beli?"
+     },
+     {
+      "jp": "……はい、もう　{買|か}いました。",
+      "tr": "……Ya, sudah saya beli."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "もう　{昼|ひる}ごはんを　{食|た}べましたか。",
+      "tr": "Sudah makan siang?"
+     },
+     {
+      "jp": "……いいえ、まだです。　これから　{食|た}べます。",
+      "tr": "……Belum. Mau makan sekarang."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "いらっしゃい",
+   "title_tr": "Selamat Datang!",
+   "image": "img/L07/kaiwa.webp",
+   "audio": "audio/L07_kaiwa.m4a",
+   "cd_track": "CD24",
+   "lines": [
+    {
+     "speaker_jp": "{山田一郎|やまだいちろう}",
+     "speaker_tr": "Ichiro Yamada",
+     "jp": "はい。",
+     "tr": "Ya!"
+    },
+    {
+     "speaker_jp": "ジョゼ・サントス",
+     "speaker_tr": "Jose Santos",
+     "jp": "サントスです。",
+     "tr": "Santos."
+    },
+    {
+     "speaker_jp": "{山田一郎|やまだいちろう}",
+     "speaker_tr": "Ichiro Yamada",
+     "break_before": true,
+     "jp": "いらっしゃい。　どうぞ　お{上|あ}がり　ください。",
+     "tr": "Selamat datang. Silakan masuk!"
+    },
+    {
+     "speaker_jp": "ジョゼ・サントス",
+     "speaker_tr": "Jose Santos",
+     "jp": "{失礼|しつれい}します。",
+     "tr": "Permisi."
+    },
+    {
+     "speaker_jp": "{山田友子|やまだともこ}",
+     "speaker_tr": "Tomoko Yamada",
+     "break_before": true,
+     "jp": "コーヒーは　いかがですか。",
+     "tr": "Bagaimana kalau minum kopi?"
+    },
+    {
+     "speaker_jp": "マリア・サントス",
+     "speaker_tr": "Maria Santos",
+     "jp": "ありがとう　ございます。",
+     "tr": "Terima kasih banyak."
+    },
+    {
+     "speaker_jp": "{山田友子|やまだともこ}",
+     "speaker_tr": "Tomoko Yamada",
+     "break_before": true,
+     "jp": "どうぞ。",
+     "tr": "Silakan."
+    },
+    {
+     "speaker_jp": "マリア・サントス",
+     "speaker_tr": "Maria Santos",
+     "jp": "いただきます。",
+     "tr": "Mari minum!"
+    },
+    {
+     "jp": "この　スプーン、すてきですね。",
+     "tr": "Sendok ini bagus, ya."
+    },
+    {
+     "speaker_jp": "{山田友子|やまだともこ}",
+     "speaker_tr": "Tomoko Yamada",
+     "jp": "ええ。　{会社|かいしゃ}の　{人|ひと}に　もらいました。",
+     "tr": "Ya. Saya mendapatkannya dari teman sekantor."
+    },
+    {
+     "jp": "メキシコの　お{土産|みやげ}です。",
+     "tr": "Oleh-oleh dari Meksiko."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "はし",
+          "スプーンと　フォーク",
+          "ナイフと　フォーク"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "で　ごはんを　{食|た}べます。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "なん"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "……………………………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "にほんご",
+          "えいご",
+          "ちゅうごくご"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "で　レポートを　{書|か}きます。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "text_jp": "「ありがとう」は"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "えいご",
+          "スペインご",
+          "ちゅうごくご"
+         ]
+        },
+        {
+         "opts_jp": [
+          "タイご"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "で"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "“Thank you”",
+          "“Gracias”",
+          "“谢谢”"
+         ]
+        },
+        {
+         "opts_jp": [
+          "なん"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "です。"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "……か。"
+         ],
+         "hl": "none"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "さとうさん",
+          "ともだち",
+          "かれ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "に　チョコレートを　あげます。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "だれ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "……………………………………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ワットさん",
+          "せんせい",
+          "かいしゃの　ひと"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "に　{本|ほん}を　もらいました。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "だれ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "……………………………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     [
+      {
+       "text_jp": "もう"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{荷物|にもつ}を",
+          "{大阪城|おおさかじょう}へ",
+          "プレゼントを"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おくり",
+          "いき",
+          "かい"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ましたか。"
+      }
+     ],
+     [
+      {
+       "text_jp": "……はい、もう"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おくり",
+          "いき",
+          "かい"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ました。"
+      }
+     ],
+     [
+      {
+       "text_jp": "……いいえ、まだです。"
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig1",
+     "image": "img/L07/rb_fig1.webp"
+    },
+    {
+     "id": "fig2",
+     "image": "img/L07/rb_fig2.webp"
+    },
+    {
+     "id": "fig3",
+     "image": "img/L07/rb_fig3.webp"
+    },
+    {
+     "id": "fig4",
+     "image": "img/L07/rb_fig4.webp"
+    },
+    {
+     "id": "fig5",
+     "image": "img/L07/rb_fig5.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "figure": "fig1",
+     "examples": [
+      {
+       "prompt_jp": "ごはんを　{食|た}べます",
+       "answer_jp": [
+        "はしで　ごはんを　{食|た}べます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{手紙|てがみ}を　{書|か}きます"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{紙|かみ}を　{切|き}ります"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "ごはんを　{食|た}べます"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{写真|しゃしん}を　{撮|と}ります"
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "figure": "fig2",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "これは　{日本語|にほんご}で　{何|なん}ですか。",
+        "……「パソコン」です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "figure": "fig3",
+     "examples": [
+      {
+       "prompt_jp": "あげます",
+       "answer_jp": [
+        "テレーザちゃんに　ノートを　あげます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{貸|か}します"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{教|おし}えます"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{書|か}きます"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "かけます"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "figure": "fig4",
+     "examples": [
+      {
+       "prompt_jp": "もらいます",
+       "answer_jp": [
+        "{父|ちち}に　シャツを　もらいました。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{借|か}ります"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{習|なら}います"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "もらいます"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "もらいます"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "figure": "fig5",
+     "examples": [
+      {
+       "prompt_jp": "{習|なら}います",
+       "answer_jp": [
+        "だれに　{英語|えいご}を　{習|なら}いましたか。",
+        "……ワットさんに　{習|なら}いました。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{書|か}きます"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "かけます"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "もらいます"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{借|か}ります"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "examples": [
+      {
+       "prompt_jp": "お{母|かあ}さんの　{誕生日|たんじょうび}に　{何|なに}を　あげましたか。（{花|はな}）",
+       "answer_jp": [
+        "{花|はな}を　あげました。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{去年|きょねん}の　クリスマスに　{何|なに}を　もらいましたか。（ネクタイと　{本|ほん}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "どこで　{日本語|にほんご}を　{習|なら}いましたか。（アメリカの　{大学|だいがく}）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "いつ　{先生|せんせい}に　レポートを　{送|おく}りますか。（あした）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "だれに　この　CDを　{借|か}りましたか。（{友達|ともだち}）"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "examples": [
+      {
+       "prompt_jp": "{切符|きっぷ}を　{買|か}います（はい）",
+       "answer_jp": [
+        "もう　{切符|きっぷ}を　{買|か}いましたか。",
+        "……はい、もう　{買|か}いました。"
+       ]
+      },
+      {
+       "prompt_jp": "レポートを　{送|おく}ります（いいえ）",
+       "answer_jp": [
+        "もう　レポートを　{送|おく}りましたか。",
+        "……いいえ、まだです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{宿題|しゅくだい}を　します（いいえ）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{京都|きょうと}へ　{行|い}きます（はい）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "ミラーさんは　{帰|かえ}ります（いいえ）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "テレーザちゃんは　{寝|ね}ます（はい）"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L07/rc1.webp",
+    "dialog": [
+     {
+      "jp": "これは　{日本語|にほんご}で　{何|なん}ですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "「[[はさみ]]」です。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "「[[は・さ・み]]」ですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "はい、そうです。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L07/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L07/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L07/rc2.webp",
+    "dialog": [
+     {
+      "jp": "その　[[{時計|とけい}]]、すてきですね。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ありがとう　ございます。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "{誕生日|たんじょうび}に　[[{父|ちち}]]に　もらいました。"
+     },
+     {
+      "jp": "いいですね。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L07/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L07/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L07/rc3.webp",
+    "dialog": [
+     {
+      "jp": "もう　[[あの　{映画|えいが}を　{見|み}ました]]か。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "いいえ、まだです。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "じゃ、いっしょに　[[{見|み}ません]]か。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ええ、いいですね。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L07/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L07/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L07_mondai1.m4a",
+    "cd_track": "CD25",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_choice_image",
+    "audio": "audio/L07_mondai2.m4a",
+    "cd_track": "CD26",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "image": "img/L07/m2_1.webp",
+      "options": 3
+     },
+     {
+      "no": 2,
+      "image": "img/L07/m2_2.webp",
+      "options": 3
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "listen_truefalse",
+    "audio": "audio/L07_mondai3.m4a",
+    "cd_track": "CD27",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "write",
+    "image": "img/L07/m4.webp",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{友達|ともだち}に　[[{本|ほん}を　{貸|か}します]]。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{学生|がくせい}に　＿。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{先生|せんせい}に　＿。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{家族|かぞく}に　＿。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{父|ちち}に　＿。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{彼女|かのじょ}に　＿。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "もう　{昼|ひる}ごはんを　{食|た}べましたか。",
+       "……いいえ、[[まだです]]。",
+       "これから　[[{食|た}べます]]。　いっしょに　[[{食|た}べませんか]]。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "もう　{大阪城|おおさかじょう}へ　{行|い}きましたか。",
+       "……いいえ、＿。",
+       "{日曜日|にちようび}　ミラーさんと　＿。　いっしょに　＿。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "もう　クリスマスカードを　{書|か}きましたか。",
+       "……はい、＿。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "もう　{荷物|にもつ}を　{送|おく}りましたか。",
+       "……いいえ、＿。",
+       "きょうの　{午後|ごご}　＿。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "テレーザちゃんは　もう　{寝|ね}ましたか。",
+       "……はい、＿。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "これは　イタリア（の）　{靴|くつ}です。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "わたしは　はし（＿）　ごはんを　{食|た}べます。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "メール（＿）　レポートを　{送|おく}りました。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "「さようなら」は　{英語|えいご}（＿）　{何|なん}ですか。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "わたしは　きのう　{彼女|かのじょ}（＿）　{手紙|てがみ}（＿）　{書|か}きました。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "わたしは　{友達|ともだち}（＿）　お{土産|みやげ}（＿）　もらいました。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "kind": "truefalse",
+    "passage_title_jp": "{土曜日|どようび}と　{日曜日|にちようび}",
+    "passage_jp": [
+     "けさ　{図書館|としょかん}へ　{行|い}きました。　{図書館|としょかん}で　{太郎|たろう}ちゃんに　{会|あ}いました。　{太郎|たろう}ちゃんと　いっしょに　ビデオを　{見|み}ました。　わたしは　{旅行|りょこう}の　{本|ほん}を　{借|か}りました。",
+     "あしたは　{日曜日|にちようび}です。　{朝|あさ}　{旅行|りょこう}の　{本|ほん}を　{読|よ}みます。　{午後|ごご}　デパートへ　{行|い}きます。　{花|はな}を　{買|か}います。　{母|はは}の　{誕生日|たんじょうび}の　プレゼントです。"
+    ],
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "きょうは　{土曜日|どようび}です。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "ミラーさんは　けさ　{太郎|たろう}ちゃんと　{図書館|としょかん}へ　{行|い}きました。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "ミラーさんは　{図書館|としょかん}で　{旅行|りょこう}の　{本|ほん}を　{読|よ}みました。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "ミラーさんは　お{母|かあ}さんに　{花|はな}を　あげます。"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Kata Benda (alat/sarana) で Kata Kerja",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Di bagian ini mempelajari partikel で yang menunjukkan sarana dan cara."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "はしで　{食|た}べます。",
+        "tr": "Makan dengan sumpit."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "{日本語|にほんご}で　レポートを　{書|か}きます。",
+        "tr": "Menulis laporan dalam bahasa Jepang."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "“Kata/Kalimat” は　～{語|ご}で　{何|なん}ですか",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Pertanyaan ini digunakan ketika menanyakan bagaimana cara mengatakan arti kata atau kalimat dalam bahasa lain."
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "「ありがとう」は　{英語|えいご}で　{何|なん}ですか。",
+        "tr": "Apa bahasa Inggris dari “Arigato”?"
+       },
+       {
+        "jp": "……「Thank you」です。",
+        "tr": "……“Thank you”."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "「Thank you」は　{日本語|にほんご}で　{何|なん}ですか。",
+        "tr": "Apa bahasa Jepang dari “Thank you”?"
+       },
+       {
+        "jp": "……「ありがとう」です。",
+        "tr": "……“Arigato”."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Benda₁ (orang) に Kata Benda₂ を　あげます dan lain-lain",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Kata Kerja あげます, かします, おしえます dan lain-lainnya menunjukkan arti yang memberi barang atau informasi, dan memerlukan lawan yang diberikan barang atau informasi. Kata Benda₁ (orang) tersebut dibubuhkan dengan patrikel に."
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "［わたしは］　{木村|きむら}さんに　{花|はな}を　あげました。",
+        "tr": "Saya memberikan Sdr. Kimura bunga."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "［わたしは］　イーさんに　{本|ほん}を　{貸|か}しました。",
+        "tr": "Saya meminjamkan buku kepada Sdr. Lee."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "［わたしは］　{山田|やまだ}さんに　{英語|えいご}を　{教|おし}えます。",
+        "tr": "Saya mengajar bahasa Inggris kepada Sdr. Yamada."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "Kata Benda₁ (orang) に Kata Benda₂ を　もらいます dan lain-lain",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Kata Kerja もらいます, かります, ならいます dan lain-lainnya menunjukkan arti yang menerima barang atau informasi, dan memerlukan lawan yang diberikan barang atau informasi. Kata Benda₁ (orang) tersebut dibubuhkan dengan patrikel に."
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "［わたしは］　{山田|やまだ}さんに　{花|はな}を　もらいました。",
+        "tr": "Saya mendapatkan bunga dari Sdr. Yamada."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "［わたしは］　カリナさんに　CDを　{借|か}りました。",
+        "tr": "Saya meminjam CD dari Karina."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "［わたしは］　ワンさんに　{中国語|ちゅうごくご}を　{習|なら}います。",
+        "tr": "Saya belajar bahasa Tionghua dari Sdr. Wang."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Untuk pola kalimat ini, partikel から juga dapat digunakan sebagai pengganti partikel に. Terutama jika lawannya bukan orang melainkan organisasi seperti perusahaan atau sekolah, dan sebagainya bukan に yang digunakan, melainkan から."
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "［わたしは］　{山田|やまだ}さんから　{花|はな}を　もらいました。",
+        "tr": "Saya mendapatkan bunga dari Sdr. Yamada."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "{銀行|ぎんこう}から　お{金|かね}を　{借|か}りました。",
+        "tr": "Saya meminjam uang dari bank."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "もう Kata Kerja ました",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "もう mempunyai arti sudah dan digunakan dengan kombinasi Kata Kerja ました. Dalam hal ini, Kata Kerja ました bermaksud bahwa perbuatan telah diselesaikan saat ini."
+     },
+     {
+      "type": "p",
+      "text_rich": "Jawaban untuk pertanyaan mengenai apakah perbuatannya telah diselesaikan atau belum yaitu もう Kata Kerja ましたか adalah jika telah diselesaikan atau jawaban positif はい、もう Kata Kerja ました, sedangkan belum diselesaikan atau jawaban negatif いいえ、Kata Kerja て　いません (Lihat Pel.31), atau いいえ、まだです. いいえ、Kata Kerja ませんでした tidak dapat digunakan sebab mempunyai arti yang tidak dilakukan pada waktu lampau."
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "もう　{荷物|にもつ}を　{送|おく}りましたか。",
+        "tr": "Apakah barang sudah dikirim?"
+       },
+       {
+        "jp": "……はい、［もう］　{送|おく}りました。",
+        "tr": "……Ya, sudah dikirim."
+       },
+       {
+        "jp": "……いいえ、まだ　{送|おく}って　いません。",
+        "tr": "……Belum, belum dikirim. (Pel.31)"
+       },
+       {
+        "jp": "……いいえ、まだです。",
+        "tr": "……Belum."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_rich": "Menghilangkan partikel",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Dalam kalimat percakapan, jika sudah dapat memahami arti dari hubungan sebelum dan sesudahnya maka partikel sering dihilangkan."
+     },
+     {
+      "type": "ex",
+      "mark": "⑭",
+      "lines": [
+       {
+        "jp": "この　スプーン［は］、すてきですね。",
+        "tr": "Sendok ini bagus ya."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑮",
+      "lines": [
+       {
+        "jp": "コーヒー［を］、もう　{一杯|いっぱい}　いかがですか。",
+        "tr": "Bagaimana kopi secangkir lagi? (Pel.8)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{家族|かぞく}",
+   "title_tr": "Keluarga",
+   "blocks": [
+    {
+     "type": "image",
+     "image": "img/L07/sankou_kazoku.webp",
+     "caption": "{家族|かぞく}"
+    },
+    {
+     "type": "h",
+     "text_rich": "わたしの　{家族|かぞく}　Keluarga Saya"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{祖母|そぼ}",
+         "tr": "nenek"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{祖父|そふ}",
+         "tr": "kakek"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{祖父母|そふぼ}",
+         "tr": "kakek nenek"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{母|はは}",
+         "tr": "ibu"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{父|ちち}",
+         "tr": "ayah"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{両親|りょうしん}",
+         "tr": "orang tua"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{妹|いもうと}",
+         "tr": "adik perempuan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{弟|おとうと}",
+         "tr": "adik laki-laki"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{姉|あね}",
+         "tr": "kakak perempuan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{兄|あに}",
+         "tr": "kakak laki-laki"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{兄弟|きょうだい}",
+         "tr": "saudara"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{妻|つま}",
+         "tr": "istri"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{夫|おっと}",
+         "tr": "suami"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "わたし",
+         "tr": "saya"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{夫婦|ふうふ}",
+         "tr": "pasangan suami istri"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{娘|むすめ}",
+         "tr": "anak perempuan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{息子|むすこ}",
+         "tr": "anak laki-laki"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{子|こ}ども",
+         "tr": "anak"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "{田中|たなか}さんの　{家族|かぞく}　Keluarga Saudara Tanaka"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "おばあさん",
+         "tr": "nenek"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "おじいさん",
+         "tr": "kakek"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "お{母|かあ}さん",
+         "tr": "ibu"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "お{父|とう}さん",
+         "tr": "ayah"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ご{両親|りょうしん}",
+         "tr": "orang tua"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{妹|いもうと}さん",
+         "tr": "adik perempuan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{弟|おとうと}さん",
+         "tr": "adik laki-laki"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "お{姉|ねえ}さん",
+         "tr": "kakak perempuan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "お{兄|にい}さん",
+         "tr": "kakak laki-laki"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ご{兄弟|きょうだい}",
+         "tr": "saudara"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{奥|おく}さん",
+         "tr": "istri"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ご{主人|しゅじん}",
+         "tr": "suami"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{田中|たなか}さん",
+         "tr": "Saudara Tanaka"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ご{夫婦|ふうふ}",
+         "tr": "pasangan suami istri"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{娘|むすめ}さん",
+         "tr": "anak perempuan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{息子|むすこ}さん",
+         "tr": "anak laki-laki"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "お{子|こ}さん",
+         "tr": "anak"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ }
+}

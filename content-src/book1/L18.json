@@ -1,0 +1,2391 @@
+{
+ "book": 1,
+ "lesson": 18,
+ "title_jp": "{趣味|しゅみ}は　{何|なん}ですか",
+ "title_tr": "Apa Hobinya?",
+ "source_pages": {
+  "main_pdf": [
+   175,
+   182
+  ],
+  "translation_pdf": [
+   132,
+   137
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "できます",
+       "kanji_jp": null,
+       "tr": "[Ⅱ] dapat, bisa, mampu"
+      },
+      {
+       "kana_jp": "あらいます",
+       "kanji_jp": "{洗|あら}います",
+       "tr": "[Ⅰ] mencuci"
+      },
+      {
+       "kana_jp": "ひきます",
+       "kanji_jp": "{弾|ひ}きます",
+       "tr": "[Ⅰ] bermain (bermaksud untuk bermain alat musik senar dan piano)"
+      },
+      {
+       "kana_jp": "うたいます",
+       "kanji_jp": "{歌|うた}います",
+       "tr": "[Ⅰ] bernyanyi, menyanyi"
+      },
+      {
+       "kana_jp": "あつめます",
+       "kanji_jp": "{集|あつ}めます",
+       "tr": "[Ⅱ] mengumpulkan"
+      },
+      {
+       "kana_jp": "すてます",
+       "kanji_jp": "{捨|す}てます",
+       "tr": "[Ⅱ] membuang"
+      },
+      {
+       "kana_jp": "かえます",
+       "kanji_jp": "{換|か}えます",
+       "tr": "[Ⅱ] mengganti, menukar"
+      },
+      {
+       "kana_jp": "うんてんします",
+       "kanji_jp": "{運転|うんてん}します",
+       "tr": "[Ⅲ] menyetir, mengendarai"
+      },
+      {
+       "kana_jp": "よやくします",
+       "kanji_jp": "{予約|よやく}します",
+       "tr": "[Ⅲ] memesan"
+      },
+      {
+       "kana_jp": "ピアノ",
+       "kanji_jp": null,
+       "tr": "piano"
+      },
+      {
+       "kana_jp": "－メートル",
+       "kanji_jp": null,
+       "tr": "－ meter"
+      },
+      {
+       "kana_jp": "げんきん",
+       "kanji_jp": "{現金|げんきん}",
+       "tr": "uang tunai"
+      },
+      {
+       "kana_jp": "しゅみ",
+       "kanji_jp": "{趣味|しゅみ}",
+       "tr": "hobi, kegemaran"
+      },
+      {
+       "kana_jp": "にっき",
+       "kanji_jp": "{日記|にっき}",
+       "tr": "catatan harian"
+      },
+      {
+       "kana_jp": "おいのり",
+       "kanji_jp": "お{祈|いの}り",
+       "tr": "doa (～を　します: berdoa)"
+      },
+      {
+       "kana_jp": "かちょう",
+       "kanji_jp": "{課長|かちょう}",
+       "tr": "kepala seksi"
+      },
+      {
+       "kana_jp": "ぶちょう",
+       "kanji_jp": "{部長|ぶちょう}",
+       "tr": "kepala bagian"
+      },
+      {
+       "kana_jp": "しゃちょう*",
+       "kanji_jp": "{社長|しゃちょう}",
+       "tr": "direktur utama"
+      },
+      {
+       "kana_jp": "どうぶつ",
+       "kanji_jp": "{動物|どうぶつ}",
+       "tr": "hewan, binatang"
+      },
+      {
+       "kana_jp": "うま",
+       "kanji_jp": "{馬|うま}",
+       "tr": "kuda"
+      },
+      {
+       "kana_jp": "インターネット",
+       "kanji_jp": null,
+       "tr": "internet"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "{特|とく}に",
+       "kanji_jp": null,
+       "tr": "terutama, khususnya"
+      },
+      {
+       "kana_jp": "へえ",
+       "kanji_jp": null,
+       "tr": "Betul ya?/Benar ya?/Masa! (digunakan ketika terkagum atau terkejut)"
+      },
+      {
+       "kana_jp": "それは　おもしろいですね。",
+       "kanji_jp": null,
+       "tr": "Itu menarik ya."
+      },
+      {
+       "kana_jp": "なかなか",
+       "kanji_jp": null,
+       "tr": "jarang, tidak mudah (diikuti bentuk negatif)"
+      },
+      {
+       "kana_jp": "ほんとうですか。",
+       "kanji_jp": null,
+       "tr": "Betul?/Benar?"
+      },
+      {
+       "kana_jp": "ぜひ",
+       "kanji_jp": null,
+       "tr": "benar-benar, mesti"
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "{故郷|ふるさと}",
+       "kanji_jp": null,
+       "tr": "Furusato (judul lagu. Artinya kampung halaman)"
+      },
+      {
+       "kana_jp": "ビートルズ",
+       "kanji_jp": null,
+       "tr": "The Beatles"
+      },
+      {
+       "kana_jp": "{秋葉原|あきはばら}",
+       "kanji_jp": null,
+       "tr": "nama daerah di Tokyo"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "ミラーさんは　{漢字|かんじ}を　{読|よ}む　ことが　できます。",
+    "tr": "Apakah Sdr. Miller bisa membaca Kanji?"
+   },
+   {
+    "no": 2,
+    "jp": "わたしの　{趣味|しゅみ}は　{映画|えいが}を　{見|み}る　ことです。",
+    "tr": "Hobi saya adalah menonton film."
+   },
+   {
+    "no": 3,
+    "jp": "{寝|ね}る　まえに、{日記|にっき}を　{書|か}きます。",
+    "tr": "Sebelum tidur, menulis catatan harian."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "{車|くるま}の　{運転|うんてん}が　できますか。",
+      "tr": "Apakah bisa menyetir mobil?"
+     },
+     {
+      "jp": "……はい、できます。",
+      "tr": "……Ya, bisa."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "マリアさんは　{自転車|じてんしゃ}に　{乗|の}る　ことが　できますか。",
+      "tr": "Apakah Sdr. Maria bisa bersepeda?"
+     },
+     {
+      "jp": "……いいえ、できません。",
+      "tr": "……Tidak, tidak bisa."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "{大阪城|おおさかじょう}は　{何時|なんじ}まで　{見学|けんがく}が　できますか。",
+      "tr": "Sampai pukul berapa bisa melihat Benteng Osaka?"
+     },
+     {
+      "jp": "……5{時|じ}までです。",
+      "tr": "……Sampai pukul lima."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "カードで　{払|はら}う　ことが　できますか。",
+      "tr": "Apakah bisa membayar dengan kartu?"
+     },
+     {
+      "jp": "……すみませんが、{現金|げんきん}で　お{願|ねが}いします。",
+      "tr": "……Maaf, tolong dengan uang tunai saja."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "{趣味|しゅみ}は　{何|なん}ですか。",
+      "tr": "Apa hobinya?"
+     },
+     {
+      "jp": "……{古|ふる}い　{時計|とけい}を　{集|あつ}める　ことです。",
+      "tr": "……Mengumpulkan jam yang lama."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "{日本|にほん}の　{子|こ}どもは　{学校|がっこう}に　{入|はい}る　まえに、ひらがなを　{覚|おぼ}えなければ　なりませんか。",
+      "tr": "Apakah anak-anak Jepang harus menghafal Hiragana sebelum masuk sekolah?"
+     },
+     {
+      "jp": "……いいえ、{覚|おぼ}えなくても　いいです。",
+      "tr": "……Tidak, tidak harus menghafalnya."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "{食事|しょくじ}の　まえに、この　{薬|くすり}を　{飲|の}んで　ください。",
+      "tr": "Sebelum makan, silakan minum obat ini."
+     },
+     {
+      "jp": "……はい、わかりました。",
+      "tr": "……Baik, saya mengerti."
+     }
+    ]
+   },
+   {
+    "no": 8,
+    "lines": [
+     {
+      "jp": "いつ　{結婚|けっこん}しましたか。",
+      "tr": "Kapan menikah?"
+     },
+     {
+      "jp": "……3{年|ねん}まえに、{結婚|けっこん}しました。",
+      "tr": "……Tiga tahun yang lalu, saya menikah."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "{趣味|しゅみ}は　{何|なん}ですか",
+   "title_tr": "Apa Hobinya?",
+   "image": "img/L18/kaiwa.webp",
+   "audio": "audio/L18_kaiwa.m4a",
+   "cd_track": "CD63",
+   "lines": [
+    {
+     "speaker_jp": "{山田|やまだ}",
+     "speaker_tr": "Yamada",
+     "jp": "サントスさんの　{趣味|しゅみ}は　{何|なん}ですか。",
+     "tr": "Apa hobi Sdr. Santos?"
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "jp": "{写真|しゃしん}です。",
+     "tr": "Foto."
+    },
+    {
+     "speaker_jp": "{山田|やまだ}",
+     "speaker_tr": "Yamada",
+     "jp": "どんな　{写真|しゃしん}を　{撮|と}りますか。",
+     "tr": "Mengambil foto yang bagaimana?"
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "jp": "{動物|どうぶつ}の　{写真|しゃしん}です。　{特|とく}に　{馬|うま}が　{好|す}きです。",
+     "tr": "Foto hewan. Terutama saya suka kuda."
+    },
+    {
+     "speaker_jp": "{山田|やまだ}",
+     "speaker_tr": "Yamada",
+     "jp": "へえ、それは　おもしろいですね。",
+     "tr": "O, menarik ya."
+    },
+    {
+     "jp": "{日本|にほん}へ　{来|き}てから、{馬|うま}の　{写真|しゃしん}を　{撮|と}りましたか。",
+     "tr": "Apakah sudah mengambil foto kuda setelah datang di Jepang?"
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "jp": "いいえ。",
+     "tr": "Belum."
+    },
+    {
+     "jp": "{日本|にほん}では　なかなか　{馬|うま}を　{見|み}る　ことが　できません。",
+     "tr": "Di Jepang tidak mudah untuk melihat kuda."
+    },
+    {
+     "speaker_jp": "{山田|やまだ}",
+     "speaker_tr": "Yamada",
+     "jp": "{北海道|ほっかいどう}に　{馬|うま}が　たくさん　いますよ。",
+     "tr": "Di Hokkaido ada banyak kuda."
+    },
+    {
+     "speaker_jp": "サントス",
+     "speaker_tr": "Santos",
+     "jp": "ほんとうですか。",
+     "tr": "Benar ya?"
+    },
+    {
+     "jp": "じゃ、{夏休|なつやす}みに　ぜひ　{行|い}きたいです。",
+     "tr": "Kalau begitu, saya ingin sekali pergi pada liburan musim panas."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "か"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "い"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "か"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "う"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "か"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "き"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "か"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "く"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "およ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ぎ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "およ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ぐ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "はな"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "はな"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "す"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "た"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ち"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "た"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "つ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "よ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "び"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "よ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ぶ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "よ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "み"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "よ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "む"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "はい"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "り"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "はい"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "る"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ね"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ね"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "る"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "たべ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "たべ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "る"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おき"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おき"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "る"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "み"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "み"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "る"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かり"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かり"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "る"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅲ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "き"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "くる"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅲ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "する"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅲ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "うんてん"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "うんてん"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "する"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "text_jp": "ミラーさんは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "にほんご",
+          "くるまの　うんてん"
+         ]
+        },
+        {
+         "opts_jp": [
+          "{漢字|かんじ}を　よむ　こと",
+          "ピアノを　ひく　こと"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "が　できます。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "text_jp": "ここで"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "コピー",
+          "ホテルの　よやく"
+         ]
+        },
+        {
+         "opts_jp": [
+          "{切符|きっぷ}を　かう　こと",
+          "お{金|かね}を　かえる　こと"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "が　できます。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしの　{趣味|しゅみ}は"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "スポーツ",
+          "りょこう"
+         ]
+        },
+        {
+         "opts_jp": [
+          "{動物|どうぶつ}の　{写真|しゃしん}を　とる　こと",
+          "{馬|うま}に　のる　こと"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "です。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ねる",
+          "{日本|にほん}へ　くる"
+         ],
+         "hl": "strong"
+        },
+        {
+         "opts_jp": [
+          "しょくじの",
+          "クリスマスの",
+          "5ねん"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "まえに、"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{本|ほん}を　{読|よ}みます。",
+          "{日本語|にほんご}を　{勉強|べんきょう}しました。",
+          "{手|て}を　{洗|あら}います。",
+          "プレゼントを　{買|か}います。",
+          "{日本|にほん}へ　{来|き}ました。"
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig2",
+     "image": "img/L18/rb_fig2.webp"
+    },
+    {
+     "id": "fig6",
+     "image": "img/L18/rb_fig6.webp"
+    },
+    {
+     "id": "fig7",
+     "image": "img/L18/rb_fig7.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "examples": [
+      {
+       "prompt_jp": "テニス",
+       "answer_jp": [
+        "ミラーさんは　テニスが　できます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{運転|うんてん}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{料理|りょうり}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "サッカー"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "ダンス"
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "figure": "fig2",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "ひらがなを　{書|か}く　ことが　できますか。",
+        "……はい、できます。"
+       ]
+      },
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "{漢字|かんじ}を　{読|よ}む　ことが　できますか。",
+        "……いいえ、できません。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "examples": [
+      {
+       "prompt_jp": "どんな　{外国語|がいこくご}を　{話|はな}しますか（{英語|えいご}）",
+       "answer_jp": [
+        "どんな　{外国語|がいこくご}を　{話|はな}す　ことが　できますか。",
+        "……{英語|えいご}を　{話|はな}す　ことが　できます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{何|なん}メートルぐらい　{泳|およ}ぎますか（100メートルぐらい）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "どんな　{料理|りょうり}を　{作|つく}りますか（てんぷら）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{漢字|かんじ}を　いくつ　{書|か}きますか（50ぐらい）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{日本|にほん}の　{歌|うた}で　{何|なに}を　{歌|うた}いますか（「{故郷|ふるさと}」）"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "この　{公園|こうえん}で　サッカー（はい）",
+       "answer_jp": [
+        "この　{公園|こうえん}で　サッカーが　できますか。",
+        "……はい、できます。"
+       ]
+      },
+      {
+       "prompt_jp": "カードで　{払|はら}います（いいえ）",
+       "answer_jp": [
+        "カードで　{払|はら}う　ことが　できますか。",
+        "……いいえ、できません。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{寮|りょう}の　{部屋|へや}で　{料理|りょうり}（いいえ）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "インターネットで　ホテルの　{予約|よやく}（はい）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{図書館|としょかん}で　{辞書|じしょ}を　{借|か}ります（いいえ）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "ホテルから　バスで　{空港|くうこう}へ　{行|い}きます（はい）"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "examples": [
+      {
+       "prompt_jp": "どこで　{安|やす}い　カメラを　{買|か}いますか（{秋葉原|あきはばら}）",
+       "answer_jp": [
+        "どこで　{安|やす}い　カメラを　{買|か}う　ことが　できますか。",
+        "……{秋葉原|あきはばら}で　{買|か}う　ことが　できます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "この　{車|くるま}に　{何人|なんにん}　{乗|の}りますか（8{人|にん}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "いつ　{北海道|ほっかいどう}で　{桜|さくら}を　{見|み}ますか（5{月|がつ}）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{何日|なんにち}　{本|ほん}を　{借|か}りますか（2{週間|しゅうかん}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{何時|なんじ}から　{何時|なんじ}まで　{会議室|かいぎしつ}を　{使|つか}いますか（9{時|じ}・6{時|じ}）"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "figure": "fig6",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "{趣味|しゅみ}は　{何|なん}ですか。",
+        "……{絵|え}を　かく　ことです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "figure": "fig7",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "{寝|ね}る　まえに、お{祈|いの}りを　します。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 8,
+     "examples": [
+      {
+       "prompt_jp": "この　{薬|くすり}を　{飲|の}みます（{寝|ね}ます）",
+       "answer_jp": [
+        "いつ　この　{薬|くすり}を　{飲|の}みますか。",
+        "……{寝|ね}る　まえに、{飲|の}みます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "ジョギングを　します（{会社|かいしゃ}へ　{行|い}きます）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "その　カメラを　{買|か}いました（{日本|にほん}へ　{来|き}ます）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{資料|しりょう}を　コピーします（{会議|かいぎ}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{国|くに}へ　{帰|かえ}ります（クリスマス）"
+      },
+      {
+       "no": 5,
+       "prompt_jp": "{日本|にほん}へ　{来|き}ました（5{年|ねん}）"
+      },
+      {
+       "no": 6,
+       "prompt_jp": "{荷物|にもつ}を　{送|おく}りました（{3日|みっか}）"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L18/rc1.webp",
+    "dialog": [
+     {
+      "jp": "あのう、[[ここ]]で　[[たばこを　{吸|す}う]]",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ことが　できますか。"
+     },
+     {
+      "jp": "すみません。　[[{外|そと}]]で　お{願|ねが}いします。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "わかりました。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L18/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L18/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L18/rc2.webp",
+    "dialog": [
+     {
+      "jp": "{趣味|しゅみ}は　{何|なん}ですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[{映画|えいが}を　{見|み}る]]　ことです。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "どんな　[[{映画|えいが}を　{見|み}ます]]か。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[フランス{映画|えいが}]]です。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "そうですか。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L18/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L18/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L18/rc3.webp",
+    "dialog": [
+     {
+      "jp": "この　[[{資料|しりょう}]]、[[コピーし]]ましょうか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "あ、ちょっと　{待|ま}って　ください。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[コピーする]]　まえに、"
+     },
+     {
+      "jp": "[[{部長|ぶちょう}に　{見|み}せて]]　ください。"
+     },
+     {
+      "jp": "はい。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L18/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L18/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L18_mondai1.m4a",
+    "cd_track": "CD64",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_truefalse",
+    "audio": "audio/L18_mondai2.m4a",
+    "cd_track": "CD65",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{泳|およ}ぎます　→　[[{泳|およ}ぐ]]"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{弾|ひ}きます　→　＿"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{話|はな}します　→　＿"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{持|も}ちます　→　＿"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{遊|あそ}びます　→　＿"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{飲|の}みます　→　＿"
+      ]
+     },
+     {
+      "no": 6,
+      "lines_jp": [
+       "{入|はい}ります　→　＿"
+      ]
+     },
+     {
+      "no": 7,
+      "lines_jp": [
+       "{歌|うた}います　→　＿"
+      ]
+     },
+     {
+      "no": 8,
+      "lines_jp": [
+       "{集|あつ}めます　→　＿"
+      ]
+     },
+     {
+      "no": 9,
+      "lines_jp": [
+       "{捨|す}てます　→　＿"
+      ]
+     },
+     {
+      "no": 10,
+      "lines_jp": [
+       "{見|み}ます　→　＿"
+      ]
+     },
+     {
+      "no": 11,
+      "lines_jp": [
+       "{浴|あ}びます　→　＿"
+      ]
+     },
+     {
+      "no": 12,
+      "lines_jp": [
+       "します　→　＿"
+      ]
+     },
+     {
+      "no": 13,
+      "lines_jp": [
+       "{運転|うんてん}します　→　＿"
+      ]
+     },
+     {
+      "no": 14,
+      "lines_jp": [
+       "（{日本|にほん}へ）　{来|き}ます　→　＿"
+      ]
+     },
+     {
+      "no": 15,
+      "lines_jp": [
+       "{持|も}って　{来|き}ます　→　＿"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "fill",
+    "instruction_jp": "かきます　　{換|か}えます　　{乗|の}ります　　［{弾|ひ}きます］　　{予約|よやく}します",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "わたしは　ピアノを　（{弾|ひ}く）　ことが　できます。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "わたしは　{自転車|じてんしゃ}に　（＿）　ことが　できません。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{電話|でんわ}で　{飛行機|ひこうき}の　チケットを　（＿）　ことが　できます。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{趣味|しゅみ}は　{絵|え}を　（＿）　ことです。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "どこで　お{金|かね}を　（＿）　ことが　できますか。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}1",
+      "lines_jp": [
+       "{友達|ともだち}の　うちへ　（{行|い}きます　→　{行|い}く　まえに）、{電話|でんわ}を　かけます。"
+      ]
+     },
+     {
+      "label_jp": "{例|れい}2",
+      "lines_jp": [
+       "{仕事|しごと}が　（{終|お}わります　→　{終|お}わってから）、{飲|の}みに　{行|い}きます。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{朝|あさ}　うちで　コーヒーを　（{飲|の}みます　→　＿）、{会社|かいしゃ}へ　{行|い}きます。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{料理|りょうり}を　（{始|はじ}めます　→　＿）、{手|て}を　{洗|あら}います。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{夜|よる}　（{寝|ね}ます　→　＿）、{日記|にっき}を　{書|か}きます。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{銀行|ぎんこう}で　お{金|かね}を　（{下|お}ろします　→　＿）、{買|か}い{物|もの}に　{行|い}きました。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "100メートル（×）　{泳|およ}ぐ　こと（が）　できます。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{車|くるま}（＿）　{運転|うんてん}（＿）　できます。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{漢字|かんじ}（＿）　50ぐらい　{書|か}く　こと（＿）　できます。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{会議|かいぎ}（＿）　まえに、{資料|しりょう}を　コピーしなければ　なりません。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "2{年|ねん}（＿）　まえに、{大学|だいがく}を　{出|で}ました。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "kind": "write",
+    "passage_title_jp": "{子|こ}ども{図書館|としょかん}",
+    "passage_jp": [
+     "{本|ほん}の　{借|か}り{方|かた}",
+     "・{受付|うけつけ}で　カードを　{作|つく}って　ください。",
+     "・{受付|うけつけ}へ　{本|ほん}を　{持|も}って　{来|き}て、カードを　{見|み}せて　ください。",
+     "・{本|ほん}は　2{週間|しゅうかん}　{借|か}りる　ことが　できます。",
+     "・{辞書|じしょ}と　{新聞|しんぶん}と　{新|あたら}しい　{雑誌|ざっし}は　{借|か}りる　ことが　できません。",
+     "コピーが　できます（1{枚|まい}　10{円|えん}）",
+     "・{図書館|としょかん}の　{本|ほん}を　コピーする　ことが　できます。",
+     "・コピーは　{受付|うけつけ}で　しますから、{本|ほん}を　{受付|うけつけ}へ　{持|も}って　{来|き}て　ください。"
+    ],
+    "instruction_jp": "きょうは　4{月|がつ}{2日|ふつか}です。　テレーザちゃんが　{質問|しつもん}します。　{教|おし}えて　ください。",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "どうやって　{本|ほん}を　{借|か}りる　ことが　できますか。",
+       "……[[まず　カードを　{作|つく}って　ください。　それから　{本|ほん}と　カードを　{受付|うけつけ}へ　{持|も}って　{来|き}て　ください]]。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "きょう　{本|ほん}を　{借|か}ります。　いつまでに　{返|かえ}さなければ　なりませんか。",
+       "……＿"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{辞書|じしょ}を　{借|か}りる　ことが　できますか。",
+       "……＿"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{本|ほん}を　{自分|じぶん}で　コピーしても　いいですか。",
+       "……＿"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "4{枚|まい}　コピーしました。　いくらですか。",
+       "……＿"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Kata Kerja Bentuk Kamus",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Ini adalah bentuk dasar Kata Kerja yang disajikan di kamus. Sesuai dengan kelompok Kata Kerja, cara membuat bentuk kamus dari bentuk ます sebagai berikut: (Lihat Buku Induk Pel.18 Latihan A1.)"
+     },
+     {
+      "type": "h",
+      "text_rich": "1) Kata Kerja Kelompok I"
+     },
+     {
+      "type": "p",
+      "text_rich": "Bunyi terakhir bentuk ます adalah bunyi kolom い, maka ini diganti dengan bunyi kolom う. かき－ます → かく　いそぎ－ます → いそぐ　よみ－ます → よむ　あそび－ます → あそぶ　とり－ます → とる　まち－ます → まつ　すい－ます → すう　はなし－ます → はなす"
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Kata Kerja Kelompok II"
+     },
+     {
+      "type": "p",
+      "text_rich": "Membubuhkan る pada bentuk ます. たべ－ます → たべ－る　み－ます → み－る"
+     },
+     {
+      "type": "h",
+      "text_rich": "3) Kata Kerja Kelompok III"
+     },
+     {
+      "type": "p",
+      "text_rich": "Bentuk kamus します adalah する, sedangkan bentuk kamus きます adalah くる."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Kata Benda／Kata Kerja Bentuk Kamus こと　が　できます",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Dapat...... できます adalah Kata Kerja yang menunjukkan hal yang dapat dilakukan atas kemampuan yang dimiliki orang itu, atau aksi yang memungkinkan dengan kondisi itu. Objek untuk できます ditunjuk dengan が, dan isi kemampuan atau kemungkinan ditunjuk dengan Kata Benda atau Kata Kerja Bentuk Kamus こと."
+     },
+     {
+      "type": "h",
+      "text_rich": "1) Untuk Kata Benda"
+     },
+     {
+      "type": "p",
+      "text_rich": "Dipakai Kata Benda yang bersifat aksi (うんてん, かいもの, スキー, ダンス). Kemudian digunakan juga Kata Benda seperti にほんご, atau ピアノ yang menunjukkan ketrampilan."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "ミラーさんは　{日本語|にほんご}が　できます。",
+        "tr": "Sdr. Miller bisa berbahasa Jepang."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "{雪|ゆき}が　たくさん　{降|ふ}りましたから、ことしは　スキーが　できます。",
+        "tr": "Karena salju turun banyak, tahun ini dapat bermain ski."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Untuk Kata Kerja"
+     },
+     {
+      "type": "p",
+      "text_rich": "Jika mengatakan dapat melakukan suatu perbuatan, maka bentuk frase Kata Benda dengan membubuhkan こと pada Kata Kerja Bentuk Kamus, kemudian dilanjutkan dengan が　できます di belakangnya."
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "ミラーさんは　[[{漢字|かんじ}を　{読|よ}む　こと]]が　できます。",
+        "tr": "Sdr. Miller bisa membaca Kanji. (frase Kata Benda)"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "[[カードで　{払|はら}う　こと]]が　できます。",
+        "tr": "Dapat membayar dengan kartu. (frase Kata Benda)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "わたしの　{趣味|しゅみ}は　Kata Benda／Kata Kerja Bentuk Kamus こと　です",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Hobi saya adalah......"
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "わたしの　{趣味|しゅみ}は　{音楽|おんがく}です。",
+        "tr": "Hobi saya adalah musik."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Jika memakai Kata Kerja Bentuk Kamus こと maka dapat menunjukkan isi hobi lebih konkret."
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "わたしの　{趣味|しゅみ}は　{音楽|おんがく}を　{聞|き}く　ことです。",
+        "tr": "Hobi saya adalah mendengarkan musik."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "Kata Kerja₁ Bentuk Kamus／Kata Benda の／Kata Keterangan Bilangan (jangka waktu)　まえに、Kata Kerja₂",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Sebelum......, melakukan......"
+     },
+     {
+      "type": "h",
+      "text_rich": "1) Untuk Kata Kerja"
+     },
+     {
+      "type": "p",
+      "text_rich": "Menyatakan bahwa sebelum Kata Kerja₁, terjadi Kata Kerja₂. Perlu hati-hati bahwa jika waktu kalimat (waktu Kata Kerja₂) menunjukkan waktu lampau atau juga menunjukkan waktu non lampau, maka Kata Kerja₁ selalu berbentuk Bentuk Kamus."
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "{日本|にほん}へ　{来|く}る　まえに、{日本語|にほんご}を　{勉強|べんきょう}しました。",
+        "tr": "Sebelum datang di Jepang, belajar bahasa Jepang."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "{寝|ね}る　まえに、{本|ほん}を　{読|よ}みます。",
+        "tr": "Sebelum tidur, membaca buku."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Untuk Kata Benda"
+     },
+     {
+      "type": "p",
+      "text_rich": "Di belakang Kata Benda membubuhkan の. Menggunakan Kata Benda yang bersifat aksi."
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "{食事|しょくじ}の　まえに、{手|て}を　{洗|あら}います。",
+        "tr": "Sebelum makan mencuci tangan."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "3) Untuk Kata Keterangan Bilangan (jangka waktu)"
+     },
+     {
+      "type": "p",
+      "text_rich": "Perlu hati-hati bahwa di belakang Kata Keterangan Bilangan (jangka waktu) tidak membubuhkan の."
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "{田中|たなか}さんは　1{時間|じかん}まえに、{出|で}かけました。",
+        "tr": "Sdr. Tanaka telah keluar sejam yang lalu."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "なかなか",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "なかなか menyertai ekspresi negatif di belakangnya, dan menunjukkan arti yang tidak mudah untuk melakukan atau tidak dapat melakukan sebagaimana apa yang diharapkan."
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "{日本|にほん}では　なかなか　{馬|うま}を　{見|み}る　ことが　できません。",
+        "tr": "Di Jepang tidak mudah untuk melihat kuda."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Contoh kalimat ⑪ (Lihat Buku Induk Pel.18 Percakapan) adalah kalimat yang kata にほんで dijadikan sebagai topik. Dengan demikian, Kata Benda yang dibubuhkan で dijadikan sebagai topik, maka Kata Benda berbentuk Kata Benda では (Lihat Kolom 1 mengenai contoh yang berpartikel selain が dan を yang dijadikan sebagai topik)."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_rich": "ぜひ",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Dipakai bersama dengan ekspresi yang menunjukkan harapan si pembicara, dan berfungsi untuk menekankannya."
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "ぜひ　{北海道|ほっかいどう}へ　{行|い}きたいです。",
+        "tr": "Ingin sekali pergi ke Hokkaido."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "ぜひ　{遊|あそ}びに　{来|き}て　ください。",
+        "tr": "Sungguh diharapkan untuk datang bermain."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{動|うご}き",
+   "title_tr": "Gerakan",
+   "blocks": [
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{飛|と}ぶ"
+        }
+       ],
+       [
+        {
+         "tr": "terbang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{跳|と}ぶ"
+        }
+       ],
+       [
+        {
+         "tr": "meloncat"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{登|のぼ}る"
+        }
+       ],
+       [
+        {
+         "tr": "memanjat"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{走|はし}る"
+        }
+       ],
+       [
+        {
+         "tr": "berlari"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{泳|およ}ぐ"
+        }
+       ],
+       [
+        {
+         "tr": "berenang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "もぐる"
+        }
+       ],
+       [
+        {
+         "tr": "menyelam"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{飛|と}び{込|こ}む"
+        }
+       ],
+       [
+        {
+         "tr": "terjun"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{逆立|さかだ}ちする"
+        }
+       ],
+       [
+        {
+         "tr": "berjungkir balik"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "はう"
+        }
+       ],
+       [
+        {
+         "tr": "merayap"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "ける"
+        }
+       ],
+       [
+        {
+         "tr": "menendang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{振|ふ}る"
+        }
+       ],
+       [
+        {
+         "tr": "melambaikan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{持|も}ち{上|あ}げる"
+        }
+       ],
+       [
+        {
+         "tr": "mengangkat"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{投|な}げる"
+        }
+       ],
+       [
+        {
+         "tr": "melempar"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "たたく"
+        }
+       ],
+       [
+        {
+         "tr": "memukul"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{引|ひ}く"
+        }
+       ],
+       [
+        {
+         "tr": "menarik"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{押|お}す"
+        }
+       ],
+       [
+        {
+         "tr": "mendorong"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{曲|ま}げる"
+        }
+       ],
+       [
+        {
+         "tr": "membengkokkan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{伸|の}ばす"
+        }
+       ],
+       [
+        {
+         "tr": "meluruskan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{転|ころ}ぶ"
+        }
+       ],
+       [
+        {
+         "tr": "jatuh"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{振|ふ}り{向|む}く"
+        }
+       ],
+       [
+        {
+         "tr": "menengok ke belakang"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "image": "img/L18/sankou_ugoki.webp",
+     "caption": "{動|うご}き"
+    }
+   ]
+  }
+ }
+}

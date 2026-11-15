@@ -1,0 +1,346 @@
+{
+  "book": 1,
+  "lesson": 1,
+  "title_jp": "{初|はじ}めまして",
+  "title_tr": "Salam Kenal!",
+  "source_pages": { "main_pdf": [29, 36], "translation_pdf": [30, 35] },
+  "sections": {
+    "kosakata": {
+      "groups": [
+        {
+          "label_jp": null,
+          "items": [
+            { "kana_jp": "わたし", "kanji_jp": null, "tr": "saya" },
+            { "kana_jp": "あなた", "kanji_jp": null, "tr": "Anda" },
+            { "kana_jp": "あの　ひと（あの　かた）", "kanji_jp": "あの　{人|ひと}（あの　{方|かた}）", "tr": "orang itu, beliau (あの かた adalah bentuk sopan dari あの ひと)" },
+            { "kana_jp": "～さん", "kanji_jp": null, "tr": "Sdr. ～, Bapak ～, Ibu ～ (akhiran untuk mengekspresikan kesopanan yang diletakkan di belakang nama orang)" },
+            { "kana_jp": "～ちゃん", "kanji_jp": null, "tr": "(akhiran yang dipakai untuk anak laki-laki dan anak perempuan sebagai pengganti ～さん yang diletakkan di belakang nama anak)" },
+            { "kana_jp": "～じん", "kanji_jp": "～{人|じん}", "tr": "orang ～ (akhiran yang menyatakan warga negara. Contoh: アメリカじん (orang Amerika Serikat))" },
+            { "kana_jp": "せんせい", "kanji_jp": "{先生|せんせい}", "tr": "guru, dosen (tidak dipakai jika menyebutkan pekerjaan sendiri)" },
+            { "kana_jp": "きょうし", "kanji_jp": "{教師|きょうし}", "tr": "guru, dosen" },
+            { "kana_jp": "がくせい", "kanji_jp": "{学生|がくせい}", "tr": "mahasiswa" },
+            { "kana_jp": "かいしゃいん", "kanji_jp": "{会社員|かいしゃいん}", "tr": "karyawan perusahaan" },
+            { "kana_jp": "しゃいん", "kanji_jp": "{社員|しゃいん}", "tr": "karyawan perusahaan (dipakai bersama dengan nama perusahaan. Contoh: IMCの しゃいん (karyawan perusahaan IMC))" },
+            { "kana_jp": "ぎんこういん", "kanji_jp": "{銀行員|ぎんこういん}", "tr": "pegawai bank" },
+            { "kana_jp": "いしゃ", "kanji_jp": "{医者|いしゃ}", "tr": "dokter" },
+            { "kana_jp": "けんきゅうしゃ", "kanji_jp": "{研究者|けんきゅうしゃ}", "tr": "peneliti" },
+            { "kana_jp": "だいがく", "kanji_jp": "{大学|だいがく}", "tr": "universitas" },
+            { "kana_jp": "びょういん", "kanji_jp": "{病院|びょういん}", "tr": "rumah sakit" },
+            { "kana_jp": "だれ（どなた）", "kanji_jp": null, "tr": "siapa (どなた adalah bentuk sopan dari だれ)" },
+            { "kana_jp": "―さい", "kanji_jp": "―{歳|さい}", "tr": "― tahun" },
+            { "kana_jp": "なんさい（おいくつ）", "kanji_jp": "{何歳|なんさい}", "tr": "umur berapa (おいくつ adalah bentuk sopan dari なんさい)" },
+            { "kana_jp": "はい", "kanji_jp": null, "tr": "ya" },
+            { "kana_jp": "いいえ", "kanji_jp": null, "tr": "tidak, bukan" }
+          ]
+        },
+        {
+          "label_jp": "〈{練習|れんしゅう}C〉",
+          "items": [
+            { "kana_jp": "{初|はじ}めまして。", "kanji_jp": null, "tr": "Perkenalkan. (ucapan salam pada waktu pertama kali berkenalan)" },
+            { "kana_jp": "～から　{来|き}ました。", "kanji_jp": null, "tr": "datang dari ～, berasal dari ～" },
+            { "kana_jp": "［どうぞ］　よろしく　［お{願|ねが}いします］。", "kanji_jp": null, "tr": "Salam kenal. (ucapan terakhir untuk perkenalkan diri)" },
+            { "kana_jp": "{失礼|しつれい}ですが", "kanji_jp": null, "tr": "permisi, maaf (digunakan ketika bertanya tentang hal yang pribadi seperti nama, alamat dan sebagainya)" },
+            { "kana_jp": "お{名前|なまえ}は？", "kanji_jp": null, "tr": "Siapa namanya?" },
+            { "kana_jp": "こちらは　～さんです。", "kanji_jp": null, "tr": "Ini Bapak ～./Ini Ibu, Sdr. ～." }
+          ]
+        },
+        {
+          "label_jp": null,
+          "separator": true,
+          "items": [
+            { "kana_jp": "アメリカ", "kanji_jp": null, "tr": "Amerika Serikat" },
+            { "kana_jp": "イギリス", "kanji_jp": null, "tr": "Inggris" },
+            { "kana_jp": "インド", "kanji_jp": null, "tr": "India" },
+            { "kana_jp": "インドネシア", "kanji_jp": null, "tr": "Indonesia" },
+            { "kana_jp": "{韓国|かんこく}", "kanji_jp": null, "tr": "Korea Selatan" },
+            { "kana_jp": "タイ", "kanji_jp": null, "tr": "Thailan" },
+            { "kana_jp": "{中国|ちゅうごく}", "kanji_jp": null, "tr": "Cina" },
+            { "kana_jp": "ドイツ", "kanji_jp": null, "tr": "Jerman" },
+            { "kana_jp": "{日本|にほん}", "kanji_jp": null, "tr": "Jepang" },
+            { "kana_jp": "ブラジル", "kanji_jp": null, "tr": "Brasil" },
+            { "kana_jp": "IMC／パワー{電気|でんき}／ブラジルエアー", "kanji_jp": null, "tr": "perusahaan fiksi" },
+            { "kana_jp": "AKC", "kanji_jp": null, "tr": "organisasi fiksi" },
+            { "kana_jp": "{神戸病院|こうべびょういん}", "kanji_jp": null, "tr": "rumah sakit fiksi" },
+            { "kana_jp": "さくら{大学|だいがく}／{富士大学|ふじだいがく}", "kanji_jp": null, "tr": "universitas fiksi" }
+          ]
+        }
+      ]
+    },
+
+    "bunkei": [
+      { "no": 1, "jp": "わたしは　マイク・ミラーです。", "tr": "Saya Mike Miller." },
+      { "no": 2, "jp": "サントスさんは　{学生|がくせい}じゃ　ありません。", "variants_jp": ["（では）"], "tr": "Sdr. Santos bukan mahasiswa." },
+      { "no": 3, "jp": "ミラーさんは　{会社員|かいしゃいん}ですか。", "tr": "Apakah Sdr. Miller pegawai perusahaan?" },
+      { "no": 4, "jp": "サントスさんも　{会社員|かいしゃいん}です。", "tr": "Sdr. Santos juga pegawai perusahaan." }
+    ],
+
+    "reibun": [
+      { "no": 1, "lines": [
+        { "jp": "［あなたは］　マイク・ミラーさんですか。", "tr": "[Apakah Anda] Sdr. Mike Miller?" },
+        { "jp": "……はい、［わたしは］　マイク・ミラーです。", "tr": "……Ya, [saya] Mike Miller." } ] },
+      { "no": 2, "lines": [
+        { "jp": "ミラーさんは　{学生|がくせい}ですか。", "tr": "Apakah Sdr. Miller mahasiswa?" },
+        { "jp": "……いいえ、［わたしは］　{学生|がくせい}じゃ　ありません。", "tr": "……Bukan, [saya] bukan mahasiswa." } ] },
+      { "no": 3, "lines": [
+        { "jp": "ワンさんは　{銀行員|ぎんこういん}ですか。", "tr": "Apakah Sdr. Wang pegawai bank?" },
+        { "jp": "……いいえ、［ワンさんは］　{銀行員|ぎんこういん}じゃ　ありません。", "tr": "……Bukan, [Sdr. Wang] bukan pegawai bank." },
+        { "jp": "{医者|いしゃ}です。", "tr": "Dokter." } ] },
+      { "no": 4, "lines": [
+        { "jp": "あの　{方|かた}は　どなたですか。", "tr": "Beliau siapa?" },
+        { "jp": "……ワットさんです。　さくら{大学|だいがく}の　{先生|せんせい}です。", "tr": "……Sdr. Wat. Dosen Universitas Sakura." } ] },
+      { "no": 5, "lines": [
+        { "jp": "グプタさんは　{会社員|かいしゃいん}ですか。", "tr": "Apakah Sdr. Gupta pegawai perusahaan?" },
+        { "jp": "……はい、{会社員|かいしゃいん}です。", "tr": "……Ya, pegawai perusahaan." },
+        { "jp": "カリナさんも　{会社員|かいしゃいん}ですか。", "tr": "Apakah Sdr. Karina juga pegawai perusahaan?" },
+        { "jp": "……いいえ。　［カリナさんは］　{学生|がくせい}です。", "tr": "……Bukan. [Sdr. Karina] mahasiswi." } ] },
+      { "no": 6, "lines": [
+        { "jp": "テレーザちゃんは　{何歳|なんさい}ですか。", "tr": "Berapa usia Teresa?" },
+        { "jp": "……9{歳|さい}です。", "tr": "……Sembilan tahun." } ] }
+    ],
+
+    "kaiwa": {
+      "title_jp": "{初|はじ}めまして",
+      "title_tr": "Salam Kenal!",
+      "image": "img/L01/kaiwa.webp",
+      "audio": "audio/L01_kaiwa.m4a",
+      "cd_track": "CD01",
+      "lines": [
+        { "speaker_jp": "{佐藤|さとう}", "speaker_tr": "Sato", "jp": "おはよう　ございます。", "tr": "Selamat pagi." },
+        { "speaker_jp": "{山田|やまだ}", "speaker_tr": "Yamada", "jp": "おはよう　ございます。", "tr": "Selamat pagi." },
+        { "jp": "{佐藤|さとう}さん、こちらは　マイク・ミラーさんです。", "tr": "Sdr. Sato, ini Sdr. Mike Miller." },
+        { "speaker_jp": "ミラー", "speaker_tr": "Miller", "jp": "{初|はじ}めまして。", "tr": "Salam kenal!" },
+        { "jp": "マイク・ミラーです。", "tr": "Saya Mike Miller." },
+        { "jp": "アメリカから　{来|き}ました。", "tr": "Saya datang dari Amerika Serikat." },
+        { "jp": "どうぞ　よろしく。", "tr": "Senang berkenalan dengan Anda." },
+        { "speaker_jp": "{佐藤|さとう}", "speaker_tr": "Sato", "jp": "{佐藤|さとう}けい{子|こ}です。", "tr": "Saya Keiko Sato." },
+        { "jp": "どうぞ　よろしく。", "tr": "Senang berkenalan dengan Anda." }
+      ]
+    },
+
+    "renshuu_a": [
+      { "no": 1, "lines": [[
+        { "slot": [ { "opts_jp": ["わたし"] }, { "opts_jp": ["ワンさん"] } ] },
+        { "text_jp": "は" },
+        { "slot": [ { "opts_jp": ["マイク・ミラー", "かいしゃいん"] }, { "opts_jp": ["ちゅうごくじん", "いしゃ"] } ] },
+        { "text_jp": "です。" } ]] },
+      { "no": 2, "lines": [[
+        { "slot": [ { "opts_jp": ["わたし"] }, { "opts_jp": ["イーさん"] } ] },
+        { "text_jp": "は" },
+        { "slot": [ { "opts_jp": ["カール・シュミット", "きょうし"] }, { "opts_jp": ["アメリカじん", "がくせい"] } ] },
+        { "text_jp": "じゃ　ありません。", "variants_jp": ["（では）"] } ]] },
+      { "no": 3, "lines": [[
+        { "text_jp": "あの　{人|ひと}（{方|かた}）は" },
+        { "slot": [ { "opts_jp": ["きむらさん", "マリアさん"] }, { "opts_jp": ["だれ（どなた）"], "hl": "strong" } ] },
+        { "text_jp": "ですか。" } ]] },
+      { "no": 4, "lines": [[
+        { "slot": [ { "opts_jp": ["わたし", "カリナさん", "ワットさん"] } ] },
+        { "text_jp": "は" },
+        { "slot": [ { "opts_jp": ["IMC", "ふじだいがく", "さくらだいがく"] } ] },
+        { "text_jp": "の" },
+        { "slot": [ { "opts_jp": ["しゃいん", "がくせい", "せんせい"] } ] },
+        { "text_jp": "です。" } ]] },
+      { "no": 5, "lines": [
+        [ { "text_jp": "サントスさんは　ブラジル{人|じん}です。" } ],
+        [ { "slot": [ { "opts_jp": ["マリアさん", "あの　ひと"] } ] },
+          { "text_jp": "も　ブラジル{人|じん}です。" } ] ] },
+      { "no": 6, "lines": [[
+        { "slot": [ { "opts_jp": ["テレーザちゃん", "たろうちゃん"] } ] },
+        { "text_jp": "は" },
+        { "slot": [ { "opts_jp": ["9さい", "8さい"] }, { "opts_jp": ["なんさい（おいくつ）"], "hl": "strong" } ] },
+        { "slot": [ { "opts_jp": ["です。"], "hl": "none" }, { "opts_jp": ["……か。"], "hl": "none" } ] } ]] }
+    ],
+
+    "renshuu_b": {
+      "figures": [
+        { "id": "fig1", "image": "img/L01/rb_fig1.webp" },
+        { "id": "fig2", "image": "img/L01/rb_fig2.webp" },
+        { "id": "fig3", "image": "img/L01/rb_fig3.webp" }
+      ],
+      "items": [
+        { "no": 1, "figure": "fig1",
+          "examples": [ { "prompt_jp": null, "answer_jp": ["ミラーさんは　アメリカ{人|じん}です。"] } ],
+          "questions": [ { "no": 1 }, { "no": 2 }, { "no": 3 }, { "no": 4 } ] },
+        { "no": 2, "figure": "fig1",
+          "examples": [ { "prompt_jp": null, "answer_jp": ["ミラーさんは　{会社員|かいしゃいん}です。"] } ],
+          "questions": [ { "no": 1 }, { "no": 2 }, { "no": 3 }, { "no": 4 } ] },
+        { "no": 3,
+          "examples": [ { "prompt_jp": "ミラーさん・{銀行員|ぎんこういん}", "answer_jp": ["ミラーさんは　{銀行員|ぎんこういん}じゃ　ありません。"] } ],
+          "questions": [
+            { "no": 1, "prompt_jp": "{山田|やまだ}さん・{学生|がくせい}" },
+            { "no": 2, "prompt_jp": "ワットさん・ドイツ{人|じん}" },
+            { "no": 3, "prompt_jp": "タワポンさん・{先生|せんせい}" },
+            { "no": 4, "prompt_jp": "シュミットさん・アメリカ{人|じん}" } ] },
+        { "no": 4,
+          "examples": [
+            { "prompt_jp": "ミラーさん・アメリカ{人|じん}", "answer_jp": ["ミラーさんは　アメリカ{人|じん}ですか。", "……はい、アメリカ{人|じん}です。"] },
+            { "prompt_jp": "ミラーさん・{医者|いしゃ}", "answer_jp": ["ミラーさんは　{医者|いしゃ}ですか。", "……いいえ、{医者|いしゃ}じゃ　ありません。"] } ],
+          "questions": [
+            { "no": 1, "prompt_jp": "{山田|やまだ}さん・{銀行員|ぎんこういん}" },
+            { "no": 2, "prompt_jp": "ワットさん・{会社員|かいしゃいん}" },
+            { "no": 3, "prompt_jp": "タワポンさん・{先生|せんせい}" },
+            { "no": 4, "prompt_jp": "シュミットさん・ドイツ{人|じん}" } ] },
+        { "no": 5, "figure": "fig2",
+          "examples": [ { "prompt_jp": null, "answer_jp": ["あの　{方|かた}は　どなたですか。", "……グプタさんです。　IMCの　{社員|しゃいん}です。"] } ],
+          "questions": [ { "no": 1 }, { "no": 2 }, { "no": 3 }, { "no": 4 } ] },
+        { "no": 6, "figure": "fig3",
+          "examples": [
+            { "prompt_jp": "ミラーさん・{会社員|かいしゃいん}、グプタさん", "answer_jp": ["ミラーさんは　{会社員|かいしゃいん}です。　グプタさんも　{会社員|かいしゃいん}ですか。", "……はい、グプタさんも　{会社員|かいしゃいん}です。"] },
+            { "prompt_jp": "ミラーさん・アメリカ{人|じん}、グプタさん", "answer_jp": ["ミラーさんは　アメリカ{人|じん}です。　グプタさんも　アメリカ{人|じん}ですか。", "……いいえ、グプタさんは　アメリカ{人|じん}じゃ　ありません。"] } ],
+          "questions": [
+            { "no": 1, "prompt_jp": "{山田|やまだ}さん・{銀行員|ぎんこういん}、イーさん" },
+            { "no": 2, "prompt_jp": "ワットさん・{先生|せんせい}、ワンさん" },
+            { "no": 3, "prompt_jp": "タワポンさん・{学生|がくせい}、カリナさん" },
+            { "no": 4, "prompt_jp": "シュミットさん・ドイツ{人|じん}、サントスさん" } ] },
+        { "no": 7, "figure": "fig3",
+          "examples": [ { "prompt_jp": "ミラーさん", "answer_jp": ["ミラーさんは　{何歳|なんさい}ですか。……28{歳|さい}です。"] } ],
+          "questions": [
+            { "no": 1, "prompt_jp": "{山田|やまだ}さん" },
+            { "no": 2, "prompt_jp": "ワットさん" },
+            { "no": 3, "prompt_jp": "タワポンさん" },
+            { "no": 4, "prompt_jp": "シュミットさん" } ] }
+      ]
+    },
+
+    "renshuu_c": [
+      { "no": 1, "image": "img/L01/rc1.webp",
+        "dialog": [
+          { "speaker_jp": "A", "jp": "{初|はじ}めまして。　[[マイク・ミラー]]です。" },
+          { "jp": "[[アメリカ]]から　{来|き}ました。　どうぞ　よろしく。" },
+          { "speaker_jp": "B", "jp": "{佐藤|さとう}です。　どうぞ　よろしく。" } ],
+        "substitutions": [ { "no": 1, "image": "img/L01/rc1_1.webp" }, { "no": 2, "image": "img/L01/rc1_2.webp" } ] },
+      { "no": 2, "image": "img/L01/rc2.webp",
+        "dialog": [
+          { "speaker_jp": "A", "jp": "{失礼|しつれい}ですが、お{名前|なまえ}は？" },
+          { "speaker_jp": "B", "jp": "[[イー]]です。" },
+          { "speaker_jp": "A", "jp": "[[リー]]さんですか。" },
+          { "speaker_jp": "B", "jp": "いいえ、[[イー]]です。" } ],
+        "substitutions": [ { "no": 1, "image": "img/L01/rc2_1.webp" }, { "no": 2, "image": "img/L01/rc2_2.webp" } ] },
+      { "no": 3, "image": "img/L01/rc3.webp",
+        "dialog": [
+          { "speaker_jp": "A", "jp": "{田中|たなか}さん、おはよう　ございます。" },
+          { "speaker_jp": "B", "jp": "おはよう　ございます。" },
+          { "speaker_jp": "A", "jp": "こちらは　[[ミラー]]さんです。" },
+          { "speaker_jp": "C", "jp": "{初|はじ}めまして。　[[ミラー]]です。" },
+          { "jp": "[[IMC]]の　{社員|しゃいん}です。" },
+          { "jp": "どうぞ　よろしく　お{願|ねが}いします。" },
+          { "speaker_jp": "B", "jp": "{田中|たなか}です。　よろしく　お{願|ねが}いします。" } ],
+        "substitutions": [ { "no": 1, "image": "img/L01/rc3_1.webp" }, { "no": 2, "image": "img/L01/rc3_2.webp" } ] }
+    ],
+
+    "mondai": [
+      { "no": 1, "kind": "listen_write", "audio": "audio/L01_mondai1.m4a", "cd_track": "CD02",
+        "examples": [ { "label_jp": "{例|れい}", "lines_jp": ["いいえ、［わたしは］　{先生|せんせい}じゃ　ありません。"] } ],
+        "questions": [ { "no": 1 }, { "no": 2 }, { "no": 3 }, { "no": 4 }, { "no": 5 } ] },
+      { "no": 2, "kind": "listen_choice_image", "audio": "audio/L01_mondai2.m4a", "cd_track": "CD03",
+        "examples": [ { "label_jp": "{例|れい}", "image": "img/L01/m2_ex.webp", "options": 3, "answer": "2" } ],
+        "questions": [
+          { "no": 1, "image": "img/L01/m2_1.webp", "options": 3 },
+          { "no": 2, "image": "img/L01/m2_2.webp", "options": 3 } ] },
+      { "no": 3, "kind": "listen_truefalse", "audio": "audio/L01_mondai3.m4a", "cd_track": "CD04",
+        "examples": [ { "label_jp": "{例|れい}1", "answer": "×" }, { "label_jp": "{例|れい}2", "answer": "○" } ],
+        "questions": [ { "no": 1 }, { "no": 2 }, { "no": 3 } ] },
+      { "no": 4, "kind": "fill",
+        "examples": [ { "label_jp": "{例|れい}", "lines_jp": ["あなたは　（{学生|がくせい}）ですか。", "……はい、{学生|がくせい}です。"] } ],
+        "questions": [
+          { "no": 1, "lines_jp": ["あなたは　（＿）ですか。", "……はい、ミラーです。"] },
+          { "no": 2, "lines_jp": ["ミラーさんは　（＿）ですか。", "……はい、アメリカ{人|じん}です。"] },
+          { "no": 3, "lines_jp": ["ワットさんも　（＿）ですか。", "……いいえ、アメリカ{人|じん}じゃ　ありません。　イギリス{人|じん}です。"] },
+          { "no": 4, "lines_jp": ["あの　{方|かた}は　（＿）ですか。", "……サントスさんです。"] },
+          { "no": 5, "lines_jp": ["テレーザちゃんは　（＿）ですか。", "……9{歳|さい}です。"] } ] },
+      { "no": 5, "kind": "fill",
+        "examples": [ { "label_jp": "{例|れい}", "lines_jp": ["わたし（は）　ミラーです。"] } ],
+        "questions": [
+          { "no": 1, "lines_jp": ["ワンさん（＿）　{医者|いしゃ}です。"] },
+          { "no": 2, "lines_jp": ["カリナさん（＿）　{先生|せんせい}です（＿）。", "……いいえ、{先生|せんせい}じゃ　ありません。"] },
+          { "no": 3, "lines_jp": ["ミラーさんは　IMC（＿）　{社員|しゃいん}です。"] },
+          { "no": 4, "lines_jp": ["ミラーさんは　{会社員|かいしゃいん}です。", "サントスさん（＿）　{会社員|かいしゃいん}です。"] } ] },
+      { "no": 6, "kind": "compose",
+        "examples": [],
+        "questions": [ { "no": null, "lines_jp": ["{初|はじ}めまして。", "わたしは　＿です。", "＿から　{来|き}ました。", "どうぞ　よろしく。"] } ] }
+    ],
+
+    "bunpou": [
+      { "no": 1, "title_rich": "Kata Benda₁ は Kata Benda₂ です",
+        "blocks": [
+          { "type": "h", "text_rich": "1) Partikel は" },
+          { "type": "p", "text_rich": "Partikel は menunjukkan bahwa kata sebelumnya adalah topik kalimat (Lihat: Kolom 1: Topik dan Subjek). Si pembicara memakai は untuk hal yang mau dibicarakannya, kemudian selanjutnya membuat kalimat dengan menambahkan berbagai deskripsi." },
+          { "type": "ex", "mark": "①", "lines": [ { "jp": "わたしは　マイク・ミラーです。", "tr": "Saya Mike Miller." } ] },
+          { "type": "note", "text_rich": "[Perhatian] Partikel は dibaca わ." },
+          { "type": "h", "text_rich": "2) です" },
+          { "type": "p", "text_rich": "Kata Benda yang diikuti oleh です menjadi Predikat. です menyatakan maksud penilaian dan kepastian, juga menunjukkan sikap sopan terhadap lawan bicara. Jika です dalam kalimat negatif atau waktu lampau, bentuknya berubah." },
+          { "type": "ex", "mark": "②", "lines": [ { "jp": "わたしは　{会社員|かいしゃいん}です。", "tr": "Saya pegawai perusahaan." } ] } ] },
+      { "no": 2, "title_rich": "Kata Benda₁ は Kata Benda₂ じゃ(では) ありません",
+        "blocks": [
+          { "type": "p", "text_rich": "じゃ(では) ありません adalah bentuk negatif untuk です. Dalam percakapan sehari-hari sering digunakan じゃ ありません. Dalam pidato yang resmi atau bahasa tertulis digunakan では ありません." },
+          { "type": "ex", "mark": "③", "lines": [ { "jp": "サントスさんは　{学生|がくせい}じゃ　ありません。", "variants_jp": ["（では）"], "tr": "Sdr. Santos bukan mahasiswa." } ] },
+          { "type": "note", "text_rich": "[Perhatian] は dari では diucapkan わ." } ] },
+      { "no": 3, "title_rich": "Kata Benda₁ は Kata Benda₂ ですか", "title_note": "(kalimat tanya)",
+        "blocks": [
+          { "type": "h", "text_rich": "1) Partikel か" },
+          { "type": "p", "text_rich": "Partikel か menyatakan perasaan ketidakpastian atau heran si pembicara. Dengan memakai か pada akhir kalimat maka dapat membuat kalimat tanya. Kalimat tanya biasanya menyertai intonasi naik pada akhir kalimat." },
+          { "type": "h", "text_rich": "2) Kalimat tanya untuk menanyakan \"Ya\" atau \"Tidak\" tentang isi kalimat." },
+          { "type": "p", "text_rich": "Tanpa mengubah susunan kata-kata, membuat kalimat dengan membubuhi か pada akhir kalimat. Kalimat tanya ini menanyakan apakah benar atau tidak isi kalimat, dan jika benar menjawab dengan memakai はい, jika salah menjawab dengan いいえ." },
+          { "type": "ex", "mark": "④", "lines": [
+            { "jp": "ミラーさんは　アメリカ{人|じん}ですか。", "tr": "Apakah Sdr. Miller orang Amerika?" },
+            { "jp": "……はい、アメリカ{人|じん}です。", "tr": "……Ya, orang Amerika." } ] },
+          { "type": "ex", "mark": "⑤", "lines": [
+            { "jp": "ミラーさんは　{先生|せんせい}ですか。", "tr": "Apakah Sdr. Miller guru?" },
+            { "jp": "……いいえ、{先生|せんせい}じゃ　ありません。", "tr": "……Bukan, dia bukan guru." } ] },
+          { "type": "h", "text_rich": "3) Kalimat tanya dengan kata tanya" },
+          { "type": "p", "text_rich": "Bagian isi yang ingin ditanyakan diganti dengan kata tanya, dan dibubuhkan か pada akhir kalimat." },
+          { "type": "ex", "mark": "⑥", "lines": [
+            { "jp": "あの　{方|かた}は　どなたですか。", "tr": "Siapakah orang itu?" },
+            { "jp": "……［あの　{方|かた}は］　ミラーさんです。", "tr": "……[Beliau] Sdr. Miller." } ] } ] },
+      { "no": 4, "title_rich": "Kata Benda も",
+        "blocks": [
+          { "type": "p", "text_rich": "も digunakan apabila menyatakan predikatnya dianggap sama dengan predikat sebelumnya." },
+          { "type": "ex", "mark": "⑦", "lines": [ { "jp": "ミラーさんは　{会社員|かいしゃいん}です。グプタさんも　{会社員|かいしゃいん}です。", "tr": "Sdr. Miller pegawai perusahaan. Sdr. Gupta juga pegawai perusahaan." } ] } ] },
+      { "no": 5, "title_rich": "Kata Benda₁ の Kata Benda₂",
+        "blocks": [
+          { "type": "p", "text_rich": "Jika Kata Benda₁ di depan menerangkan Kata Benda₂ di belakangnya, maka kedua Kata Benda disambung dengan の. Pada Pelajaran 1 Kata Benda₁ menunjukkan satu kesatuan Kata Benda₂." },
+          { "type": "ex", "mark": "⑧", "lines": [ { "jp": "ミラーさんは　IMCの　{社員|しゃいん}です。", "tr": "Sdr. Miller pegawai perusahaan IMC." } ] } ] },
+      { "no": 6, "title_rich": "～さん",
+        "blocks": [
+          { "type": "p", "text_rich": "Dalam bahasa Jepang memakai さん di belakang marga atau nama lawan bicara atau orang pihak ketiga. Karena さん menunjukkan kesopanan, tidak dipakai untuk marga atau nama si pembicara sendiri. Sebagai gantinya さん, untuk anak kecil dengan rasa akrab dipakai ちゃん." },
+          { "type": "ex", "mark": "⑨", "lines": [ { "jp": "あの　{方|かた}は　ミラーさんです。", "tr": "Beliau Sdr. Miller." } ] },
+          { "type": "p", "text_rich": "Ketika memanggil lawan bicara, jika telah mengenal namanya maka あなた tidak dipakai lagi, tetapi memanggil marga atau namanya yang dibubuhi dengan さん." },
+          { "type": "ex", "mark": "⑩", "lines": [
+            { "speaker_jp": "{鈴木|すずき}", "speaker_tr": "Suzuki", "jp": "ミラーさんは　{学生|がくせい}ですか。", "tr": "Apakah Sdr. Miller mahasiswa?" },
+            { "speaker_jp": "ミラー", "speaker_tr": "Miller", "jp": "いいえ、{会社員|かいしゃいん}です。", "tr": "Bukan, saya pegawai perusahaan." } ] },
+          { "type": "note", "text_rich": "[Perhatian] あなた digunakan terhadap orang yang berhubungan sangat dekat (suami istri, pacar dll.). Perlu hati-hati bahwa jika menggunakannya kepada lawan bicara yang hubungan tidak dekat maka akan memberi kesan yang kurang sopan." } ] }
+    ],
+
+    "sankou": {
+      "title_jp": "{国|くに}・{人|ひと}・ことば",
+      "title_tr": "Negara, Orang, Bahasa",
+      "blocks": [
+        { "type": "table",
+          "header": [ [ { "jp": "{国|くに}", "tr": "Negara" } ], [ { "jp": "{人|ひと}", "tr": "Orang" } ], [ { "jp": "ことば", "tr": "Bahasa" } ] ],
+          "rows": [
+            [ [ { "jp": "アメリカ", "tr": "Amerika Serikat" } ], [ { "jp": "アメリカ{人|じん}" } ], [ { "jp": "{英語|えいご}", "tr": "bahasa Inggris" } ] ],
+            [ [ { "jp": "イギリス", "tr": "Inggris" } ], [ { "jp": "イギリス{人|じん}" } ], [ { "jp": "{英語|えいご}", "tr": "bahasa Inggris" } ] ],
+            [ [ { "jp": "イタリア", "tr": "Italia" } ], [ { "jp": "イタリア{人|じん}" } ], [ { "jp": "イタリア{語|ご}", "tr": "bahasa Italia" } ] ],
+            [ [ { "jp": "イラン", "tr": "Iran" } ], [ { "jp": "イラン{人|じん}" } ], [ { "jp": "ペルシア{語|ご}", "tr": "bahasa Persia" } ] ],
+            [ [ { "jp": "インド", "tr": "India" } ], [ { "jp": "インド{人|じん}" } ], [ { "jp": "ヒンディー{語|ご}", "tr": "bahasa India" } ] ],
+            [ [ { "jp": "インドネシア", "tr": "Indonesia" } ], [ { "jp": "インドネシア{人|じん}" } ], [ { "jp": "インドネシア{語|ご}", "tr": "bahasa Indonesia" } ] ],
+            [ [ { "jp": "エジプト", "tr": "Mesir" } ], [ { "jp": "エジプト{人|じん}" } ], [ { "jp": "アラビア{語|ご}", "tr": "bahasa Arab" } ] ],
+            [ [ { "jp": "オーストラリア", "tr": "Australia" } ], [ { "jp": "オーストラリア{人|じん}" } ], [ { "jp": "{英語|えいご}", "tr": "bahasa Inggris" } ] ],
+            [ [ { "jp": "カナダ", "tr": "Kanada" } ], [ { "jp": "カナダ{人|じん}" } ], [ { "jp": "{英語|えいご}", "tr": "bahasa Inggris" }, { "jp": "フランス{語|ご}", "tr": "bahasa Perancis" } ] ],
+            [ [ { "jp": "{韓国|かんこく}", "tr": "Korea Selatan" } ], [ { "jp": "{韓国人|かんこくじん}" } ], [ { "jp": "{韓国語|かんこくご}", "tr": "bahasa Korea" } ] ],
+            [ [ { "jp": "サウジアラビア", "tr": "Arab Saudi" } ], [ { "jp": "サウジアラビア{人|じん}" } ], [ { "jp": "アラビア{語|ご}", "tr": "bahasa Arab" } ] ],
+            [ [ { "jp": "シンガポール", "tr": "Singapura" } ], [ { "jp": "シンガポール{人|じん}" } ], [ { "jp": "{英語|えいご}", "tr": "bahasa Inggris" } ] ],
+            [ [ { "jp": "スペイン", "tr": "Spanyol" } ], [ { "jp": "スペイン{人|じん}" } ], [ { "jp": "スペイン{語|ご}", "tr": "bahasa Spanyol" } ] ],
+            [ [ { "jp": "タイ", "tr": "Thailand" } ], [ { "jp": "タイ{人|じん}" } ], [ { "jp": "タイ{語|ご}", "tr": "bahasa Thailand" } ] ],
+            [ [ { "jp": "{中国|ちゅうごく}", "tr": "Cina" } ], [ { "jp": "{中国人|ちゅうごくじん}" } ], [ { "jp": "{中国語|ちゅうごくご}", "tr": "bahasa Cina" } ] ],
+            [ [ { "jp": "ドイツ", "tr": "Jerman" } ], [ { "jp": "ドイツ{人|じん}" } ], [ { "jp": "ドイツ{語|ご}", "tr": "bahasa Jerman" } ] ],
+            [ [ { "jp": "{日本|にほん}", "tr": "Jepang" } ], [ { "jp": "{日本人|にほんじん}" } ], [ { "jp": "{日本語|にほんご}", "tr": "bahasa Jepang" } ] ],
+            [ [ { "jp": "フランス", "tr": "Perancis" } ], [ { "jp": "フランス{人|じん}" } ], [ { "jp": "フランス{語|ご}", "tr": "bahasa Perancis" } ] ],
+            [ [ { "jp": "フィリピン", "tr": "Filipina" } ], [ { "jp": "フィリピン{人|じん}" } ], [ { "jp": "フィリピノ{語|ご}", "tr": "bahasa Filipina" } ] ],
+            [ [ { "jp": "ブラジル", "tr": "Brazil" } ], [ { "jp": "ブラジル{人|じん}" } ], [ { "jp": "ポルトガル{語|ご}", "tr": "bahasa Portugis" } ] ],
+            [ [ { "jp": "ベトナム", "tr": "Vietnam" } ], [ { "jp": "ベトナム{人|じん}" } ], [ { "jp": "ベトナム{語|ご}", "tr": "bahasa Vietnam" } ] ],
+            [ [ { "jp": "マレーシア", "tr": "Malaysia" } ], [ { "jp": "マレーシア{人|じん}" } ], [ { "jp": "マレーシア{語|ご}", "tr": "bahasa Malaysia" } ] ],
+            [ [ { "jp": "メキシコ", "tr": "Meksiko" } ], [ { "jp": "メキシコ{人|じん}" } ], [ { "jp": "スペイン{語|ご}", "tr": "bahasa Spanyol" } ] ],
+            [ [ { "jp": "ロシア", "tr": "Rusia" } ], [ { "jp": "ロシア{人|じん}" } ], [ { "jp": "ロシア{語|ご}", "tr": "bahasa Rusia" } ] ]
+          ] } ] }
+  }
+}

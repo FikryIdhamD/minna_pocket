@@ -1,0 +1,2160 @@
+{
+ "book": 1,
+ "lesson": 19,
+ "title_jp": "ダイエットは　あしたから　します",
+ "title_tr": "Dietnya Mulai Besok.",
+ "source_pages": {
+  "main_pdf": [
+   183,
+   190
+  ],
+  "translation_pdf": [
+   138,
+   143
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "のぼります",
+       "kanji_jp": "{登|のぼ}ります、{上|のぼ}ります",
+       "tr": "[Ⅰ] naik"
+      },
+      {
+       "kana_jp": "とまります［ホテルに～］",
+       "kanji_jp": "{泊|と}まります",
+       "tr": "[Ⅰ] menginap [di hotel]"
+      },
+      {
+       "kana_jp": "そうじします",
+       "kanji_jp": "{掃除|そうじ}します",
+       "tr": "[Ⅲ] membersihkan"
+      },
+      {
+       "kana_jp": "せんたくします",
+       "kanji_jp": "{洗濯|せんたく}します",
+       "tr": "[Ⅲ] mencuci pakaian"
+      },
+      {
+       "kana_jp": "なります",
+       "kanji_jp": null,
+       "tr": "[Ⅰ] menjadi"
+      },
+      {
+       "kana_jp": "ねむい",
+       "kanji_jp": "{眠|ねむ}い",
+       "tr": "mengantuk"
+      },
+      {
+       "kana_jp": "つよい",
+       "kanji_jp": "{強|つよ}い",
+       "tr": "kuat"
+      },
+      {
+       "kana_jp": "よわい*",
+       "kanji_jp": "{弱|よわ}い",
+       "tr": "lemah"
+      },
+      {
+       "kana_jp": "れんしゅう",
+       "kanji_jp": "{練習|れんしゅう}",
+       "tr": "latihan (～［を］　します: berlatih)"
+      },
+      {
+       "kana_jp": "ゴルフ",
+       "kanji_jp": null,
+       "tr": "golf (～［を］　します: bermain golf)"
+      },
+      {
+       "kana_jp": "すもう",
+       "kanji_jp": "{相撲|すもう}",
+       "tr": "sumo (～［を］　します: bermain sumo)"
+      },
+      {
+       "kana_jp": "おちゃ",
+       "kanji_jp": "お{茶|ちゃ}",
+       "tr": "upacara minum teh"
+      },
+      {
+       "kana_jp": "ひ",
+       "kanji_jp": "{日|ひ}",
+       "tr": "hari"
+      },
+      {
+       "kana_jp": "ちょうし",
+       "kanji_jp": "{調子|ちょうし}",
+       "tr": "kondisi"
+      },
+      {
+       "kana_jp": "いちど",
+       "kanji_jp": "{一度|いちど}",
+       "tr": "sekali"
+      },
+      {
+       "kana_jp": "いちども",
+       "kanji_jp": "{一度|いちど}も",
+       "tr": "sekali-kali, satu kali pun (diikuti bentuk negatif)"
+      },
+      {
+       "kana_jp": "だんだん",
+       "kanji_jp": null,
+       "tr": "berangsur-angsuran, lama-kelamaan"
+      },
+      {
+       "kana_jp": "もうすぐ",
+       "kanji_jp": null,
+       "tr": "tidak lama lagi"
+      },
+      {
+       "kana_jp": "おかげさまで",
+       "kanji_jp": null,
+       "tr": "atas berkat (ucapan yang digunakan ketika menyatakan rasa terima kasih atas bantuan atau kebaikan hati dari orang)"
+      },
+      {
+       "kana_jp": "でも",
+       "kanji_jp": null,
+       "tr": "tetapi"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "{乾杯|かんぱい}",
+       "kanji_jp": null,
+       "tr": "toast"
+      },
+      {
+       "kana_jp": "ダイエット",
+       "kanji_jp": null,
+       "tr": "diet (～を　します: berdiet)"
+      },
+      {
+       "kana_jp": "{無理|むり}［な］",
+       "kanji_jp": null,
+       "tr": "paksa, berlebihan"
+      },
+      {
+       "kana_jp": "{体|からだ}に　いい",
+       "kanji_jp": null,
+       "tr": "baik untuk tubuh"
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "{東京|とうきょう}スカイツリー",
+       "kanji_jp": null,
+       "tr": "Tokyo Sky Tree (menara gelombang radio yang lengkap dengan pelataran puncak yang ada di Tokyo)"
+      },
+      {
+       "kana_jp": "{葛飾北斎|かつしかほくさい}",
+       "kanji_jp": null,
+       "tr": "nama pelukis Ukiyoe yang terkenal pada zaman Edo, pelukis (1760～1849)"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "{相撲|すもう}を　{見|み}た　ことが　あります。",
+    "tr": "Apakah pernah menonton Sumo?"
+   },
+   {
+    "no": 2,
+    "jp": "{休|やす}みの　{日|ひ}は　テニスを　したり、{散歩|さんぽ}に　{行|い}ったり　します。",
+    "tr": "Pada hari libur, bermain tenis, dan berjalan-jalan."
+   },
+   {
+    "no": 3,
+    "jp": "これから　だんだん　{暑|あつ}く　なります。",
+    "tr": "Secara pelelahan-lahan menjadi panas."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "{北海道|ほっかいどう}へ　{行|い}った　ことが　ありますか。",
+      "tr": "Apakah pernah pergi ke Hokkaido?"
+     },
+     {
+      "jp": "……はい、{一度|いちど}　あります。　2{年|ねん}まえに、{友達|ともだち}と　{行|い}きました。",
+      "tr": "……Ya, pernah satu kali. Dua tahun yang lalu, pergi dengan teman."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "{馬|うま}に　{乗|の}った　ことが　ありますか。",
+      "tr": "Apakah pernah berkuda?"
+     },
+     {
+      "jp": "……いいえ、{一度|いちど}も　ありません。　ぜひ　{乗|の}りたいです。",
+      "tr": "……Belum, belum pernah sama sekali. Ingin sekali berkuda."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "{冬休|ふゆやす}みは　{何|なに}を　しましたか。",
+      "tr": "Pada liburan musim dingin melakukan apa?"
+     },
+     {
+      "jp": "……{京都|きょうと}の　お{寺|てら}や　{神社|じんじゃ}を　{見|み}たり、{友達|ともだち}と　パーティーを　したり　しました。",
+      "tr": "……Melihat kuil dan wihara di Kyoto, dan berpesta dengan teman."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "{日本|にほん}で　{何|なに}を　したいですか。",
+      "tr": "Ingin melakukan apa di Jepang?"
+     },
+     {
+      "jp": "……{旅行|りょこう}したり、お{茶|ちゃ}を　{習|なら}ったり　したいです。",
+      "tr": "……Ingin berwisata dan belajar upacara minum teh."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "{体|からだ}の　{調子|ちょうし}は　どうですか。",
+      "tr": "Bagaimana kondisi badannya?"
+     },
+     {
+      "jp": "……おかげさまで　よく　なりました。",
+      "tr": "……Berkat Anda, sudah sembuh."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "{日本語|にほんご}が　{上手|じょうず}に　なりましたね。",
+      "tr": "Sudah pandai berbahasa Jepang, ya."
+     },
+     {
+      "jp": "……ありがとう　ございます。　でも、まだまだです。",
+      "tr": "……Terima kasih. Tetapi masih kurang."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "テレーザちゃんは　{何|なに}に　なりたいですか。",
+      "tr": "Teresa ingin menjadi apa?"
+     },
+     {
+      "jp": "……{医者|いしゃ}に　なりたいです。",
+      "tr": "……Ingin menjadi dokter."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "ダイエットは　あしたから　します",
+   "title_tr": "Dietnya Mulai Besok.",
+   "image": "img/L19/kaiwa.webp",
+   "audio": "audio/L19_kaiwa.m4a",
+   "cd_track": "CD66",
+   "lines": [
+    {
+     "speaker_jp": "{皆|みな}",
+     "speaker_tr": "Semuanya",
+     "jp": "{乾杯|かんぱい}。",
+     "tr": "Toast!"
+    },
+    {
+     "speaker_jp": "{松本良子|まつもとよしこ}",
+     "speaker_tr": "Yoshiko Matsumoto",
+     "break_before": true,
+     "jp": "マリアさん、あまり　{食|た}べませんね。",
+     "tr": "Sdr. Maria kurang makan, ya?"
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "ええ。　きのうから　ダイエットを　して　います。",
+     "tr": "Ya. Sejak kemarin saya berdiet."
+    },
+    {
+     "speaker_jp": "{松本良子|まつもとよしこ}",
+     "speaker_tr": "Yoshiko Matsumoto",
+     "jp": "そうですか。　わたしも　ダイエットを　した　ことが　あります。",
+     "tr": "O, begitu. Saya juga pernah berdiet."
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "どんな　ダイエットですか。",
+     "tr": "Cara diet bagaimana?"
+    },
+    {
+     "speaker_jp": "{松本良子|まつもとよしこ}",
+     "speaker_tr": "Yoshiko Matsumoto",
+     "jp": "{毎日|まいにち}　りんごだけ　{食|た}べたり、{水|みず}を　たくさん　{飲|の}んだり　しました。",
+     "tr": "Setiap hari hanya makan buah apel dan minum air yang banyak."
+    },
+    {
+     "jp": "でも、{無理|むり}な　ダイエットは　{体|からだ}に　よくないですね。",
+     "tr": "Tetapi, diet yang paksa tidak baik untuk tubuh, ya."
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "そうですね。",
+     "tr": "Ya, betul."
+    },
+    {
+     "speaker_jp": "{松本良子|まつもとよしこ}",
+     "speaker_tr": "Yoshiko Matsumoto",
+     "jp": "マリアさん、この　アイスクリーム、おいしいですよ。",
+     "tr": "Sdr. Maria, es krim ini enak."
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "そうですか。",
+     "tr": "O, ya."
+    },
+    {
+     "jp": "……。　ダイエットは　また　あしたから　します。",
+     "tr": "...... Dietnya mulai besok lagi."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "か"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "き"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "か"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "い"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "い"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "き"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "＊い"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "っ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いそ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ぎ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いそ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "い"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "だ"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "の"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "み"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "の"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ん"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "だ"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "よ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "び"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "よ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ん"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "だ"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "とま"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "り"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "とま"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "っ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "か"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "い"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "か"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "っ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ま"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ち"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ま"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "っ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅰ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "はな"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "はな"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "たべ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "たべ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "でかけ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "でかけ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おき"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おき"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あび"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あび"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "でき"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "でき"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅱ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "み"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "み"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅲ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "き"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "き"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅲ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ],
+     [
+      {
+       "text_jp": "Ⅲ　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "せんたく"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ます　→　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "せんたく"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "た"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{沖縄|おきなわ}へ",
+          "{富士山|ふじさん}に",
+          "すしを"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いった",
+          "のぼった",
+          "たべた"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "ことが　あります。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "text_jp": "{毎晩|まいばん}"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "テレビを",
+          "{手紙|てがみ}を",
+          "{日本語|にほんご}を"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "みた",
+          "かいた",
+          "べんきょうした"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "り、"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{本|ほん}を",
+          "{音楽|おんがく}を",
+          "パソコンで"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "よんだ",
+          "きいた",
+          "あそんだ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "り　します。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "text_jp": "テレーザちゃんは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "せが　たか",
+          "げんき",
+          "10さい"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "く",
+          "に",
+          "に"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "なりました。"
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig1",
+     "image": "img/L19/rb_fig1.webp"
+    },
+    {
+     "id": "fig3",
+     "image": "img/L19/rb_fig3.webp"
+    },
+    {
+     "id": "fig5",
+     "image": "img/L19/rb_fig5.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "figure": "fig1",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "{広島|ひろしま}へ　{行|い}った　ことが　あります。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "examples": [
+      {
+       "prompt_jp": "カラオケに　{行|い}きます（いいえ）",
+       "answer_jp": [
+        "カラオケに　{行|い}った　ことが　ありますか。",
+        "……いいえ、ありません。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "お{茶|ちゃ}を　{習|なら}います（はい）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{東京|とうきょう}スカイツリーに　{上|のぼ}ります（いいえ）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{日本人|にほんじん}の　うちに　{泊|と}まります（はい）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "インドネシア{料理|りょうり}を　{食|た}べます（いいえ、{一度|いちど}も）"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "figure": "fig3",
+     "examples": [
+      {
+       "prompt_jp": "{日曜日|にちようび}",
+       "answer_jp": [
+        "{日曜日|にちようび}は　{掃除|そうじ}したり、{洗濯|せんたく}したり　します。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{夜|よる}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{休|やす}みの　{日|ひ}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "きのう"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{去年|きょねん}の　{夏休|なつやす}み"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "{土曜日|どようび}は　{何|なに}を　しますか。（{散歩|さんぽ}します・{絵|え}を　かきます）",
+       "answer_jp": [
+        "{散歩|さんぽ}したり、{絵|え}を　かいたり　します。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{休|やす}みの　{日|ひ}は　{何|なに}を　しますか。（ゴルフの　{練習|れんしゅう}を　します・うちで　{本|ほん}を　{読|よ}みます）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{京都|きょうと}で　{何|なに}を　しましたか。（お{寺|てら}を　{見|み}ます・{日本料理|にほんりょうり}を　{食|た}べます）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{冬休|ふゆやす}みは　{何|なに}を　したいですか。（スキーに　{行|い}きます・{友達|ともだち}と　パーティーを　します）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{出張|しゅっちょう}の　まえに、{何|なに}を　しなければ　なりませんか。（{資料|しりょう}を　{作|つく}ります・ホテルを　{予約|よやく}します）"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "figure": "fig5",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "{寒|さむ}く　なりました。"
+       ]
+      },
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "{元気|げんき}に　なりました。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      },
+      {
+       "no": 5
+      },
+      {
+       "no": 6
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L19/rc1.webp",
+    "dialog": [
+     {
+      "jp": "[[{富士山|ふじさん}に　{登|のぼ}った]]　ことが　ありますか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ええ、{先月|せんげつ}　[[{登|のぼ}りました]]。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "どうでしたか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[{楽|たの}しかったです]]。でも、[[{大変|たいへん}でした]]。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "そうですか。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L19/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L19/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L19/rc2.webp",
+    "dialog": [
+     {
+      "jp": "もうすぐ　{夏休|なつやす}みですね。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ええ。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "{夏休|なつやす}みは　{何|なに}を　しますか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "そうですね。　[[{馬|うま}に　{乗|の}ったり]]、",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[{釣|つ}りを　したり]]　したいです。"
+     },
+     {
+      "jp": "いいですね。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L19/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L19/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L19/rc3.webp",
+    "dialog": [
+     {
+      "jp": "[[{涼|すず}しく]]　なりましたね。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ええ。　もう　[[{秋|あき}]]ですね。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "ことしは　ぜひ",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[{紅葉|もみじ}を　{見|み}に　{行|い}き]]たいですね。"
+     },
+     {
+      "jp": "そうですね。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L19/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L19/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L19_mondai1.m4a",
+    "cd_track": "CD67",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_truefalse",
+    "audio": "audio/L19_mondai2.m4a",
+    "cd_track": "CD68",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{書|か}きます　→　[[{書|か}いた]]"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{行|い}きます　→　＿"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{働|はたら}きます　→　＿"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{泳|およ}ぎます　→　＿"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{飲|の}みます　→　＿"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{遊|あそ}びます　→　＿"
+      ]
+     },
+     {
+      "no": 6,
+      "lines_jp": [
+       "{持|も}ちます　→　＿"
+      ]
+     },
+     {
+      "no": 7,
+      "lines_jp": [
+       "{買|か}います　→　＿"
+      ]
+     },
+     {
+      "no": 8,
+      "lines_jp": [
+       "{乗|の}ります　→　＿"
+      ]
+     },
+     {
+      "no": 9,
+      "lines_jp": [
+       "{消|け}します　→　＿"
+      ]
+     },
+     {
+      "no": 10,
+      "lines_jp": [
+       "{食|た}べます　→　＿"
+      ]
+     },
+     {
+      "no": 11,
+      "lines_jp": [
+       "{寝|ね}ます　→　＿"
+      ]
+     },
+     {
+      "no": 12,
+      "lines_jp": [
+       "{見|み}ます　→　＿"
+      ]
+     },
+     {
+      "no": 13,
+      "lines_jp": [
+       "{降|お}ります　→　＿"
+      ]
+     },
+     {
+      "no": 14,
+      "lines_jp": [
+       "{散歩|さんぽ}します　→　＿"
+      ]
+     },
+     {
+      "no": 15,
+      "lines_jp": [
+       "{来|き}ます　→　＿"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "fill",
+    "instruction_jp": "{掃除|そうじ}します　　［{来|き}ます］　　{聞|き}きます　　{買|か}い{物|もの}に　{行|い}きます　　かきます　　{見|み}ます　　{行|い}きます",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{日本|にほん}は　{初|はじ}めてですか。",
+       "……いいえ、3{年|ねん}まえに、{一度|いちど}　（{来|き}た）　ことが　あります。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "ミラーさん、{行|い}き{方|かた}が　わかりますか。",
+       "……ええ、{一度|いちど}　（＿）　ことが　ありますから、{大丈夫|だいじょうぶ}です。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{太郎|たろう}ちゃんは　うちの　{仕事|しごと}を　{手伝|てつだ}いますか。",
+       "……ええ、（＿）り、（＿）り　しますよ。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{趣味|しゅみ}は　{何|なん}ですか。",
+       "……{絵|え}を　（＿）り、{音楽|おんがく}を　（＿）り　する　ことです。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{歌舞伎|かぶき}は　おもしろいですか。",
+       "……わかりません。　{歌舞伎|かぶき}は　（＿）　ことが　ありませんから。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "instruction_jp": "きれい　　{暗|くら}い　　［{暑|あつ}い］　　{雨|あめ}　　{眠|ねむ}い",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "（{暑|あつ}く）　なりましたね。　エアコンを　つけましょうか。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{掃除|そうじ}しましたから、{部屋|へや}が　（＿）　なりました。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{日本|にほん}は　{冬|ふゆ}　5{時|じ}ごろ　（＿）　なります。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "もう　12{時|じ}です。　（＿）　なりました。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{朝|あさ}は　いい　{天気|てんき}でしたが、{午後|ごご}から　（＿）　なりました。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "ミラーさんは　{日本語|にほんご}（が）　{上手|じょうず}に　なりました。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{沖縄|おきなわ}へ　{行|い}った　こと（＿）　ありますか。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "ことし　18{歳|さい}（＿）　なります。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "ホテルは　{高|たか}いですから、{友達|ともだち}の　うち（＿）　{泊|と}まります。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "たばこは　{体|からだ}（＿）　よくないです。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "kind": "truefalse",
+    "passage_title_jp": "{富士山|ふじさん}",
+    "passage_jp": [
+     "{富士山|ふじさん}を　{見|み}た　ことが　ありますか。　{富士山|ふじさん}は　3,776メートルで、{日本|にほん}で　いちばん　{高|たか}い　{山|やま}です。　{静岡県|しずおかけん}と　{山梨県|やまなしけん}の　{間|あいだ}に　あります。　{冬|ふゆ}は　{雪|ゆき}が　{降|ふ}りますから、{白|しろ}く　なります。　{夏|なつ}も　{山|やま}の　{上|うえ}に　{雪|ゆき}が　あります。　7{月|がつ}と　8{月|がつ}だけ　{富士山|ふじさん}に　{登|のぼ}る　ことが　できます。　{夏|なつ}は　{山|やま}の　{上|うえ}に　{郵便局|ゆうびんきょく}が　ありますから、{手紙|てがみ}を　{出|だ}したり、{電話|でんわ}を　かけたり　する　ことが　できます。",
+     "{夏|なつ}と　{秋|あき}、いい　{天気|てんき}の　{朝|あさ}　{富士山|ふじさん}は　{赤|あか}く　なります。　とても　きれいですから、{日本人|にほんじん}は　{写真|しゃしん}を　{撮|と}ったり、{絵|え}を　かいたり　します。　{葛飾北斎|かつしかほくさい}の　{赤|あか}い　{富士山|ふじさん}の　{絵|え}は　{有名|ゆうめい}です。"
+    ],
+    "instruction_jp": "○ですか、×ですか。",
+    "image": "img/L19/m7.webp",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{富士山|ふじさん}"
+      ],
+      "answer": "○"
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{夏|なつ}の　{富士山|ふじさん}"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{秋|あき}の　{富士山|ふじさん}"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{冬|ふゆ}の　{富士山|ふじさん}"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 8,
+    "kind": "compose",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "あなたの　{国|くに}の　{有名|ゆうめい}な　{所|ところ}は　どこですか。　どんな　{所|ところ}ですか。　{書|か}いて　ください。"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Kata Kerja Bentuk た",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Bentuk konjugasi Kata Kerja yang berakhir dengan た atau だ disebut bentuk た. Cara membuat bentuk た adalah て atau で dari bentuk て diubah menjadi た atau だ (Lihat Buku Induk Pel.19 Latihan A1)."
+     },
+     {
+      "type": "p",
+      "text_rich": "Bentuk て → Bentuk た: かいて → かいた　のんで → のんだ　たべて → たべた　きて → きた　して → した"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Kata Kerja Bentuk た　ことが　あります",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Pernah...... Ungkapan ini sesuatu yang dianggap telah dilakukan pada waktu lampau dinyatakan sebagai pengalaman pada saat menceritakannya."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "{馬|うま}に　{乗|の}った　ことが　あります。",
+        "tr": "Pernah berkuda."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Perlu hati-hati bahwa jika hanya menyatakan kenyataan pada waktu lampau sebagaimana pernah dilakukan suatu aksi pada suatu titik waktu lampau, memakai bentuk waktu lampau."
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "{去年|きょねん}　{北海道|ほっかいどう}で　{馬|うま}に　{乗|の}りました。",
+        "tr": "Tahun lalu berkuda di Hokkaido."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Kerja₁ Bentuk たり、Kata Kerja₂ Bentuk たり　します",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Melakukan......, melakukan...... Jika mengangkat beberapa Kata Benda (lebih dari dua) yang mewakilinya secara paralel pada umumnya memakai partikel や, tetapi menyatakan dengan mengangkat beberapa aksi yang mewakilinya maka digunakan pola kalimat ini. Waktu ditunjukan pada akhir kalimat."
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "{日曜日|にちようび}は　テニスを　したり、{映画|えいが}を　{見|み}たり　します。",
+        "tr": "Pada hari Minggu bermain tenis, dan menonton film."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "{日曜日|にちようび}は　テニスを　したり、{映画|えいが}を　{見|み}たり　しました。",
+        "tr": "Pada hari Minggu yang lalu bermain tenis, dan menonton film."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Perlu hati-hati bahwa cara penggunaannya berbeda dengan Kata Kerja₁ Bentuk て、［Kata Kerja₂ Bentuk て、］ Kata Kerja₃ yang telah dipelajari di Pelajaran 16. Kata Kerja₁ Bentuk て、［Kata Kerja₂ Bentuk て、］ Kata Kerja₃ menyatakan aksi yang lebih dari dua yang terjadi secara berturut-turut sesuai dengan urutannya."
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "{日曜日|にちようび}は　テニスを　して、{映画|えいが}を　{見|み}ました。",
+        "tr": "Pada hari Minggu yang lalu, bermain tenis, kemudian menonton film."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Akan tetapi, tidak ada hubungan tentang waktu di antara aksi yang diangkat dengan Kata Kerja₁ Bentuk たり、Kata Kerja₂ Bentuk たり　します. Dengan pola kalimat ini mengangkat aksi yang mewakilinya, maka tidak wajar untuk mengatakan hal-hal yang dilakukan setiap hari (bangun pagi, makan, tidur malam, dan lain-lain)."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "Kata Sifat い（～い）→　～く／Kata Sifat な［な］→　～に／Kata Benda に　なります",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Menjadi...... なります menunjuk perubahan kondisi."
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "{寒|さむ}い　→　{寒|さむ}く　なります",
+        "tr": "menjadi dingin"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "{元気|げんき}［な］　→　{元気|げんき}に　なります",
+        "tr": "menjadi sehat"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "25{歳|さい}　→　25{歳|さい}に　なります",
+        "tr": "menjadi (umur) dua puluh lima tahun"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{伝統文化|でんとうぶんか}・{娯楽|ごらく}",
+   "title_tr": "Kebudayaan Tradisional, Hiburan",
+   "blocks": [
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{茶道|さどう}（お{茶|ちゃ}）"
+        }
+       ],
+       [
+        {
+         "tr": "Upacara Minum Teh"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{華道|かどう}（{生|い}け{花|ばな}）"
+        }
+       ],
+       [
+        {
+         "tr": "Seni Merangkai Bunga"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{書道|しょどう}"
+        }
+       ],
+       [
+        {
+         "tr": "Seni Menulis Huruf Jepang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{歌舞伎|かぶき}"
+        }
+       ],
+       [
+        {
+         "tr": "Kabuki (Drama Taradisional Jepang)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{能|のう}"
+        }
+       ],
+       [
+        {
+         "tr": "Noh (Drama Topeng Tradisional Jepang)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{文楽|ぶんらく}"
+        }
+       ],
+       [
+        {
+         "tr": "Bunraku (Wayang Golek Tradisional Jepang)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{相撲|すもう}"
+        }
+       ],
+       [
+        {
+         "tr": "Sumo (Gulat Tradisional Jepang)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{柔道|じゅうどう}"
+        }
+       ],
+       [
+        {
+         "tr": "Judo (Olahgara Tradisional Jepang)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{剣道|けんどう}"
+        }
+       ],
+       [
+        {
+         "tr": "Kendo (Olahraga Tradisional Jepang)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{空手|からて}"
+        }
+       ],
+       [
+        {
+         "tr": "Karate (Olahraga Bela Diri Jepang)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{漫才|まんざい}・{落語|らくご}"
+        }
+       ],
+       [
+        {
+         "tr": "Lelucon, Komedi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{囲碁|いご}・{将棋|しょうぎ}"
+        }
+       ],
+       [
+        {
+         "tr": "Catur Jepang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "パチンコ"
+        }
+       ],
+       [
+        {
+         "tr": "Pacinko"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "カラオケ"
+        }
+       ],
+       [
+        {
+         "tr": "Karaoke"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{盆踊|ぼんおど}り"
+        }
+       ],
+       [
+        {
+         "tr": "Tarian Bon"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "image": "img/L19/sankou_bunka.webp",
+     "caption": "{伝統文化|でんとうぶんか}・{娯楽|ごらく}"
+    }
+   ]
+  }
+ }
+}

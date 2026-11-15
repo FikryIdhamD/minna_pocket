@@ -1,0 +1,1660 @@
+{
+ "book": 1,
+ "lesson": 10,
+ "title_jp": "ナンプラー、ありますか",
+ "title_tr": "Ada Kecap Ikan?",
+ "source_pages": {
+  "main_pdf": [
+   105,
+   112
+  ],
+  "translation_pdf": [
+   84,
+   89
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "あります",
+       "kanji_jp": null,
+       "tr": "ada (digunakan untuk benda mati)"
+      },
+      {
+       "kana_jp": "います",
+       "kanji_jp": null,
+       "tr": "ada (digunakan untuk makhluk hidup)"
+      },
+      {
+       "kana_jp": "いろいろ［な］",
+       "kanji_jp": null,
+       "tr": "berbagai"
+      },
+      {
+       "kana_jp": "おとこの　ひと",
+       "kanji_jp": "{男|おとこ}の　{人|ひと}",
+       "tr": "orang laki-laki"
+      },
+      {
+       "kana_jp": "おんなの　ひと",
+       "kanji_jp": "{女|おんな}の　{人|ひと}",
+       "tr": "orang perempuan"
+      },
+      {
+       "kana_jp": "おとこの　こ",
+       "kanji_jp": "{男|おとこ}の　{子|こ}",
+       "tr": "anak laki-laki"
+      },
+      {
+       "kana_jp": "おんなの　こ",
+       "kanji_jp": "{女|おんな}の　{子|こ}",
+       "tr": "anak perempuan"
+      },
+      {
+       "kana_jp": "いぬ",
+       "kanji_jp": "{犬|いぬ}",
+       "tr": "anjing"
+      },
+      {
+       "kana_jp": "ねこ",
+       "kanji_jp": "{猫|ねこ}",
+       "tr": "kucing"
+      },
+      {
+       "kana_jp": "パンダ",
+       "kanji_jp": null,
+       "tr": "panda"
+      },
+      {
+       "kana_jp": "ぞう",
+       "kanji_jp": "{象|ぞう}",
+       "tr": "gajah"
+      },
+      {
+       "kana_jp": "き",
+       "kanji_jp": "{木|き}",
+       "tr": "pohon"
+      },
+      {
+       "kana_jp": "もの",
+       "kanji_jp": "{物|もの}",
+       "tr": "barang"
+      },
+      {
+       "kana_jp": "でんち",
+       "kanji_jp": "{電池|でんち}",
+       "tr": "baterai"
+      },
+      {
+       "kana_jp": "はこ",
+       "kanji_jp": "{箱|はこ}",
+       "tr": "kotak"
+      },
+      {
+       "kana_jp": "スイッチ",
+       "kanji_jp": null,
+       "tr": "tombol, sakelar"
+      },
+      {
+       "kana_jp": "れいぞうこ",
+       "kanji_jp": "{冷蔵庫|れいぞうこ}",
+       "tr": "kulkas, lemari es"
+      },
+      {
+       "kana_jp": "テーブル",
+       "kanji_jp": null,
+       "tr": "meja makan"
+      },
+      {
+       "kana_jp": "ベッド",
+       "kanji_jp": null,
+       "tr": "tempat tidur"
+      },
+      {
+       "kana_jp": "たな",
+       "kanji_jp": "{棚|たな}",
+       "tr": "lemari"
+      },
+      {
+       "kana_jp": "ドア",
+       "kanji_jp": null,
+       "tr": "pintu"
+      },
+      {
+       "kana_jp": "まど",
+       "kanji_jp": "{窓|まど}",
+       "tr": "jendela"
+      },
+      {
+       "kana_jp": "ポスト",
+       "kanji_jp": null,
+       "tr": "kotak surat"
+      },
+      {
+       "kana_jp": "ビル",
+       "kanji_jp": null,
+       "tr": "gedung"
+      },
+      {
+       "kana_jp": "ATM",
+       "kanji_jp": null,
+       "tr": "ATM, Anjungan Tunai Mandiri"
+      },
+      {
+       "kana_jp": "コンビニ",
+       "kanji_jp": null,
+       "tr": "toko 24 jam"
+      },
+      {
+       "kana_jp": "こうえん",
+       "kanji_jp": "{公園|こうえん}",
+       "tr": "taman"
+      },
+      {
+       "kana_jp": "きっさてん",
+       "kanji_jp": "{喫茶店|きっさてん}",
+       "tr": "coffee shop"
+      },
+      {
+       "kana_jp": "～や",
+       "kanji_jp": "～{屋|や}",
+       "tr": "toko ～"
+      },
+      {
+       "kana_jp": "のりば",
+       "kanji_jp": "{乗|の}り{場|ば}",
+       "tr": "tempat naik"
+      },
+      {
+       "kana_jp": "けん",
+       "kanji_jp": "{県|けん}",
+       "tr": "prefektur"
+      },
+      {
+       "kana_jp": "うえ",
+       "kanji_jp": "{上|うえ}",
+       "tr": "atas"
+      },
+      {
+       "kana_jp": "した",
+       "kanji_jp": "{下|した}",
+       "tr": "bawah"
+      },
+      {
+       "kana_jp": "まえ",
+       "kanji_jp": "{前|まえ}",
+       "tr": "depan, muka"
+      },
+      {
+       "kana_jp": "うしろ",
+       "kanji_jp": null,
+       "tr": "belakang"
+      },
+      {
+       "kana_jp": "みぎ",
+       "kanji_jp": "{右|みぎ}",
+       "tr": "kanan"
+      },
+      {
+       "kana_jp": "ひだり",
+       "kanji_jp": "{左|ひだり}",
+       "tr": "kiri"
+      },
+      {
+       "kana_jp": "なか",
+       "kanji_jp": "{中|なか}",
+       "tr": "dalam"
+      },
+      {
+       "kana_jp": "そと*",
+       "kanji_jp": "{外|そと}",
+       "tr": "luar"
+      },
+      {
+       "kana_jp": "となり",
+       "kanji_jp": "{隣|となり}",
+       "tr": "sebelah"
+      },
+      {
+       "kana_jp": "ちかく",
+       "kanji_jp": "{近|ちか}く",
+       "tr": "dekat"
+      },
+      {
+       "kana_jp": "あいだ",
+       "kanji_jp": "{間|あいだ}",
+       "tr": "antara"
+      },
+      {
+       "kana_jp": "～や　～［など］",
+       "kanji_jp": null,
+       "tr": "～ dan ～ [dan lain-lain]"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "［どうも］　すみません。",
+       "kanji_jp": null,
+       "tr": "Terima kasih [banyak]."
+      },
+      {
+       "kana_jp": "ナンプラー",
+       "kanji_jp": null,
+       "tr": "kecap ikan"
+      },
+      {
+       "kana_jp": "コーナー",
+       "kanji_jp": null,
+       "tr": "tempat/bagian penjualan"
+      },
+      {
+       "kana_jp": "いちばん　{下|した}",
+       "kanji_jp": null,
+       "tr": "paling bawah"
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "{東京|とうきょう}ディズニーランド",
+       "kanji_jp": null,
+       "tr": "Tokyo Disneyland"
+      },
+      {
+       "kana_jp": "アジアストア",
+       "kanji_jp": null,
+       "tr": "pasar swalayan fiksi"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "あそこに　コンビニが　あります。",
+    "tr": "Di sana ada toko 24 jam."
+   },
+   {
+    "no": 2,
+    "jp": "ロビーに　{佐藤|さとう}さんが　います。",
+    "tr": "Di lobi ada Sdr. Sato."
+   },
+   {
+    "no": 3,
+    "jp": "{東京|とうきょう}ディズニーランドは　{千葉県|ちばけん}に　あります。",
+    "tr": "Tokyo Disneyland terletak di prefektur Chiba."
+   },
+   {
+    "no": 4,
+    "jp": "{家族|かぞく}は　ニューヨークに　います。",
+    "tr": "Keluarga ada di New York."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "この　ビルに　ATMが　ありますか。",
+      "tr": "Di gedung ini ada ATM?"
+     },
+     {
+      "jp": "……はい、2{階|かい}に　あります。",
+      "tr": "……Ya, ada di lantai dua."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "あそこに　{男|おとこ}の　{人|ひと}が　いますね。　あの　{人|ひと}は　だれですか。",
+      "tr": "Di sana ada orang laki-laki, bukan? Beliau siapa?"
+     },
+     {
+      "jp": "……IMCの　{松本|まつもと}さんです。",
+      "tr": "……Sdr. Matsumoto dari IMC."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "{庭|にわ}に　だれが　いますか。",
+      "tr": "Di halaman ada siapa?"
+     },
+     {
+      "jp": "……だれも　いません。　{猫|ねこ}が　います。",
+      "tr": "……Tidak ada siapa-siapa. Ada kucing."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "{箱|はこ}の　{中|なか}に　{何|なに}が　ありますか。",
+      "tr": "Di dalam kotak ada apa?"
+     },
+     {
+      "jp": "……{古|ふる}い　{手紙|てがみ}や　{写真|しゃしん}［など］が　あります。",
+      "tr": "……Ada surat lama, foto (dan lain-lainnya)."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "{郵便局|ゆうびんきょく}は　どこに　ありますか。",
+      "tr": "Kantor pos ada di mana?"
+     },
+     {
+      "jp": "……{駅|えき}の　{近|ちか}くです。　{銀行|ぎんこう}の　{前|まえ}に　あります。",
+      "tr": "……Dekat stasiun. Ada di depan bank."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "ミラーさんは　どこに　いますか。",
+      "tr": "Sdr. Miller ada di mana?"
+     },
+     {
+      "jp": "……{会議室|かいぎしつ}に　います。",
+      "tr": "……Di ruang rapat."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "ナンプラー、ありますか",
+   "title_tr": "Ada Kecap Ikan?",
+   "image": "img/L10/kaiwa.webp",
+   "audio": "audio/L10_kaiwa.m4a",
+   "cd_track": "CD35",
+   "lines": [
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "すみません。　アジアストアは　どこですか。",
+     "tr": "Maaf. Di mana Asia Store?"
+    },
+    {
+     "speaker_jp": "{女|おんな}の　{人|ひと}",
+     "speaker_tr": "Wanita",
+     "jp": "アジアストアですか。",
+     "tr": "Asia Store?"
+    },
+    {
+     "jp": "あそこに　{白|しろ}い　ビルが　ありますね。",
+     "tr": "Di situ ada gedung yang putih, bukan?"
+    },
+    {
+     "jp": "あの　ビルの　{中|なか}です。",
+     "tr": "Di dalam gedung itu."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "そうですか。　どうも　すみません。",
+     "tr": "O, ya. Maaf, merepotkan."
+    },
+    {
+     "speaker_jp": "{女|おんな}の　{人|ひと}",
+     "speaker_tr": "Wanita",
+     "jp": "いいえ。",
+     "tr": "Tidak apa-apa."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "break_before": true,
+     "jp": "あのう、ナンプラー、ありますか。",
+     "tr": "A... ada kecap ikan?"
+    },
+    {
+     "speaker_jp": "{店員|てんいん}",
+     "speaker_tr": "Pramuniaga",
+     "jp": "はい。",
+     "tr": "Ya."
+    },
+    {
+     "jp": "あちらに　タイ{料理|りょうり}の　コーナーが　あります。",
+     "tr": "Di sana ada bagian masakan Thailan."
+    },
+    {
+     "jp": "ナンプラーは　いちばん　{下|した}です。",
+     "tr": "Kecap ikan paling di bawah."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "わかりました。　どうも。",
+     "tr": "Baik. Terima kasih."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "あそこに"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "でんわ",
+          "ビル",
+          "こうえん"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "が　あります。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あそこに"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "なに"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "が　…………………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "text_jp": "あそこに"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "やまださん",
+          "おんなの　ひと",
+          "こども"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "が　います。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あそこに"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "だれ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "が　………………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "text_jp": "スーパーの"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "となり",
+          "なか"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "に　{喫茶店|きっさてん}が　あります。"
+      }
+     ],
+     [
+      {
+       "text_jp": "{佐藤|さとう}さんの"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "まえ",
+          "みぎ"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "に　カリナさんが　います。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "text_jp": "ミラーさんの　うちは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おおさか",
+          "こうえんの　まえ",
+          "がっこうの　ちかく"
+         ]
+        },
+        {
+         "opts_jp": [
+          "どこ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "に　あります。"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "…………………か。"
+         ],
+         "hl": "none"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     [
+      {
+       "text_jp": "ミラーさんは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あそこ",
+          "かいぎしつ",
+          "エレベーターの　まえ"
+         ]
+        },
+        {
+         "opts_jp": [
+          "どこ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "に　います。"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "………………か。"
+         ],
+         "hl": "none"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig1",
+     "image": "img/L10/rb_fig1.webp"
+    },
+    {
+     "id": "fig2",
+     "image": "img/L10/rb_fig2.webp"
+    },
+    {
+     "id": "fig3",
+     "image": "img/L10/rb_fig3.webp"
+    },
+    {
+     "id": "fig4",
+     "image": "img/L10/rb_fig4.webp"
+    },
+    {
+     "id": "fig5",
+     "image": "img/L10/rb_fig5.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "figure": "fig1",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "あそこに　ポストが　あります。"
+       ]
+      },
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "{教室|きょうしつ}に　{学生|がくせい}が　います。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "figure": "fig2",
+     "examples": [
+      {
+       "prompt_jp": "ドア・スイッチ",
+       "answer_jp": [
+        "ドアの　{右|みぎ}に　スイッチが　あります。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "いす・{猫|ねこ}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{店|みせ}・{車|くるま}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{木|き}・{男|おとこ}の　{子|こ}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{冷蔵庫|れいぞうこ}・いろいろな　{物|もの}"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "figure": "fig3",
+     "examples": [
+      {
+       "prompt_jp": "テーブルの　{上|うえ}・{何|なに}",
+       "answer_jp": [
+        "テーブルの　{上|うえ}に　{何|なに}が　ありますか。",
+        "……かばんが　あります。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "ベッドの　{下|した}・{何|なに}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{部屋|へや}・だれ"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{窓|まど}の　{右|みぎ}・{何|なに}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{庭|にわ}・だれ"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "figure": "fig4",
+     "examples": [
+      {
+       "prompt_jp": "はさみ",
+       "answer_jp": [
+        "はさみは　どこに　ありますか。",
+        "……{箱|はこ}の　{中|なか}に　あります。"
+       ]
+      },
+      {
+       "prompt_jp": "ミラーさん",
+       "answer_jp": [
+        "ミラーさんは　どこに　いますか。",
+        "……{事務所|じむしょ}に　います。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{自転車|じてんしゃ}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{男|おとこ}の　{子|こ}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{写真|しゃしん}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{犬|いぬ}"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "figure": "fig5",
+     "examples": [
+      {
+       "prompt_jp": "バス{乗|の}り{場|ば}",
+       "answer_jp": [
+        "バス{乗|の}り{場|ば}は　どこに　ありますか。",
+        "……トイレの　{前|まえ}に　あります。"
+       ]
+      },
+      {
+       "prompt_jp": "パンダ",
+       "answer_jp": [
+        "パンダは　どこに　いますか。",
+        "……{大|おお}きい　{木|き}の　{下|した}に　います。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "レストラン"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{象|ぞう}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{自動販売機|じどうはんばいき}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "お{土産屋|みやげや}"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L10/rc1.webp",
+    "dialog": [
+     {
+      "jp": "あのう、{近|ちか}くに　[[{銀行|ぎんこう}]]が　ありますか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ええ。　あそこに　{高|たか}い　ビルが　ありますね。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "あの　ビルの　[[{中|なか}]]です。"
+     },
+     {
+      "jp": "わかりました。　ありがとう　ございました。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L10/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L10/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L10/rc2.webp",
+    "dialog": [
+     {
+      "jp": "すみません。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[{電池|でんち}]]は　どこですか。"
+     },
+     {
+      "jp": "[[{電池|でんち}]]ですか。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[{雑誌|ざっし}の　{前|まえ}]]に　あります。"
+     },
+     {
+      "jp": "どうも。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L10/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L10/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L10/rc3.webp",
+    "dialog": [
+     {
+      "jp": "すみません。　[[ミラーさん]]は　いますか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ええ、あそこに　いますよ。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[ドアの　{近|ちか}く]]です。"
+     },
+     {
+      "jp": "どうも。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L10/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L10/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L10_mondai1.m4a",
+    "cd_track": "CD36",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_choice_image",
+    "audio": "audio/L10_mondai2.m4a",
+    "cd_track": "CD37",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "image": "img/L10/m2_1.webp",
+      "options": 3
+     },
+     {
+      "no": 2,
+      "image": "img/L10/m2_2.webp",
+      "options": 3
+     },
+     {
+      "no": 3,
+      "image": "img/L10/m2_3.webp",
+      "options": 3
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "listen_truefalse",
+    "audio": "audio/L10_mondai3.m4a",
+    "cd_track": "CD38",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{受付|うけつけ}に　ミラーさんが　（います）。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "ワイン{売|う}り{場|ば}は　{地下|ちか}に　（＿）。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{犬|いぬ}は　どこに　（＿）か。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "あそこに　{小|ちい}さい　{男|おとこ}の　{子|こ}が　（＿）。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{冷蔵庫|れいぞうこ}の　{中|なか}に　{何|なに}も　（＿）。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{事務所|じむしょ}に　だれも　（＿）。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "image": "img/L10/m5.webp",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{駅|えき}の　（{近|ちか}く）に　タクシー{乗|の}り{場|ば}が　あります。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "スーパーの　（＿）に　{本屋|ほんや}が　あります。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "デパートと　{郵便局|ゆうびんきょく}の　（＿）に　{銀行|ぎんこう}が　あります。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{郵便局|ゆうびんきょく}の　（＿）に　ポストが　あります。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "いす（の）　{下|した}（に）　{猫|ねこ}（が）　います。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{消|け}しゴムは　{机|つくえ}（＿）　{上|うえ}（＿）　あります。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{花屋|はなや}（＿）　スーパー（＿）　{銀行|ぎんこう}（＿）　{間|あいだ}に　あります。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{公園|こうえん}（＿）　だれ（＿）　いません。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{箱|はこ}（＿）　{中|なか}（＿）　{何|なに}（＿）　ありません。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{駅|えき}（＿）　{近|ちか}く（＿）　コンビニ（＿）　スーパーなど（＿）　あります。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "kind": "truefalse",
+    "passage_title_jp": "わたしの　うち",
+    "passage_jp": [
+     "わたしの　{新|あたら}しい　うちは　{静|しず}かな　{所|ところ}に　あります。　うちの　{隣|となり}に　きれいな　{公園|こうえん}が　あります。　{公園|こうえん}の　{前|まえ}に　{図書館|としょかん}と　{喫茶店|きっさてん}が　あります。　わたしは　{図書館|としょかん}で　{本|ほん}を　{借|か}ります。　そして、{公園|こうえん}で　{読|よ}みます。　{時々|ときどき}　{喫茶店|きっさてん}で　{読|よ}みます。　{喫茶店|きっさてん}の　コーヒーは　おいしいです。　うちの　{近|ちか}くに　{郵便局|ゆうびんきょく}と　{銀行|ぎんこう}が　あります。　{郵便局|ゆうびんきょく}と　{銀行|ぎんこう}の　{間|あいだ}に　スーパーが　あります。　スーパーの　{中|なか}に　{花屋|はなや}や　おいしい　パン{屋|や}が　あります。　とても　{便利|べんり}です。"
+    ],
+    "examples": [],
+    "questions": [
+     {
+      "no": null,
+      "lines_jp": [
+       "わたしの　うちは　①ですか、②ですか、③ですか。"
+      ],
+      "image": "img/L10/m7.webp",
+      "options": 3
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Kata Benda が　あります／います",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "あります dan います menyatakan keberadaan benda atau orang. Kalimat ini adalah kalimat yang menggambarkan secara langsung untuk menyampaikan keberadaan benda atau orang, maka digunakan untuk menyatakan Kata Benda dengan membubuhkan partikel が."
+     },
+     {
+      "type": "h",
+      "text_rich": "1) あります digunakan untuk menyatakan keberadaan benda atau tumbuhan dan lain-lainnya yang tidak bergerak dengan sendirinya."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "コンピューターが　あります。",
+        "tr": "Ada komputer."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "{桜|さくら}が　あります。",
+        "tr": "Ada Sakura."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "{公園|こうえん}が　あります。",
+        "tr": "Ada taman."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) います digunakan untuk benda atau orang yang bergerak dengan sendirinya."
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "{男|おとこ}の　{人|ひと}が　います。",
+        "tr": "Ada orang laki-laki."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "{犬|いぬ}が　います。",
+        "tr": "Ada anjing."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Tempat に　Kata Benda が　あります／います",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Dengan menggunakan pola kalimat ini menyatakan keberadaan benda atau orang di suatu tempat."
+     },
+     {
+      "type": "h",
+      "text_rich": "1) Tempat untuk keberadaan benda atau orang dinyatakan dengan partikel に."
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "わたしの　{部屋|へや}に　{机|つくえ}が　あります。",
+        "tr": "Di kamar saya ada meja."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "{事務所|じむしょ}に　ミラーさんが　います。",
+        "tr": "Di kantor ada Sdr. Miller."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Kata Tanya なに digunakan untuk menanyakan benda atau orang yang berada, dan Kata Tanya だれ digunakan untuk menanyakan keberadaan orang."
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "{地下|ちか}に　{何|なに}が　ありますか。",
+        "tr": "Di lantai basement ada apa?"
+       },
+       {
+        "jp": "……レストランが　あります。",
+        "tr": "……Ada restoran."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "{受付|うけつけ}に　だれが　いますか。",
+        "tr": "Di resepsionis ada siapa?"
+       },
+       {
+        "jp": "……{木村|きむら}さんが　います。",
+        "tr": "……Ada Sdr. Kimura."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Tidak terbatas contoh di atas ini, perlu hati-hati bahwa partikel di belakang Kata Tanya adalah が. (×なには ×だれは)."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Benda は　tempat に　あります／います",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Ini adalah kalimat yang menyatakan keberadaan suatu benda dari 2.tempat に Kata Benda が あります／います yang dijadikan topik. Di belakang Kata Benda digunakan は yang diletakkan di paling depan dalam kalimat. Kata Benda adalah hal yang telah diakui oleh kedua belah pihak yaitu si pembicara dan lawan bicara."
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "{東京|とうきょう}ディズニーランドは　{千葉県|ちばけん}に　あります。",
+        "tr": "Tokyo Diseneyland terletak di prefektur Chiba."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "ミラーさんは　{事務所|じむしょ}に　います。",
+        "tr": "Sdr. Miller ada di kantor."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "{東京|とうきょう}ディズニーランドは　どこに　ありますか。",
+        "tr": "Tokyo Diseneyland terletak di mana?"
+       },
+       {
+        "jp": "……{千葉県|ちばけん}に　あります。",
+        "tr": "……Terletak di prefektur Chiba."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "ミラーさんは　どこに　いますか。",
+        "tr": "Sdr. Miller ada di mana?"
+       },
+       {
+        "jp": "……{事務所|じむしょ}に　います。",
+        "tr": "……Ada di kantor."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Pola kalimat ini dapat diganti dengan Kata Benda は tempat です (Pel.3). Untuk ini, perlu hati-hati bahwa di belakang Kata Tanya yang menunjukkan tempat (どこ) dan Kata Benda (ちばけん) tidak dibubuhkan に."
+     },
+     {
+      "type": "ex",
+      "mark": "⑭",
+      "lines": [
+       {
+        "jp": "{東京|とうきょう}ディズニーランドは　どこですか。",
+        "tr": "Di mana Tokyo Diseneyland?"
+       },
+       {
+        "jp": "……{千葉県|ちばけん}です。",
+        "tr": "……Di prefektur Chiba."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "Kata Benda₁ (benda/orang/tempat) の　Kata Benda₂ (posisi)",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "うえ, した, まえ, うしろ, みぎ, ひだり, なか, そと, となり, ちかく, あいだ dan lain-lainnya menunjukkan hubungan posisi antara Kata Benda₁ dan Kata Benda₂."
+     },
+     {
+      "type": "ex",
+      "mark": "⑮",
+      "lines": [
+       {
+        "jp": "{机|つくえ}の　{上|うえ}に　{写真|しゃしん}が　あります。",
+        "tr": "Di atas meja ada foto."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑯",
+      "lines": [
+       {
+        "jp": "{郵便局|ゆうびんきょく}は　{銀行|ぎんこう}の　{隣|となり}に　あります。",
+        "tr": "Kantor pos ada di sebelah bank."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑰",
+      "lines": [
+       {
+        "jp": "{本屋|ほんや}は　{花屋|はなや}と　スーパーの　{間|あいだ}に　あります。",
+        "tr": "Toko buku ada di antara toko bunga dan pasar swalayan."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Yang disebut di atas, sama halnya seperti Kata Benda yang menunjukkan tempat, dapat menunjukkan tempat aksi dengan dibubuhkan partikel で."
+     },
+     {
+      "type": "ex",
+      "mark": "⑱",
+      "lines": [
+       {
+        "jp": "{駅|えき}の　{近|ちか}くで　{友達|ともだち}に　{会|あ}いました。",
+        "tr": "Di dekat stasiun, bertemu dengan teman."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "Kata Benda₁ や　Kata Benda₂",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Partikel と yang telah dipelajari di Pelajaran 4 digunakan untuk menyebutkan semua Kata Benda secara setara, sedangkan partikel や mengambil beberapa hal saja yang mewakili (lebih dari dua) untuk menyebutkannya secara setara. Adakalanya untuk menyatakan bahwa masih ada Kata Benda yang tidak disebutkan secara jelas, dengan membubuhkan など di belakang Kata Benda yang disebut terakhir."
+     },
+     {
+      "type": "ex",
+      "mark": "⑲",
+      "lines": [
+       {
+        "jp": "{箱|はこ}の　{中|なか}に　{手紙|てがみ}や　{写真|しゃしん}が　あります。",
+        "tr": "Di dalam kotak ada surat dan foto."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑳",
+      "lines": [
+       {
+        "jp": "{箱|はこ}の　{中|なか}に　{手紙|てがみ}や　{写真|しゃしん}などが　あります。",
+        "tr": "Di dalam kotak ada surat, foto dan lain-lainnya."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_rich": "アジアストアですか",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Pada bagian awal percakapan di pelajaran ini terdapat percakapan sebagai berikut:"
+     },
+     {
+      "type": "ex",
+      "mark": "㉑",
+      "lines": [
+       {
+        "jp": "すみません。　アジアストアは　どこですか。",
+        "tr": "Maaf. Di mana Asia Store?"
+       },
+       {
+        "jp": "……アジアストアですか。（{中略|ちゅうりゃく}）あの　ビルの　{中|なか}です。",
+        "tr": "……Asia Store? (disingkat) Di dalam gedung itu."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Dalam percakapan praktek sering kali lawan bicara tidak langsung menjawab terhadap pertanyaan, tetapi menjawab setelah menegaskan inti pertanyaan si pembicara."
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "うちの　{中|なか}",
+   "title_tr": "Di Dalam Rumah",
+   "blocks": [
+    {
+     "type": "image",
+     "image": "img/L10/sankou_uchi.webp",
+     "caption": "うちの　{中|なか}"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "tr": "①"
+        }
+       ],
+       [
+        {
+         "jp": "{玄関|げんかん}",
+         "tr": "pintu masuk"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "tr": "②"
+        }
+       ],
+       [
+        {
+         "jp": "トイレ",
+         "tr": "toilet"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "tr": "③"
+        }
+       ],
+       [
+        {
+         "jp": "ふろ{場|ば}",
+         "tr": "kamar mandi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "tr": "④"
+        }
+       ],
+       [
+        {
+         "jp": "{洗面所|せんめんじょ}",
+         "tr": "tempat cuci tangan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "tr": "⑤"
+        }
+       ],
+       [
+        {
+         "jp": "{台所|だいどころ}",
+         "tr": "dapur"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "tr": "⑥"
+        }
+       ],
+       [
+        {
+         "jp": "{食堂|しょくどう}",
+         "tr": "ruang makan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "tr": "⑦"
+        }
+       ],
+       [
+        {
+         "jp": "{居間|いま}",
+         "tr": "ruang tamu"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "tr": "⑧"
+        }
+       ],
+       [
+        {
+         "jp": "{寝室|しんしつ}",
+         "tr": "kamar tidur"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "tr": "⑨"
+        }
+       ],
+       [
+        {
+         "jp": "{廊下|ろうか}",
+         "tr": "koridor"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "tr": "⑩"
+        }
+       ],
+       [
+        {
+         "jp": "ベランダ",
+         "tr": "teras"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "Cara menggunakan kamar mandi Jepang"
+    },
+    {
+     "type": "p",
+     "text_rich": "① Bersihkan badan terlebih dahulu sebelum masuk ke dalam bak mandi."
+    },
+    {
+     "type": "p",
+     "text_rich": "② Jangan menggunakan sabun dan sampo di dalam bak mandi. Bak mandi digunakan untuk menghangatkan diri dan releksasi."
+    },
+    {
+     "type": "p",
+     "text_rich": "③ Sesudah selesai mandi, jangan buang air dan tutup bak mandi agar dapat digunakan oleh orang lain."
+    },
+    {
+     "type": "image",
+     "image": "img/L10/sankou_furo.webp",
+     "caption": "Cara menggunakan kamar mandi Jepang・Cara menggunakan toilet (Toilet ala Jepang／Toilet ala Barat)"
+    }
+   ]
+  }
+ }
+}

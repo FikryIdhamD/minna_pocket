@@ -1,0 +1,1862 @@
+{
+ "book": 1,
+ "lesson": 13,
+ "title_jp": "{別々|べつべつ}に　お{願|ねが}いします",
+ "title_tr": "Tolong Sendiri-sendiri!",
+ "source_pages": {
+  "main_pdf": [
+   133,
+   140
+  ],
+  "translation_pdf": [
+   102,
+   107
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "あそびます",
+       "kanji_jp": "{遊|あそ}びます",
+       "tr": "bermain"
+      },
+      {
+       "kana_jp": "およぎます",
+       "kanji_jp": "{泳|およ}ぎます",
+       "tr": "berenang"
+      },
+      {
+       "kana_jp": "むかえます",
+       "kanji_jp": "{迎|むか}えます",
+       "tr": "menjemput"
+      },
+      {
+       "kana_jp": "つかれます",
+       "kanji_jp": "{疲|つか}れます",
+       "tr": "lelah (jika menyatakan keadaan lelah, digunakan bentuk た seperti つかれました)"
+      },
+      {
+       "kana_jp": "けっこんします",
+       "kanji_jp": "{結婚|けっこん}します",
+       "tr": "menikah"
+      },
+      {
+       "kana_jp": "かいものします",
+       "kanji_jp": "{買|か}い{物|もの}します",
+       "tr": "berbelanja"
+      },
+      {
+       "kana_jp": "しょくじします",
+       "kanji_jp": "{食事|しょくじ}します",
+       "tr": "makan"
+      },
+      {
+       "kana_jp": "さんぽします［こうえんを～］",
+       "kanji_jp": "{散歩|さんぽ}します［{公園|こうえん}を～］",
+       "tr": "berjalan-jalan [di taman]"
+      },
+      {
+       "kana_jp": "たいへん［な］",
+       "kanji_jp": "{大変|たいへん}［な］",
+       "tr": "berat, susah"
+      },
+      {
+       "kana_jp": "ほしい",
+       "kanji_jp": "{欲|ほ}しい",
+       "tr": "ingin, mau"
+      },
+      {
+       "kana_jp": "ひろい",
+       "kanji_jp": "{広|ひろ}い",
+       "tr": "luas"
+      },
+      {
+       "kana_jp": "せまい",
+       "kanji_jp": "{狭|せま}い",
+       "tr": "sempit"
+      },
+      {
+       "kana_jp": "プール",
+       "kanji_jp": null,
+       "tr": "kolam renang"
+      },
+      {
+       "kana_jp": "かわ",
+       "kanji_jp": "{川|かわ}",
+       "tr": "sungai"
+      },
+      {
+       "kana_jp": "びじゅつ",
+       "kanji_jp": "{美術|びじゅつ}",
+       "tr": "seni"
+      },
+      {
+       "kana_jp": "つり",
+       "kanji_jp": "{釣|つ}り",
+       "tr": "pancing (～を　します: memancing)"
+      },
+      {
+       "kana_jp": "スキー",
+       "kanji_jp": null,
+       "tr": "ski (～を　します: bermain ski)"
+      },
+      {
+       "kana_jp": "しゅうまつ",
+       "kanji_jp": "{週末|しゅうまつ}",
+       "tr": "akhir pekan"
+      },
+      {
+       "kana_jp": "［お］しょうがつ",
+       "kanji_jp": "［お］{正月|しょうがつ}",
+       "tr": "tahun baru"
+      },
+      {
+       "kana_jp": "～ごろ",
+       "kanji_jp": null,
+       "tr": "sekitar ～, kira-kira"
+      },
+      {
+       "kana_jp": "なにか",
+       "kanji_jp": "{何|なに}か",
+       "tr": "sesuatu"
+      },
+      {
+       "kana_jp": "どこか",
+       "kanji_jp": null,
+       "tr": "suatu tempat"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{練習|れんしゅう}C〉",
+     "items": [
+      {
+       "kana_jp": "のどが　かわきます",
+       "kanji_jp": null,
+       "tr": "haus (jika menyatakan keadaan haus, digunakan bentuk た seperti のどが　かわきました)"
+      },
+      {
+       "kana_jp": "おなかが　すきます",
+       "kanji_jp": null,
+       "tr": "lapar (jika menyatakan keadaan lapar, digunakan bentuk た seperti おなかが　すきました)"
+      },
+      {
+       "kana_jp": "そう　しましょう。",
+       "kanji_jp": null,
+       "tr": "Ya, mari. (digunakan ketika menyetujui aksi yang disarankan oleh lawan bicara)"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "ご{注文|ちゅうもん}は？",
+       "kanji_jp": null,
+       "tr": "Mau pesan apa?"
+      },
+      {
+       "kana_jp": "{定食|ていしょく}",
+       "kanji_jp": null,
+       "tr": "menu paket"
+      },
+      {
+       "kana_jp": "{牛|ぎゅう}どん",
+       "kanji_jp": null,
+       "tr": "Gyudon"
+      },
+      {
+       "kana_jp": "［{少々|しょうしょう}］　お{待|ま}ち　ください。",
+       "kanji_jp": null,
+       "tr": "Tunggu [sebentar]."
+      },
+      {
+       "kana_jp": "～で　ございます。",
+       "kanji_jp": null,
+       "tr": "(bentuk halus dari です)"
+      },
+      {
+       "kana_jp": "{別々|べつべつ}に",
+       "kanji_jp": null,
+       "tr": "sendiri-sendiri, masing-masing"
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "アキックス",
+       "kanji_jp": null,
+       "tr": "perusahaan fiksi"
+      },
+      {
+       "kana_jp": "おはようテレビ",
+       "kanji_jp": null,
+       "tr": "acara televisi fiksi"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "わたしは　{車|くるま}が　{欲|ほ}しいです。",
+    "tr": "Saya ingin punya mobil."
+   },
+   {
+    "no": 2,
+    "jp": "わたしは　すしを　{食|た}べたいです。",
+    "variants_jp": [
+     "（が）"
+    ],
+    "tr": "Saya ingin makan Sushi."
+   },
+   {
+    "no": 3,
+    "jp": "わたしは　フランスへ　{料理|りょうり}を　{習|なら}いに　{行|い}きます。",
+    "tr": "Saya pergi ke Perancis untuk belajar memasak."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "{今|いま}　{何|なに}が　いちばん　{欲|ほ}しいですか。",
+      "tr": "Sekarang apa yang paling diinginkan?"
+     },
+     {
+      "jp": "……{新|あたら}しい　ケータイが　{欲|ほ}しいです。",
+      "tr": "……Ingin punya HP baru."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "{夏休|なつやす}みは　どこへ　{行|い}きたいですか。",
+      "tr": "Ingin pergi ke mana pada liburan musim panas?"
+     },
+     {
+      "jp": "……{沖縄|おきなわ}へ　{行|い}きたいです。",
+      "tr": "……Ingin pergi ke Okinawa."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "きょうは　{疲|つか}れましたから、{何|なに}も　したくないです。",
+      "tr": "Karena hari ini lelah, saya tidak mau melakukan apa-apa."
+     },
+     {
+      "jp": "……そうですね。　きょうの　{会議|かいぎ}は　{大変|たいへん}でしたね。",
+      "tr": "……Ya, betul. Rapat hari cukup berat."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "{週末|しゅうまつ}は　{何|なに}を　しますか。",
+      "tr": "Ingin melakukan apa pada akhir minggu?"
+     },
+     {
+      "jp": "……{子|こ}どもと　{神戸|こうべ}へ　{船|ふね}を　{見|み}に　{行|い}きます。",
+      "tr": "……Pergi ke Kobe untuk melihat kapal laut bersama dengan anak."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "{日本|にほん}へ　{何|なん}の　{勉強|べんきょう}に　{来|き}ましたか。",
+      "tr": "Datang ke Jepang untuk belajar apa?"
+     },
+     {
+      "jp": "……{美術|びじゅつ}の　{勉強|べんきょう}に　{来|き}ました。",
+      "tr": "……Datang untuk belajar seni."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "{冬休|ふゆやす}みは　どこか　{行|い}きましたか。",
+      "tr": "Pada liburan musim dingin pergi ke suatu tempat?"
+     },
+     {
+      "jp": "……ええ。　{北海道|ほっかいどう}へ　スキーに　{行|い}きました。",
+      "tr": "……Ya. Pergi ke Hokkaido untuk bermain ski."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "{別々|べつべつ}に　お{願|ねが}いします",
+   "title_tr": "Tolong Sendiri-sendiri!",
+   "image": "img/L13/kaiwa.webp",
+   "audio": "audio/L13_kaiwa.m4a",
+   "cd_track": "CD46",
+   "lines": [
+    {
+     "speaker_jp": "{山田|やまだ}",
+     "speaker_tr": "Yamada",
+     "jp": "もう　12{時|じ}ですよ。　{昼|ひる}ごはんを　{食|た}べに　{行|い}きませんか。",
+     "tr": "Sudah pukul dua belas. Bagaimana kalau pergi makan siang?"
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "ええ。",
+     "tr": "Ya."
+    },
+    {
+     "speaker_jp": "{山田|やまだ}",
+     "speaker_tr": "Yamada",
+     "jp": "どこへ　{行|い}きますか。",
+     "tr": "Pergi ke mana?"
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "そうですね。　きょうは　{日本料理|にほんりょうり}が　{食|た}べたいですね。",
+     "tr": "Ke mana, ya? Hari ini ingin makan makasan Jepang."
+    },
+    {
+     "speaker_jp": "{山田|やまだ}",
+     "speaker_tr": "Yamada",
+     "jp": "じゃ、「つるや」へ　{行|い}きましょう。",
+     "tr": "Kalau begitu, pergi ke “Tsuruya” saja, ya."
+    },
+    {
+     "speaker_jp": "{店|みせ}の　{人|ひと}",
+     "speaker_tr": "Pelayan",
+     "break_before": true,
+     "jp": "ご{注文|ちゅうもん}は？",
+     "tr": "Mau pesan apa?"
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "わたしは　てんぷら{定食|ていしょく}。",
+     "tr": "Saya mau menu paket Tempura."
+    },
+    {
+     "speaker_jp": "{山田|やまだ}",
+     "speaker_tr": "Yamada",
+     "jp": "わたしは　{牛|ぎゅう}どん。",
+     "tr": "Saya Gyudon."
+    },
+    {
+     "speaker_jp": "{店|みせ}の　{人|ひと}",
+     "speaker_tr": "Pelayan",
+     "jp": "てんぷら{定食|ていしょく}と　{牛|ぎゅう}どんですね。　{少々|しょうしょう}　お{待|ま}ち　ください。",
+     "tr": "Menu paket Tempura dan Gyudon, ya? Tunggu sebentar!"
+    },
+    {
+     "speaker_jp": "{店|みせ}の　{人|ひと}",
+     "speaker_tr": "Pelayan",
+     "break_before": true,
+     "jp": "1,680{円|えん}で　ございます。",
+     "tr": "¥1.680."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "すみません。　{別々|べつべつ}に　お{願|ねが}いします。",
+     "tr": "Maaf. Tolong sendiri-sendiri!"
+    },
+    {
+     "speaker_jp": "{店|みせ}の　{人|ひと}",
+     "speaker_tr": "Pelayan",
+     "jp": "はい。　てんぷら{定食|ていしょく}は　980{円|えん}、{牛|ぎゅう}どんは　700{円|えん}です。",
+     "tr": "Baik. Menu paket Tempura ¥980, dan Gyudon ¥700."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "くるま",
+          "うち",
+          "ともだち"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "が　{欲|ほ}しいです。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "カメラを",
+          "{家族|かぞく}に",
+          "{外国|がいこく}で"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かい",
+          "あい",
+          "はたらき"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "たいです。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "なにを　し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "…………か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いき",
+          "たべ",
+          "けっこんし"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "たい"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "です　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "いき",
+          "たべ",
+          "けっこんし"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "たくない"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "です"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "text_jp": "わたしは　{京都|きょうと}へ"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あそび"
+         ],
+         "hl": "strong"
+        },
+        {
+         "opts_jp": [
+          "{日本料理|にほんりょうり}を　たべ"
+         ],
+         "hl": "strong"
+        },
+        {
+         "opts_jp": [
+          "かいもの"
+         ]
+        },
+        {
+         "opts_jp": [
+          "びじゅつの　べんきょう"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "に　{行|い}きます。"
+      }
+     ],
+     [
+      {
+       "text_jp": "あなたは　…………"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "なにを　し"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "……………か。"
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig1",
+     "image": "img/L13/rb_fig1.webp"
+    },
+    {
+     "id": "fig3",
+     "image": "img/L13/rb_fig3.webp"
+    },
+    {
+     "id": "fig5",
+     "image": "img/L13/rb_fig5.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "figure": "fig1",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "わたしは　カメラが　{欲|ほ}しいです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "examples": [
+      {
+       "prompt_jp": "パソコン（{軽|かる}い）",
+       "answer_jp": [
+        "どんな　パソコンが　{欲|ほ}しいですか。",
+        "……{軽|かる}い　パソコンが　{欲|ほ}しいです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{車|くるま}（{赤|あか}い）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{靴|くつ}（アキックス）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{時計|とけい}（{日本|にほん}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "うち（{広|ひろ}い）"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "figure": "fig3",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "すき{焼|や}きを　{食|た}べたいです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "{何|なに}を　{買|か}いますか（{自転車|じてんしゃ}）",
+       "answer_jp": [
+        "{何|なに}を　{買|か}いたいですか。",
+        "……{自転車|じてんしゃ}を　{買|か}いたいです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "いつ　{北海道|ほっかいどう}へ　{行|い}きますか（2{月|がつ}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{何|なに}を　{習|なら}いますか（{生|い}け{花|ばな}）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "だれに　{会|あ}いますか（{両親|りょうしん}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{何|なに}を　{食|た}べますか（{何|なに}も）"
+      },
+      {
+       "no": 5,
+       "prompt_jp": "どんな　{本|ほん}を　{読|よ}みますか（{旅行|りょこう}の　{本|ほん}）"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "figure": "fig5",
+     "examples": [
+      {
+       "prompt_jp": "{歌|うた}を　{習|なら}います",
+       "answer_jp": [
+        "イタリアへ　{歌|うた}を　{習|なら}いに　{行|い}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "お{土産|みやげ}を　{買|か}います"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{荷物|にもつ}を　{送|おく}ります"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{本|ほん}を　{借|か}ります"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{友達|ともだち}を　{迎|むか}えます"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "examples": [
+      {
+       "prompt_jp": "{公園|こうえん}へ　{行|い}きます・{散歩|さんぽ}します",
+       "answer_jp": [
+        "{公園|こうえん}へ　{散歩|さんぽ}に　{行|い}きます。"
+       ]
+      },
+      {
+       "prompt_jp": "{京都|きょうと}へ　{行|い}きます・{花見|はなみ}を　します",
+       "answer_jp": [
+        "{京都|きょうと}へ　{花見|はなみ}に　{行|い}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{横浜|よこはま}へ　{行|い}きます・{買|か}い{物|もの}します"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "ホテルへ　{行|い}きます・{食事|しょくじ}します"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{川|かわ}へ　{行|い}きます・{釣|つ}りを　します"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{沖縄|おきなわ}へ　{行|い}きます・{旅行|りょこう}します"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "examples": [
+      {
+       "prompt_jp": "{遊|あそ}びます（{友達|ともだち}の　うち）",
+       "answer_jp": [
+        "どこへ　{遊|あそ}びに　{行|い}きますか。",
+        "……{友達|ともだち}の　うちへ　{遊|あそ}びに　{行|い}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{泳|およ}ぎます（ホテルの　プール）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "お{土産|みやげ}を　{買|か}います（デパート）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{絵|え}を　{見|み}ます（{奈良|なら}の　{美術館|びじゅつかん}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{食事|しょくじ}します（インド{料理|りょうり}の　レストラン）"
+      }
+     ]
+    },
+    {
+     "no": 8,
+     "examples": [
+      {
+       "prompt_jp": "だれ・{映画|えいが}を　{見|み}ます（{姉|あね}）",
+       "answer_jp": [
+        "だれと　{映画|えいが}を　{見|み}に　{行|い}きますか。",
+        "……{姉|あね}と　{見|み}に　{行|い}きます。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{何|なに}・{買|か}います（{靴|くつ}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "だれ・{会|あ}います（カリナさん）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{何時|なんじ}・{子|こ}どもを　{迎|むか}えます（2{時|じ}ごろ）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "いつ・{旅行|りょこう}します（{来月|らいげつ}）"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L13/rc1.webp",
+    "dialog": [
+     {
+      "jp": "すみません。　「おはようテレビ」ですが、",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "{今|いま}　{何|なに}が　いちばん　{欲|ほ}しいですか。"
+     },
+     {
+      "jp": "[[{広|ひろ}い　うち]]が　{欲|ほ}しいです。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[{今|いま}の　うちは　{狭|せま}いです]]から。"
+     },
+     {
+      "jp": "そうですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "どうも　ありがとう　ございました。"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L13/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L13/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L13/rc2.webp",
+    "dialog": [
+     {
+      "jp": "[[のどが　かわきました]]ね。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ええ、[[{何|なに}か　{飲|の}み]]たいですね。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "あそこで　[[{何|なに}か　{飲|の}み]]ませんか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ええ、そう　しましょう。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L13/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L13/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L13/rc3.webp",
+    "dialog": [
+     {
+      "jp": "[[{週末|しゅうまつ}]]は　{何|なに}を　しましたか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[{奈良|なら}]]へ　[[{遊|あそ}び]]に　{行|い}きました。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "どうでしたか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "とても　{楽|たの}しかったです。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "そうですか。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L13/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L13/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L13_mondai1.m4a",
+    "cd_track": "CD47",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_truefalse",
+    "audio": "audio/L13_mondai2.m4a",
+    "cd_track": "CD48",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "fill",
+    "instruction_jp": "{帰|かえ}ります　　{行|い}きます　　{飲|の}みます　　［{食|た}べます］　　{寝|ね}ます　　します",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "もう　12{時|じ}ですから、{昼|ひる}ごはんを　（{食|た}べたい）です。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{用事|ようじ}が　ありますから、5{時|じ}に　うちへ　（＿）です。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "あしたは　{休|やす}みですから、{昼|ひる}まで　（＿）です。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "のどが　かわきましたから、{何|なに}か　（＿）です。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{疲|つか}れましたから、{何|なに}も　（＿）です。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{暑|あつ}いですから、どこも　（＿）です。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "fill",
+    "instruction_jp": "{買|か}い{物|もの}します　　{借|か}ります　　{泳|およ}ぎます　　［{飲|の}みます］　　{旅行|りょこう}します　　{買|か}います",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{喫茶店|きっさてん}へ　コーヒーを　（{飲|の}み）に　{行|い}きます。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{図書館|としょかん}へ　{本|ほん}を　（＿）に　{行|い}きます。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{郵便局|ゆうびんきょく}へ　{切手|きって}を　（＿）に　{行|い}きました。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "デパートへ　（＿）に　{行|い}きたいです。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{暑|あつ}いですから、プールへ　（＿）に　{行|い}きましょう。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{日本|にほん}に　1{年|ねん}　いますから、いろいろな　{所|ところ}へ　（＿）に　{行|い}きたいです。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{昼|ひる}ごはん（を）　{食|た}べます。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "わたしは　{大|おお}きい　うち（＿）　{欲|ほ}しいです。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "きょうは　{雨|あめ}ですから、どこ（＿）　{行|い}きたくないです。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{京都|きょうと}の　{大学|だいがく}（＿）　{美術|びじゅつ}（＿）　{勉強|べんきょう}します。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{日本|にほん}（＿）　{日本語|にほんご}（＿）　{勉強|べんきょう}（＿）　{来|き}ました。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "おなかが　すきましたから、レストラン（＿）　{食事|しょくじ}（＿）　{行|い}きます。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "truefalse",
+    "passage_title_jp": "{犬|いぬ}の　{生活|せいかつ}",
+    "passage_jp": [
+     "わたしは　トモです。　サントスさんの　うちに　います。　わたしは　{毎朝|まいあさ}　{奥|おく}さんと　{散歩|さんぽ}に　{行|い}きます。　8{時|じ}ごろ　テレーザちゃんと　{学校|がっこう}へ　{行|い}きます。　それから　うちへ　{帰|かえ}ります。　そして、{奥|おく}さんと　{買|か}い{物|もの}に　{行|い}きます。　{午後|ごご}　{学校|がっこう}へ　テレーザちゃんを　{迎|むか}えに　{行|い}きます。　それから　いっしょに　{公園|こうえん}へ　{遊|あそ}びに　{行|い}きます。",
+     "{週末|しゅうまつ}は　テレーザちゃんの　{学校|がっこう}と　サントスさんの　{会社|かいしゃ}は　{休|やす}みです。　サントスさんの　{家族|かぞく}は　{遠|とお}い　{所|ところ}へ　{車|くるま}で　{遊|あそ}びに　{行|い}きます。　わたしも　いっしょに　{行|い}きます。　とても　{疲|つか}れます。",
+     "サントスさんの　うちに　{猫|ねこ}も　います。　{猫|ねこ}は　{毎日|まいにち}　{何|なに}も　しません。　どこも　{行|い}きません。　わたしは　{朝|あさ}から　{晩|ばん}まで　{忙|いそが}しいです。　{休|やす}みが　{全然|ぜんぜん}ありません。　わたしは　{猫|ねこ}と　いっしょに　{休|やす}みたいです。"
+    ],
+    "image": "img/L13/m6.webp",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "わたしは　{奥|おく}さんと　{散歩|さんぽ}や　{買|か}い{物|もの}に　{行|い}きます。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "テレーザちゃんは　わたしと　いっしょに　{学校|がっこう}から　{帰|かえ}ります。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "サントスさんの　{家族|かぞく}は　{週末|しゅうまつ}　{近|ちか}くの　{公園|こうえん}へ　{遊|あそ}びに　{行|い}きます。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{猫|ねこ}は　わたしより　{暇|ひま}です。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{犬|いぬ}の　{生活|せいかつ}は　{猫|ねこ}の　{生活|せいかつ}より　{休|やす}みが　{多|おお}いです。"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Kata Benda が　{欲|ほ}しいです",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "ほしい adalah Kata Sifat い. Objek untuk ほしい ditunjuk dengan が."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "わたしは　{友達|ともだち}が　{欲|ほ}しいです。",
+        "tr": "Saya ingin punya teman."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "{今|いま}　{何|なに}が　いちばん　{欲|ほ}しいですか。",
+        "tr": "Sekarang apa yang paling diinginkan?"
+       },
+       {
+        "jp": "……{車|くるま}が　{欲|ほ}しいです。",
+        "tr": "……Ingin punya mobil."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "{子|こ}どもが　{欲|ほ}しいですか。",
+        "tr": "Apakah ingin punya anak?"
+       },
+       {
+        "jp": "……いいえ、{欲|ほ}しくないです。",
+        "tr": "……Tidak, tidak ingin punya."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Kata Kerja (Bentuk ます) たいです",
+    "blocks": [
+     {
+      "type": "h",
+      "text_rich": "1) Kata Kerja Bentuk ます"
+     },
+     {
+      "type": "p",
+      "text_rich": "Bentuk yang disambung pada ます (Contoh: かい dari かいます) disebut bentuk ます."
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Kata Kerja (Bentuk ます) たいです"
+     },
+     {
+      "type": "p",
+      "text_rich": "Kata Kerja (Bentuk ます) たいです digunakan untuk menunjukkan keinginan untuk berbuat sesuatu. Objek dari ～たい dapat ditunjuk dengan partikel を dan が juga. Perubahan bentuk ～たい sama dengan Kata Sifat い."
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "わたしは　{沖縄|おきなわ}へ　{行|い}きたいです。",
+        "tr": "Saya ingin pergi ke Okinawa."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "わたしは　てんぷらを　{食|た}べたいです。",
+        "variants_jp": [
+         "（が）"
+        ],
+        "tr": "Saya ingin makan Tempura."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "{神戸|こうべ}で　{何|なに}を　{買|か}いたいですか。",
+        "variants_jp": [
+         "（が）"
+        ],
+        "tr": "Di Kobe ingin membeli apa?"
+       },
+       {
+        "jp": "……{靴|くつ}を　{買|か}いたいです。",
+        "variants_jp": [
+         "（が）"
+        ],
+        "tr": "……Ingin membeli sepatu."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "おなかが　{痛|いた}いですから、{何|なに}も　{食|た}べたくないです。",
+        "tr": "Karena perut sakit, tidak mau makan apa-apa. (Pel.17)"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian 1] Dengan ほしいです, たいです tidak dapat menyatakan keinginan dari pihak ketiga selain si pembicara dan lawan bicara."
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian 2] ほしいですか, Kata Kerja (Bentuk ます) たいです tidak dapat digunakan pada situasi untuk menawarkan sesuatu kepada lawan bicara. Misalnya pada situasi untuk menawarkan kopi, tidak tepat jika mengatakan コーヒーが　ほしいですか, コーヒーが　のみたいですか. Untuk situasi tersebut digunakan ekspresi コーヒーは　いかがですか, コーヒーを　のみませんか dan sebagainya."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Benda (tempat) へ　Kata Kerja (Bentuk ます)／Kata Benda　に　{行|い}きます／{来|き}ます／{帰|かえ}ります",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Objek untuk aksi dari いきます, きます, かえります ditunjuk dengan に."
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "{神戸|こうべ}へ　インド{料理|りょうり}を　{食|た}べに　{行|い}きます。",
+        "tr": "Pergi makan masakan India ke Kobe."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Jika Kata Kerja di depan に adalah Kata Benda します (かいものします, べんきょうします) serta Kata Benda を　します (おはなみを　します, つりを　します), bentuk Kata Benda に　いきます／きます／かえります yang digunakan."
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "{神戸|こうべ}へ　{買|か}い{物|もの}に　{行|い}きます。",
+        "tr": "Pergi ke Kobe untuk belanja."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "{日本|にほん}へ　{美術|びじゅつ}の　{勉強|べんきょう}に　{来|き}ました。",
+        "tr": "Datang ke Jepang untuk belajar seni."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Jika Kata Benda yang menunjukkan acara seperti perayaan, konser dan sebagainya, biasanya objek aksi dianggap untuk menonton perayaan atau mendengar konser."
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "あした　{京都|きょうと}の　お{祭|まつ}りに　{行|い}きます。",
+        "tr": "Besok pergi ke perayaan di Kyoto."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "どこか／{何|なに}か",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "どこか berarti suatu tempat, dan なにか berarti sesuatu. Partikel へ atau を di belakang どこか atau なにか dapat dihilangkan."
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "{冬休|ふゆやす}みは　どこか［へ］　{行|い}きましたか。",
+        "tr": "Pada waktu liburan musim dingin pergi ke mana?"
+       },
+       {
+        "jp": "……はい。　{北海道|ほっかいどう}へ　スキーに　{行|い}きました。",
+        "tr": "……Ya, pergi ke Hokkaido untuk bermain ski."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Untuk kata-kata yang menunjukkan waktu dapat diangkat sebagai topik dengan dibubuhkan は."
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "のどが　かわきましたから、{何|なに}か［を］　{飲|の}みたいです。",
+        "tr": "Karena haus, ingin minum sesuatu."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "ご～",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "ご menunjukkan penghormatan."
+     },
+     {
+      "type": "ex",
+      "mark": "⑭",
+      "lines": [
+       {
+        "jp": "ご{注文|ちゅうもん}は？",
+        "tr": "Mau pesan apa?"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{町|まち}の　{中|なか}",
+   "title_tr": "Di Kota",
+   "blocks": [
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{博物館|はくぶつかん}"
+        }
+       ],
+       [
+        {
+         "tr": "museum"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{美術館|びじゅつかん}"
+        }
+       ],
+       [
+        {
+         "tr": "gedung kesenian"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{図書館|としょかん}"
+        }
+       ],
+       [
+        {
+         "tr": "perpustakaan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{映画館|えいがかん}"
+        }
+       ],
+       [
+        {
+         "tr": "gedung bioskop"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{動物園|どうぶつえん}"
+        }
+       ],
+       [
+        {
+         "tr": "kebun binatang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{植物園|しょくぶつえん}"
+        }
+       ],
+       [
+        {
+         "tr": "kebun raya"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{遊園地|ゆうえんち}"
+        }
+       ],
+       [
+        {
+         "tr": "taman bermain"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "お{寺|てら}"
+        }
+       ],
+       [
+        {
+         "tr": "Kuil, Wihara (Budha)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{神社|じんじゃ}"
+        }
+       ],
+       [
+        {
+         "tr": "Kuil (Shinto)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{教会|きょうかい}"
+        }
+       ],
+       [
+        {
+         "tr": "Gereja"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "モスク"
+        }
+       ],
+       [
+        {
+         "tr": "Masjid"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{体育館|たいいくかん}"
+        }
+       ],
+       [
+        {
+         "tr": "gedung olahraga"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "プール"
+        }
+       ],
+       [
+        {
+         "tr": "kolam renang"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{公園|こうえん}"
+        }
+       ],
+       [
+        {
+         "tr": "taman"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{大使館|たいしかん}"
+        }
+       ],
+       [
+        {
+         "tr": "Kedutaan Besar"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{入国管理局|にゅうこくかんりきょく}"
+        }
+       ],
+       [
+        {
+         "tr": "Kantor Imigrasi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{市役所|しやくしょ}"
+        }
+       ],
+       [
+        {
+         "tr": "kantor balai kota"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{警察署|けいさつしょ}"
+        }
+       ],
+       [
+        {
+         "tr": "kantor polisi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{交番|こうばん}"
+        }
+       ],
+       [
+        {
+         "tr": "pos polisi"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{消防署|しょうぼうしょ}"
+        }
+       ],
+       [
+        {
+         "tr": "kantor pemadam kebakaran"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{駐車場|ちゅうしゃじょう}"
+        }
+       ],
+       [
+        {
+         "tr": "tempat parkir"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{大学|だいがく}"
+        }
+       ],
+       [
+        {
+         "tr": "universitas"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{高校|こうこう}"
+        }
+       ],
+       [
+        {
+         "tr": "SMA"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{中学校|ちゅうがっこう}"
+        }
+       ],
+       [
+        {
+         "tr": "SMP"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{小学校|しょうがっこう}"
+        }
+       ],
+       [
+        {
+         "tr": "SD"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{幼稚園|ようちえん}"
+        }
+       ],
+       [
+        {
+         "tr": "TK"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{肉屋|にくや}"
+        }
+       ],
+       [
+        {
+         "tr": "toko daging"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "パン{屋|や}"
+        }
+       ],
+       [
+        {
+         "tr": "toko roti"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{魚屋|さかなや}"
+        }
+       ],
+       [
+        {
+         "tr": "toko ikan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{酒屋|さかや}"
+        }
+       ],
+       [
+        {
+         "tr": "toko minuman keras"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{八百屋|やおや}"
+        }
+       ],
+       [
+        {
+         "tr": "toko sayur"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{喫茶店|きっさてん}"
+        }
+       ],
+       [
+        {
+         "tr": "coffee shop"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "コンビニ"
+        }
+       ],
+       [
+        {
+         "tr": "toko 24 jam"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "スーパー"
+        }
+       ],
+       [
+        {
+         "tr": "supermarket, pasar swalayan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "デパート"
+        }
+       ],
+       [
+        {
+         "tr": "toko serba ada"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "image": "img/L13/sankou_machi.webp",
+     "caption": "{町|まち}の　{中|なか}"
+    }
+   ]
+  }
+ }
+}

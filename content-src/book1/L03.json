@@ -1,0 +1,1866 @@
+{
+ "book": 1,
+ "lesson": 3,
+ "title_jp": "これを　ください",
+ "title_tr": "Minta ini!",
+ "source_pages": {
+  "main_pdf": [
+   45,
+   52
+  ],
+  "translation_pdf": [
+   42,
+   47
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "ここ",
+       "kanji_jp": null,
+       "tr": "sini"
+      },
+      {
+       "kana_jp": "そこ",
+       "kanji_jp": null,
+       "tr": "situ"
+      },
+      {
+       "kana_jp": "あそこ",
+       "kanji_jp": null,
+       "tr": "sana"
+      },
+      {
+       "kana_jp": "どこ",
+       "kanji_jp": null,
+       "tr": "(di) mana"
+      },
+      {
+       "kana_jp": "こちら",
+       "kanji_jp": null,
+       "tr": "sini (bentuk sopan dari ここ)"
+      },
+      {
+       "kana_jp": "そちら",
+       "kanji_jp": null,
+       "tr": "situ (bentuk sopan dari そこ)"
+      },
+      {
+       "kana_jp": "あちら",
+       "kanji_jp": null,
+       "tr": "sana (bentuk sopan dari あそこ)"
+      },
+      {
+       "kana_jp": "どちら",
+       "kanji_jp": null,
+       "tr": "mana (bentuk sopan dari どこ)"
+      },
+      {
+       "kana_jp": "きょうしつ",
+       "kanji_jp": "{教室|きょうしつ}",
+       "tr": "ruang kelas"
+      },
+      {
+       "kana_jp": "しょくどう",
+       "kanji_jp": "{食堂|しょくどう}",
+       "tr": "ruang makan, rumah makan, kantin"
+      },
+      {
+       "kana_jp": "じむしょ",
+       "kanji_jp": "{事務所|じむしょ}",
+       "tr": "kantor"
+      },
+      {
+       "kana_jp": "かいぎしつ",
+       "kanji_jp": "{会議室|かいぎしつ}",
+       "tr": "ruang rapat"
+      },
+      {
+       "kana_jp": "うけつけ",
+       "kanji_jp": "{受付|うけつけ}",
+       "tr": "meja informasi"
+      },
+      {
+       "kana_jp": "ロビー",
+       "kanji_jp": null,
+       "tr": "ruang tunggu, lobi"
+      },
+      {
+       "kana_jp": "へや",
+       "kanji_jp": "{部屋|へや}",
+       "tr": "kamar"
+      },
+      {
+       "kana_jp": "トイレ（おてあらい）",
+       "kanji_jp": "（お{手洗|てあら}い）",
+       "tr": "kamar kecil, toilet, W.C."
+      },
+      {
+       "kana_jp": "かいだん",
+       "kanji_jp": "{階段|かいだん}",
+       "tr": "tangga"
+      },
+      {
+       "kana_jp": "エレベーター",
+       "kanji_jp": null,
+       "tr": "lift"
+      },
+      {
+       "kana_jp": "エスカレーター",
+       "kanji_jp": null,
+       "tr": "tangga berjalan, eskalator"
+      },
+      {
+       "kana_jp": "じどうはんばいき",
+       "kanji_jp": "{自動販売機|じどうはんばいき}",
+       "tr": "mesin jual otomatis"
+      },
+      {
+       "kana_jp": "でんわ",
+       "kanji_jp": "{電話|でんわ}",
+       "tr": "telepon"
+      },
+      {
+       "kana_jp": "［お］くに",
+       "kanji_jp": "［お］{国|くに}",
+       "tr": "negara, negeri"
+      },
+      {
+       "kana_jp": "かいしゃ",
+       "kanji_jp": "{会社|かいしゃ}",
+       "tr": "perusahaan"
+      },
+      {
+       "kana_jp": "うち",
+       "kanji_jp": null,
+       "tr": "rumah"
+      },
+      {
+       "kana_jp": "くつ",
+       "kanji_jp": "{靴|くつ}",
+       "tr": "sepatu"
+      },
+      {
+       "kana_jp": "ネクタイ",
+       "kanji_jp": null,
+       "tr": "dasi"
+      },
+      {
+       "kana_jp": "ワイン",
+       "kanji_jp": null,
+       "tr": "anggur"
+      },
+      {
+       "kana_jp": "うりば",
+       "kanji_jp": "{売|う}り{場|ば}",
+       "tr": "tempat penjualan"
+      },
+      {
+       "kana_jp": "ちか",
+       "kanji_jp": "{地下|ちか}",
+       "tr": "bawah tanah, basement"
+      },
+      {
+       "kana_jp": "―かい（―がい）",
+       "kanji_jp": "―{階|かい}",
+       "tr": "lantai ―, tingkat ―"
+      },
+      {
+       "kana_jp": "なんがい*",
+       "kanji_jp": "{何階|なんがい}",
+       "tr": "lantai berapa, tingkat berapa"
+      },
+      {
+       "kana_jp": "―えん",
+       "kanji_jp": "―{円|えん}",
+       "tr": "― yen"
+      },
+      {
+       "kana_jp": "いくら",
+       "kanji_jp": null,
+       "tr": "berapa"
+      },
+      {
+       "kana_jp": "ひゃく",
+       "kanji_jp": "{百|ひゃく}",
+       "tr": "ratus"
+      },
+      {
+       "kana_jp": "せん",
+       "kanji_jp": "{千|せん}",
+       "tr": "ribu"
+      },
+      {
+       "kana_jp": "まん",
+       "kanji_jp": "{万|まん}",
+       "tr": "puluh ribu"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{練習|れんしゅう}C〉",
+     "items": [
+      {
+       "kana_jp": "すみません。",
+       "kanji_jp": null,
+       "tr": "Maaf./Permisi."
+      },
+      {
+       "kana_jp": "どうも。",
+       "kanji_jp": null,
+       "tr": "Terima kasih."
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "いらっしゃいませ。",
+       "kanji_jp": null,
+       "tr": "Selamat datang./Bisa saya bantu? (ungkapan kepada tamu yang masuk ke toko)"
+      },
+      {
+       "kana_jp": "［～を］　{見|み}せて　ください。",
+       "kanji_jp": null,
+       "tr": "Tolong perlihatkan [～]."
+      },
+      {
+       "kana_jp": "じゃ",
+       "kanji_jp": null,
+       "tr": "Baiklah, kalau begitu,"
+      },
+      {
+       "kana_jp": "［～を］　ください。",
+       "kanji_jp": null,
+       "tr": "Minta [～]./Tolong berikan [～]."
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "イタリア",
+       "kanji_jp": null,
+       "tr": "Italia"
+      },
+      {
+       "kana_jp": "スイス",
+       "kanji_jp": null,
+       "tr": "Swiss"
+      },
+      {
+       "kana_jp": "フランス",
+       "kanji_jp": null,
+       "tr": "Perancis"
+      },
+      {
+       "kana_jp": "ジャカルタ",
+       "kanji_jp": null,
+       "tr": "Jakarta"
+      },
+      {
+       "kana_jp": "バンコク",
+       "kanji_jp": null,
+       "tr": "Bangkok"
+      },
+      {
+       "kana_jp": "ベルリン",
+       "kanji_jp": null,
+       "tr": "Berlin"
+      },
+      {
+       "kana_jp": "{新大阪|しんおおさか}",
+       "kanji_jp": null,
+       "tr": "nama stasiun yang ada di Osaka"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "ここは　{食堂|しょくどう}です。",
+    "tr": "Di sini kantin."
+   },
+   {
+    "no": 2,
+    "jp": "エレベーターは　あそこです。",
+    "tr": "Lift di sana."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "ここは　{新大阪|しんおおさか}ですか。",
+      "tr": "Di sini Shin Osaka?"
+     },
+     {
+      "jp": "……はい、そうです。",
+      "tr": "……Ya, betul."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "トイレは　どこですか。",
+      "tr": "Di mana toilet?"
+     },
+     {
+      "jp": "……あそこです。",
+      "tr": "……Di sana."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "{山田|やまだ}さんは　どこですか。",
+      "tr": "Di mana Sdr. Yamada?"
+     },
+     {
+      "jp": "……{会議室|かいぎしつ}です。",
+      "tr": "……Di ruang rapat."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "{事務所|じむしょ}は　どちらですか。",
+      "tr": "Di mana kantor?"
+     },
+     {
+      "jp": "……あちらです。",
+      "tr": "……Di sana."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "［お］{国|くに}は　どちらですか。",
+      "tr": "Berasal dari mana?"
+     },
+     {
+      "jp": "……アメリカです。",
+      "tr": "……Amerika Serikat."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "それは　どこの　{靴|くつ}ですか。",
+      "tr": "Itu sepatu buatan mana?"
+     },
+     {
+      "jp": "……イタリアの　{靴|くつ}です。",
+      "tr": "……Sepatu (buatan) Italia."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "この　{時計|とけい}は　いくらですか。",
+      "tr": "Berapa jam tangan ini?"
+     },
+     {
+      "jp": "……18,600{円|えん}です。",
+      "tr": "……¥18.600."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "これを　ください",
+   "title_tr": "Minta ini!",
+   "image": "img/L03/kaiwa.webp",
+   "audio": "audio/L03_kaiwa.m4a",
+   "cd_track": "CD09",
+   "lines": [
+    {
+     "speaker_jp": "{店員|てんいん}A",
+     "speaker_tr": "Pramuniaga A",
+     "jp": "いらっしゃいませ。",
+     "tr": "Selamat datang."
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "すみません。　ワイン{売|う}り{場|ば}は　どこですか。",
+     "tr": "Maaf. Di mana tempat jual anggur?"
+    },
+    {
+     "speaker_jp": "{店員|てんいん}A",
+     "speaker_tr": "Pramuniaga A",
+     "jp": "{地下|ちか}1{階|かい}です。",
+     "tr": "Di lantai besemen 1."
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "どうも。",
+     "tr": "Terima kasih."
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "break_before": true,
+     "jp": "すみません。　その　ワインを　{見|み}せて　ください。",
+     "tr": "Maaf. Tolong perlihatkan anggur itu!"
+    },
+    {
+     "speaker_jp": "{店員|てんいん}B",
+     "speaker_tr": "Pramuniaga B",
+     "jp": "はい、どうぞ。",
+     "tr": "Ya, silakan."
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "これは　どこの　ワインですか。",
+     "tr": "Ini anggur dari mana?"
+    },
+    {
+     "speaker_jp": "{店員|てんいん}B",
+     "speaker_tr": "Pramuniaga B",
+     "jp": "{日本|にほん}のです。",
+     "tr": "Jepang."
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "いくらですか。",
+     "tr": "Berapa?"
+    },
+    {
+     "speaker_jp": "{店員|てんいん}B",
+     "speaker_tr": "Pramuniaga B",
+     "jp": "2,500{円|えん}です。",
+     "tr": "¥2.500."
+    },
+    {
+     "speaker_jp": "マリア",
+     "speaker_tr": "Maria",
+     "jp": "じゃ、これを　ください。",
+     "tr": "Kalau begitu, minta ini."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "ここは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "きょうしつ",
+          "だいがく",
+          "ひろしま"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "です。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "text_jp": "{受付|うけつけ}は"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ここ",
+          "そこ",
+          "あそこ"
+         ]
+        },
+        {
+         "opts_jp": [
+          "どこ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "です。"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "……か。"
+         ],
+         "hl": "none"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "{自動販売機|じどうはんばいき}は"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "{佐藤|さとう}さんは"
+         ],
+         "hl": "none"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "2かい",
+          "ロビー"
+         ]
+        },
+        {
+         "opts_jp": [
+          "じむしょ",
+          "しょくどう"
+         ]
+        },
+        {
+         "opts_jp": [
+          "どこ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "です。"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "……か。"
+         ],
+         "hl": "none"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "text_jp": "エレベーターは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "こちら",
+          "そちら",
+          "あちら"
+         ]
+        },
+        {
+         "opts_jp": [
+          "どちら"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "です。"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "……か。"
+         ],
+         "hl": "none"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "くに"
+         ]
+        },
+        {
+         "opts_jp": [
+          "かいしゃ"
+         ]
+        },
+        {
+         "opts_jp": [
+          "だいがく"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "は"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "フランス"
+         ]
+        },
+        {
+         "opts_jp": [
+          "IMC"
+         ]
+        },
+        {
+         "opts_jp": [
+          "さくらだいがく"
+         ]
+        },
+        {
+         "opts_jp": [
+          "どちら"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "です。"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "……か。"
+         ],
+         "hl": "none"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     [
+      {
+       "text_jp": "これは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "にほん",
+          "アメリカ",
+          "ドイツ"
+         ]
+        },
+        {
+         "opts_jp": [
+          "どこ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "の　{車|くるま}です。"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "………………か。"
+         ],
+         "hl": "none"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     [
+      {
+       "text_jp": "この　ネクタイは"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "1,500えん",
+          "5,800えん",
+          "13,000えん"
+         ]
+        },
+        {
+         "opts_jp": [
+          "いくら"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "です。"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "……か。"
+         ],
+         "hl": "none"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig1",
+     "image": "img/L03/rb_fig1.webp"
+    },
+    {
+     "id": "fig2",
+     "image": "img/L03/rb_fig2.webp"
+    },
+    {
+     "id": "fig3",
+     "image": "img/L03/rb_fig3.webp"
+    },
+    {
+     "id": "fig4",
+     "image": "img/L03/rb_fig4.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "figure": "fig1",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "ここは　{食堂|しょくどう}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "figure": "fig2",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "トイレは　どこですか。",
+        "……あそこです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{会議室|かいぎしつ}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{自動販売機|じどうはんばいき}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{山田|やまだ}さん"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "examples": [
+      {
+       "prompt_jp": "{自動販売機|じどうはんばいき}（2{階|かい}）",
+       "answer_jp": [
+        "{自動販売機|じどうはんばいき}は　どこですか。",
+        "……2{階|かい}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "トイレ（1{階|かい}）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "テレーザちゃん（{教室|きょうしつ}）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{食堂|しょくどう}（{地下|ちか}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{会議室|かいぎしつ}の　かぎ（{事務所|じむしょ}）"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "{階段|かいだん}（あちら）",
+       "answer_jp": [
+        "{階段|かいだん}は　どちらですか。",
+        "……あちらです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "エスカレーター（そちら）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{電話|でんわ}（こちら）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "カリナさんの　{部屋|へや}（3{階|かい}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "うち（{大阪|おおさか}）"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "figure": "fig3",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "ミラーさんの　お{国|くに}は　どちらですか。",
+        "……アメリカです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "figure": "fig3",
+     "examples": [
+      {
+       "prompt_jp": "{会社|かいしゃ}",
+       "answer_jp": [
+        "ミラーさんの　{会社|かいしゃ}は　どちらですか。",
+        "……IMCです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{会社|かいしゃ}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{大学|だいがく}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{会社|かいしゃ}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{大学|だいがく}"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "figure": "fig4",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "これは　どこの　かばんですか。",
+        "……{韓国|かんこく}の　かばんです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 8,
+     "figure": "fig4",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "この　かばんは　いくらですか。",
+        "……7,300{円|えん}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L03/rc1.webp",
+    "dialog": [
+     {
+      "jp": "すみません。　[[トイレ]]は　どこですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "あそこです。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "どうも。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L03/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L03/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L03/rc2.webp",
+    "dialog": [
+     {
+      "jp": "お{国|くに}は　どちらですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[タイ]]です。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "うちは　どちらですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[バンコク]]です。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "そうですか。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L03/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L03/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L03/rc3.webp",
+    "dialog": [
+     {
+      "jp": "すみません。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "これは　どこの　[[コーヒー]]ですか。"
+     },
+     {
+      "jp": "[[インドネシア]]のです。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "いくらですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[600{円|えん}]]です。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L03/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L03/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L03_mondai1.m4a",
+    "cd_track": "CD10",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_truefalse",
+    "audio": "audio/L03_mondai2.m4a",
+    "cd_track": "CD11",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "fill",
+    "image": "img/L03/m3.webp",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "（ここ）は　（{受付|うけつけ}）です。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "（＿）は　（＿）です。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "（＿）は　（＿）です。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "（＿）は　（＿）です。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "（＿）は　（＿）です。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "（＿）は　（＿）です。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "choice",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "（わたし、[[わたしは]]、わたしの）　ミラーです。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "（これ、この、ここ）は　ドイツの　{車|くるま}です。"
+      ],
+      "choice_groups_jp": [
+       [
+        "これ",
+        "この",
+        "ここ"
+       ]
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "（それ、その、そこ）　かばんは　（わたし、わたしは、わたしの）です。"
+      ],
+      "choice_groups_jp": [
+       [
+        "それ",
+        "その",
+        "そこ"
+       ],
+       [
+        "わたし",
+        "わたしは",
+        "わたしの"
+       ]
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{事務所|じむしょ}は　（あれ、あの、あそこ）です。"
+      ],
+      "choice_groups_jp": [
+       [
+        "あれ",
+        "あの",
+        "あそこ"
+       ]
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "すみません。　{電話|でんわ}は　（だれ、{何|なん}、どこ）ですか。"
+      ],
+      "choice_groups_jp": [
+       [
+        "だれ",
+        "{何|なん}",
+        "どこ"
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "それは　（{何|なん}）ですか。",
+       "……{辞書|じしょ}です。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "すみません。　トイレは　（＿）ですか。",
+       "……あちらです。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "ミラーさんは　（＿）ですか。",
+       "……{会議室|かいぎしつ}です。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "カメラ{売|う}り{場|ば}は　（＿）ですか。",
+       "……5{階|かい}です。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "お{国|くに}は　（＿）ですか。",
+       "……ドイツです。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{会社|かいしゃ}は　（＿）ですか。",
+       "……パワー{電気|でんき}です。"
+      ]
+     },
+     {
+      "no": 6,
+      "lines_jp": [
+       "パワー{電気|でんき}は　（＿）の　{会社|かいしゃ}ですか。",
+       "……コンピューターの　{会社|かいしゃ}です。"
+      ]
+     },
+     {
+      "no": 7,
+      "lines_jp": [
+       "これは　（＿）の　ワインですか。",
+       "……イタリアの　ワインです。"
+      ]
+     },
+     {
+      "no": 8,
+      "lines_jp": [
+       "この　ワインは　（＿）ですか。",
+       "……2,800{円|えん}です。"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "ここ／そこ／あそこ／こちら／そちら／あちら",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "ここ, そこ, あそこ menunjukkan tempat. ここ menunjukkan tempat di mana si pembicara berada, そこ menunjukkan tempat di mana lawan bicara berada, dan あそこ menunjukkan tempat yang jauh dari kedua-duanya."
+     },
+     {
+      "type": "p",
+      "text_rich": "こちら, そちら, あちら menunjukkan arah, tetapi juga dapat dipakai untuk menunjukan tempat yang dapat dilihat oleh mata yang digantikan dengan ここ, そこ, あそこ. Dalam hal ini こちら, そちら, あちら menyatakan perasaan yang lebih sopan."
+     },
+     {
+      "type": "image",
+      "image": "img/L03/bunpou_koko.webp",
+      "caption": "ここ・そこ・あそこ"
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Jika si pembicara menganggap bahwa lawan bicaranya berada di daerah yang sama, maka tempat di mana kedua-duanya berada dikatakan ここ, tempat yang sedikit jauh dikatakan そこ, dan tempat yang jauh dikatakan あそこ."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Kata Benda は tempat です",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Dengan menggunakan pola kalimat ini, dapat menyatakan tempat di mana benda, tempat, atau orang berada."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "お{手洗|てあら}いは　あそこです。",
+        "tr": "Kamar kecil di sana."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "{電話|でんわ}は　2{階|かい}です。",
+        "tr": "Telepon di lantai dua."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "{山田|やまだ}さんは　{事務所|じむしょ}です。",
+        "tr": "Sdr. Yamada di kantor."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "どこ／どちら",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "どこ adalah Kata Tanya untuk tempat, dan どちら adalah Kata Tanya untuk bertanya arah. Untuk bertanya tempat, adakalanya digunakan どちら. Dalam hal ini, ungkapan menjadi lebih sopan daripada menggunakan どこ."
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "お{手洗|てあら}いは　どこですか。",
+        "tr": "Di mana kamar kecil?"
+       },
+       {
+        "jp": "……あそこです。",
+        "tr": "……Di sana."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "エレベーターは　どちらですか。",
+        "tr": "Lift di sebelah mana?"
+       },
+       {
+        "jp": "……あちらです。",
+        "tr": "……Di sebelah sana."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "text_rich": "Jika menanyakan nama negara, perusahaan, sekolah dan lain-lain seperti tempat atau organisasi, tidak menggunakan Kata Tanya なん melainkan menggunakan どこ, どちら. Dalam hal ini, ungkapan どちら menjadi lebih sopan daripada menggunakan どこ."
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "{学校|がっこう}は　どこですか。",
+        "tr": "Sekolah di mana?"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "{会社|かいしゃ}は　どちらですか。",
+        "tr": "Perusahaan mana?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "Kata Benda₁ の Kata Benda₂",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Jika Kata Benda₁ adalah nama negara dan Kata Benda₂ adalah produknya, maka Kata Benda₁ の berarti buatan dari negara tersebut. Kalau Kata Benda₁ adalah nama perusahaan, dan Kata Benda₂ adalah produknya, Kata Benda₁ の berarti buatan perusahaan tersebut. Untuk kedua pertanyaan digunakan Kata Tanya どこ."
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "これは　どこの　コンピューターですか。",
+        "tr": "Ini komputer buatan mana?"
+       },
+       {
+        "jp": "……{日本|にほん}の　コンピューターです。",
+        "tr": "……Komputer buatan Jepang."
+       },
+       {
+        "jp": "……パワー{電気|でんき}の　コンピューターです。",
+        "tr": "……Komputer Power Elektronik."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "Daftar こ／そ／あ／ど (Kata Penunjuk)",
+    "blocks": [
+     {
+      "type": "table",
+      "header": [
+       [
+        {
+         "tr": ""
+        }
+       ],
+       [
+        {
+         "tr": "kelompok こ"
+        }
+       ],
+       [
+        {
+         "tr": "kelompok そ"
+        }
+       ],
+       [
+        {
+         "tr": "kelompok あ"
+        }
+       ],
+       [
+        {
+         "tr": "kelompok ど"
+        }
+       ]
+      ],
+      "rows": [
+       [
+        [
+         {
+          "tr": "Barang"
+         }
+        ],
+        [
+         {
+          "jp": "これ"
+         }
+        ],
+        [
+         {
+          "jp": "それ"
+         }
+        ],
+        [
+         {
+          "jp": "あれ"
+         }
+        ],
+        [
+         {
+          "jp": "どれ",
+          "tr": "(Pel.16)"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "tr": "Barang/Orang"
+         }
+        ],
+        [
+         {
+          "jp": "この　Kata Benda"
+         }
+        ],
+        [
+         {
+          "jp": "その　Kata Benda"
+         }
+        ],
+        [
+         {
+          "jp": "あの　Kata Benda"
+         }
+        ],
+        [
+         {
+          "jp": "どの　Kata Benda",
+          "tr": "(Pel.16)"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "tr": "Tempat"
+         }
+        ],
+        [
+         {
+          "jp": "ここ"
+         }
+        ],
+        [
+         {
+          "jp": "そこ"
+         }
+        ],
+        [
+         {
+          "jp": "あそこ"
+         }
+        ],
+        [
+         {
+          "jp": "どこ"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "tr": "Arah/Tempat (halus)"
+         }
+        ],
+        [
+         {
+          "jp": "こちら"
+         }
+        ],
+        [
+         {
+          "jp": "そちら"
+         }
+        ],
+        [
+         {
+          "jp": "あちら"
+         }
+        ],
+        [
+         {
+          "jp": "どちら"
+         }
+        ]
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_rich": "お～",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Prefiks お dibubuhkan pada hal-hal yang bersangkut dengan lawan bicara atau orang pihak ketiga untuk menyatakan rasa hormat dari si pembicara."
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "［お］{国|くに}は　どちらですか。",
+        "tr": "Berasal dari mana?"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "デパート",
+   "title_tr": "Toserba",
+   "blocks": [
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{屋上|おくじょう}"
+        }
+       ],
+       [
+        {
+         "jp": "{遊園地|ゆうえんち}",
+         "tr": "tempat hiburan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "8{階|かい}"
+        }
+       ],
+       [
+        {
+         "jp": "レストラン・{催|もよお}し{物会場|ものかいじょう}",
+         "tr": "restoran, tempat pertunjukan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "7{階|かい}"
+        }
+       ],
+       [
+        {
+         "jp": "{時計|とけい}・{眼鏡|めがね}",
+         "tr": "jam, kaca mata"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "6{階|かい}"
+        }
+       ],
+       [
+        {
+         "jp": "スポーツ{用品|ようひん}・{旅行用品|りょこうようひん}",
+         "tr": "peralatan olahraga, peralatan bepergian"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "5{階|かい}"
+        }
+       ],
+       [
+        {
+         "jp": "{子|こ}ども{服|ふく}・おもちゃ・{本|ほん}・{文房具|ぶんぼうぐ}",
+         "tr": "pakaian anak, mainan, buku, alat tulis"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "4{階|かい}"
+        }
+       ],
+       [
+        {
+         "jp": "{家具|かぐ}・{食器|しょっき}・{電化製品|でんかせいひん}",
+         "tr": "perlengkapan rumah, alat makan, barang eletronik"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "3{階|かい}"
+        }
+       ],
+       [
+        {
+         "jp": "{紳士服|しんしふく}",
+         "tr": "pakaian pria"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "2{階|かい}"
+        }
+       ],
+       [
+        {
+         "jp": "{婦人服|ふじんふく}",
+         "tr": "pakaian wanita"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "1{階|かい}"
+        }
+       ],
+       [
+        {
+         "jp": "{靴|くつ}・かばん・アクセサリー・{化粧品|けしょうひん}",
+         "tr": "sepatu, tas, perhiasan, kosmetik"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{地下|ちか}1{階|かい}"
+        }
+       ],
+       [
+        {
+         "jp": "{食品|しょくひん}",
+         "tr": "makanan"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{地下|ちか}2{階|かい}"
+        }
+       ],
+       [
+        {
+         "jp": "{駐車場|ちゅうしゃじょう}",
+         "tr": "tempat parkir"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "image": "img/L03/sankou_depato.webp",
+     "caption": "デパート"
+    }
+   ]
+  }
+ }
+}

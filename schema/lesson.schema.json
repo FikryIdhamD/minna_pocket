@@ -1,0 +1,913 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "minna-pocket/lesson.schema.json",
+  "title": "Bab (hasil build) — assets/<book>/lessons/Lxx.json",
+  "type": "object",
+  "required": [
+    "book",
+    "lesson",
+    "id",
+    "title_jp",
+    "title_tr",
+    "sections"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "book": {
+      "type": "integer"
+    },
+    "lesson": {
+      "type": "integer"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^L\\d{2}$"
+    },
+    "title_jp": {
+      "$ref": "#/$defs/JpText"
+    },
+    "title_tr": {
+      "type": "string"
+    },
+    "source_pages": {
+      "type": "object"
+    },
+    "sections": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "kosakata": {
+          "$ref": "#/$defs/Kosakata"
+        },
+        "bunkei": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Bunkei"
+          }
+        },
+        "reibun": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Reibun"
+          }
+        },
+        "kaiwa": {
+          "$ref": "#/$defs/Kaiwa"
+        },
+        "renshuu_a": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/RenshuuA"
+          }
+        },
+        "renshuu_b": {
+          "$ref": "#/$defs/RenshuuB"
+        },
+        "renshuu_c": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/RenshuuC"
+          }
+        },
+        "mondai": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Mondai"
+          }
+        },
+        "bunpou": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Bunpou"
+          }
+        },
+        "sankou": {
+          "$ref": "#/$defs/Sankou"
+        }
+      }
+    }
+  },
+  "$defs": {
+    "Token": {
+      "type": "object",
+      "required": [
+        "s",
+        "ro"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "s": {
+          "type": "string"
+        },
+        "r": {
+          "type": "string"
+        },
+        "ro": {
+          "type": "string"
+        },
+        "k": {
+          "const": true
+        },
+        "u": {
+          "const": true
+        },
+        "blank": {
+          "const": true
+        }
+      }
+    },
+    "JpText": {
+      "type": "object",
+      "required": [
+        "jp",
+        "tokens"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "jp": {
+          "type": "string"
+        },
+        "tokens": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Token"
+          },
+          "minItems": 1
+        }
+      }
+    },
+    "JpTextOrNull": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/$defs/JpText"
+        }
+      ]
+    },
+    "JpList": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/JpText"
+      }
+    },
+    "Id": {
+      "type": "string",
+      "pattern": "^L\\d{2}\\.[a-z_]+(\\.\\d+)*$"
+    },
+    "Time": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      },
+      "minItems": 2,
+      "maxItems": 2
+    },
+    "Kosakata": {
+      "type": "object",
+      "required": [
+        "groups"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "groups": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "label_jp",
+              "items"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "label_jp": {
+                "$ref": "#/$defs/JpTextOrNull"
+              },
+              "separator": {
+                "type": "boolean"
+              },
+              "items": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "id",
+                    "kana_jp",
+                    "kanji_jp",
+                    "tr"
+                  ],
+                  "additionalProperties": false,
+                  "properties": {
+                    "id": {
+                      "$ref": "#/$defs/Id"
+                    },
+                    "kana_jp": {
+                      "$ref": "#/$defs/JpText"
+                    },
+                    "kanji_jp": {
+                      "$ref": "#/$defs/JpTextOrNull"
+                    },
+                    "tr": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Bunkei": {
+      "type": "object",
+      "required": [
+        "id",
+        "no",
+        "jp",
+        "tr"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/Id"
+        },
+        "no": {
+          "type": "integer"
+        },
+        "jp": {
+          "$ref": "#/$defs/JpText"
+        },
+        "variants_jp": {
+          "$ref": "#/$defs/JpList"
+        },
+        "tr": {
+          "type": "string"
+        }
+      }
+    },
+    "Line": {
+      "type": "object",
+      "required": [
+        "id",
+        "jp",
+        "tr"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/Id"
+        },
+        "jp": {
+          "$ref": "#/$defs/JpText"
+        },
+        "tr": {
+          "type": "string"
+        },
+        "variants_jp": {
+          "$ref": "#/$defs/JpList"
+        }
+      }
+    },
+    "Reibun": {
+      "type": "object",
+      "required": [
+        "id",
+        "no",
+        "lines"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/Id"
+        },
+        "no": {
+          "type": "integer"
+        },
+        "lines": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Line"
+          },
+          "minItems": 1
+        }
+      }
+    },
+    "DialogLine": {
+      "type": "object",
+      "required": [
+        "jp",
+        "speaker_jp",
+        "turn_start"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/Id"
+        },
+        "speaker_jp": {
+          "$ref": "#/$defs/JpTextOrNull"
+        },
+        "speaker_tr": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "turn_start": {
+          "type": "boolean"
+        },
+        "break_before": {
+          "type": "boolean"
+        },
+        "jp": {
+          "$ref": "#/$defs/JpText"
+        },
+        "tr": {
+          "type": "string"
+        },
+        "t": {
+          "$ref": "#/$defs/Time"
+        }
+      }
+    },
+    "Kaiwa": {
+      "type": "object",
+      "required": [
+        "id",
+        "title_jp",
+        "title_tr",
+        "image",
+        "audio",
+        "lines"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/Id"
+        },
+        "title_jp": {
+          "$ref": "#/$defs/JpText"
+        },
+        "title_tr": {
+          "type": "string"
+        },
+        "image": {
+          "type": "string"
+        },
+        "audio": {
+          "type": "string"
+        },
+        "cd_track": {
+          "type": "string"
+        },
+        "duration": {
+          "type": "number"
+        },
+        "timing": {
+          "enum": [
+            "auto",
+            "manual"
+          ]
+        },
+        "lines": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/DialogLine"
+          },
+          "minItems": 1
+        }
+      }
+    },
+    "Box": {
+      "type": "object",
+      "required": [
+        "opts_jp"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "opts_jp": {
+          "$ref": "#/$defs/JpList"
+        },
+        "hl": {
+          "enum": [
+            "normal",
+            "strong",
+            "none"
+          ]
+        }
+      }
+    },
+    "Segment": {
+      "oneOf": [
+        {
+          "type": "object",
+          "required": [
+            "text_jp"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "text_jp": {
+              "$ref": "#/$defs/JpText"
+            },
+            "variants_jp": {
+              "$ref": "#/$defs/JpList"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "required": [
+            "slot"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "slot": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/Box"
+              },
+              "minItems": 1
+            }
+          }
+        }
+      ]
+    },
+    "RenshuuA": {
+      "type": "object",
+      "required": [
+        "id",
+        "no",
+        "lines"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/Id"
+        },
+        "no": {
+          "type": "integer"
+        },
+        "lines": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/Segment"
+            },
+            "minItems": 1
+          }
+        }
+      }
+    },
+    "Example": {
+      "type": "object",
+      "required": [
+        "answer_jp"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "prompt_jp": {
+          "$ref": "#/$defs/JpTextOrNull"
+        },
+        "answer_jp": {
+          "$ref": "#/$defs/JpList"
+        }
+      }
+    },
+    "RenshuuB": {
+      "type": "object",
+      "required": [
+        "figures",
+        "items"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "figures": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "image"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "image": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "no",
+              "examples",
+              "questions"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "id": {
+                "$ref": "#/$defs/Id"
+              },
+              "no": {
+                "type": "integer"
+              },
+              "figure": {
+                "type": "string"
+              },
+              "instruction_jp": {
+                "$ref": "#/$defs/JpText"
+              },
+              "examples": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/$defs/Example"
+                }
+              },
+              "questions": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "id",
+                    "no"
+                  ],
+                  "additionalProperties": false,
+                  "properties": {
+                    "id": {
+                      "$ref": "#/$defs/Id"
+                    },
+                    "no": {
+                      "type": "integer"
+                    },
+                    "prompt_jp": {
+                      "$ref": "#/$defs/JpTextOrNull"
+                    },
+                    "image": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "RenshuuC": {
+      "type": "object",
+      "required": [
+        "id",
+        "no",
+        "dialog",
+        "substitutions"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/Id"
+        },
+        "no": {
+          "type": "integer"
+        },
+        "image": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "dialog": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/DialogLine"
+          }
+        },
+        "substitutions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "no"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "no": {
+                "type": "integer"
+              },
+              "image": {
+                "type": "string"
+              },
+              "opts_jp": {
+                "$ref": "#/$defs/JpList"
+              }
+            }
+          }
+        }
+      }
+    },
+    "MondaiExample": {
+      "type": "object",
+      "required": [
+        "label_jp"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "label_jp": {
+          "$ref": "#/$defs/JpText"
+        },
+        "lines_jp": {
+          "$ref": "#/$defs/JpList"
+        },
+        "image": {
+          "type": "string"
+        },
+        "options": {
+          "type": "integer"
+        },
+        "answer": {
+          "type": "string"
+        }
+      }
+    },
+    "Mondai": {
+      "type": "object",
+      "required": [
+        "id",
+        "no",
+        "kind",
+        "examples",
+        "questions"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/Id"
+        },
+        "no": {
+          "type": "integer"
+        },
+        "kind": {
+          "enum": [
+            "listen_write",
+            "listen_choice_image",
+            "listen_truefalse",
+            "listen_choice",
+            "fill",
+            "compose",
+            "choice",
+            "write",
+            "truefalse"
+          ]
+        },
+        "instruction_jp": {
+          "$ref": "#/$defs/JpText"
+        },
+        "audio": {
+          "type": "string"
+        },
+        "cd_track": {
+          "type": "string"
+        },
+        "duration": {
+          "type": "number"
+        },
+        "image": {
+          "type": "string"
+        },
+        "passage_title_jp": {
+          "$ref": "#/$defs/JpText"
+        },
+        "passage_jp": {
+          "$ref": "#/$defs/JpList"
+        },
+        "timing": {
+          "enum": [
+            "auto",
+            "manual"
+          ]
+        },
+        "segments": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "label",
+              "t"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "label": {
+                "type": "string"
+              },
+              "t": {
+                "$ref": "#/$defs/Time"
+              }
+            }
+          }
+        },
+        "examples": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/MondaiExample"
+          }
+        },
+        "questions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "no"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "id": {
+                "$ref": "#/$defs/Id"
+              },
+              "no": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "lines_jp": {
+                "$ref": "#/$defs/JpList"
+              },
+              "image": {
+                "type": "string"
+              },
+              "options": {
+                "type": "integer"
+              },
+              "choices_jp": {
+                "$ref": "#/$defs/JpList"
+              },
+              "choice_groups_jp": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/$defs/JpList"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Block": {
+      "type": "object",
+      "required": [
+        "type"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "type": {
+          "enum": [
+            "h",
+            "p",
+            "note",
+            "ex",
+            "table",
+            "image"
+          ]
+        },
+        "text_rich": {
+          "$ref": "#/$defs/JpText"
+        },
+        "mark": {
+          "type": "string"
+        },
+        "lines": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "jp"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "jp": {
+                "$ref": "#/$defs/JpText"
+              },
+              "tr": {
+                "type": "string"
+              },
+              "variants_jp": {
+                "$ref": "#/$defs/JpList"
+              },
+              "speaker_jp": {
+                "$ref": "#/$defs/JpTextOrNull"
+              },
+              "speaker_tr": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          }
+        },
+        "header": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Cell"
+          }
+        },
+        "rows": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/Cell"
+            }
+          }
+        },
+        "image": {
+          "type": "string"
+        },
+        "caption": {
+          "type": "string"
+        }
+      }
+    },
+    "Cell": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "jp": {
+            "$ref": "#/$defs/JpText"
+          },
+          "tr": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "Bunpou": {
+      "type": "object",
+      "required": [
+        "id",
+        "no",
+        "title_rich",
+        "blocks"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/Id"
+        },
+        "no": {
+          "type": "integer"
+        },
+        "title_rich": {
+          "$ref": "#/$defs/JpText"
+        },
+        "title_note": {
+          "type": "string"
+        },
+        "blocks": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Block"
+          }
+        }
+      }
+    },
+    "Sankou": {
+      "type": "object",
+      "required": [
+        "id",
+        "title_jp",
+        "title_tr",
+        "blocks"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/Id"
+        },
+        "title_jp": {
+          "$ref": "#/$defs/JpText"
+        },
+        "title_tr": {
+          "type": "string"
+        },
+        "blocks": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Block"
+          }
+        }
+      }
+    }
+  }
+}

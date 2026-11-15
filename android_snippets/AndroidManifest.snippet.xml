@@ -1,0 +1,12 @@
+<!-- ===== Perubahan android/app/src/main/AndroidManifest.xml (lihat docs/02 Task T03) ===== -->
+
+<!-- (A) tepat SETELAH tag pembuka <manifest ...> : -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+<!-- (B) atribut android:label pada tag <application> GANTI menjadi: -->
+        android:label="@string/app_name"
+
+<!-- (C) di dalam blok <queries> yang sudah ada (jika tidak ada, buat <queries>...</queries> sebelum </manifest>), tambahkan: -->
+        <intent>
+            <action android:name="android.intent.action.TTS_SERVICE"/>
+        </intent>

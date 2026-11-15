@@ -1,0 +1,22 @@
+{
+  "id": "howto",
+  "title": "Cara Penggunaan Efektif",
+  "source_pages": { "translation_pdf": [11] },
+  "sections": [
+    { "id": "howto", "title": "Cara Penggunaan Efektif", "blocks": [
+      { "type": "h", "text_rich": "1. Menghafal kosa kata" },
+      { "type": "p", "text_rich": "Di dalam \"Terjemahan dan Keterangan Tata Bahasa\" disajikan kosa kata baru dan terjemahannya dari setiap pelajaran. Dianjurkan untuk menghafal kosa kata baru dari setiap pelajaran dengan cara membuat kalimat singkat." },
+      { "type": "h", "text_rich": "2. Latihan pola kalimat" },
+      { "type": "p", "text_rich": "Memahami betul maksud pola kalimat, kemudian berlatih \"Latihan A\" dan \"Latihan B\" sambil mengucapkannya sampai menguasai bentuk kalimat." },
+      { "type": "h", "text_rich": "3. Latihan percakapan" },
+      { "type": "p", "text_rich": "\"Latihan C\" adalah percakapan sederhana dan singkat. Tidak hanya latihan pola kalimat saja, tetapi melanjutkan percakapan agar berkembang." },
+      { "type": "p", "text_rich": "\"Percakapan\" disusun dari adegan yang dialami dalam kehidupan sehari-hari. Jika latihan percakapan dilakukan sambil mendengar CD dan disertai juga dengan gerakan, maka dapat menguasai irama secara alami." },
+      { "type": "h", "text_rich": "4. Pengulangan" },
+      { "type": "p", "text_rich": "Disajikan \"Soal\" sebagai kesimpulan akhir untuk setiap pelajaran. Mengulang kembali dengan \"Soal\" tersebut untuk memastikan pemahaman materi dengan baik." },
+      { "type": "h", "text_rich": "5. Mempraktekkan percakapan" },
+      { "type": "p", "text_rich": "Dengan memakai hal-hal yang telah dipelajari, segeralah coba bercakap dengan orang Jepang. Mempraktekkan hal yang telah dipelajari. Itulah cara mudah untuk kemajuan." },
+      { "type": "image", "image": "img/extras/howto_susunan.webp", "caption": "Susunan Pelajaran" },
+      { "type": "note", "text_rich": "Belajar dengan susunan (1) atau (2). Inti pelajaran silakan melihat pada daftar inti pelajaran di bagian akhir." }
+    ] }
+  ]
+}

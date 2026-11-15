@@ -1,0 +1,1813 @@
+{
+ "book": 1,
+ "lesson": 12,
+ "title_jp": "{祇園祭|ぎおんまつり}は　どうでしたか",
+ "title_tr": "Bagaimana Perayaan Gion?",
+ "source_pages": {
+  "main_pdf": [
+   121,
+   128
+  ],
+  "translation_pdf": [
+   96,
+   101
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "かんたん［な］",
+       "kanji_jp": "{簡単|かんたん}［な］",
+       "tr": "mudah, gampang"
+      },
+      {
+       "kana_jp": "ちかい",
+       "kanji_jp": "{近|ちか}い",
+       "tr": "dekat"
+      },
+      {
+       "kana_jp": "とおい*",
+       "kanji_jp": "{遠|とお}い",
+       "tr": "jauh"
+      },
+      {
+       "kana_jp": "はやい",
+       "kanji_jp": "{速|はや}い、{早|はや}い",
+       "tr": "cepat"
+      },
+      {
+       "kana_jp": "おそい*",
+       "kanji_jp": "{遅|おそ}い",
+       "tr": "lambat"
+      },
+      {
+       "kana_jp": "おおい［ひとが～］",
+       "kanji_jp": "{多|おお}い［{人|ひと}が～］",
+       "tr": "banyak [orang]"
+      },
+      {
+       "kana_jp": "すくない*［ひとが～］",
+       "kanji_jp": "{少|すく}ない［{人|ひと}が～］",
+       "tr": "sedikit [orang]"
+      },
+      {
+       "kana_jp": "あたたかい",
+       "kanji_jp": "{暖|あたた}かい、{温|あたた}かい",
+       "tr": "hangat"
+      },
+      {
+       "kana_jp": "すずしい",
+       "kanji_jp": "{涼|すず}しい",
+       "tr": "sejuk"
+      },
+      {
+       "kana_jp": "あまい",
+       "kanji_jp": "{甘|あま}い",
+       "tr": "manis"
+      },
+      {
+       "kana_jp": "からい",
+       "kanji_jp": "{辛|から}い",
+       "tr": "pedas"
+      },
+      {
+       "kana_jp": "おもい",
+       "kanji_jp": "{重|おも}い",
+       "tr": "berat"
+      },
+      {
+       "kana_jp": "かるい*",
+       "kanji_jp": "{軽|かる}い",
+       "tr": "ringan"
+      },
+      {
+       "kana_jp": "いい［コーヒーが～］",
+       "kanji_jp": null,
+       "tr": "lebih baik [kopi]"
+      },
+      {
+       "kana_jp": "きせつ",
+       "kanji_jp": "{季節|きせつ}",
+       "tr": "musim"
+      },
+      {
+       "kana_jp": "はる",
+       "kanji_jp": "{春|はる}",
+       "tr": "musim semi"
+      },
+      {
+       "kana_jp": "なつ",
+       "kanji_jp": "{夏|なつ}",
+       "tr": "musim panas"
+      },
+      {
+       "kana_jp": "あき",
+       "kanji_jp": "{秋|あき}",
+       "tr": "musim gugur"
+      },
+      {
+       "kana_jp": "ふゆ",
+       "kanji_jp": "{冬|ふゆ}",
+       "tr": "musim dingin"
+      },
+      {
+       "kana_jp": "てんき",
+       "kanji_jp": "{天気|てんき}",
+       "tr": "cuaca"
+      },
+      {
+       "kana_jp": "あめ",
+       "kanji_jp": "{雨|あめ}",
+       "tr": "hujan"
+      },
+      {
+       "kana_jp": "ゆき",
+       "kanji_jp": "{雪|ゆき}",
+       "tr": "salju"
+      },
+      {
+       "kana_jp": "くもり",
+       "kanji_jp": "{曇|くも}り",
+       "tr": "mendung"
+      },
+      {
+       "kana_jp": "ホテル",
+       "kanji_jp": null,
+       "tr": "hotel"
+      },
+      {
+       "kana_jp": "くうこう",
+       "kanji_jp": "{空港|くうこう}",
+       "tr": "bandara"
+      },
+      {
+       "kana_jp": "うみ",
+       "kanji_jp": "{海|うみ}",
+       "tr": "laut"
+      },
+      {
+       "kana_jp": "せかい",
+       "kanji_jp": "{世界|せかい}",
+       "tr": "dunia"
+      },
+      {
+       "kana_jp": "パーティー",
+       "kanji_jp": null,
+       "tr": "pesta (～を　します: berpesta)"
+      },
+      {
+       "kana_jp": "［お］まつり",
+       "kanji_jp": "［お］{祭|まつ}り",
+       "tr": "perayaan"
+      },
+      {
+       "kana_jp": "すきやき*",
+       "kanji_jp": "すき{焼|や}き",
+       "tr": "Sukiyaki (masakan yang dimasak daging sapi dan sayur dalam panci)"
+      },
+      {
+       "kana_jp": "さしみ*",
+       "kanji_jp": "{刺身|さしみ}",
+       "tr": "Sashimi (ikan mentah yang dipotong tipis)"
+      },
+      {
+       "kana_jp": "［お］すし",
+       "kanji_jp": null,
+       "tr": "Sushi (nasi dicampur cuka yang di atasnya diberi ikan mentah)"
+      },
+      {
+       "kana_jp": "てんぷら",
+       "kanji_jp": null,
+       "tr": "Tempura (gorengan sari laut dan sayur yang dipakai tepung terigu)"
+      },
+      {
+       "kana_jp": "ぶたにく*",
+       "kanji_jp": "{豚肉|ぶたにく}",
+       "tr": "daging babi"
+      },
+      {
+       "kana_jp": "とりにく",
+       "kanji_jp": "とり{肉|にく}",
+       "tr": "daging ayam"
+      },
+      {
+       "kana_jp": "ぎゅうにく",
+       "kanji_jp": "{牛肉|ぎゅうにく}",
+       "tr": "daging sapi"
+      },
+      {
+       "kana_jp": "レモン",
+       "kanji_jp": null,
+       "tr": "lemon"
+      },
+      {
+       "kana_jp": "いけばな",
+       "kanji_jp": "{生|い}け{花|ばな}",
+       "tr": "seni merangkai bunga (～を　します: merangkai bunga)"
+      },
+      {
+       "kana_jp": "もみじ",
+       "kanji_jp": "{紅葉|もみじ}",
+       "tr": "maple, daun yang berubah warna menjadi merah"
+      },
+      {
+       "kana_jp": "どちら",
+       "kanji_jp": null,
+       "tr": "yang mana"
+      },
+      {
+       "kana_jp": "どちらも",
+       "kanji_jp": null,
+       "tr": "dua-duanya, yang mana juga"
+      },
+      {
+       "kana_jp": "いちばん",
+       "kanji_jp": null,
+       "tr": "paling"
+      },
+      {
+       "kana_jp": "ずっと",
+       "kanji_jp": null,
+       "tr": "jauh lebih"
+      },
+      {
+       "kana_jp": "はじめて",
+       "kanji_jp": "{初|はじ}めて",
+       "tr": "untuk pertama kali"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "ただいま。",
+       "kanji_jp": null,
+       "tr": "Saya kembali./Saya pulang."
+      },
+      {
+       "kana_jp": "お{帰|かえ}りなさい。",
+       "kanji_jp": null,
+       "tr": "Sudah pulang ya."
+      },
+      {
+       "kana_jp": "わあ、すごい　{人|ひと}ですね。",
+       "kanji_jp": null,
+       "tr": "Wah, banyak orang."
+      },
+      {
+       "kana_jp": "{疲|つか}れました。",
+       "kanji_jp": null,
+       "tr": "Lelah."
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "{祇園祭|ぎおんまつり}",
+       "kanji_jp": null,
+       "tr": "Perayaan Gion (perayaan yang paling ternekal di Kyoto)"
+      },
+      {
+       "kana_jp": "ホンコン",
+       "kanji_jp": null,
+       "tr": "Hong Kong (香港)"
+      },
+      {
+       "kana_jp": "シンガポール",
+       "kanji_jp": null,
+       "tr": "Singapura"
+      },
+      {
+       "kana_jp": "ABCストア",
+       "kanji_jp": null,
+       "tr": "pasar swalayan fiksi"
+      },
+      {
+       "kana_jp": "ジャパン",
+       "kanji_jp": null,
+       "tr": "pasar swalayan fiksi"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "きのうは　{雨|あめ}でした。",
+    "tr": "Kemarin hujan."
+   },
+   {
+    "no": 2,
+    "jp": "きのうは　{寒|さむ}かったです。",
+    "tr": "Kemarin dingin."
+   },
+   {
+    "no": 3,
+    "jp": "{北海道|ほっかいどう}は　{九州|きゅうしゅう}より　{大|おお}きいです。",
+    "tr": "Hokkaido lebih luas daripada Kyushu."
+   },
+   {
+    "no": 4,
+    "jp": "わたしは　1{年|ねん}で　{夏|なつ}が　いちばん　{好|す}きです。",
+    "tr": "Dalam satu tahun saya paling suka musim panas."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "{京都|きょうと}は　{静|しず}かでしたか。",
+      "tr": "Apakah Kyoto tenang?"
+     },
+     {
+      "jp": "……いいえ、{静|しず}かじゃ　ありませんでした。",
+      "tr": "……Tidak, tidak tenang."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "{旅行|りょこう}は　{楽|たの}しかったですか。",
+      "tr": "Apakah wisatanya menyenang?"
+     },
+     {
+      "jp": "……はい、{楽|たの}しかったです。",
+      "tr": "……Ya, menyenangkan."
+     },
+     {
+      "jp": "{天気|てんき}は　よかったですか。",
+      "tr": "Cuacanya baik?"
+     },
+     {
+      "jp": "……いいえ、あまり　よくなかったです。",
+      "tr": "……Tidak, tidak begitu baik."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "きのうの　パーティーは　どうでしたか。",
+      "tr": "Bagaimana pesta kemarin?"
+     },
+     {
+      "jp": "……とても　にぎやかでした。　いろいろな　{人|ひと}に　{会|あ}いました。",
+      "tr": "……Sangat ramai. Saya bertemu dengan banyak orang."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "ニューヨークは　{大阪|おおさか}より　{寒|さむ}いですか。",
+      "tr": "Apakah New York lebih dingin daripada Osaka?"
+     },
+     {
+      "jp": "……ええ、ずっと　{寒|さむ}いです。",
+      "tr": "……Ya, jauh lebih dingin."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "{空港|くうこう}まで　バスと　{電車|でんしゃ}と　どちらが　{速|はや}いですか。",
+      "tr": "Kalau pergi ke bandara, yang mana lebih cepat, dengan bus atau kereta rel listrik?"
+     },
+     {
+      "jp": "……{電車|でんしゃ}の　ほうが　{速|はや}いです。",
+      "tr": "……Lebih cepat dengn kereta rel listrik."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "{海|うみ}と　{山|やま}と　どちらが　{好|す}きですか。",
+      "tr": "Suka yang mana, laut atau gunung?"
+     },
+     {
+      "jp": "……どちらも　{好|す}きです。",
+      "tr": "……Suka dua-duanya."
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "lines": [
+     {
+      "jp": "{日本料理|にほんりょうり}［の　{中|なか}］で　{何|なに}が　いちばん　{好|す}きですか。",
+      "tr": "Anda paling suka apa di antara masakan Jepang?"
+     },
+     {
+      "jp": "……てんぷらが　いちばん　{好|す}きです。",
+      "tr": "……Tempura yang paling suka."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "{祇園祭|ぎおんまつり}は　どうでしたか",
+   "title_tr": "Bagaimana Perayaan Gion?",
+   "image": "img/L12/kaiwa.webp",
+   "audio": "audio/L12_kaiwa.m4a",
+   "cd_track": "CD43",
+   "lines": [
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "ただいま。",
+     "tr": "Saya pulang."
+    },
+    {
+     "speaker_jp": "{管理人|かんりにん}",
+     "speaker_tr": "Petugas sekuriti",
+     "jp": "お{帰|かえ}りなさい。",
+     "tr": "Sudah pulang ya."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "これ、{京都|きょうと}の　お{土産|みやげ}です。",
+     "tr": "Ini oleh-oleh dari Kyoto."
+    },
+    {
+     "speaker_jp": "{管理人|かんりにん}",
+     "speaker_tr": "Petugas sekuriti",
+     "jp": "どうも　すみません。",
+     "tr": "Wah, merepotkan Anda."
+    },
+    {
+     "jp": "{祇園祭|ぎおんまつり}は　どうでしたか。",
+     "tr": "Bagaimana perayaan Gion?"
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "おもしろかったです。",
+     "tr": "Menyenangkan."
+    },
+    {
+     "jp": "とても　にぎやかでした。",
+     "tr": "Sangat ramai."
+    },
+    {
+     "speaker_jp": "{管理人|かんりにん}",
+     "speaker_tr": "Petugas sekuriti",
+     "jp": "{祇園祭|ぎおんまつり}は　{京都|きょうと}の　{祭|まつ}りで　いちばん　{有名|ゆうめい}ですからね。",
+     "tr": "Memang, karena perayaan Gion paling terkenal di antara perayaan di Kyoto."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "そうですか。",
+     "tr": "O, begitu."
+    },
+    {
+     "jp": "{写真|しゃしん}を　たくさん　{撮|と}りました。　これです。",
+     "tr": "Saya mengambil banyak foto. Ini fotonya."
+    },
+    {
+     "speaker_jp": "{管理人|かんりにん}",
+     "speaker_tr": "Petugas sekuriti",
+     "jp": "わあ、すごい　{人|ひと}ですね。",
+     "tr": "Wah, banyak orang, ya."
+    },
+    {
+     "speaker_jp": "ミラー",
+     "speaker_tr": "Miller",
+     "jp": "ええ。　ちょっと　{疲|つか}れました。",
+     "tr": "Ya. Saya sedikit lelah."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "{京都|きょうと}は"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ゆきでした。",
+          "きれいでした。",
+          "さむかったです。"
+         ]
+        },
+        {
+         "opts_jp": [
+          "どうでした"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "か。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "やすみ",
+          "きれい",
+          "しずか"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "でした"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "やすみ",
+          "きれい",
+          "しずか"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "じゃ　ありませんでした"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "（では）"
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あつ",
+          "おいし",
+          "よ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "かった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "です　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "あつ",
+          "おいし",
+          "よ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "くなかった"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "です"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "とうきょう",
+          "この　シャツ",
+          "わたしの　くるま"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "は"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おおさか",
+          "その　シャツ",
+          "ミラーさんの　くるま"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "より　{大|おお}きいです。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "サッカー",
+          "ほん",
+          "しごと"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "と"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "やきゅう",
+          "えいが",
+          "べんきょう"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "と　どちらが　おもしろいですか。"
+      }
+     ],
+     [
+      {
+       "text_jp": "……"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "サッカー",
+          "ほん",
+          "しごと"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "の　ほうが　おもしろいです。"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "スポーツ",
+          "にほんじん",
+          "せかい",
+          "いちねん"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "で"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "なに"
+         ],
+         "hl": "strong"
+        },
+        {
+         "opts_jp": [
+          "だれ"
+         ],
+         "hl": "strong"
+        },
+        {
+         "opts_jp": [
+          "どこ"
+         ],
+         "hl": "strong"
+        },
+        {
+         "opts_jp": [
+          "いつ"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "が　いちばん"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "おもしろい",
+          "ゆうめい",
+          "きれい",
+          "さむい"
+         ]
+        }
+       ]
+      },
+      {
+       "text_jp": "ですか。"
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig5",
+     "image": "img/L12/rb_fig5.webp"
+    },
+    {
+     "id": "fig7",
+     "image": "img/L12/rb_fig7.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "examples": [
+      {
+       "prompt_jp": "きのう・いい　{天気|てんき}",
+       "answer_jp": [
+        "きのうは　いい　{天気|てんき}でした。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "おととい・{雨|あめ}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{図書館|としょかん}・{休|やす}み"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{先週|せんしゅう}・{暇|ひま}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{奈良公園|ならこうえん}・{静|しず}か"
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "examples": [
+      {
+       "prompt_jp": "きのう・{涼|すず}しい",
+       "answer_jp": [
+        "きのうは　{涼|すず}しかったです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{先月|せんげつ}・{忙|いそが}しい"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "お{祭|まつ}り・{楽|たの}しい"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{去年|きょねん}の　{冬|ふゆ}・{暖|あたた}かい"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{公園|こうえん}・{人|ひと}が　{多|おお}い"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "examples": [
+      {
+       "prompt_jp": "サントスさん・{元気|げんき}（はい）",
+       "answer_jp": [
+        "サントスさんは　{元気|げんき}でしたか。",
+        "……はい、{元気|げんき}でした。"
+       ]
+      },
+      {
+       "prompt_jp": "パーティーの　{料理|りょうり}・おいしい（いいえ）",
+       "answer_jp": [
+        "パーティーの　{料理|りょうり}は　おいしかったですか。",
+        "……いいえ、おいしくなかったです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "お{祭|まつ}り・にぎやか（はい、とても）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{試験|しけん}・{簡単|かんたん}（いいえ）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{歌舞伎|かぶき}・おもしろい（はい）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "コンサート・いい（いいえ、あまり）"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "{京都|きょうと}（とても　きれい）",
+       "answer_jp": [
+        "{京都|きょうと}は　どうでしたか。",
+        "……とても　きれいでした。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{天気|てんき}（{曇|くも}り）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "タイ{料理|りょうり}（{辛|から}い）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{北海道|ほっかいどう}（あまり　{寒|さむ}くない）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "ホテルの　{部屋|へや}（とても　すてき）"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "figure": "fig5",
+     "examples": [
+      {
+       "prompt_jp": "{北海道|ほっかいどう}・{大阪|おおさか}・{涼|すず}しい",
+       "answer_jp": [
+        "{北海道|ほっかいどう}は　{大阪|おおさか}より　{涼|すず}しいです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "この　かばん・その　かばん・{重|おも}い"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{牛肉|ぎゅうにく}・とり{肉|にく}・{高|たか}い"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "ホンコン・シンガポール・{近|ちか}い"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "ミラーさん・サントスさん・テニスが　{上手|じょうず}"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "examples": [
+      {
+       "prompt_jp": "{今週|こんしゅう}・{来週|らいしゅう}・{暇|ひま}（{来週|らいしゅう}）",
+       "answer_jp": [
+        "{今週|こんしゅう}と　{来週|らいしゅう}と　どちらが　{暇|ひま}ですか。",
+        "……{来週|らいしゅう}の　ほうが　{暇|ひま}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "ひらがな・かたかな・{難|むずか}しい（かたかな）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{大|おお}きい　みかん・{小|ちい}さい　みかん・{甘|あま}い（{小|ちい}さい　みかん）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "お{父|とう}さん・お{母|かあ}さん・{料理|りょうり}が　{上手|じょうず}（{父|ちち}）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{春|はる}・{秋|あき}・{好|す}き（どちらも）"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "figure": "fig7",
+     "examples": [
+      {
+       "prompt_jp": "お{母|かあ}さんの　{料理|りょうり}・おいしい",
+       "answer_jp": [
+        "お{母|かあ}さんの　{料理|りょうり}で　{何|なに}が　いちばん　おいしいですか。",
+        "……カレーが　いちばん　おいしいです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "スポーツ・おもしろい"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "1{年|ねん}・{暑|あつ}い"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{家族|かぞく}・{歌|うた}が　{上手|じょうず}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "スーパー・{安|やす}い"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L12/rc1.webp",
+    "dialog": [
+     {
+      "jp": "きのう　{初|はじ}めて　[[おすしを　{食|た}べ]]ました。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "どうでしたか。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[とても　おいしかったです]]。",
+      "speaker_jp": "A"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L12/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L12/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L12/rc2.webp",
+    "dialog": [
+     {
+      "jp": "[[お{茶|ちゃ}]]は　いかがですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ありがとう　ございます。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[{熱|あつ}いの]]と　[[{冷|つめ}たいの]]と　どちらが　いいですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "[[{熱|あつ}いの]]を　お{願|ねが}いします。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L12/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L12/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L12/rc3.webp",
+    "dialog": [
+     {
+      "jp": "{来年|らいねん}　{北海道|ほっかいどう}へ　{行|い}きます。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "いつが　いちばん　いいですか。"
+     },
+     {
+      "jp": "そうですね。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[6{月|がつ}]]が　いちばん　いいですよ。"
+     },
+     {
+      "jp": "[[6{月|がつ}]]ですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ええ。　[[きれいな　{花|はな}が　たくさん　あります]]から。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L12/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L12/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L12_mondai1.m4a",
+    "cd_track": "CD44",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_truefalse",
+    "audio": "audio/L12_mondai2.m4a",
+    "cd_track": "CD45",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "この　{卵|たまご}は　{新|あたら}しいですか。……いいえ、（{古|ふる}い）です。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "あなたの　うちは　{駅|えき}から　{近|ちか}いですか。……いいえ、（＿）です。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{日曜日|にちようび}は　{車|くるま}が　{多|おお}いですか。……いいえ、（＿）です。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "その　カメラは　{軽|かる}いですか。……いいえ、（＿）です。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{野球|やきゅう}が　{好|す}きですか。……いいえ、（＿）です。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{海|うみ}は　きれいでしたか。",
+       "……いいえ、あまり　（きれいじゃ　ありませんでした）。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{天気|てんき}は　よかったですか。",
+       "……いいえ、（＿）。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "きのうは　{雨|あめ}でしたか。",
+       "……いいえ、（＿）。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{映画|えいが}は　おもしろかったですか。",
+       "……いいえ、あまり　（＿）。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{試験|しけん}は　{簡単|かんたん}でしたか。",
+       "……いいえ、あまり　（＿）。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "{先週|せんしゅう}は　{忙|いそが}しかったですか。",
+       "……いいえ、（＿）。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "あの　{人|ひと}は　（だれ）ですか。……ミラーさんです。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{夏|なつ}と　{冬|ふゆ}と　（＿）が　{好|す}きですか。",
+       "……{冬|ふゆ}の　ほうが　{好|す}きです。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{家族|かぞく}で　（＿）が　いちばん　{料理|りょうり}が　{上手|じょうず}ですか。",
+       "……{父|ちち}が　いちばん　{上手|じょうず}です。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "スポーツで　（＿）が　いちばん　おもしろいですか。",
+       "……サッカーが　いちばん　おもしろいです。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{日本|にほん}で　（＿）が　いちばん　{人|ひと}が　{多|おお}いですか。",
+       "……{東京|とうきょう}が　いちばん　{多|おお}いです。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "1{週間|しゅうかん}で　（＿）が　いちばん　{忙|いそが}しいですか。",
+       "……{月曜日|げつようび}が　いちばん　{忙|いそが}しいです。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "choice",
+    "passage_title_jp": "どこが　いちばん　いいですか",
+    "passage_jp": [
+     "わたしの　うちの　{近|ちか}くに　スーパーが　{3つ|みっつ}　あります。　「{毎日屋|まいにちや}」と　「ABCストア」と　「ジャパン」です。",
+     "「{毎日屋|まいにちや}」は　いちばん　{小|ちい}さい　{店|みせ}ですが、{近|ちか}いです。　うちから　{歩|ある}いて　5{分|ふん}です。　{新|あたら}しい　{魚|さかな}が　{多|おお}いです。　{野菜|やさい}や　{果物|くだもの}も　{多|おお}いです。　{外国|がいこく}の　{物|もの}は　{全然|ぜんぜん}　ありません。",
+     "「ABCストア」は　うちから　{歩|ある}いて　15{分|ふん}　かかります。　{肉|にく}が　{多|おお}いです。　いちばん　{安|やす}い　{店|みせ}です。　{外国|がいこく}の　{物|もの}も　ありますが、「ジャパン」より　{少|すく}ないです。　おいしい　パンが　あります。",
+     "「ジャパン」は　いちばん　{遠|とお}いです。　{魚|さかな}は　あまり　{多|おお}くないですが、{肉|にく}が　たくさん　あります。　{外国|がいこく}の　{物|もの}が　{多|おお}いです。　とても　{大|おお}きい　{店|みせ}です。　「ABCストア」より　{大|おお}きいです。　{3つ|みっつ}の　{店|みせ}の　{中|なか}で　わたしは　「ABCストア」が　いちばん　{好|す}きです。"
+    ],
+    "instruction_jp": "どこで　{買|か}いましたか。",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{刺身|さしみ}を　{食|た}べました。　{新|あたら}しかったですから、おいしかったです。（[[{毎日屋|まいにちや}]]）"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "{夫|おっと}の　{誕生日|たんじょうび}に　{肉|にく}と　ワインと　おいしい　パンを　{買|か}いました。"
+      ],
+      "choices_jp": [
+       "{毎日屋|まいにちや}",
+       "ABCストア",
+       "ジャパン"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{自転車|じてんしゃ}で　15{分|ふん}　かかりました。{外国|がいこく}の　{物|もの}を　たくさん　{買|か}いました。"
+      ],
+      "choices_jp": [
+       "{毎日屋|まいにちや}",
+       "ABCストア",
+       "ジャパン"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "きのうは　{雨|あめ}でしたから、いちばん　{近|ちか}い　スーパーへ　{行|い}きました。"
+      ],
+      "choices_jp": [
+       "{毎日屋|まいにちや}",
+       "ABCストア",
+       "ジャパン"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{今晩|こんばん}は　すき{焼|や}きです。{肉|にく}を　たくさん　{買|か}いました。とても　{安|やす}かったです。"
+      ],
+      "choices_jp": [
+       "{毎日屋|まいにちや}",
+       "ABCストア",
+       "ジャパン"
+      ]
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Waktu Positif/Negatif untuk Kalimat Nominal・Kalimat Adjektival な",
+    "blocks": [
+     {
+      "type": "table",
+      "header": [
+       [
+        {
+         "tr": ""
+        }
+       ],
+       [
+        {
+         "tr": "Waktu non lampau (Sekarang dan masa depan)"
+        }
+       ],
+       [
+        {
+         "tr": "Waktu lampau"
+        }
+       ]
+      ],
+      "rows": [
+       [
+        [
+         {
+          "tr": "Positif"
+         }
+        ],
+        [
+         {
+          "jp": "あめ　です"
+         },
+         {
+          "jp": "しずか　です"
+         }
+        ],
+        [
+         {
+          "jp": "あめ　でした"
+         },
+         {
+          "jp": "しずか　でした"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "tr": "Negatif"
+         }
+        ],
+        [
+         {
+          "jp": "あめ　じゃ（では）　ありません"
+         },
+         {
+          "jp": "しずか　じゃ（では）　ありません"
+         }
+        ],
+        [
+         {
+          "jp": "あめ　じゃ（では）　ありませんでした"
+         },
+         {
+          "jp": "しずか　じゃ（では）　ありませんでした"
+         }
+        ]
+       ]
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "きのうは　{雨|あめ}でした。",
+        "tr": "Kemarin hujan."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "きのうの　{試験|しけん}は　{簡単|かんたん}じゃ　ありませんでした。",
+        "tr": "Ujian kemarin tidak mudah."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Waktu Positif/Negatif untuk Kalimat Adjektival い",
+    "blocks": [
+     {
+      "type": "table",
+      "header": [
+       [
+        {
+         "tr": ""
+        }
+       ],
+       [
+        {
+         "tr": "Waktu non lampau (Sekarang dan masa depan)"
+        }
+       ],
+       [
+        {
+         "tr": "Waktu lampau"
+        }
+       ]
+      ],
+      "rows": [
+       [
+        [
+         {
+          "tr": "Positif"
+         }
+        ],
+        [
+         {
+          "jp": "あついです"
+         }
+        ],
+        [
+         {
+          "jp": "あつかったです"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "tr": "Negatif"
+         }
+        ],
+        [
+         {
+          "jp": "あつくないです"
+         }
+        ],
+        [
+         {
+          "jp": "あつくなかったです"
+         }
+        ]
+       ]
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "きのうは　{暑|あつ}かったです。",
+        "tr": "Kemarin panas."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "きのうの　パーティーは　あまり　{楽|たの}しくなかったです。",
+        "tr": "Pesta kemarin tidak begitu menyenangkan."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Benda₁ は　Kata Benda₂ より　Kata Sifat です",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Menyatakan sifat atau kondisi Kata Benda₁ dengan Kata Benda₂ yang dianggap sebagai patokan."
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "この　{車|くるま}は　あの　{車|くるま}より　{大|おお}きいです。",
+        "tr": "Mobil ini lebih besar daripada mobil itu."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "Kata Benda₁ と　Kata Benda₂ と　どちらが　Kata Sifat ですか／……Kata Benda₁/Kata Benda₂ の　ほうが　Kata Sifat です",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Jika membandingkan dua benda, digunakan Kata Tanya どちら untuk seluruh benda yang dibandingkan."
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "サッカーと　{野球|やきゅう}と　どちらが　おもしろいですか。",
+        "tr": "Yang mana lebih menarik, sepak bola atau baseball?"
+       },
+       {
+        "jp": "……サッカーの　ほうが　おもしろいです。",
+        "tr": "……Sepak bola yang lebih menarik."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "ミラーさんと　サントスさんと　どちらが　テニスが　{上手|じょうず}ですか。",
+        "tr": "Yang mana lebih pandai bermain tenis, Sdr. Miller atau Sdr. Santos?"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "{北海道|ほっかいどう}と　{大阪|おおさか}と　どちらが　{涼|すず}しいですか。",
+        "tr": "Yang mana lebih sejuk, Hokkaido atau Osaka?"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "{春|はる}と　{秋|あき}と　どちらが　{好|す}きですか。",
+        "tr": "Yang mana lebih suka, musim semi atau musim gugur?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "Kata Benda₁［の　{中|なか}］で　{何|なに}／どこ／だれ／いつ　が　いちばん　Kata Sifat ですか／……Kata Benda₂ が　いちばん　Kata Sifat です",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "で menunjukkan ruang lingkup. Jika menanyakan benda, tempat, orang atau waktu yang menunjukan kondisi dan sifat yang tingkatnya maksimal dari ruang lingkup Kata Benda₁, gunakan Kata Tanya sesuai dengan target."
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "{日本料理|にほんりょうり}［の　{中|なか}］で　{何|なに}が　いちばん　おいしいですか。",
+        "tr": "Apa yang paling enak [di antara] masakan Jepang?"
+       },
+       {
+        "jp": "……てんぷらが　いちばん　おいしいです。",
+        "tr": "……Tempura yang paling enak."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "ヨーロッパで　どこが　いちばん　よかったですか。",
+        "tr": "Daerah mana yang paling bagus di Eropa?"
+       },
+       {
+        "jp": "……スイスが　いちばん　よかったです。",
+        "tr": "……Swiss yang paling bagus."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "{家族|かぞく}で　だれが　いちばん　{背|せ}が　{高|たか}いですか。",
+        "tr": "Siapa yang paling tinggi di antara keluarga?"
+       },
+       {
+        "jp": "……{弟|おとうと}が　いちばん　{背|せ}が　{高|たか}いです。",
+        "tr": "……Adik laki-laki yang paling tinggi. (Pel.16)"
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "1{年|ねん}で　いつが　いちばん　{寒|さむ}いですか。",
+        "tr": "Kapan yang paling dingin dalam satu tahun?"
+       },
+       {
+        "jp": "……2{月|がつ}が　いちばん　{寒|さむ}いです。",
+        "tr": "……Bulan Februari yang paling dingin."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Kalimat Tanya yang menggunakan Kata Tanya yang menanyakan subjek dari kalimat adjektival, partikel が digunakan di belakang Kata Tanya (Lihat Pel.10)."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_rich": "Kata Sifat の (の yang berfungsi sebagai pengganti Kata Benda)",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Pada Pelajaran 2 telah dipelajari の dengan bentuk Kata Benda₁ の yang digunakan sebagai pengganti Kata Benda. Kata yang diberikan pada pelajaran ini, yaitu あついの adalah bentuk Kata Sifat の dan の yang menggantikan Kata Benda seperti sama halnya dengan Kata Benda₁ の."
+     },
+     {
+      "type": "ex",
+      "mark": "⑭",
+      "lines": [
+       {
+        "jp": "カリナさんの　かばんは　どれですか。",
+        "tr": "Yang mana tas Sdr. Karina?"
+       },
+       {
+        "jp": "……あの　{赤|あか}くて、{大|おお}きいのです。",
+        "tr": "……Yang merah dan besar itu."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{祭|まつ}りと　{名所|めいしょ}",
+   "title_tr": "Perayaan, Tempat Terkenal",
+   "blocks": [
+    {
+     "type": "image",
+     "image": "img/L12/sankou_meisho.webp",
+     "caption": "{祭|まつ}りと　{名所|めいしょ}"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{鹿苑寺|ろくおんじ}（{金閣寺|きんかくじ}）{金閣|きんかく}"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{姫路城|ひめじじょう}"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{原爆|げんばく}ドーム"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{祇園祭|ぎおんまつり}"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{富士山|ふじさん}"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{東照宮|とうしょうぐう}"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{皇居|こうきょ}"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{神田祭|かんだまつり}"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{東大寺|とうだいじ}・{大仏|だいぶつ}"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{天神祭|てんじんまつり}"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ }
+}

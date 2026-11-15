@@ -1,0 +1,1961 @@
+{
+ "book": 1,
+ "lesson": 8,
+ "title_jp": "そろそろ　{失礼|しつれい}します",
+ "title_tr": "Saya Mau Pamit.",
+ "source_pages": {
+  "main_pdf": [
+   89,
+   96
+  ],
+  "translation_pdf": [
+   72,
+   77
+  ]
+ },
+ "sections": {
+  "kosakata": {
+   "groups": [
+    {
+     "label_jp": null,
+     "items": [
+      {
+       "kana_jp": "ハンサム［な］",
+       "kanji_jp": null,
+       "tr": "tampan, gagah, ganteng"
+      },
+      {
+       "kana_jp": "きれい［な］",
+       "kanji_jp": null,
+       "tr": "cantik, bersih"
+      },
+      {
+       "kana_jp": "しずか［な］",
+       "kanji_jp": "{静|しず}か［な］",
+       "tr": "sunyi, tenang"
+      },
+      {
+       "kana_jp": "にぎやか［な］",
+       "kanji_jp": null,
+       "tr": "ramai"
+      },
+      {
+       "kana_jp": "ゆうめい［な］",
+       "kanji_jp": "{有名|ゆうめい}［な］",
+       "tr": "terkenal"
+      },
+      {
+       "kana_jp": "しんせつ［な］",
+       "kanji_jp": "{親切|しんせつ}［な］",
+       "tr": "baik hati (tidak digunakan untuk keluarga sendiri)"
+      },
+      {
+       "kana_jp": "げんき［な］",
+       "kanji_jp": "{元気|げんき}［な］",
+       "tr": "sehat walafiat"
+      },
+      {
+       "kana_jp": "ひま［な］",
+       "kanji_jp": "{暇|ひま}［な］",
+       "tr": "senggang"
+      },
+      {
+       "kana_jp": "べんり［な］",
+       "kanji_jp": "{便利|べんり}［な］",
+       "tr": "praktis"
+      },
+      {
+       "kana_jp": "すてき［な］",
+       "kanji_jp": null,
+       "tr": "bagus"
+      },
+      {
+       "kana_jp": "おおきい",
+       "kanji_jp": "{大|おお}きい",
+       "tr": "besar"
+      },
+      {
+       "kana_jp": "ちいさい*",
+       "kanji_jp": "{小|ちい}さい",
+       "tr": "kecil"
+      },
+      {
+       "kana_jp": "あたらしい",
+       "kanji_jp": "{新|あたら}しい",
+       "tr": "baru"
+      },
+      {
+       "kana_jp": "ふるい",
+       "kanji_jp": "{古|ふる}い",
+       "tr": "lama, tua"
+      },
+      {
+       "kana_jp": "いい（よい）",
+       "kanji_jp": null,
+       "tr": "baik, bagus"
+      },
+      {
+       "kana_jp": "わるい*",
+       "kanji_jp": "{悪|わる}い",
+       "tr": "buruk, jelek"
+      },
+      {
+       "kana_jp": "あつい",
+       "kanji_jp": "{暑|あつ}い、{熱|あつ}い",
+       "tr": "panas"
+      },
+      {
+       "kana_jp": "さむい",
+       "kanji_jp": "{寒|さむ}い",
+       "tr": "dingin (mengungkapkan tentang suhu udara)"
+      },
+      {
+       "kana_jp": "つめたい",
+       "kanji_jp": "{冷|つめ}たい",
+       "tr": "dingin (mengungkapkan tentang rasa benda)"
+      },
+      {
+       "kana_jp": "むずかしい",
+       "kanji_jp": "{難|むずか}しい",
+       "tr": "sulit, susah"
+      },
+      {
+       "kana_jp": "やさしい",
+       "kanji_jp": "{易|やさ}しい",
+       "tr": "mudah, gampang"
+      },
+      {
+       "kana_jp": "たかい",
+       "kanji_jp": "{高|たか}い",
+       "tr": "mahal, tinggi"
+      },
+      {
+       "kana_jp": "やすい",
+       "kanji_jp": "{安|やす}い",
+       "tr": "murah"
+      },
+      {
+       "kana_jp": "ひくい*",
+       "kanji_jp": "{低|ひく}い",
+       "tr": "rendah"
+      },
+      {
+       "kana_jp": "おもしろい",
+       "kanji_jp": null,
+       "tr": "menarik"
+      },
+      {
+       "kana_jp": "おいしい",
+       "kanji_jp": null,
+       "tr": "enak"
+      },
+      {
+       "kana_jp": "いそがしい",
+       "kanji_jp": "{忙|いそが}しい",
+       "tr": "sibuk"
+      },
+      {
+       "kana_jp": "たのしい",
+       "kanji_jp": "{楽|たの}しい",
+       "tr": "senang"
+      },
+      {
+       "kana_jp": "しろい",
+       "kanji_jp": "{白|しろ}い",
+       "tr": "putih"
+      },
+      {
+       "kana_jp": "くろい",
+       "kanji_jp": "{黒|くろ}い",
+       "tr": "hitam"
+      },
+      {
+       "kana_jp": "あかい",
+       "kanji_jp": "{赤|あか}い",
+       "tr": "merah"
+      },
+      {
+       "kana_jp": "あおい",
+       "kanji_jp": "{青|あお}い",
+       "tr": "biru"
+      },
+      {
+       "kana_jp": "さくら",
+       "kanji_jp": "{桜|さくら}",
+       "tr": "Sakura"
+      },
+      {
+       "kana_jp": "やま",
+       "kanji_jp": "{山|やま}",
+       "tr": "gunung"
+      },
+      {
+       "kana_jp": "まち",
+       "kanji_jp": "{町|まち}",
+       "tr": "kota"
+      },
+      {
+       "kana_jp": "たべもの",
+       "kanji_jp": "{食|た}べ{物|もの}",
+       "tr": "makanan"
+      },
+      {
+       "kana_jp": "ところ",
+       "kanji_jp": "{所|ところ}",
+       "tr": "tempat"
+      },
+      {
+       "kana_jp": "りょう",
+       "kanji_jp": "{寮|りょう}",
+       "tr": "asrama"
+      },
+      {
+       "kana_jp": "レストラン",
+       "kanji_jp": null,
+       "tr": "restoran"
+      },
+      {
+       "kana_jp": "せいかつ",
+       "kanji_jp": "{生活|せいかつ}",
+       "tr": "kehidupan"
+      },
+      {
+       "kana_jp": "［お］しごと",
+       "kanji_jp": "［お］{仕事|しごと}",
+       "tr": "pekerjaan (～を　します: bekerja)"
+      },
+      {
+       "kana_jp": "どう",
+       "kanji_jp": null,
+       "tr": "bagaimana"
+      },
+      {
+       "kana_jp": "どんな　～",
+       "kanji_jp": null,
+       "tr": "yang bagaimana ～"
+      },
+      {
+       "kana_jp": "とても",
+       "kanji_jp": null,
+       "tr": "sangat, ～ sekali"
+      },
+      {
+       "kana_jp": "あまり",
+       "kanji_jp": null,
+       "tr": "kurang begitu ～, tidak begitu ～ (diikuti dengan kalimat negatif)"
+      },
+      {
+       "kana_jp": "そして",
+       "kanji_jp": null,
+       "tr": "kemudian, dan (digunakan untuk menyambung kalimat)"
+      },
+      {
+       "kana_jp": "～が、～",
+       "kanji_jp": null,
+       "tr": "～, tetapi ～"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{練習|れんしゅう}C〉",
+     "items": [
+      {
+       "kana_jp": "お{元気|げんき}ですか。",
+       "kanji_jp": null,
+       "tr": "Apa kabar?"
+      },
+      {
+       "kana_jp": "そうですね。",
+       "kanji_jp": null,
+       "tr": "Bagaimana ya?"
+      }
+     ]
+    },
+    {
+     "label_jp": "〈{会話|かいわ}〉",
+     "items": [
+      {
+       "kana_jp": "［～、］　もう　{一杯|いっぱい}　いかがですか。",
+       "kanji_jp": null,
+       "tr": "Mau tambah [～] secangkir lagi?"
+      },
+      {
+       "kana_jp": "［いいえ、］　けっこうです。",
+       "kanji_jp": null,
+       "tr": "[Tidak,] terima kasih, saya sudah cukup."
+      },
+      {
+       "kana_jp": "もう　～です［ね］。",
+       "kanji_jp": null,
+       "tr": "Sudah ～ [ya]."
+      },
+      {
+       "kana_jp": "そろそろ　{失礼|しつれい}します。",
+       "kanji_jp": null,
+       "tr": "Maaf, saya mau pamit dulu."
+      },
+      {
+       "kana_jp": "いいえ。",
+       "kanji_jp": null,
+       "tr": "Sama-sama."
+      },
+      {
+       "kana_jp": "また　いらっしゃって　ください。",
+       "kanji_jp": null,
+       "tr": "Silakan datang lagi."
+      }
+     ]
+    },
+    {
+     "label_jp": null,
+     "separator": true,
+     "items": [
+      {
+       "kana_jp": "シャンハイ",
+       "kanji_jp": null,
+       "tr": "Shanghai (上海)"
+      },
+      {
+       "kana_jp": "{金閣寺|きんかくじ}",
+       "kanji_jp": null,
+       "tr": "kuil Kinkakuji"
+      },
+      {
+       "kana_jp": "{奈良公園|ならこうえん}",
+       "kanji_jp": null,
+       "tr": "taman Nara"
+      },
+      {
+       "kana_jp": "{富士山|ふじさん}",
+       "kanji_jp": null,
+       "tr": "gunung Fuji (gunung yang tertinggi di Jepang)"
+      },
+      {
+       "kana_jp": "「{七人|しちにん}の　{侍|さむらい}」",
+       "kanji_jp": null,
+       "tr": "Tujuh orang Samurai (film lama oleh Akira Kurosawa)"
+      }
+     ]
+    }
+   ]
+  },
+  "bunkei": [
+   {
+    "no": 1,
+    "jp": "{桜|さくら}は　きれいです。",
+    "tr": "Sakura indah."
+   },
+   {
+    "no": 2,
+    "jp": "{富士山|ふじさん}は　{高|たか}いです。",
+    "tr": "Gunung Fuji tinggi."
+   },
+   {
+    "no": 3,
+    "jp": "{桜|さくら}は　きれいな　{花|はな}です。",
+    "tr": "Sakura adalah bunga yang indah."
+   },
+   {
+    "no": 4,
+    "jp": "{富士山|ふじさん}は　{高|たか}い　{山|やま}です。",
+    "tr": "Gunung Fuji adalah gunung yang tinggi."
+   }
+  ],
+  "reibun": [
+   {
+    "no": 1,
+    "lines": [
+     {
+      "jp": "{大阪|おおさか}は　にぎやかですか。",
+      "tr": "Apakah Osaka ramai?"
+     },
+     {
+      "jp": "……はい、にぎやかです。",
+      "tr": "……Ya, ramai."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     {
+      "jp": "さくら{大学|だいがく}は　{有名|ゆうめい}ですか。",
+      "tr": "Apakah Universitas Sakura terkenal?"
+     },
+     {
+      "jp": "……いいえ、{有名|ゆうめい}じゃ　ありません。",
+      "tr": "……Tidak, tidak terkenal."
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     {
+      "jp": "ペキンは　{今|いま}　{寒|さむ}いですか。",
+      "tr": "Apakah sekarang Beijing dingin?"
+     },
+     {
+      "jp": "……はい、とても　{寒|さむ}いです。",
+      "tr": "……Ya, sangat dingin."
+     },
+     {
+      "jp": "シャンハイも　{寒|さむ}いですか。",
+      "tr": "Apakah Shanghai juga dingin?"
+     },
+     {
+      "jp": "……いいえ、あまり　{寒|さむ}くないです。",
+      "tr": "……Tidak, tidak begitu dingin."
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "lines": [
+     {
+      "jp": "{大学|だいがく}の　{寮|りょう}は　どうですか。",
+      "tr": "Bagaimana asrama universitas?"
+     },
+     {
+      "jp": "……{古|ふる}いですが、{便利|べんり}です。",
+      "tr": "……Tua, tetapi praktis."
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "lines": [
+     {
+      "jp": "きのう　{松本|まつもと}さんの　うちへ　{行|い}きました。",
+      "tr": "Saya pergi ke rumah Sdr. Matsumoto kemarin."
+     },
+     {
+      "jp": "……どんな　うちですか。",
+      "tr": "……Rumahnya bagaimana?"
+     },
+     {
+      "jp": "きれいな　うちです。　そして、{大|おお}きい　うちです。",
+      "tr": "Rumah yang bagus. Dan rumah yang besar."
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "lines": [
+     {
+      "jp": "きのう　おもしろい　{映画|えいが}を　{見|み}ました。",
+      "tr": "Saya menonton film yang menarik kemarin."
+     },
+     {
+      "jp": "……{何|なに}を　{見|み}ましたか。",
+      "tr": "……Menonton apa?"
+     },
+     {
+      "jp": "「{七人|しちにん}の　{侍|さむらい}」です。",
+      "tr": "“Tujuh Orang Samurai”."
+     }
+    ]
+   }
+  ],
+  "kaiwa": {
+   "title_jp": "そろそろ　{失礼|しつれい}します",
+   "title_tr": "Saya Mau Pamit.",
+   "image": "img/L08/kaiwa.webp",
+   "audio": "audio/L08_kaiwa.m4a",
+   "cd_track": "CD28",
+   "lines": [
+    {
+     "speaker_jp": "{山田一郎|やまだいちろう}",
+     "speaker_tr": "Ichiro Yamada",
+     "jp": "マリアさん、{日本|にほん}の　{生活|せいかつ}は　どうですか。",
+     "tr": "Sdr. Maria, bagaimana kehidupan di Jepang?"
+    },
+    {
+     "speaker_jp": "マリア・サントス",
+     "speaker_tr": "Maria Santos",
+     "jp": "{毎日|まいにち}　とても　{楽|たの}しいです。",
+     "tr": "Setiap hari, sangat senang."
+    },
+    {
+     "speaker_jp": "{山田一郎|やまだいちろう}",
+     "speaker_tr": "Ichiro Yamada",
+     "jp": "そうですか。　サントスさん、お{仕事|しごと}は　どうですか。",
+     "tr": "O, begitu. Sdr. Santos, bagaimana pekerjaannya?"
+    },
+    {
+     "speaker_jp": "ジョゼ・サントス",
+     "speaker_tr": "Jose Santos",
+     "jp": "そうですね。　{忙|いそが}しいですが、おもしろいです。",
+     "tr": "Ya... Sibuk, tetapi menyenangkan."
+    },
+    {
+     "speaker_jp": "{山田友子|やまだともこ}",
+     "speaker_tr": "Tomoko Yamada",
+     "break_before": true,
+     "jp": "コーヒー、もう　{一杯|いっぱい}　いかがですか。",
+     "tr": "Mau tambah kopi secangkir lagi?"
+    },
+    {
+     "speaker_jp": "マリア・サントス",
+     "speaker_tr": "Maria Santos",
+     "jp": "いいえ、けっこうです。",
+     "tr": "Tidak, terima kasih."
+    },
+    {
+     "speaker_jp": "ジョゼ・サントス",
+     "speaker_tr": "Jose Santos",
+     "break_before": true,
+     "jp": "あ、もう　6{時|じ}ですね。　そろそろ　{失礼|しつれい}します。",
+     "tr": "Wah, sudah pukul enam, ya. Saya mau pamit."
+    },
+    {
+     "speaker_jp": "{山田一郎|やまだいちろう}",
+     "speaker_tr": "Ichiro Yamada",
+     "jp": "そうですか。",
+     "tr": "O, ya?"
+    },
+    {
+     "speaker_jp": "マリア・サントス",
+     "speaker_tr": "Maria Santos",
+     "jp": "きょうは　どうも　ありがとう　ございました。",
+     "tr": "Saya mengucapkan terima kasih atas undangan hari ini."
+    },
+    {
+     "speaker_jp": "{山田友子|やまだともこ}",
+     "speaker_tr": "Tomoko Yamada",
+     "jp": "いいえ。　また　いらっしゃって　ください。",
+     "tr": "Sama-sama. Silakan datang lagi."
+    }
+   ]
+  },
+  "renshuu_a": [
+   {
+    "no": 1,
+    "lines": [
+     [
+      {
+       "text_jp": "この　{町|まち}は"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "きれい",
+          "にぎやか"
+         ]
+        },
+        {
+         "opts_jp": [
+          "おもしろい",
+          "いい"
+         ]
+        },
+        {
+         "opts_jp": [
+          "どう"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "です。"
+         ],
+         "hl": "none"
+        },
+        {
+         "opts_jp": [
+          "……か。"
+         ],
+         "hl": "none"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "lines": [
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "きれい",
+          "げんき",
+          "にぎやか"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "です"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "きれい",
+          "げんき",
+          "にぎやか"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "じゃ　ありません"
+         ],
+         "hl": "strong"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "text_jp": "（では）"
+      }
+     ],
+     [
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "たか",
+          "おいし",
+          "い"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "い"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "です　"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "たか",
+          "おいし",
+          "よ"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "くない"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "です"
+      }
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "lines": [
+     [
+      {
+       "text_jp": "{奈良|なら}は"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ゆうめい",
+          "しずか"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "な"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "{町|まち}です。"
+      }
+     ],
+     [
+      {
+       "text_jp": "{奈良|なら}は"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "ふる",
+          "い"
+         ]
+        }
+       ]
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "い"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "{町|まち}です。"
+      }
+     ],
+     [
+      {
+       "text_jp": "{奈良|なら}は"
+      },
+      {
+       "slot": [
+        {
+         "opts_jp": [
+          "どんな"
+         ],
+         "hl": "strong"
+        }
+       ]
+      },
+      {
+       "text_jp": "{町|まち}………か。"
+      }
+     ]
+    ]
+   }
+  ],
+  "renshuu_b": {
+   "figures": [
+    {
+     "id": "fig1",
+     "image": "img/L08/rb_fig1.webp"
+    }
+   ],
+   "items": [
+    {
+     "no": 1,
+     "figure": "fig1",
+     "examples": [
+      {
+       "prompt_jp": null,
+       "answer_jp": [
+        "ミラーさんは　{親切|しんせつ}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1
+      },
+      {
+       "no": 2
+      },
+      {
+       "no": 3
+      },
+      {
+       "no": 4
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "examples": [
+      {
+       "prompt_jp": "{山田|やまだ}さん・{元気|げんき}",
+       "answer_jp": [
+        "{山田|やまだ}さんは　{元気|げんき}じゃ　ありません。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "イーさん・{暇|ひま}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "ワンさんの　{部屋|へや}・きれい"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{大学|だいがく}の　{寮|りょう}・{便利|べんり}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "IMC・{有名|ゆうめい}"
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "examples": [
+      {
+       "prompt_jp": "この　{自転車|じてんしゃ}・{新|あたら}しい",
+       "answer_jp": [
+        "この　{自転車|じてんしゃ}は　{新|あたら}しくないです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "ミラーさん・{忙|いそが}しい"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{日本語|にほんご}・{易|やさ}しい"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "この　お{茶|ちゃ}・{熱|あつ}い"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "この　{辞書|じしょ}・いい"
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "examples": [
+      {
+       "prompt_jp": "ミラーさん・ハンサム（はい）",
+       "answer_jp": [
+        "ミラーさんは　ハンサムですか。",
+        "……はい、ハンサムです。"
+       ]
+      },
+      {
+       "prompt_jp": "{日本|にほん}の　カメラ・{高|たか}い（いいえ）",
+       "answer_jp": [
+        "{日本|にほん}の　カメラは　{高|たか}いですか。",
+        "……いいえ、{高|たか}くないです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "あの　レストラン・{静|しず}か（いいえ）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{会社|かいしゃ}の　{食堂|しょくどう}・{安|やす}い（はい）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "その　パソコン・いい（いいえ、あまり）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "その　{手帳|てちょう}・{便利|べんり}（はい、とても）"
+      }
+     ]
+    },
+    {
+     "no": 5,
+     "examples": [
+      {
+       "prompt_jp": "{日本|にほん}の　{地下鉄|ちかてつ}（{便利|べんり}、きれい）",
+       "answer_jp": [
+        "{日本|にほん}の　{地下鉄|ちかてつ}は　どうですか。",
+        "……{便利|べんり}です。　そして、きれいです。"
+       ]
+      },
+      {
+       "prompt_jp": "{日本|にほん}の　{車|くるま}（{高|たか}い、いい）",
+       "answer_jp": [
+        "{日本|にほん}の　{車|くるま}は　どうですか。",
+        "……{高|たか}いですが、いいです。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "{会社|かいしゃ}の　{寮|りょう}（{新|あたら}しい、きれい）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{先生|せんせい}（{親切|しんせつ}、おもしろい）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{日本|にほん}の　{食|た}べ{物|もの}（おいしい、{高|たか}い）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{日本|にほん}の　{生活|せいかつ}（{忙|いそが}しい、おもしろい）"
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "examples": [
+      {
+       "prompt_jp": "{大阪|おおさか}・〈にぎやか〉　{町|まち}",
+       "answer_jp": [
+        "{大阪|おおさか}は　にぎやかな　{町|まち}です。"
+       ]
+      },
+      {
+       "prompt_jp": "{東京駅|とうきょうえき}・〈{大|おお}きい〉　{駅|えき}",
+       "answer_jp": [
+        "{東京駅|とうきょうえき}は　{大|おお}きい　{駅|えき}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "IMC・〈{新|あたら}しい〉　{会社|かいしゃ}"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "{神戸病院|こうべびょういん}・〈{有名|ゆうめい}〉　{病院|びょういん}"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "ワットさん・〈いい〉　{先生|せんせい}"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{富士山|ふじさん}・〈きれい〉　{山|やま}"
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "examples": [
+      {
+       "prompt_jp": "{奈良|なら}・{町|まち}（{静|しず}か）",
+       "answer_jp": [
+        "{奈良|なら}は　どんな　{町|まち}ですか。",
+        "……{静|しず}かな　{町|まち}です。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "「{七人|しちにん}の　{侍|さむらい}」・{映画|えいが}（おもしろい）"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "サントスさん・{人|ひと}（{親切|しんせつ}）"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "さくら{大学|だいがく}・{大学|だいがく}（{新|あたら}しい）"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "スイス・{国|くに}（きれい）"
+      }
+     ]
+    },
+    {
+     "no": 8,
+     "examples": [
+      {
+       "prompt_jp": "〈きれい〉　{花|はな}を　{買|か}いました",
+       "answer_jp": [
+        "きれいな　{花|はな}を　{買|か}いました。"
+       ]
+      },
+      {
+       "prompt_jp": "〈{青|あお}い〉　{傘|かさ}を　{買|か}いました",
+       "answer_jp": [
+        "{青|あお}い　{傘|かさ}を　{買|か}いました。"
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "no": 1,
+       "prompt_jp": "〈{冷|つめ}たい〉　{牛乳|ぎゅうにゅう}を　{飲|の}みました"
+      },
+      {
+       "no": 2,
+       "prompt_jp": "きのうの　{晩|ばん}　〈{有名|ゆうめい}〉　レストランで　{食|た}べました"
+      },
+      {
+       "no": 3,
+       "prompt_jp": "{誕生日|たんじょうび}に　〈すてき〉　プレゼントを　もらいました"
+      },
+      {
+       "no": 4,
+       "prompt_jp": "{友達|ともだち}に　〈{新|あたら}しい〉　CDを　{借|か}りました"
+      }
+     ]
+    }
+   ]
+  },
+  "renshuu_c": [
+   {
+    "no": 1,
+    "image": "img/L08/rc1.webp",
+    "dialog": [
+     {
+      "jp": "お{元気|げんき}ですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "はい、{元気|げんき}です。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[お{仕事|しごと}]]は　どうですか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "そうですね。　[[{忙|いそが}しい]]ですが、[[おもしろい]]です。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L08/rc1_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L08/rc1_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "image": "img/L08/rc2.webp",
+    "dialog": [
+     {
+      "jp": "すみません。　その　[[かばん]]を",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "{見|み}せて　ください。"
+     },
+     {
+      "jp": "これですか。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "いいえ、その　[[{赤|あか}い]]　[[かばん]]です。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "はい、どうぞ。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L08/rc2_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L08/rc2_2.webp"
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "image": "img/L08/rc3.webp",
+    "dialog": [
+     {
+      "jp": "{先週|せんしゅう}　[[{金閣寺|きんかくじ}]]へ　{行|い}きました。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "そうですか。　どんな　{所|ところ}ですか。",
+      "speaker_jp": "B"
+     },
+     {
+      "jp": "[[きれいな]]　{所|ところ}ですよ。　{写真|しゃしん}を　{見|み}ますか。",
+      "speaker_jp": "A"
+     },
+     {
+      "jp": "ええ。　{見|み}せて　ください。",
+      "speaker_jp": "B"
+     }
+    ],
+    "substitutions": [
+     {
+      "no": 1,
+      "image": "img/L08/rc3_1.webp"
+     },
+     {
+      "no": 2,
+      "image": "img/L08/rc3_2.webp"
+     }
+    ]
+   }
+  ],
+  "mondai": [
+   {
+    "no": 1,
+    "kind": "listen_write",
+    "audio": "audio/L08_mondai1.m4a",
+    "cd_track": "CD29",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     },
+     {
+      "no": 4
+     },
+     {
+      "no": 5
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "kind": "listen_choice_image",
+    "audio": "audio/L08_mondai2.m4a",
+    "cd_track": "CD30",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1,
+      "image": "img/L08/m2_1.webp",
+      "options": 3
+     },
+     {
+      "no": 2,
+      "image": "img/L08/m2_2.webp",
+      "options": 3
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "kind": "listen_truefalse",
+    "audio": "audio/L08_mondai3.m4a",
+    "cd_track": "CD31",
+    "examples": [],
+    "questions": [
+     {
+      "no": 1
+     },
+     {
+      "no": 2
+     },
+     {
+      "no": 3
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "kind": "fill",
+    "image": "img/L08/m4.webp",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "タイは　{寒|さむ}いですか。……いいえ、（{暑|あつ}い）です。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "あした　{暇|ひま}ですか。……いいえ、（＿）です。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "あなたの　{会社|かいしゃ}は　{新|あたら}しいですか。……いいえ、（＿）です。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{日本語|にほんご}は　{難|むずか}しいですか。……いいえ、（＿）です。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "あなたの　うちは　{大|おお}きいですか。……いいえ、（＿）です。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "{日本|にほん}の　{食|た}べ{物|もの}は　{安|やす}いですか。",
+       "……いいえ、（{安|やす}くないです）。　とても　{高|たか}いです。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "あなたの　パソコンは　{新|あたら}しいですか。",
+       "……いいえ、（＿）。　{古|ふる}いです。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "イギリスは　{今|いま}　{暑|あつ}いですか。",
+       "……いいえ、あまり　（＿）。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{大阪|おおさか}は　{静|しず}かですか。",
+       "……いいえ、（＿）。　とても　にぎやかです。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "この　{手帳|てちょう}は　{便利|べんり}ですか。",
+       "……いいえ、あまり　（＿）。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "kind": "fill",
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "lines_jp": [
+       "ワンさんは　（{元気|げんき}です　→　{元気|げんき}な）　{人|ひと}です。"
+      ]
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "lines_jp": [
+       "インドネシアは　（{暑|あつ}いです→　＿）　{国|くに}です。"
+      ]
+     },
+     {
+      "no": 2,
+      "lines_jp": [
+       "{富士山|ふじさん}は　（{有名|ゆうめい}です　→　＿）　{山|やま}です。"
+      ]
+     },
+     {
+      "no": 3,
+      "lines_jp": [
+       "{東京|とうきょう}は　（おもしろいです　→　＿）　{町|まち}です。"
+      ]
+     },
+     {
+      "no": 4,
+      "lines_jp": [
+       "{山|やま}で　（きれいです　→　＿）　{花|はな}を　{見|み}ました。"
+      ]
+     },
+     {
+      "no": 5,
+      "lines_jp": [
+       "（{新|あたら}しいです　→　＿）　{車|くるま}を　{買|か}いました。"
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "kind": "truefalse",
+    "passage_title_jp": "ワット{先生|せんせい}",
+    "passage_jp": [
+     "ワットさんは　さくら{大学|だいがく}の　{英語|えいご}の　{先生|せんせい}です。　{毎日|まいにち}　{赤|あか}い　{車|くるま}で　{大学|だいがく}へ　{行|い}きます。　さくら{大学|だいがく}は　{大|おお}きい　{大学|だいがく}では　ありませんが、いい　{大学|だいがく}です。　ワットさんは　いつも　{食堂|しょくどう}で　{昼|ひる}ごはんを　{食|た}べます。　{食堂|しょくどう}は　12{時|じ}から　1{時|じ}まで　とても　にぎやかです。　{食堂|しょくどう}の　{食|た}べ{物|もの}は　おいしいです。　そして、{安|やす}いです。　{大学|だいがく}の　{仕事|しごと}は　{忙|いそが}しいですが、{楽|たの}しいです。"
+    ],
+    "examples": [
+     {
+      "label_jp": "{例|れい}",
+      "image": "img/L08/m7_ex.webp",
+      "options": 2,
+      "answer": "1"
+     }
+    ],
+    "questions": [
+     {
+      "no": 1,
+      "image": "img/L08/m7_1.webp",
+      "options": 2
+     },
+     {
+      "no": 2,
+      "image": "img/L08/m7_2.webp",
+      "options": 2
+     },
+     {
+      "no": 3,
+      "image": "img/L08/m7_3.webp",
+      "options": 2
+     }
+    ]
+   }
+  ],
+  "bunpou": [
+   {
+    "no": 1,
+    "title_rich": "Kata Sifat",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Kata Sifat berfungsi sebagai predikat dan menunjukkan kondisi Kata Benda dalam kalimat Kata Benda は Kata Sifat です atau digunakan sebagai kata yang menerangkan Kata Benda. Dalam bahasa Jepang terdapat dua jenis Kata Sifat yaitu Kata Sifat い dan Kata Sifat な, lalu perubahan bentuknya berbeda."
+     }
+    ]
+   },
+   {
+    "no": 2,
+    "title_rich": "Kata Benda は Kata Sifat な［な］です／Kata Benda は Kata Sifat い（～い）です",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Kalimat adjektival positif waktu non lampau diakhiri です. です menunjukkan sikap yang hormat terhadap pendengar. Kata Sifat な disambung dengan です tanpa な, sedangkan Kata Sifat い disambung dengan です dalam bentuk yang sama."
+     },
+     {
+      "type": "ex",
+      "mark": "①",
+      "lines": [
+       {
+        "jp": "ワット{先生|せんせい}は　{親切|しんせつ}です。",
+        "tr": "Bapak Watt baik hati."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "②",
+      "lines": [
+       {
+        "jp": "{富士山|ふじさん}は　{高|たか}いです。",
+        "tr": "Gunung Fuji tinggi."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "1) Kata Sifat な［な］じゃ（では）　ありません"
+     },
+     {
+      "type": "p",
+      "text_rich": "Negatif waktu non lampau dari Kata Sifat な dibuat dengan dibubuhkan じゃ（では）　ありません pada bentuk tanpa な dari Kata Sifat な."
+     },
+     {
+      "type": "ex",
+      "mark": "③",
+      "lines": [
+       {
+        "jp": "あそこは　{静|しず}かじゃ（では）　ありません。",
+        "tr": "Di sana tidak sunyi."
+       }
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "2) Kata Sifat い（～い）です　→　～くないです"
+     },
+     {
+      "type": "p",
+      "text_rich": "Negatif waktu non lampau dari Kata Sifat い dibuat dengan dibubuhkan くないです pada bentuk yang dihilangkan い di bagian akhir dari Kata Sifat い."
+     },
+     {
+      "type": "ex",
+      "mark": "④",
+      "lines": [
+       {
+        "jp": "この　{本|ほん}は　おもしろくないです。",
+        "tr": "Buku ini tidak menarik."
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text_rich": "[Perhatian] Negatif untuk いいです adalah よくないです."
+     },
+     {
+      "type": "h",
+      "text_rich": "3) Rangkuman Perubahan Bentuk"
+     },
+     {
+      "type": "table",
+      "header": [
+       [
+        {
+         "tr": ""
+        }
+       ],
+       [
+        {
+         "tr": "Kata Sifat な"
+        }
+       ],
+       [
+        {
+         "tr": "Kata Sifat い"
+        }
+       ]
+      ],
+      "rows": [
+       [
+        [
+         {
+          "tr": "Positif waktu non lampau"
+         }
+        ],
+        [
+         {
+          "jp": "しんせつです"
+         }
+        ],
+        [
+         {
+          "jp": "たかいです"
+         }
+        ]
+       ],
+       [
+        [
+         {
+          "tr": "Negaif waktu non lampau"
+         }
+        ],
+        [
+         {
+          "jp": "しんせつじゃ（では）　ありません"
+         }
+        ],
+        [
+         {
+          "jp": "たかくないです"
+         }
+        ]
+       ]
+      ]
+     },
+     {
+      "type": "h",
+      "text_rich": "4) Cara membuat kalimat tanya dari kalimat adjektival sama seperti kalimat nominal (Lihat Pel.1) dan kalimat verbal (Lihat Pel.4). Untuk jawabannya digunakan Kata Sifat, dan tidak dapat menjawab dengan menggunakan そうです atau ちがいます."
+     },
+     {
+      "type": "ex",
+      "mark": "⑤",
+      "lines": [
+       {
+        "jp": "ペキンは　{寒|さむ}いですか。",
+        "tr": "Apakah Beijing dingin?"
+       },
+       {
+        "jp": "……はい、{寒|さむ}いです。",
+        "tr": "……Ya, dingin."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑥",
+      "lines": [
+       {
+        "jp": "{奈良公園|ならこうえん}は　にぎやかですか。",
+        "tr": "Apakah Taman Nara ramai?"
+       },
+       {
+        "jp": "……いいえ、にぎやかじゃ　ありません。",
+        "tr": "……Tidak, tidak ramai."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 3,
+    "title_rich": "Kata Sifat な［な］ Kata Benda／Kata Sifat い（～い） Kata Benda",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Jika Kata Sifat menerangkan Kata Benda, Kata Sifat diletakan di depan Kata Benda. Kata Sifat な menerangkan Kata Benda dengan bentuk diikuti な."
+     },
+     {
+      "type": "ex",
+      "mark": "⑦",
+      "lines": [
+       {
+        "jp": "ワット{先生|せんせい}は　{親切|しんせつ}な　{先生|せんせい}です。",
+        "tr": "Bapak Watt adalah guru yang baik hati."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑧",
+      "lines": [
+       {
+        "jp": "{富士山|ふじさん}は　{高|たか}い　{山|やま}です。",
+        "tr": "Gunung Fuji adalah gunung yang tinggi."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 4,
+    "title_rich": "～が、～",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "が menyambungkan kalimat yang menyatakan sebelum dan sesudah secara paradoksal. Dalam kalimat adjektival yang subjeknya sama, hal yang bernilai positif oleh si pembicara diletakkan di bagian depan, maka hal yang negatif di bagian belakangnya. Sebaliknya, jika hal yang bernilai negatif oleh si pembicara diletakkan di bagian depan, maka hal yang positif di bagian belakangnya."
+     },
+     {
+      "type": "ex",
+      "mark": "⑨",
+      "lines": [
+       {
+        "jp": "{日本|にほん}の　{食|た}べ{物|もの}は　おいしいですが、{高|たか}いです。",
+        "tr": "Makanan Jepang enak, tetapi mahal."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 5,
+    "title_rich": "とても／あまり",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "とても dan あまり adalah Kata keterangan yang menyatakan tingkat, dan jika menerangkan Kata Sifat kata tersebut diletakkan di depan Kata Sifat. とても mempunyai arti sangat dan digunakan pada kalimat positif. あまり digunakan bersamaan dengan kalimat negatif yang mempunyai arti tidak begitu."
+     },
+     {
+      "type": "ex",
+      "mark": "⑩",
+      "lines": [
+       {
+        "jp": "ペキンは　とても　{寒|さむ}いです。",
+        "tr": "Beijing sangat dingin."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑪",
+      "lines": [
+       {
+        "jp": "これは　とても　{有名|ゆうめい}な　{映画|えいが}です。",
+        "tr": "Ini film yang sangat terkenal."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑫",
+      "lines": [
+       {
+        "jp": "シャンハイは　あまり　{寒|さむ}くないです。",
+        "tr": "Shanghai tidak begitu dingin."
+       }
+      ]
+     },
+     {
+      "type": "ex",
+      "mark": "⑬",
+      "lines": [
+       {
+        "jp": "さくら{大学|だいがく}は　あまり　{有名|ゆうめい}な　{大学|だいがく}じゃ　ありません。",
+        "tr": "Universitas Sakura adalah universitas yang tidak begitu terkenal."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 6,
+    "title_rich": "Kata Benda は　どうですか",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Kata Benda は　どうですか menanyakan citra, pendapat, dan kesan mengenai hal yang dialami tentang tempat yang telah dikunjungi atau orang yang pernah dijumpai dan lain-lainnya oleh lawan bicara."
+     },
+     {
+      "type": "ex",
+      "mark": "⑭",
+      "lines": [
+       {
+        "jp": "{日本|にほん}の　{生活|せいかつ}は　どうですか。",
+        "tr": "Bagaimana kehidupan di Jepang?"
+       },
+       {
+        "jp": "……{楽|たの}しいです。",
+        "tr": "……Senang."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 7,
+    "title_rich": "Kata Benda₁ は　どんな　Kata Benda₂ ですか",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "どんな adalah Kata Tanya untuk menanyakan keadaan atau sifat orang dan benda, kemudian digunakan untuk menerangkan Kata Benda."
+     },
+     {
+      "type": "ex",
+      "mark": "⑮",
+      "lines": [
+       {
+        "jp": "{奈良|なら}は　どんな　{町|まち}ですか。",
+        "tr": "Nara kota bagaimana?"
+       },
+       {
+        "jp": "……{古|ふる}い　{町|まち}です。",
+        "tr": "……Kota yang lama."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "no": 8,
+    "title_rich": "そうですね",
+    "blocks": [
+     {
+      "type": "p",
+      "text_rich": "Pada Pelajaran 5 telah dipelajari そうですね yang menyatakan persetujuan atau perasaan yang sama. Pada pelajaran ini terdapat そうですね menunjukkan sikap dari lawan bicaranya yang sedang berpikir seperti pada percakapan ⑯."
+     },
+     {
+      "type": "ex",
+      "mark": "⑯",
+      "lines": [
+       {
+        "jp": "お{仕事|しごと}は　どうですか。",
+        "tr": "Bagaimana pekerjaannya?"
+       },
+       {
+        "jp": "……そうですね。　{忙|いそが}しいですが、おもしろいです。",
+        "tr": "……Ya... Sibuk, tetapi menyenangkan."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sankou": {
+   "title_jp": "{色|いろ}・{味|あじ}",
+   "title_tr": "Warna, Rasa",
+   "blocks": [
+    {
+     "type": "h",
+     "text_rich": "{色|いろ}　Warna"
+    },
+    {
+     "type": "table",
+     "header": [
+      [
+       {
+        "tr": "kata benda"
+       }
+      ],
+      [
+       {
+        "tr": "kata sifat"
+       }
+      ],
+      [
+       {
+        "tr": "kata benda"
+       }
+      ],
+      [
+       {
+        "tr": "kata sifat"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{白|しろ}",
+         "tr": "putih"
+        }
+       ],
+       [
+        {
+         "jp": "{白|しろ}い"
+        }
+       ],
+       [
+        {
+         "jp": "{黄色|きいろ}",
+         "tr": "kuning"
+        }
+       ],
+       [
+        {
+         "jp": "{黄色|きいろ}い"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{黒|くろ}",
+         "tr": "hitam"
+        }
+       ],
+       [
+        {
+         "jp": "{黒|くろ}い"
+        }
+       ],
+       [
+        {
+         "jp": "{茶色|ちゃいろ}",
+         "tr": "coklat"
+        }
+       ],
+       [
+        {
+         "jp": "{茶色|ちゃいろ}い"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{赤|あか}",
+         "tr": "merah"
+        }
+       ],
+       [
+        {
+         "jp": "{赤|あか}い"
+        }
+       ],
+       [
+        {
+         "jp": "ピンク",
+         "tr": "merah muda"
+        }
+       ],
+       [
+        {
+         "tr": "—"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{青|あお}",
+         "tr": "biru"
+        }
+       ],
+       [
+        {
+         "jp": "{青|あお}い"
+        }
+       ],
+       [
+        {
+         "jp": "オレンジ",
+         "tr": "oranye"
+        }
+       ],
+       [
+        {
+         "tr": "—"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{緑|みどり}",
+         "tr": "hijau"
+        }
+       ],
+       [
+        {
+         "tr": "—"
+        }
+       ],
+       [
+        {
+         "jp": "グレー",
+         "tr": "abu-abu"
+        }
+       ],
+       [
+        {
+         "tr": "—"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{紫|むらさき}",
+         "tr": "ungu"
+        }
+       ],
+       [
+        {
+         "tr": "—"
+        }
+       ],
+       [
+        {
+         "jp": "ベージュ",
+         "tr": "krem"
+        }
+       ],
+       [
+        {
+         "tr": "—"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text_rich": "{味|あじ}　Rasa"
+    },
+    {
+     "type": "table",
+     "header": [],
+     "rows": [
+      [
+       [
+        {
+         "jp": "{甘|あま}い",
+         "tr": "manis"
+        }
+       ],
+       [
+        {
+         "jp": "{辛|から}い",
+         "tr": "pedas"
+        }
+       ],
+       [
+        {
+         "jp": "{苦|にが}い",
+         "tr": "pahit"
+        }
+       ],
+       [
+        {
+         "jp": "{塩辛|しおから}い",
+         "tr": "asin"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "jp": "{酸|す}っぱい",
+         "tr": "asam"
+        }
+       ],
+       [
+        {
+         "jp": "{濃|こ}い",
+         "tr": "kental"
+        }
+       ],
+       [
+        {
+         "jp": "{薄|うす}い",
+         "tr": "tawar"
+        }
+       ],
+       []
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "image": "img/L08/sankou_aji.webp",
+     "caption": "{味|あじ}"
+    },
+    {
+     "type": "h",
+     "text_rich": "{春|はる}・{夏|なつ}・{秋|あき}・{冬|ふゆ}　Musim Semi, Musim Panas, Musim Gugur, Musim Dingin"
+    },
+    {
+     "type": "note",
+     "text_rich": "Di Jepang terdapat empat musim. Musim semi dari bulan Maret sampai bulan Mei, musim panas dari bulan Juni sampai bulan Agustus, musim gugur dari bulan September sampai bulan November, musim dingin dari bulan Desember sampai bulan Februari. Suhu udara rata-rata berbeda sesuai dengan tempat, tetapi pola perubahan suhu udaranya di manapun hampir sama (Lihat diagram). Musim yang paling panas adalah bulan Agustus, musim yang paling dingin adalah bulan Januari dan Februari. Karena suhu udara berubah setiap musim, orang Jepang merasa “musim semi terasa hangat”, “musim panas terasa panas”, “musim gugur terasa sejuk”, dan “musim dingin terasa dingin”."
+    },
+    {
+     "type": "image",
+     "image": "img/L08/sankou_kion.webp",
+     "caption": "① NAHA (OKINAWA)　② TOKYO　③ ABASHIRI (HOKKAIDO)"
+    }
+   ]
+  }
+ }
+}
