@@ -102,3 +102,10 @@ File diubah: `lib/features/bunpou/presentation/screens/bunpou_screen.dart`, `lib
 flutter analyze: 0 error, 0 warning
 flutter test: 11/11 lulus
 Catatan / pertanyaan untuk pemilik: -
+
+## T17 — Renshuu A — 2026-11-15 14:25
+Status: SELESAI
+File diubah: `lib/features/renshuu/presentation/screens/renshuu_a_screen.dart`, `docs/LOG_EKSEKUSI.md`
+flutter analyze: 0 error, 0 warning
+flutter test: 11/11 lulus
+Catatan / pertanyaan untuk pemilik: -
