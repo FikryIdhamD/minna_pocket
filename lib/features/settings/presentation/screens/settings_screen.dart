@@ -88,17 +88,23 @@ class SettingsScreen extends ConsumerWidget {
                       const Text('Ukuran huruf',
                           style: TextStyle(fontWeight: FontWeight.w600)),
                       const SizedBox(height: Sp.x2),
-                      SegmentedButton<double>(
-                        segments: const [
-                          ButtonSegment(value: 0.9, label: Text('Kecil')),
-                          ButtonSegment(value: 1.0, label: Text('Normal')),
-                          ButtonSegment(value: 1.15, label: Text('Besar')),
-                          ButtonSegment(
-                              value: 1.3, label: Text('Sangat besar')),
+                      DropdownButtonFormField<double>(
+                        value: const [0.9, 1.0, 1.15, 1.3].contains(s.textScale)
+                            ? s.textScale
+                            : 1.0,
+                        isExpanded: true,
+                        items: const [
+                          DropdownMenuItem(value: 0.9, child: Text('Kecil')),
+                          DropdownMenuItem(value: 1.0, child: Text('Normal')),
+                          DropdownMenuItem(value: 1.15, child: Text('Besar')),
+                          DropdownMenuItem(
+                              value: 1.3, child: Text('Sangat besar')),
                         ],
-                        selected: {s.textScale},
-                        onSelectionChanged: (v) =>
-                            n.update((x) => x.copyWith(textScale: v.first)),
+                        onChanged: (v) {
+                          if (v != null) {
+                            n.update((x) => x.copyWith(textScale: v));
+                          }
+                        },
                       ),
                       const SizedBox(height: Sp.x3),
                       Container(

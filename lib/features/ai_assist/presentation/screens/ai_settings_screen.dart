@@ -17,7 +17,21 @@ class AiSettingsScreen extends ConsumerStatefulWidget {
 
 class _AiSettingsScreenState extends ConsumerState<AiSettingsScreen> {
   static const AiProvider _provider = AiProvider.gemini;
-  late final TextEditingController _modelCtl;
+  static const String _defaultModel = 'gemini-3.5-flash-lite';
+  static const List<({String id, String label})> _geminiModels = [
+    (
+      id: 'gemini-3.5-flash-lite',
+      label: 'gemini-3.5-flash-lite (Rekomendasi · 500/hari)'
+    ),
+    (id: 'gemini-3.1-flash-lite', label: 'gemini-3.1-flash-lite (500/hari)'),
+    (id: 'gemini-2.5-flash-lite', label: 'gemini-2.5-flash-lite (20/hari)'),
+    (id: 'gemini-2.5-flash', label: 'gemini-2.5-flash (20/hari)'),
+    (id: 'gemini-3-flash', label: 'gemini-3-flash (20/hari)'),
+    (id: 'gemini-3.6-flash', label: 'gemini-3.6-flash (20/hari)'),
+    (id: 'gemini-3.8-flash', label: 'gemini-3.8-flash (20/hari)'),
+  ];
+
+  late String _selectedModel;
   final TextEditingController _keyCtl = TextEditingController();
   bool _obscure = true;
   bool _testing = false;
@@ -25,14 +39,14 @@ class _AiSettingsScreenState extends ConsumerState<AiSettingsScreen> {
   @override
   void initState() {
     super.initState();
-    final s = ref.read(settingsProvider);
-    _modelCtl = TextEditingController(text: s.aiModel);
+    final saved = ref.read(settingsProvider).aiModel.trim();
+    final known = _geminiModels.any((m) => m.id == saved);
+    _selectedModel = known ? saved : _defaultModel;
     _loadKey();
   }
 
   @override
   void dispose() {
-    _modelCtl.dispose();
     _keyCtl.dispose();
     super.dispose();
   }
@@ -55,7 +69,7 @@ class _AiSettingsScreenState extends ConsumerState<AiSettingsScreen> {
     await ref.read(settingsProvider.notifier).update(
           (s) => s.copyWith(
             aiProvider: _provider,
-            aiModel: _modelCtl.text.trim(),
+            aiModel: _selectedModel,
           ),
         );
     if (mounted) {
@@ -77,7 +91,7 @@ class _AiSettingsScreenState extends ConsumerState<AiSettingsScreen> {
     try {
       await AiClient().stream(
         provider: _provider,
-        model: _modelCtl.text.trim(),
+        model: _selectedModel,
         apiKey: key,
         system: 'Jawab singkat.',
         messages: const [AiMessage('user', 'Balas dengan satu kata: OK')],
@@ -131,11 +145,19 @@ class _AiSettingsScreenState extends ConsumerState<AiSettingsScreen> {
               children: [
                 Text('Model (Gemini)', style: AppText.bodyStrong),
                 const SizedBox(height: Sp.x2),
-                TextField(
-                  controller: _modelCtl,
-                  decoration: InputDecoration(
-                    hintText: kDefaultModels[_provider],
-                  ),
+                DropdownButtonFormField<String>(
+                  value: _selectedModel,
+                  isExpanded: true,
+                  items: [
+                    for (final m in _geminiModels)
+                      DropdownMenuItem(
+                        value: m.id,
+                        child: Text(m.label, overflow: TextOverflow.ellipsis),
+                      ),
+                  ],
+                  onChanged: (v) {
+                    if (v != null) setState(() => _selectedModel = v);
+                  },
                 ),
                 const SizedBox(height: Sp.x4),
                 Text('API key', style: AppText.bodyStrong),

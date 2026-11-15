@@ -620,7 +620,7 @@ class _MondaishuuExerciseScreenState
                       const SizedBox(height: Sp.x2),
                       SizedBox(
                         width: double.infinity,
-                        child: FilledButton.tonal(
+                        child: OutlinedButton(
                           onPressed: hasInput ? () => _check(ex) : null,
                           child: const Text('Periksa lagi'),
                         ),
@@ -646,7 +646,7 @@ class _MondaishuuExerciseScreenState
                               }
                             },
                             child: Text(nextEx != null
-                                ? 'Latihan berikutnya'
+                                ? 'Berikutnya'
                                 : 'Lihat ringkasan'),
                           ),
                         ),
